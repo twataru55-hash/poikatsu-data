@@ -148,5 +148,149 @@
     ],
     "source": "dpoint-campaign",
     "title": "あまいけ対象3店でdポイント5倍"
+  },
+  {
+    "id": "cp-7f60ed4b3d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V11 改悪・制度変更は自動公開しない"
+    ],
+    "source": "paypay-event",
+    "title": "12〜18歳のチャージ＆支払い還元が9月30日終了"
+  },
+  {
+    "id": "cp-a31599837e",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "シンプル3契約者のPayPay利用でギガ増量"
+  },
+  {
+    "id": "cp-cbe7f83821",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "PayPay新規登録・紹介コードと対象決済で300pt"
+  },
+  {
+    "id": "cp-c89d7c8c44",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "ペイトクの新規受付終了・キャンペーン適用条件"
+  },
+  {
+    "id": "cp-0c1ef9a13c",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string' / period/start: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "PayPayステップ・前月の利用条件達成特典"
+  },
+  {
+    "id": "cp-d9b4e22d5f",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string' / period/start: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "12〜15歳向けPayPayステップ条件緩和"
+  },
+  {
+    "id": "cp-fae3bfd081",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string' / period/start: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "16〜18歳向けPayPayステップ条件緩和"
+  },
+  {
+    "id": "cp-f825e8824b",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "PayPayカードゴールド0.5％上乗せ特典廃止"
+  },
+  {
+    "id": "cp-968df08ee4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "伝丸・壱鵠堂・威風・天下一でdポイント10倍"
+  },
+  {
+    "id": "cp-228e84d5ff",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "キリン堂のd払い秋の大抽選会"
+  },
+  {
+    "id": "cp-a01f624486",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "スギ薬局グループでグーン購入・d払い最大＋30％"
+  },
+  {
+    "id": "cp-7b2eeddf62",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ジョイフル本田・ホームジョイ本田でdポイント5倍"
+  },
+  {
+    "id": "cp-cd4e67f53d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（50%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "Coke ON Payでd払い初回購入＋50％"
+  },
+  {
+    "id": "cp-d83745bc89",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "新潟県JA-SSのd払いで最大1万pt抽選"
   }
 ]

@@ -79,5 +79,51 @@
     "reasons": [
       "V12 公式で確認できていない（unconfirmed）"
     ]
+  },
+  "cp-7f60ed4b3d": {
+    "issue": 12,
+    "created": "2026-09-26",
+    "reasons": [
+      "V11 改悪・制度変更は自動公開しない"
+    ]
+  },
+  "cp-968df08ee4": {
+    "issue": 13,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-228e84d5ff": {
+    "issue": 14,
+    "created": "2026-09-26",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-a01f624486": {
+    "issue": 15,
+    "created": "2026-09-26",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-cd4e67f53d": {
+    "issue": 16,
+    "created": "2026-09-26",
+    "reasons": [
+      "V10 還元率が大きい（50%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-d83745bc89": {
+    "issue": 17,
+    "created": "2026-09-26",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
   }
 }

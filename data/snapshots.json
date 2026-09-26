@@ -78,5 +78,70 @@
     "hash": "734e91e2a1ac08d4bc03a615c889e13a036be1cbaa45c027d4d082dab09587ba",
     "fetched_at": "2026-09-26T20:51:22+09:00",
     "chars": 3292
+  },
+  "paypay-event--dfd7160e": {
+    "hash": "7a2a0974473127773e55b0734867572244bc82067903388a416473f9aeb423c3",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 9340
+  },
+  "paypay-event--b0cb953a": {
+    "hash": "44abeb5d66098c86d440e450acdd4797b48741ad2e656d665ad507332b090037",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 7473
+  },
+  "paypay-event--32a4be5b": {
+    "hash": "1f046151fe561bae6e4e59bca35261e732dfbaf5af5dd9655d963ee0f569fcb7",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 15009
+  },
+  "paypay-event--5cdd6981": {
+    "hash": "901ac7263188f621027565b13bdab06cf8d39b16a7bfc7f1ef1095b74f8857c2",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 22415
+  },
+  "paypay-event--2238d6a6": {
+    "hash": "9bc250ea81e9a718c57cba7e24fa37d52a94f6f877709357f031213138b9da48",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 14207
+  },
+  "paypay-event--d1560b91": {
+    "hash": "a5a5e399f2a51da5163f3afd42d40059e3ffdd10a90ebb7dc2c0ab7149b78f20",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 8425
+  },
+  "paypay-event--f383cc04": {
+    "hash": "5230e6f0079f213e7449b91a3b3823e0d4dc476d08614526f04a3b1454ace0f1",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 28690
+  },
+  "dpoint-campaign--903bd437": {
+    "hash": "aebd5cfe6807114992e68400afc25afcbd74651e3ff094a275b4ecdea1e8b888",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 3970
+  },
+  "dbarai-campaign--4d579229": {
+    "hash": "2df21df210613ac16059712626f0d040e67ccbeab5c95d07705fd5d4f7ed2bac",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 3307
+  },
+  "dbarai-campaign--811ea050": {
+    "hash": "07282be7d0386062859b52d90e4a95aa02e8e6baf44d288ae77dc2828e89b21f",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 10911
+  },
+  "dbarai-campaign--9891e1b8": {
+    "hash": "50bb6fdfff01b5163ee82c95af8c67701d88d73bfb05b6299061da9dd96a2ed7",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 4594
+  },
+  "dbarai-campaign--e747d422": {
+    "hash": "c0848052ea28076b8eb94fc3965bc6cf5f54c3ca53248ca830ae66dd0127a527",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 4706
+  },
+  "dbarai-campaign--210af853": {
+    "hash": "6a479805d8c61096533d1d7bbd0575359166fc34e31283ee076ccf1f9b7bbbab",
+    "fetched_at": "2026-09-26T22:19:31+09:00",
+    "chars": 4470
   }
 }
