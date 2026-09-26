@@ -47,3 +47,4 @@ PYTHONPATH=scripts python scripts/check_master.py
 - 2026-09-26 Claude：初版
 - 2026-09-26 Claude：PC抽出方式（ChatGPT デスクトップのスケジュール）に対応。prepare / check_answers / ingest / watchdog を追加
 - 2026-09-26 Codex：PC抽出の無人実行に向け、PC側にポイ活専用のコマンド許可ルールを追加（抽出・配信の実装と設定は変更なし）。
+- 2026-09-26 Codex：オーナー承認により、スマホ表示確認のためWordPressの確認ページ（ID92）のCocoonページタイプを「本文のみ（広い）」、タイトル非表示に変更。
