@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "ザバス購入で1,000円分が1,000名に当たる",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で1,000円分",
+        "cap_per_use": 1000,
+        "cap_total": 1000,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-16T00:00:00+09:00",
+        "end": "2026-10-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象ザバス1会計1,000円以上。購買情報利用への同意が必要。当選は1人1回。",
+      "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
+      "evidence_quote": "ザバス対象商品を1,000円（税込）以上PayPayで支払うと、抽選で1,000名様にPayPayポイント1,000円分が当たる！！ 期間：2026.9.16〜10.15。",
+      "confidence": "confirmed"
+    }
+  ]
+}
+

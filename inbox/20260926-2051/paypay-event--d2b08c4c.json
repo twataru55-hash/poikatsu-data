@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point",
+        "paypay-card"
+      ],
+      "title": "ペイトク2の買い物特典（最大＋10％）",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "ゴールド連携＋10％、他＋5％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ペイトク2と回線連携。ゴールド連携は月上限4,000円、他は3,000円。ゴールド年会費11,000円。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20260602/",
+      "evidence_quote": "アプリとカードを連携※1した翌月から＋10％ずーっともらえる！※2上限4,000円相当／月お支払いはPayPayカード ゴールドもOK！PayPayカード ゴールドがなくても、PayPayカード・PayPayアプリでの買い物でも＋5％※2もらえる！上限3,000円相当／月",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

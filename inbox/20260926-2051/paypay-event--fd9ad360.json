@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "対象銀行の初登録・チャージ・支払いで最大500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で最大500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T00:00:00+09:00",
+        "end": "2026-09-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象銀行の初登録・本人確認後、1度に8,000円以上チャージし残高で1回1,000円以上支払う。",
+      "official_url": "https://paypay.ne.jp/event/bank-20260803/",
+      "evidence_quote": "対象銀行をはじめてチャージ用口座登録・チャージ・お支払いで最大500ポイントもらえるキャンペーン。条件1：はじめて対象銀行をチャージ用口座として登録で200ポイント、条件2：1度に8,000円以上チャージ＆PayPay残高から1回1,000円以上のお支払いで300ポイント。",
+      "confidence": "confirmed"
+    }
+  ]
+}
+

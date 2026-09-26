@@ -1,0 +1,69 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小田急百貨店でdポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5倍（通常1倍＋特典4倍）",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-02T00:00:00+09:00",
+        "end": "2026-09-29T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=e3825641fcb5bf9c76bec7cd0bf214a751af1302ec07e18973fbc7782a5237de"
+      },
+      "conditions": "小田急百貨店の新宿店・町田店・ふじさわ対象店限定。カード提示で1ポイント以上獲得。利用者情報登録要。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889426_PB7749/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7749",
+      "evidence_quote": "期間中にキャンペーンサイトよりエントリーの上、小田急百貨店にてお会計の際にdポイントカードをご提示（1ポイント以上ためる）いただくと、もれなくdポイント5倍（通常ポイント：1倍、キャンペーンポイント：4倍）進呈します。",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小田急百貨店で抽選最大5,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大5,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 5000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-02T00:00:00+09:00",
+        "end": "2026-09-29T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=e3825641fcb5bf9c76bec7cd0bf214a751af1302ec07e18973fbc7782a5237de"
+      },
+      "conditions": "小田急百貨店対象店限定。小田急・dポイント両カード提示で合計25ポイント以上獲得。抽選当選は1人1回。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889426_PB7749/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7749",
+      "evidence_quote": "期間中、お会計時に小田急ポイントカードとdポイントカードの両方をご提示の上、dポイントを合計25ポイント以上ためた方のなかから、抽選で500名さまに最大5,000ポイントを進呈します。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

@@ -1,0 +1,230 @@
+{
+  "run_id": "20260926-2051",
+  "created_at": "2026-09-26T20:51:22+09:00",
+  "items": [
+    {
+      "source_id": "paypay-event--b13b5555",
+      "hash": "85d9c91dcdb5d3bc7a8a51d224b0786321840a72edd3e11eb715fb8c6c5c90cb",
+      "prompt_file": "work/prompts/paypay-event--b13b5555.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--b13b5555.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/retail-meiji-20260916/"
+    },
+    {
+      "source_id": "paypay-event--34cbf1bf",
+      "hash": "f760a123d42f6e8cbe99954f162f239930b1f410f059540686479f06509643fe",
+      "prompt_file": "work/prompts/paypay-event--34cbf1bf.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--34cbf1bf.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/gift-20260914/"
+    },
+    {
+      "source_id": "paypay-event--fd9ad360",
+      "hash": "18a4b30ea4ee76f398f1a310026073adbc104cf82737cd7f31f2d8819d2d5929",
+      "prompt_file": "work/prompts/paypay-event--fd9ad360.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--fd9ad360.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/bank-20260803/"
+    },
+    {
+      "source_id": "paypay-event--c7bade14",
+      "hash": "f5391275325beab2fdefc2b86946cdee8354b8cfec66c2e9a7b2530d0fea32dd",
+      "prompt_file": "work/prompts/paypay-event--c7bade14.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--c7bade14.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/vpoint-exchange-20260801/"
+    },
+    {
+      "source_id": "paypay-event--d2b08c4c",
+      "hash": "e40946000772303af2a033b808cd4518ef905cdb9af341ce3877b97d04999934",
+      "prompt_file": "work/prompts/paypay-event--d2b08c4c.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--d2b08c4c.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/paytoku-20260602/"
+    },
+    {
+      "source_id": "paypay-event--769d6220",
+      "hash": "051c574cb498f8eb43c5626ce9b0c8f839933b8d347411b989b9faf4617784a4",
+      "prompt_file": "work/prompts/paypay-event--769d6220.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--769d6220.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/winticket-20260501/"
+    },
+    {
+      "source_id": "paypay-event--565fc9bd",
+      "hash": "8040833c4d85f9f6dc547802be77cd7abf4be3aaf2067b3bbcfd34be4b20c34c",
+      "prompt_file": "work/prompts/paypay-event--565fc9bd.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--565fc9bd.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/overseas-scratch-20260331/"
+    },
+    {
+      "source_id": "paypay-event--844ea371",
+      "hash": "cbde16e21675474edca40366e09fd559906f65a588185b7932f98a6b0a7449d6",
+      "prompt_file": "work/prompts/paypay-event--844ea371.md",
+      "answer_file": "inbox/20260926-2051/paypay-event--844ea371.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/mizuho-paypay-dome/"
+    },
+    {
+      "source_id": "paypay-local",
+      "hash": "3ee77adc5f2a14140538026b813884d95726912db14a4dcc748d5c38af11dadd",
+      "prompt_file": "work/prompts/paypay-local.md",
+      "answer_file": "inbox/20260926-2051/paypay-local.json"
+    },
+    {
+      "source_id": "dpoint-campaign--a0a7017b",
+      "hash": "62b0f4302430d722657d33135d1e3c19fe6e0cfa9238a6dc3498cfc23fc947c8",
+      "prompt_file": "work/prompts/dpoint-campaign--a0a7017b.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--a0a7017b.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_889424_PB7726/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7726"
+    },
+    {
+      "source_id": "dpoint-campaign--b1689c12",
+      "hash": "8af3a5e105d075a6c33984c25cea60624418f0fd5a0da76477838f275036884f",
+      "prompt_file": "work/prompts/dpoint-campaign--b1689c12.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--b1689c12.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_889802_PB7715/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7715"
+    },
+    {
+      "source_id": "dpoint-campaign--3089826e",
+      "hash": "2aae2690cd0a50ecf485dc3dbf7f39e3c46dbf0acf3130f4bdc6e6721280ca39",
+      "prompt_file": "work/prompts/dpoint-campaign--3089826e.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--3089826e.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_889426_PB7749/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7749"
+    },
+    {
+      "source_id": "dpoint-campaign--0052309f",
+      "hash": "141ab860cfd8789e0ea5fd147c1acb48e5cc81bf3a7e2d9aed90bae46c814837",
+      "prompt_file": "work/prompts/dpoint-campaign--0052309f.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--0052309f.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_897101_PB7807/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7807"
+    },
+    {
+      "source_id": "dpoint-campaign--d53a51dc",
+      "hash": "bfcf12a93a74d8dce82d847160f0343bfa3594e92b34b0a68fe44f06f1182aa7",
+      "prompt_file": "work/prompts/dpoint-campaign--d53a51dc.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--d53a51dc.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7721"
+    },
+    {
+      "source_id": "dpoint-campaign--099c2c8e",
+      "hash": "734e91e2a1ac08d4bc03a615c889e13a036be1cbaa45c027d4d082dab09587ba",
+      "prompt_file": "work/prompts/dpoint-campaign--099c2c8e.md",
+      "answer_file": "inbox/20260926-2051/dpoint-campaign--099c2c8e.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_889404_PB7728/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7728"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "dpoint-campaign--903bd437",
+    "dbarai-campaign--e747d422",
+    "dbarai-campaign--4d579229",
+    "dbarai-campaign--9891e1b8",
+    "dbarai-campaign--811ea050",
+    "dbarai-campaign--98adc542",
+    "dbarai-campaign--210af853",
+    "dbarai-campaign--3b0a03ce",
+    "dbarai-campaign--a0ffda99",
+    "rakuten-pay-campaign--2649908d",
+    "rakuten-pay-campaign--dd245728",
+    "rakuten-pay-campaign--83dea92b",
+    "rakuten-pay-campaign--55e3a7f2",
+    "rakuten-pay-campaign--fbf2bd05",
+    "rakuten-pay-campaign--82dda1b0",
+    "rakuten-pay-campaign--5d51aab0",
+    "rakuten-pay-campaign--fcf77407",
+    "rakuten-pointcard-campaign--6452773e",
+    "rakuten-pointcard-campaign--130105ad",
+    "rakuten-pointcard-campaign--54ea5bf4",
+    "rakuten-pointcard-campaign--5d806832",
+    "rakuten-pointcard-campaign--9d3d63e2",
+    "rakuten-pointcard-campaign--d124277f",
+    "rakuten-pointcard-campaign--8ddc57be",
+    "rakuten-pointcard-campaign--976ff833",
+    "aupay-campaign--3777f625",
+    "aupay-campaign--d1893548",
+    "aupay-campaign--551a6f5b",
+    "aupay-campaign--0c331a3b",
+    "aupay-campaign--0bab481b",
+    "aupay-campaign--6f6c9f77",
+    "aupay-campaign--9201120d",
+    "ponta-campaign",
+    "vpoint-campaign--8e775837",
+    "vpoint-campaign--53bec1ab",
+    "vpoint-campaign--3730d984",
+    "vpoint-campaign--2719a96c",
+    "vpoint-campaign--22d30b9a",
+    "vpoint-campaign--f35c6f58",
+    "vpoint-campaign--1a4dd7fd",
+    "vpoint-campaign--5db6c6dd",
+    "waon-campaign--74850c1c",
+    "waon-campaign--16bc60e2",
+    "waon-campaign--705fa259",
+    "waon-campaign--7c1f74b1",
+    "waon-campaign--c9dec637",
+    "waon-campaign--33fbf0ec",
+    "aeonretail-otoku--3bbc7465",
+    "aeonretail-otoku--c5427ffe",
+    "aeonretail-otoku--219279c2",
+    "aeonretail-otoku--71a7f92c",
+    "aeonretail-otoku--168a2d48",
+    "aeonretail-otoku--3e00c3cf",
+    "aeonretail-otoku--228cfe19",
+    "aeonretail-otoku--8fcfec19"
+  ],
+  "detail_failed": [
+    {
+      "source_id": "aupay-campaign--5e5900b6",
+      "url": "https://aupay-cp.auone.jp/202609_ropping?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_ropping?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609_"
+    },
+    {
+      "source_id": "aupay-campaign--5a3652c6",
+      "url": "https://aupay-cp.auone.jp/202609_fortnite_epic_games?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_fortnite_epic_games?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auon"
+    },
+    {
+      "source_id": "aupay-campaign--7a593cff",
+      "url": "https://aupay-cp.auone.jp/202609_betimo?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_betimo?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609_b"
+    },
+    {
+      "source_id": "aupay-campaign--6e28f09a",
+      "url": "https://aupay-cp.auone.jp/202609_kappasushi?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_kappasushi?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/2026"
+    },
+    {
+      "source_id": "aupay-campaign--2c964c3d",
+      "url": "https://aupay-cp.auone.jp/202609_arka?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_arka?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609_ark"
+    },
+    {
+      "source_id": "aupay-campaign--cfd60680",
+      "url": "https://aupay-cp.auone.jp/202609_ucc?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_ucc?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609_ucc?"
+    },
+    {
+      "source_id": "aupay-campaign--91d74267",
+      "url": "https://aupay-cp.auone.jp/202609_ayahadio?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_ayahadio?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609"
+    }
+  ]
+}

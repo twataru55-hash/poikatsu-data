@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-card",
+        "paypay-point"
+      ],
+      "title": "海外スクラッチくじ（PayPayは韓国・台湾）",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選で最大100％戻ってくる",
+        "cap_per_use": 100000,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-03-31T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "海外実店舗限定。200円以上、本人確認・くじ操作が必要。カードはクレジット設定要。月上限10万pt。",
+      "official_url": "https://paypay.ne.jp/event/overseas-scratch-20260331/",
+      "evidence_quote": "スクラッチくじを削ると、1等当選者には最大で決済金額の全額（100％）、2等当選者には最大で決済金額の5％、3等当選者には最大で決済金額の0.5％のPayPayポイントを付与します。付与上限は10万ポイント／回および月です。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

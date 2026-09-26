@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ビックカメラ・コジマ対象店で＋10％",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "＋10％還元",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-17T00:00:00+09:00",
+        "end": "2026-09-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=6271eabde8fe160380c53df2c4afb6a88d146b61bb5152789998083d53af6f75"
+      },
+      "conditions": "ビックカメラ7店・コジマ21店限定。d払いコードで合計5,000円以上。各社上限2,000ポイント。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897101_PB7807/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7807",
+      "evidence_quote": "期間中エントリーの上、ビックカメラおよびコジマの対象店舗においてd払い（コード決済）で期間中合計5,000円（税込）以上お支払いいただくと、通常還元率に加えキャンペーンポイントとしてお支払い金額の＋10％分のdポイントをプレゼント！\n※進呈上限：ビックカメラ店舗2,000ポイント、コジマ店舗2,000ポイント （おひとりさま最大4,000ポイント）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

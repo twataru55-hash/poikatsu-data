@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "あまいけ対象3店でdポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5倍（通常1倍＋特典4倍）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2f07a260a3a9ff588302ee848b36661c7d838dd1a6c96bd1c0ed15c824ddebe8"
+      },
+      "conditions": "生鮮あまいけ土浦店・肉のあまいけ君津店・生鮮館世界市新座店限定。カード提示で1ポイント以上獲得。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889404_PB7728/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7728",
+      "evidence_quote": "クオリティー・ミートあまいけ 生鮮あまいけ 生鮮館世界市 dポイント 期間中に対象店舗にてdポイントカードをご提示の上dポイントを1ポイント以上ためた方にdポイント（期間・用途限定）5倍進呈 要エントリー キャンペーン期間：2026年9月1日（火）～9月30日（水）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

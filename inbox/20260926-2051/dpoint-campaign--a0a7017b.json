@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "メガネの愛眼・SYZで500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "500ポイント（1人1回）",
+        "cap_per_use": 500,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=e6b7beca562321e7ed604f396287da0db67f68f1e4aca810373f7c47f1d2aca5"
+      },
+      "conditions": "メガネの愛眼・SYZ等の対象店舗限定。カード提示で1会計5,500円以上購入。利用者情報登録要。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889424_PB7726/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7726",
+      "evidence_quote": "Aigan GLASSES SHOP SYZ si:ds dポイント メガネの愛眼・SYZ 対象店舗にてdポイントカード提示の上1回のお会計が5,500円（税込）以上のお買物でdポイント500ポイントもらえる ※ポイントプレゼントはお一人さま1回限り 要エントリー キャンペーン期間 2026年9月1日（火）～2026年9月30日（水）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

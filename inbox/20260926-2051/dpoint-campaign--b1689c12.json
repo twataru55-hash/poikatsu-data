@@ -1,0 +1,69 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパークの木曜3倍・日曜5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "木曜3倍・日曜5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5d3dbdba4dacd9eb195b638068e937f7b062a77640034ac45feb7177b26789e5"
+      },
+      "conditions": "ウェルパーク対象店限定。9月の木曜・日曜にカード提示で1ポイント以上獲得。タバコ・処方箋対象外。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889802_PB7715/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7715",
+      "evidence_quote": "・対象日：9月3日（木）、10日（木）、17日（木）、24日（木）\n・進呈ポイント：通常ポイント1倍分＋キャンペーンポイント2倍分\n＜もれなく5倍＞\n・対象日：9月6日（日）、13日（日）、20日（日）、27日（日）\n・進呈ポイント：通常ポイント1倍分＋キャンペーンポイント4倍分\n※進呈上限：期間中お一人さま800ポイント",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパークの土曜ポイント利用10％還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "利用ポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ウェルパーク対象店の9月土曜限定。カード提示で200ポイント以上利用。1日上限1,000ポイント。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889802_PB7715/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7715",
+      "evidence_quote": "＜もれなく10％還元＞\n・対象日：9月5日（土）、12日（土）、19日（土）、26日（土）\n・還元ポイント：ご利用いただいたdポイント数の10％相当分\n・進呈上限：1日あたりお一人さま1,000ポイント\n※エントリー不要",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+
