@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai"
+      ],
+      "title": "キリン堂のd払い秋の大抽選会",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大50,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 50000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=35baa426c721be49a629ad797b276416d056cfb4594a472127e74bcf8cf22c4f"
+      },
+      "conditions": "キリン堂対象店のみ。d払いコードで1決済3千円以上、抽選1口。調剤のみ店舗・他社カード等対象外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_kirindo_260901_7718/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7718",
+      "evidence_quote": "キャンペーン期間：2026年9月1日（火）午前0：00～2026年9月30日（水）午後11：59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

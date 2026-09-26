@@ -1,0 +1,135 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-card"
+      ],
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "条件達成で最大1.5％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "official_url": "https://paypay.ne.jp/event/paypaystep/",
+      "confidence": "unconfirmed",
+      "title": "PayPayステップ・前月の利用条件達成特典",
+      "conditions": "本人確認要。前月200円以上30回かつ計10万円。クレジット等最大1.5％、残高最大1％",
+      "evidence_quote": "毎月の支払い状況に合わせて最大1.5％戻ってくる！※1 基本付与分※2 0.5〜1.0％＋条件達成特典0.5％ 最大1.5％"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-card"
+      ],
+      "benefit": {
+        "rate_max": 1,
+        "rate_text": "条件達成で残高払い1％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "official_url": "https://paypay.ne.jp/event/paypaystep/",
+      "confidence": "unconfirmed",
+      "title": "12〜15歳向けPayPayステップ条件緩和",
+      "conditions": "本人確認済12〜15歳。前月200円以上10回かつ計3千円。4月1日からカウント開始",
+      "evidence_quote": "2026/4/1の支払いからカウント開始\n〜終了日未定"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-card"
+      ],
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "条件達成で最大1.5％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "official_url": "https://paypay.ne.jp/event/paypaystep/",
+      "confidence": "unconfirmed",
+      "title": "16〜18歳向けPayPayステップ条件緩和",
+      "conditions": "本人確認済16〜18歳。前月200円以上20回かつ計8千円。クレジットは18歳対象",
+      "evidence_quote": "2026/4/1の支払いからカウント開始\n〜終了日未定"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "paypay-card"
+      ],
+      "benefit": {
+        "rate_max": 0.5,
+        "rate_text": "0.5％上乗せ廃止・既存会員は移行措置",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-02T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "official_url": "https://paypay.ne.jp/event/paypaystep/",
+      "confidence": "unconfirmed",
+      "title": "PayPayカードゴールド0.5％上乗せ特典廃止",
+      "conditions": "5月31日までの入会・クレジット利用設定済会員は年会費支払い予定月に応じ移行措置",
+      "evidence_quote": "2026年6月2日以降、PayPayカード ゴールド特典+0.5％が廃止されます。"
+    }
+  ]
+}

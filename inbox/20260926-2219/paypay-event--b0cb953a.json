@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "シンプル3契約者のPayPay利用でギガ増量",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "買い物回数に応じ最大10GB",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-11-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "本人確認・シンプル3契約・連携要。200円以上の対象決済10・20・30回。特典受取手続き要",
+      "official_url": "https://paypay.ne.jp/event/ymobile-giga-20251101/",
+      "evidence_quote": "2025/11/1（土）〜 終了日未定",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

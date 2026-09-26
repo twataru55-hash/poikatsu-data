@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "伝丸・壱鵠堂・威風・天下一でdポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=20271df4feb2556c67e472a19a76ccb977b7333eb536a6932d6abbaee9f55eb1"
+      },
+      "conditions": "伝丸・壱鵠堂・威風・天下一の対象店のみ。dポイントカード提示で200円以上・1pt以上獲得。利用者登録要",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_891713_PB7764/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7764",
+      "evidence_quote": "2026年9月1日（火）午前0：00～2026年9月30日（水）午後11：59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

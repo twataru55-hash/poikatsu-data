@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai"
+      ],
+      "title": "スギ薬局グループでグーン購入・d払い最大＋30％",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "累計6千円で最大＋20％・8千円で最大＋30％",
+        "cap_per_use": null,
+        "cap_total": 2500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "スギ薬局・スギドラッグ・ジャパン・ドラッグスギ対象店のみ。グーン対象商品をd払いコード提示で購入",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/daiouseishi_goon_2609_MI0177/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_daiou-sugi_202609&utm_content=dpaytop_cpsmlbnr",
+      "evidence_quote": "2026年9月1日（火）～2026年10月31日（土）\n※開始時間、終了時間については対象店舗の営業時間に準じます。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

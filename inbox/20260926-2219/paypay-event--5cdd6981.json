@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "PayPay新規登録・紹介コードと対象決済で300pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "最大300ポイント・1回のみ",
+        "cap_per_use": 300,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2024-06-05T09:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "新規登録60日以内にアプリで紹介コード登録と1回千円以上の対象決済。一部加盟店対象外",
+      "official_url": "https://paypay.ne.jp/event/referral/",
+      "evidence_quote": "2024年6月5日（水）9:00～終了日未定",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

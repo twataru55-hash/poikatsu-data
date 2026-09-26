@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "change",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "ペイトクの新規受付終了・キャンペーン適用条件",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大3カ月＋10％・新規受付終了",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2024-02-14T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "2026年6月1日までの初回ペイトク適用・連携・本人確認要。無制限は月4千円相当上限",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20240214/",
+      "evidence_quote": "キャンペーン期間：2024年2月14日～終了日は後日お知らせします。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

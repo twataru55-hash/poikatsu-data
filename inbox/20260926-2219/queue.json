@@ -1,0 +1,189 @@
+{
+  "run_id": "20260926-2219",
+  "created_at": "2026-09-26T22:19:31+09:00",
+  "items": [
+    {
+      "source_id": "paypay-event--b1aa8b60",
+      "hash": "8c1cd4b7ff7e5a131de2df1f719c4e53ccd2d14e0508b61f55366156fb111de4",
+      "prompt_file": "work/prompts/paypay-event--b1aa8b60.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--b1aa8b60.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/youth-20260303/"
+    },
+    {
+      "source_id": "paypay-event--dfd7160e",
+      "hash": "7a2a0974473127773e55b0734867572244bc82067903388a416473f9aeb423c3",
+      "prompt_file": "work/prompts/paypay-event--dfd7160e.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--dfd7160e.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/charge-pay-youth-20260303/"
+    },
+    {
+      "source_id": "paypay-event--b0cb953a",
+      "hash": "44abeb5d66098c86d440e450acdd4797b48741ad2e656d665ad507332b090037",
+      "prompt_file": "work/prompts/paypay-event--b0cb953a.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--b0cb953a.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/ymobile-giga-20251101/"
+    },
+    {
+      "source_id": "paypay-event--32a4be5b",
+      "hash": "1f046151fe561bae6e4e59bca35261e732dfbaf5af5dd9655d963ee0f569fcb7",
+      "prompt_file": "work/prompts/paypay-event--32a4be5b.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--32a4be5b.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/send-20241219/"
+    },
+    {
+      "source_id": "paypay-event--5cdd6981",
+      "hash": "901ac7263188f621027565b13bdab06cf8d39b16a7bfc7f1ef1095b74f8857c2",
+      "prompt_file": "work/prompts/paypay-event--5cdd6981.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--5cdd6981.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/referral/"
+    },
+    {
+      "source_id": "paypay-event--2238d6a6",
+      "hash": "9bc250ea81e9a718c57cba7e24fa37d52a94f6f877709357f031213138b9da48",
+      "prompt_file": "work/prompts/paypay-event--2238d6a6.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--2238d6a6.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/paytoku-20240214/"
+    },
+    {
+      "source_id": "paypay-event--d1560b91",
+      "hash": "a5a5e399f2a51da5163f3afd42d40059e3ffdd10a90ebb7dc2c0ab7149b78f20",
+      "prompt_file": "work/prompts/paypay-event--d1560b91.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--d1560b91.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/investment-20230904/"
+    },
+    {
+      "source_id": "paypay-event--f383cc04",
+      "hash": "5230e6f0079f213e7449b91a3b3823e0d4dc476d08614526f04a3b1454ace0f1",
+      "prompt_file": "work/prompts/paypay-event--f383cc04.md",
+      "answer_file": "inbox/20260926-2219/paypay-event--f383cc04.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/paypaystep/"
+    },
+    {
+      "source_id": "paypay-local",
+      "hash": "3ee77adc5f2a14140538026b813884d95726912db14a4dcc748d5c38af11dadd",
+      "prompt_file": "work/prompts/paypay-local.md",
+      "answer_file": "inbox/20260926-2219/paypay-local.json"
+    },
+    {
+      "source_id": "dpoint-campaign--903bd437",
+      "hash": "aebd5cfe6807114992e68400afc25afcbd74651e3ff094a275b4ecdea1e8b888",
+      "prompt_file": "work/prompts/dpoint-campaign--903bd437.md",
+      "answer_file": "inbox/20260926-2219/dpoint-campaign--903bd437.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_891713_PB7764/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7764"
+    },
+    {
+      "source_id": "dbarai-campaign--4d579229",
+      "hash": "2df21df210613ac16059712626f0d040e67ccbeab5c95d07705fd5d4f7ed2bac",
+      "prompt_file": "work/prompts/dbarai-campaign--4d579229.md",
+      "answer_file": "inbox/20260926-2219/dbarai-campaign--4d579229.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_kirindo_260901_7718/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7718"
+    },
+    {
+      "source_id": "dbarai-campaign--811ea050",
+      "hash": "07282be7d0386062859b52d90e4a95aa02e8e6baf44d288ae77dc2828e89b21f",
+      "prompt_file": "work/prompts/dbarai-campaign--811ea050.md",
+      "answer_file": "inbox/20260926-2219/dbarai-campaign--811ea050.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/daiouseishi_goon_2609_MI0177/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_daiou-sugi_202609&utm_content=dpaytop_cpsmlbnr"
+    },
+    {
+      "source_id": "dbarai-campaign--9891e1b8",
+      "hash": "50bb6fdfff01b5163ee82c95af8c67701d88d73bfb05b6299061da9dd96a2ed7",
+      "prompt_file": "work/prompts/dbarai-campaign--9891e1b8.md",
+      "answer_file": "inbox/20260926-2219/dbarai-campaign--9891e1b8.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_joyfulhonda_250401_6223/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202504_6223&utm_content=a"
+    },
+    {
+      "source_id": "dbarai-campaign--e747d422",
+      "hash": "c0848052ea28076b8eb94fc3965bc6cf5f54c3ca53248ca830ae66dd0127a527",
+      "prompt_file": "work/prompts/dbarai-campaign--e747d422.md",
+      "answer_file": "inbox/20260926-2219/dbarai-campaign--e747d422.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_coke-on_260901_7748/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_coke-on_202609&utm_content=cplist_smlbnr"
+    },
+    {
+      "source_id": "dbarai-campaign--210af853",
+      "hash": "6a479805d8c61096533d1d7bbd0575359166fc34e31283ee076ccf1f9b7bbbab",
+      "prompt_file": "work/prompts/dbarai-campaign--210af853.md",
+      "answer_file": "inbox/20260926-2219/dbarai-campaign--210af853.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_ja-ss_260901_7699/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7699&utm_content=a"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "dbarai-campaign--3b0a03ce",
+    "dbarai-campaign--98adc542",
+    "dbarai-campaign--493022f1",
+    "rakuten-pay-campaign--2649908d",
+    "rakuten-pay-campaign--dd245728",
+    "rakuten-pay-campaign--83dea92b",
+    "rakuten-pay-campaign--55e3a7f2",
+    "rakuten-pay-campaign--fbf2bd05",
+    "rakuten-pay-campaign--82dda1b0",
+    "rakuten-pay-campaign--5d51aab0",
+    "rakuten-pay-campaign--fcf77407",
+    "rakuten-pointcard-campaign--6452773e",
+    "rakuten-pointcard-campaign--130105ad",
+    "rakuten-pointcard-campaign--54ea5bf4",
+    "rakuten-pointcard-campaign--5d806832",
+    "rakuten-pointcard-campaign--9d3d63e2",
+    "rakuten-pointcard-campaign--d124277f",
+    "rakuten-pointcard-campaign--8ddc57be",
+    "rakuten-pointcard-campaign--976ff833",
+    "aupay-campaign--3777f625",
+    "aupay-campaign--5e5900b6",
+    "aupay-campaign--5a3652c6",
+    "aupay-campaign--d1893548",
+    "aupay-campaign--551a6f5b",
+    "aupay-campaign--7a593cff",
+    "aupay-campaign--6e28f09a",
+    "aupay-campaign--2c964c3d",
+    "ponta-campaign",
+    "vpoint-campaign--8e775837",
+    "vpoint-campaign--53bec1ab",
+    "vpoint-campaign--3730d984",
+    "vpoint-campaign--2719a96c",
+    "vpoint-campaign--22d30b9a",
+    "vpoint-campaign--f35c6f58",
+    "vpoint-campaign--1a4dd7fd",
+    "vpoint-campaign--5db6c6dd",
+    "waon-campaign--74850c1c",
+    "waon-campaign--16bc60e2",
+    "waon-campaign--705fa259",
+    "waon-campaign--7c1f74b1",
+    "waon-campaign--c9dec637",
+    "waon-campaign--33fbf0ec",
+    "aeonretail-otoku--3bbc7465",
+    "aeonretail-otoku--c5427ffe",
+    "aeonretail-otoku--219279c2",
+    "aeonretail-otoku--71a7f92c",
+    "aeonretail-otoku--168a2d48",
+    "aeonretail-otoku--3e00c3cf",
+    "aeonretail-otoku--228cfe19",
+    "aeonretail-otoku--8fcfec19"
+  ],
+  "detail_failed": []
+}
