@@ -46,3 +46,4 @@ PYTHONPATH=scripts python scripts/check_master.py
 ## 変更履歴
 - 2026-09-26 Claude：初版
 - 2026-09-26 Claude：PC抽出方式（ChatGPT デスクトップのスケジュール）に対応。prepare / check_answers / ingest / watchdog を追加
+- 2026-09-26 Codex：PC抽出の無人実行に向け、PC側にポイ活専用のコマンド許可ルールを追加（抽出・配信の実装と設定は変更なし）。
