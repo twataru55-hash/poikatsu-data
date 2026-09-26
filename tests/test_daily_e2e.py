@@ -6,6 +6,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import yaml
+
 REPO = Path(__file__).resolve().parent.parent
 
 DRIVER = r'''
@@ -61,8 +63,11 @@ def test_daily_end_to_end(tmp_path):
         (repo / p).write_text("{}", encoding="utf-8")
     (repo / "reports" / "runs.jsonl").unlink(missing_ok=True)
     srcs = repo / "config" / "sources.yaml"
-    import re as _re
-    srcs.write_text(_re.sub(r"\n  follow:.*?\n    max_new: \d+", "", srcs.read_text(encoding="utf-8"), flags=_re.S), encoding="utf-8")
+    # この試験は一覧本文を使う。follow内にrender等があっても設定ブロック全体を外す。
+    sources = yaml.safe_load(srcs.read_text(encoding="utf-8"))
+    for source in sources:
+        source.pop("follow", None)
+    srcs.write_text(yaml.safe_dump(sources, allow_unicode=True, sort_keys=False), encoding="utf-8")
     cfg = repo / "config" / "pipeline.yaml"
     cfg.write_text(cfg.read_text(encoding="utf-8").replace("provider: manual", "provider: anthropic"), encoding="utf-8")
     (repo / "driver.py").write_text(DRIVER, encoding="utf-8")

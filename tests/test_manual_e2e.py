@@ -7,6 +7,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import yaml
+
 REPO = Path(__file__).resolve().parent.parent
 
 FAKE = r'''
@@ -55,7 +57,7 @@ for item in q["items"]:
             period={"start": "2026-10-01T00:00:00+09:00", "end": "2026-10-20T23:59:59+09:00"},
             entry={"required": True, "url": "https://paypay.ne.jp/entry/test/"},
             official_url=item["url"], evidence_quote="コンビニで最大10%戻ってくるキャンペーン")]}
-    elif item["source_id"] == "dpoint-campaign":
+    elif item["source_id"] == "ponta-campaign":
         ans = {"campaigns": []}
     else:
         continue  # 回答しない（次回に再依頼されるはず）
@@ -92,15 +94,21 @@ def test_manual_flow(tmp_path):
     (repo / "reports" / "runs.jsonl").unlink(missing_ok=True)
     shutil.rmtree(repo / "data" / "inbox_done", ignore_errors=True)
 
-    # 1) PC：依頼を作る。詳細ページをたどる3取得元は一覧を依頼せず、見つかった詳細ページだけ依頼する
+    sources = yaml.safe_load((repo / "config/sources.yaml").read_text(encoding="utf-8"))
+    enabled = [s for s in sources if s.get("enabled", True)]
+    followed = {s["id"] for s in enabled if s.get("follow")}
+    listed = {s["id"] for s in enabled if not s.get("follow")}
+
+    # 1) PC：follow設定の取得元は一覧を依頼せず、見つかった詳細ページだけ依頼する。
     prep = json.loads(run(repo, PREPARE))
     assert prep["ok"]
     queue = read(repo, f"inbox/{prep['run_id']}/queue.json")
     ids = [i["source_id"] for i in queue["items"]]
     details = [i for i in queue["items"] if i.get("parent") == "paypay-event"]
     assert len(details) == 1 and details[0]["url"] == "https://paypay.ne.jp/event/test-20261001/"  # きせかえは除外
-    assert "paypay-event" not in ids and "vpoint-campaign" not in ids and "waon-campaign" not in ids
-    assert len(ids) == 10  # 一覧をそのまま依頼する9取得元 ＋ 詳細ページ1件
+    assert not followed.intersection(ids)
+    assert set(ids) == listed | {details[0]["source_id"]}
+    assert len(ids) == len(set(ids))  # 重複した依頼を作らない
     prompt = (repo / details[0]["prompt_file"]).read_text(encoding="utf-8")
     assert "エントリーする：https://paypay.ne.jp/entry/test/" in prompt
     assert read(repo, "data/snapshots.json") == {}  # PC側はスナップショットを触らない
@@ -113,21 +121,24 @@ def test_manual_flow(tmp_path):
     res = json.loads(chk.stdout)
     assert chk.returncode == 0, res
     assert len(res["answered"]) == 3
+    answered_ids = {"paypay-local", "ponta-campaign", details[0]["source_id"]}
+    unanswered_ids = set(ids) - answered_ids
 
     # 3) GitHub：取り込み
     ing = json.loads(run(repo, INGEST))
     assert ing["ok"] and ing["mode"] == "ingest"
-    assert ing["accepted_new"] == 2 and ing["llm_calls"] == 3 and ing["llm_skipped"] == 7
+    assert ing["accepted_new"] == 2 and ing["llm_calls"] == 3 and ing["llm_skipped"] == len(unanswered_ids)
     snaps = read(repo, "data/snapshots.json")
-    assert set(snaps) == {"paypay-local", "dpoint-campaign", details[0]["source_id"]}
+    assert set(snaps) == answered_ids
     assert (repo / "data" / "inbox_done" / prep["run_id"] / "queue.json").exists()
     bundle = read(repo, "dist/staging/poikatsu.json")
     by_title = {c["title"]: c for c in bundle["campaigns"]}
     assert by_title["コンビニで最大10%戻ってくる"]["entry"]["url"] == "https://paypay.ne.jp/entry/test/"
     assert "対象のお店で最大5%戻ってくる" in by_title
 
-    # 4) 次の朝：取り込み済みの詳細ページは再依頼しない。回答しなかった7ページは再依頼される
+    # 4) 次の朝：回答済み（空回答も含む）は再依頼せず、未回答ページだけを再依頼する。
     prep2 = json.loads(run(repo, PREPARE))
     q2 = read(repo, f"inbox/{prep2['run_id']}/queue.json")
     ids2 = [i["source_id"] for i in q2["items"]]
-    assert len(ids2) == 7 and details[0]["source_id"] not in ids2 and "paypay-local" not in ids2
+    assert set(ids2) == unanswered_ids
+    assert len(ids2) == len(unanswered_ids)
