@@ -67,9 +67,12 @@ def make_bundle(campaigns: list[dict], master: dict, config: dict, channel: str)
         for s in master["stores"]
     ]
     for s in stores:
-        # 使える決済は、支払い方法ページで機械確認できたときだけ配信する
-        if (s.get("accepted_source") or {}).get("verified") is not True:
+        # 使える決済は、支払い方法ページで機械確認できたブランドだけ配信する
+        src = s.get("accepted_source") or {}
+        if src.get("verified") is not True:
             s["accepted_brand_ids"] = []
+        elif "verified_brand_ids" in src:
+            s["accepted_brand_ids"] = [b for b in s["accepted_brand_ids"] if b in src["verified_brand_ids"]]
         s.pop("accepted_source", None)
         s.pop("domains", None)
     recurring = [
@@ -165,6 +168,9 @@ def build() -> dict:
 
 
 if __name__ == "__main__":
+    from common import setup_utf8_stdout
+
+    setup_utf8_stdout()
     res = build()
     print(json.dumps(res, ensure_ascii=False))
     sys.exit(1 if res.get("error") else 0)

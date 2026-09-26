@@ -75,6 +75,9 @@ def run(force: bool = False) -> dict:
 
 
 if __name__ == "__main__":
+    from common import setup_utf8_stdout
+
+    setup_utf8_stdout()
     s = run(force="--force" in sys.argv)
     print(json.dumps(s, ensure_ascii=False, indent=2))
     sys.exit(0 if s["ok"] else 1)

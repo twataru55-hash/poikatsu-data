@@ -10,12 +10,14 @@ ChatGPT は依頼文ごとに inbox/<run_id>/<source_id>.json を書く。
 """
 from __future__ import annotations
 
+import hashlib
 import json
+import re
 import sys
 
 from check_master import check_master
-from collect import collect
-from common import ROOT, WORK_DIR, load_config, load_master, load_sources, now_jst, save_json
+from collect import Fetcher, collect, extract_links, html_to_text
+from common import DATA_DIR, ROOT, WORK_DIR, domain_allowed, load_config, load_json, load_master, load_sources, now_jst, save_json, setup_utf8_stdout
 from extract import build_prompt
 
 INBOX = ROOT / "inbox"
@@ -28,6 +30,54 @@ ANSWER_NOTE = """
 - すべての項目を必ず書く（わからない値は null、配列は []）
 - 本文にないことは書かない。evidence_quote は本文からそのまま抜き出す（言い換えると、後の機械チェックで保留になる）
 """
+
+
+LINK_WORDS = ("エントリー", "参加", "応募", "登録", "申し込", "申込", "詳しく", "詳細", "対象店舗", "対象のお店")
+
+
+def link_section(links: list) -> str:
+    """詳細ページのリンクのうち、エントリー先などを探すのに役立つものを本文の後ろに付ける。"""
+    picked = [(t, u) for t, u in links if any(w in t for w in LINK_WORDS)][:20]
+    if not picked:
+        return ""
+    return "\n\n# ページ内のリンク（エントリー先・対象店舗の確認用）\n" + "\n".join(f"- {t}：{u}" for t, u in picked)
+
+
+def detail_source(parent: dict, url: str) -> dict:
+    """一覧ページ（parent）からたどった詳細ページを、取得元として扱える形にする。"""
+    did = f"{parent['id']}--{hashlib.sha1(url.encode('utf-8')).hexdigest()[:8]}"
+    follow = parent.get("follow") or {}
+    return {**parent, "id": did, "url": url, "name": f"{parent['name']}（詳細ページ）",
+            "render": follow.get("render", parent.get("render", "static")), "parent": parent["id"]}
+
+
+def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher) -> tuple[list, list]:
+    """一覧ページのリンクから、まだ処理していない詳細ページを取得する。
+    戻り値：(取得できた [(src, text, digest)], 失敗 [{source_id, url, error}])"""
+    follow = page.source.get("follow") or {}
+    pattern = re.compile(follow["pattern"])
+    domains = set(page.source.get("domains") or [])
+    got, failed = [], []
+    for _label, url in page.links or []:
+        if len(got) >= int(follow.get("max_new", 8)):
+            break
+        if not pattern.search(url) or not domain_allowed(url, domains):
+            continue
+        src = detail_source(page.source, url)
+        if src["id"] in snapshots:
+            continue  # 取り込み済みの詳細ページ
+        try:
+            if not fetcher.allowed(url):
+                raise RuntimeError("robots.txt で取得禁止")
+            html = fetcher.get_js(url) if src["render"] == "js" else fetcher.get_static(url)
+            text = html_to_text(html)
+            if len(text) < 50:
+                raise RuntimeError("本文がほぼ空")
+            digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
+            got.append((src, text + link_section(extract_links(html, url)), digest))
+        except Exception as e:  # noqa: BLE001
+            failed.append({"source_id": src["id"], "url": url, "error": str(e)[:200]})
+    return got, failed
 
 
 def main(force: bool = False) -> dict:
@@ -47,31 +97,49 @@ def main(force: bool = False) -> dict:
     stores = load_master()["stores"]
 
     queue = {"run_id": run_id, "created_at": now.isoformat(timespec="seconds"),
-             "items": [], "unchanged": [], "failed": [], "deferred": []}
+             "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": []}
+    snapshots = load_json(DATA_DIR / "snapshots.json", {})
+    fetcher = Fetcher(config)
+
+    def add_item(src: dict, text: str, digest: str) -> None:
+        sid = src["id"]
+        if len(queue["items"]) >= limit:
+            queue["deferred"].append(sid)  # 次回に回す（スナップショットを更新しないので自動で再依頼される）
+            return
+        answer_file = f"inbox/{run_id}/{sid}.json"
+        (WORK_DIR / "prompts" / f"{sid}.md").write_text(
+            build_prompt(src, text, stores, config) + ANSWER_NOTE.format(answer_file=answer_file), encoding="utf-8")
+        item = {"source_id": sid, "hash": digest, "prompt_file": f"work/prompts/{sid}.md", "answer_file": answer_file}
+        if src.get("parent"):
+            item.update(parent=src["parent"], url=src["url"])
+        queue["items"].append(item)
+
     for page in collect(load_sources(), config, force=force, record_snapshots=False, record_status=False):
         sid = page.source["id"]
         if not page.ok:
             queue["failed"].append({"source_id": sid, "error": page.error})
             continue
+        if page.source.get("follow"):
+            # 一覧ページは「詳細ページを見つける」ためだけに使い、詳細ページを1件ずつ依頼する
+            queue["unchanged"].append(sid)
+            got, failed = follow_details(page, config, snapshots, fetcher)
+            queue["detail_failed"] += failed
+            for src, text, digest in got:
+                add_item(src, text, digest)
+            continue
         if not page.changed:
             queue["unchanged"].append(sid)
             continue
-        if len(queue["items"]) >= limit:
-            queue["deferred"].append(sid)  # 次回に回す（スナップショットを更新しないので自動で再依頼される）
-            continue
-        answer_file = f"inbox/{run_id}/{sid}.json"
-        prompt_path = WORK_DIR / "prompts" / f"{sid}.md"
-        prompt_path.write_text(build_prompt(page.source, page.text, stores, config)
-                               + ANSWER_NOTE.format(answer_file=answer_file), encoding="utf-8")
-        queue["items"].append({"source_id": sid, "hash": page.digest,
-                               "prompt_file": f"work/prompts/{sid}.md", "answer_file": answer_file})
+        add_item(page.source, page.text, page.digest)
 
     save_json(run_dir / "queue.json", queue)
     return {"ok": True, "run_id": run_id, "to_answer": [i["prompt_file"] for i in queue["items"]],
-            "unchanged": len(queue["unchanged"]), "failed": queue["failed"], "deferred": queue["deferred"]}
+            "unchanged": len(queue["unchanged"]), "failed": queue["failed"], "deferred": queue["deferred"],
+            "detail_failed": queue["detail_failed"]}
 
 
 if __name__ == "__main__":
+    setup_utf8_stdout()
     res = main(force="--force" in sys.argv)
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)

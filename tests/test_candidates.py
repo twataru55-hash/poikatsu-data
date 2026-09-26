@@ -42,3 +42,18 @@ def test_match_same_changed_new():
     assert kind == "changed" and ex is a
     updated = apply_update(a, c)
     assert updated["id"] == a["id"] and updated["benefit"]["rate_max"] == 15
+
+
+def test_different_campaigns_same_start_are_not_merged():
+    # 同じ決済・同じ開始日でも、中身が違えば別キャンペーン（2026-09-26 のレビューで見つかった取り違え）
+    a = normalize(dict(RAW, title="対象のお店で最大5%戻ってくる", evidence_quote="対象のお店でPayPay払いすると最大5%戻ってくる",
+                       benefit=dict(RAW["benefit"], rate_max=5)), SRC)
+    b = normalize(dict(RAW, title="コンビニで最大10%戻ってくる", evidence_quote="コンビニで最大10%戻ってくるキャンペーン",
+                       benefit=dict(RAW["benefit"], rate_max=10)), SRC)
+    assert match_existing(b, [a])[0] == "new"
+
+
+def test_different_detail_pages_are_different_campaigns():
+    a = normalize(dict(RAW, official_url="https://paypay.ne.jp/event/a/"), SRC)
+    b = normalize(dict(RAW, official_url="https://paypay.ne.jp/event/b/"), SRC)
+    assert match_existing(b, [a])[0] == "new"

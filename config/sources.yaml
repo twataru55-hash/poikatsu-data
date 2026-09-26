@@ -11,6 +11,9 @@
   render: static
   frequency: daily
   domains: [paypay.ne.jp, paypay-card.co.jp]
+  follow:                       # 一覧から個別キャンペーンの詳細ページをたどる（きせかえ・自治体一覧は除外）
+    pattern: '^https://paypay\.ne\.jp/event/(?!kisekae-|support-local)[a-z0-9-]+/$'
+    max_new: 8
 
 - id: paypay-local
   name: PayPay 自治体キャンペーン一覧
@@ -83,6 +86,9 @@
   render: static
   frequency: daily
   domains: [tsite.jp, vpoint.jp]
+  follow:
+    pattern: '^https://cpn\.tsite\.jp/detail/[a-z0-9]+$'
+    max_new: 8
 
 - id: smbc-member-campaign
   name: 三井住友カード 会員向けキャンペーン
@@ -101,6 +107,9 @@
   render: static
   frequency: daily
   domains: [waon.net, aeon.co.jp]
+  follow:
+    pattern: '^https://www\.waon\.net/campaign/(?!p_\d+/)[A-Za-z0-9_-]+/$'
+    max_new: 8
 
 - id: aeonretail-otoku
   name: イオン お得・キャンペーン

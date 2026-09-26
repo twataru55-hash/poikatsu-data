@@ -126,8 +126,8 @@ def campaign_id(c: dict) -> str:
 
 
 def identity_key(c: dict) -> tuple:
-    """同じキャンペーン候補かどうかの粗い判定キー（種類・ブランド・対象・開始日時）。
-    最終判定はタイトル・根拠文の近さも見る（candidates.match_existing）。"""
+    """同じキャンペーン候補かどうかの粗い判定キー（種類・ブランド・対象・開始日時・公式URL）。
+    公式URL（詳細ページ）が違えば別キャンペーン。最終判定はタイトル・根拠文の近さも見る（candidates.match_existing）。"""
     scope = c.get("scope") or {}
     return (
         c.get("type"),
@@ -137,6 +137,7 @@ def identity_key(c: dict) -> tuple:
         tuple(sorted(scope.get("prefecture_codes") or [])),
         scope.get("municipality") or None,
         (c.get("period") or {}).get("start"),
+        (c.get("official_url") or "").rstrip("/"),
     )
 
 
@@ -219,3 +220,14 @@ def http_session(url: str, config: dict):
 
         sess.mount("https://", _LegacyAdapter())
     return sess
+
+
+def setup_utf8_stdout() -> None:
+    """Windows でも日本語の出力で止まらないよう、標準出力・標準エラーを UTF-8 にする。"""
+    import sys
+
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except (AttributeError, ValueError):
+            pass

@@ -11,7 +11,7 @@ import sys
 
 from jsonschema import Draft202012Validator
 
-from common import ROOT, SCHEMA_DIR, load_json, load_sources
+from common import ROOT, SCHEMA_DIR, load_json, load_sources, setup_utf8_stdout
 
 INBOX = ROOT / "inbox"
 
@@ -43,7 +43,7 @@ def main() -> dict:
         for err in list(validator.iter_errors(data))[:5]:
             where = "/".join(map(str, err.path)) or "(root)"
             problems.append(f"{item['answer_file']}: {where} {err.message}")
-        allowed = set(sources.get(item["source_id"], {}).get("brand_ids", []))
+        allowed = set(sources.get(item.get("parent") or item["source_id"], {}).get("brand_ids", []))
         for i, c in enumerate(data.get("campaigns", []) if isinstance(data, dict) else []):
             extra = set(c.get("brand_ids", [])) - allowed
             if allowed and extra:
@@ -55,6 +55,7 @@ def main() -> dict:
 
 
 if __name__ == "__main__":
+    setup_utf8_stdout()
     res = main()
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)

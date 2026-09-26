@@ -7,7 +7,7 @@ from difflib import SequenceMatcher
 
 from common import JST, campaign_id, content_key, identity_key, normalize_text, today_str
 
-SIMILARITY = 0.5  # タイトルか根拠文がこれ以上似ていれば同じキャンペーンとみなす
+SIMILARITY = 0.75  # タイトルか根拠文がこれ以上似ていれば同じキャンペーンとみなす（短いタイトルの取り違えを防ぐため高め）
 
 _DATE_ONLY = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 

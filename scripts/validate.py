@@ -94,8 +94,8 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
             reasons.append("V02 対象店（store_ids）が空")
         if scope.get("kind") == "region" and not scope.get("prefecture_codes"):
             reasons.append("V02 都道府県（prefecture_codes）が空")
-        if entry.get("required") and not entry.get("url"):
-            reasons.append("V02 エントリー必要なのにエントリーURLがない")
+        # エントリーがアプリ内だけのキャンペーンもあるため、エントリーURLが無いこと自体は保留にしない
+        # （サイトでは公式ページへのボタンを「エントリー方法を見る」と表示する）
         if not (c.get("evidence_quote") or "").strip():
             reasons.append("V02 根拠文が空")
 

@@ -204,6 +204,9 @@ def process() -> dict:
 
 
 if __name__ == "__main__":
+    from common import setup_utf8_stdout
+
+    setup_utf8_stdout()
     if len(sys.argv) > 1 and sys.argv[1] == "process":
         res = process()
         print(json.dumps(res, ensure_ascii=False))

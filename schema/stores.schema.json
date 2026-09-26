@@ -73,6 +73,13 @@
           "verified": {
             "type": "boolean",
             "description": "根拠文が公式ページに実在することを機械で確認済みか"
+          },
+          "verified_brand_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "支払い方法ページで機械確認できたブランド"
           }
         },
         "required": [

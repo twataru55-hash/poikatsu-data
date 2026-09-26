@@ -74,8 +74,9 @@ def test_v02_stores_empty():
     assert "V02" in codes(validate_candidate(with_(scope__store_ids=[]), ctx())[1])
 
 
-def test_v02_entry_without_url():
-    assert "V02" in codes(validate_candidate(with_(entry__required=True), ctx())[1])
+def test_v02_entry_without_url_is_not_held():
+    # アプリ内エントリーのみのキャンペーンがあるため、エントリーURLが無いだけでは保留にしない
+    assert validate_candidate(with_(entry__required=True), ctx()) == ("accept", [])
 
 
 def test_v03_unknown_brand():

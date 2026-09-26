@@ -10,7 +10,7 @@ import hashlib
 import time
 import urllib.robotparser
 from dataclasses import dataclass
-from urllib.parse import urlparse
+from urllib.parse import urldefrag, urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -28,6 +28,7 @@ class Page:
     ok: bool
     error: str = ""
     digest: str = ""
+    links: list = None  # ページ内のリンク（絶対URL）。詳細ページをたどるのに使う
 
 
 def html_to_text(html: str) -> str:
@@ -40,6 +41,21 @@ def html_to_text(html: str) -> str:
     root = soup.find("main") or soup.body or soup
     lines = [ln.strip() for ln in root.get_text("\n").splitlines()]
     return "\n".join(ln for ln in lines if ln)
+
+
+def extract_links(html: str, base_url: str) -> list[tuple[str, str]]:
+    """ページ内の <a href> を (リンクの文字, 絶対URL) にして、出てきた順に重複なしで返す（#以降は落とす）。"""
+    soup = BeautifulSoup(html, "lxml")
+    seen, out = set(), []
+    for a in soup.find_all("a", href=True):
+        url = urldefrag(urljoin(base_url, a["href"].strip()))[0]
+        if url.startswith("https://") and url not in seen:
+            seen.add(url)
+            label = " ".join(a.get_text(" ").split())
+            if not label and a.find("img") is not None:
+                label = (a.find("img").get("alt") or "").strip()
+            out.append((label[:60], url))
+    return out
 
 
 class Fetcher:
@@ -144,7 +160,7 @@ def collect(sources: list[dict], config: dict, force: bool = False, record_snaps
                 snapshots[sid] = {"hash": digest, "fetched_at": now.isoformat(timespec="seconds"), "chars": len(text)}
             (WORK_DIR / "pages" / f"{sid}.txt").write_text(text, encoding="utf-8")
             st.update(fail_count=0, last_ok=now.isoformat(timespec="seconds"), last_error=None)
-            pages.append(Page(src, text, changed, True, digest=digest))
+            pages.append(Page(src, text, changed, True, digest=digest, links=extract_links(html, src["url"])))
         except Exception as e:  # noqa: BLE001
             st["fail_count"] = int(st.get("fail_count", 0)) + 1
             st["last_error"] = str(e)[:200]

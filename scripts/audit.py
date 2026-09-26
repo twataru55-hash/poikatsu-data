@@ -21,6 +21,19 @@ from common import (
 )
 
 
+def success_days(log: list[dict], now, span: int) -> dict:
+    """JST の暦日ごとに「取り込み（または API 方式の日次実行）が1回以上成功したか」を数える。
+    対象は今日を含む直近 span 日。導入前の日は分母に入れない。"""
+    today = now.date()
+    days = [today - timedelta(days=i) for i in range(span)][::-1]
+    real = [r for r in log if r.get("mode") in ("ingest", "api")]
+    first = min((parse_dt(r["date"]).date() for r in real), default=None)
+    ok_days = {parse_dt(r["date"]).date() for r in real if r.get("ok")}
+    counted = [d for d in days if first is not None and d >= first]
+    missing = [d.isoformat() for d in counted if d not in ok_days]
+    return {"span": span, "counted": len(counted), "ok": len(counted) - len(missing), "missing": missing}
+
+
 def main() -> str:
     now = now_jst()
     campaigns = load_json(DATA_DIR / "campaigns.json", [])
@@ -31,6 +44,8 @@ def main() -> str:
     runs = [r for r in read_run_log() if parse_dt(r["date"]) >= now - timedelta(days=7)]
     ok_runs = sum(1 for r in runs if r.get("ok"))
     llm_calls = sum(int(r.get("llm_calls", 0)) for r in runs)
+    days14 = success_days(read_run_log(), now, 14)
+    days7 = success_days(read_run_log(), now, 7)
     holds = load_json(DATA_DIR / "holds.json", {})
     status = load_json(DATA_DIR / "source_status.json", {})
     failing = {k: v for k, v in status.items() if v.get("fail_count", 0) > 0}
@@ -41,7 +56,8 @@ def main() -> str:
     L = [
         f"# 週次監査レポート {now.strftime('%Y-%m-%d')}", "",
         "## 1. 実行状況（直近7日）",
-        f"- 日次実行：{len(runs)} 回中 {ok_runs} 回成功",
+        f"- 成功した日：直近7日で {days7['ok']}/{days7['counted']} 日（JST・暦日単位。成功しなかった日：{', '.join(days7['missing']) or 'なし'}）",
+        f"- 実行回数（参考）：直近7日で {len(runs)} 回中 {ok_runs} 回成功",
         f"- モデル呼び出し：合計 {llm_calls} 回",
         f"- 配信 staging：{(staging_meta or {}).get('data_version')} ／ live：{(live_meta or {}).get('data_version')}",
         f"- 実施中キャンペーン：{len(live)} 件",
@@ -65,7 +81,8 @@ def main() -> str:
     L += ["", "## 5. マスタ（常設の還元・定例日）の根拠確認"]
     L += [f"- {m}" for m in master_failures] or ["- すべて確認できた"]
     L += ["", "## 6. 本番切替の条件（§12）",
-          f"- 日次実行 13/14 日以上成功：直近7日は {ok_runs}/{len(runs)}（2週分で判断）",
+          f"- 日次実行 13/14 日以上成功：直近14日で {days14['ok']}/{days14['counted']} 日"
+          + ("（14日分そろっていないため、まだ判定できない）" if days14['counted'] < 14 else ("（満たす）" if days14['ok'] >= 13 else "（満たさない）")),
           "- 週次監査2回で重大な誤り0件：Claude の監査結果で判断",
           "- 未解決の [異常] Issue 0件：GitHub の anomaly ラベルで確認"]
     text = "\n".join(L) + "\n"
@@ -76,4 +93,7 @@ def main() -> str:
 
 
 if __name__ == "__main__":
+    from common import setup_utf8_stdout
+
+    setup_utf8_stdout()
     print(main())

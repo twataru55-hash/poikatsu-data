@@ -107,15 +107,19 @@ def verify_online() -> list[str]:
     for s in stores:
         src = s.get("accepted_source")
         if src:
-            check(src, f"stores/{s['id']}/accepted_source")
+            # 使える決済は「ブランドごと」に確かめる。見つかったものだけ配信し、見つからないものは報告する
             text = page(src["official_url"])
-            missing = [
+            found = [
                 b for b in s.get("accepted_brand_ids", [])
-                if not any(normalize_text(t) in text for t in (brands.get(b) or {}).get("match_terms", []))
+                if text and any(normalize_text(t) in text for t in (brands.get(b) or {}).get("match_terms", []))
             ]
+            missing = [b for b in s.get("accepted_brand_ids", []) if b not in found]
+            src["verified_brand_ids"] = found
+            src["verified"] = bool(found)
+            if found:
+                src["last_verified"] = today_str()
             if missing:
-                src["verified"] = False
-                failures.append(f"stores/{s['id']}/accepted_source: 支払い方法ページに見つからない {missing}")
+                failures.append(f"stores/{s['id']}/accepted_source: 支払い方法ページに見つからない {missing}（この決済は配信しない）")
         for r in s.get("base_rewards", []):
             check(r, f"stores/{s['id']}/base_rewards/{r['brand_id']}")
     recurring = load_json(MASTER_DIR / "recurring.json", [])
@@ -127,6 +131,9 @@ def verify_online() -> list[str]:
 
 
 if __name__ == "__main__":
+    from common import setup_utf8_stdout
+
+    setup_utf8_stdout()
     errs = check_master()
     print(json.dumps({"errors": errs}, ensure_ascii=False, indent=2))
     if "--online" in sys.argv and not errs:

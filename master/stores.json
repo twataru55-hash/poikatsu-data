@@ -58,12 +58,11 @@
       "d-barai",
       "rakuten-pay",
       "au-pay",
-      "waon",
-      "smbc-card"
+      "waon"
     ],
     "accepted_source": {
       "official_url": "https://www.lawson.co.jp/service/payment/settlement/",
-      "evidence_quote": "コンタクトレス決済",
+      "evidence_quote": "PayPay",
       "last_verified": "2026-09-26",
       "verified": false
     },

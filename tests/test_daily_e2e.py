@@ -1,5 +1,6 @@
 """日次処理の通し試験：取得・モデル・URL確認を偽物に差し替えて、リポジトリのコピー上で実行する。"""
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -55,15 +56,19 @@ def test_daily_end_to_end(tmp_path):
     repo = tmp_path / "repo"
     shutil.copytree(REPO, repo, ignore=shutil.ignore_patterns(".git", "work", "__pycache__", ".pytest_cache"))
     for p in ["data/campaigns.json", "data/rejected.json"]:
-        (repo / p).write_text("[]")
+        (repo / p).write_text("[]", encoding="utf-8")
     for p in ["data/holds.json", "data/snapshots.json", "data/source_status.json"]:
-        (repo / p).write_text("{}")
+        (repo / p).write_text("{}", encoding="utf-8")
     (repo / "reports" / "runs.jsonl").unlink(missing_ok=True)
+    srcs = repo / "config" / "sources.yaml"
+    import re as _re
+    srcs.write_text(_re.sub(r"\n  follow:.*?\n    max_new: \d+", "", srcs.read_text(encoding="utf-8"), flags=_re.S), encoding="utf-8")
     cfg = repo / "config" / "pipeline.yaml"
     cfg.write_text(cfg.read_text(encoding="utf-8").replace("provider: manual", "provider: anthropic"), encoding="utf-8")
     (repo / "driver.py").write_text(DRIVER, encoding="utf-8")
-    env = {"POIKATSU_NOW": "2026-10-05T07:00:00+09:00", "PATH": "/usr/bin:/bin"}
-    out = subprocess.run([sys.executable, "driver.py"], cwd=repo, capture_output=True, text=True, env=env, timeout=120)
+    # 親の環境を引き継ぎ（Windows で必要な SYSTEMROOT なども含む）、文字コードは UTF-8 に固定する
+    env = {**os.environ, "POIKATSU_NOW": "2026-10-05T07:00:00+09:00", "PYTHONUTF8": "1", "PYTHONIOENCODING": "utf-8"}
+    out = subprocess.run([sys.executable, "driver.py"], cwd=repo, capture_output=True, text=True, encoding="utf-8", env=env, timeout=120)
     assert out.returncode == 0, out.stderr
     res = json.loads(out.stdout.strip().splitlines()[-1])
     first, second = res["first"], res["second"]
@@ -75,10 +80,10 @@ def test_daily_end_to_end(tmp_path):
     # 2回目：ページが変わっていないのでモデルは呼ばない
     assert second["llm_calls"] == 0 and second["pages_changed"] == 0
 
-    bundle = json.loads((repo / "dist/staging/poikatsu.json").read_text())
+    bundle = json.loads((repo / "dist/staging/poikatsu.json").read_text(encoding="utf-8"))
     titles = sorted(c["title"] for c in bundle["campaigns"])
     assert titles == ["対象のお店で最大5%戻ってくる", "抽選で最大全額戻ってくる"]
     assert all("evidence_quote" not in c for c in bundle["campaigns"])
-    holds_md = (repo / "reports/holds_local.md").read_text()
+    holds_md = (repo / "reports/holds_local.md").read_text(encoding="utf-8")
     assert "V11" in holds_md and "V06" in holds_md
     assert (repo / "reports/run-2026-10-05.md").exists()
