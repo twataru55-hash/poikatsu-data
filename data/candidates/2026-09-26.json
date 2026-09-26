@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cp-950e99233c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー必要なのにエントリーURLがない",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "コカ・コーラ対象製品のレシート応募抽選"
+  },
+  {
+    "id": "cp-98d873949c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー必要なのにエントリーURLがない",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "waon-campaign",
+    "title": "WAON・AEON Payで購入して応募する抽選"
+  }
+]
