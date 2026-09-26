@@ -1,0 +1,32 @@
+name: weekly-audit
+# 毎週金曜 17:00 JST（= 08:00 UTC）に監査レポートを作る
+on:
+  schedule:
+    - cron: "0 8 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poikatsu-data
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 週次監査
+        env:
+          PYTHONPATH: scripts
+        run: python scripts/audit.py
+      - name: 結果を保存
+        if: always()
+        run: bash scripts/commit.sh "weekly audit $(TZ=Asia/Tokyo date +%F)"

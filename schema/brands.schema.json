@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "brands",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "kind",
+      "point_id",
+      "official_url",
+      "domains",
+      "wallet",
+      "match_terms"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 30
+      },
+      "kind": {
+        "enum": [
+          "point",
+          "payment",
+          "card"
+        ]
+      },
+      "point_id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+      },
+      "official_url": {
+        "type": "string",
+        "pattern": "^https://"
+      },
+      "domains": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "wallet": {
+        "type": "boolean",
+        "description": "My財布に表示するか"
+      },
+      "note": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "match_terms": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1,
+        "description": "店の支払い方法ページでこのブランドを見つけるための語"
+      }
+    }
+  }
+}

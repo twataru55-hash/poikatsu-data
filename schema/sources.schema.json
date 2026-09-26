@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "sources",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "url",
+      "brand_ids",
+      "kind",
+      "render",
+      "frequency",
+      "domains"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "pattern": "^https://"
+      },
+      "brand_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+        }
+      },
+      "store_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+        }
+      },
+      "kind": {
+        "enum": [
+          "official",
+          "secondary"
+        ]
+      },
+      "render": {
+        "enum": [
+          "static",
+          "js"
+        ]
+      },
+      "frequency": {
+        "enum": [
+          "daily",
+          "weekly"
+        ]
+      },
+      "domains": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "enabled": {
+        "type": "boolean"
+      },
+      "note": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    }
+  }
+}

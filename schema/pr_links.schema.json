@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "pr_links",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "brand_id",
+      "label",
+      "url",
+      "anchor_text",
+      "active"
+    ],
+    "properties": {
+      "brand_id": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+      },
+      "label": {
+        "const": "PR"
+      },
+      "url": {
+        "type": "string",
+        "pattern": "^https://"
+      },
+      "anchor_text": {
+        "type": "string",
+        "maxLength": 30
+      },
+      "active": {
+        "type": "boolean"
+      }
+    }
+  }
+}

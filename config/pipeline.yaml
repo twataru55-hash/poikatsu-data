@@ -1,0 +1,48 @@
+# ポイ活攻略 データパイプライン設定
+# 全体を止めたいときは enabled を false にする
+enabled: true
+
+# 影武者運用中は false（staging だけ更新）。本番切替で true にする
+publish_to_live: false
+
+llm:
+  # manual    … PCの ChatGPT（デスクトップアプリのスケジュール）が抽出する方式（APIキー不要・現在の方式）
+  # anthropic / openai … GitHub 上で API を使って抽出する方式（APIキーを GitHub Secrets に登録）
+  provider: manual
+  model: "claude-haiku-4-5-20251001"   # 安価モデル。openai にするときは OpenAI の安価モデル名に変える
+  temperature: 0              # 温度を受け付けないモデルなら null
+  max_llm_calls: 40           # 1回の実行で呼ぶ上限
+  max_input_chars: 30000      # モデルに渡す本文の上限文字数
+  max_output_tokens: 8192
+
+manual:
+  max_sources_per_run: 15     # PC側で1回に抽出を頼むページ数の上限
+
+fetch:
+  user_agent: "PoikatsuKouryakuBot/1.0 (+https://gtdwmse.com/poikatsu/)"
+  timeout_sec: 20
+  retries: 3
+  min_interval_sec: 3         # 同じドメインへのアクセス間隔
+  fail_issue_after: 3         # 連続失敗がこの回数でIssue
+  legacy_ssl_domains: [docomo.ne.jp]   # 古いSSL設定で通常接続できないサイト
+
+validation:
+  evidence_window: 600        # 根拠文の前後何文字以内に還元率・日付があればよいか
+  check_urls: true
+  max_days_ahead: 400
+
+anomaly:
+  max_change_ratio: 0.3
+  min_items_for_ratio: 10
+  max_removed_per_run: 10
+
+hold_rules:
+  rate_max_at_or_above: 20
+  cap_total_at_or_above: 10000
+
+bundle:
+  upcoming_within_days: 30
+  keep_history: 7
+  archive_after_days: 7       # 終了後この日数で campaigns.json から archive へ移す
+
+banned_words: ["絶対", "必ず", "最強", "誰でも", "今すぐ", "損する"]

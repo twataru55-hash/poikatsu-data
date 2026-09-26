@@ -1,0 +1,113 @@
+# 巡回する公式ページの固定リスト（仕様書 §6）
+# render: js … JavaScript で中身が描画されるページ（Playwright で取得）
+# enabled: false … URL が未確認などで一時的に止めているもの
+# store_ids … そのページが特定チェーン向けのときだけ書く（空なら全店舗の一覧をモデルに渡す）
+
+- id: paypay-event
+  name: PayPay キャンペーン一覧
+  url: https://paypay.ne.jp/event/
+  brand_ids: [paypay, paypay-point, paypay-card]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [paypay.ne.jp, paypay-card.co.jp]
+
+- id: paypay-local
+  name: PayPay 自治体キャンペーン一覧
+  url: https://paypay.ne.jp/event/support-local/
+  brand_ids: [paypay, paypay-point]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [paypay.ne.jp]
+
+- id: dpoint-campaign
+  name: dポイントクラブ キャンペーン一覧
+  url: https://dpoint.docomo.ne.jp/campaign/index.html
+  brand_ids: [dpoint, d-barai, d-card]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [docomo.ne.jp]
+
+- id: dbarai-campaign
+  name: d払い キャンペーン
+  url: https://service.smt.docomo.ne.jp/keitai_payment/campaign/
+  brand_ids: [d-barai, dpoint]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [docomo.ne.jp]
+
+- id: rakuten-pay-campaign
+  name: 楽天ペイ キャンペーン一覧
+  url: https://pay.rakuten.co.jp/campaign/
+  brand_ids: [rakuten-pay, rakuten-point, rakuten-card]
+  kind: official
+  render: js
+  frequency: daily
+  domains: [rakuten.co.jp, rakuten-card.co.jp]
+
+- id: rakuten-pointcard-campaign
+  name: 楽天ポイントカード キャンペーン一覧
+  url: https://pointcard.rakuten.co.jp/campaign/
+  brand_ids: [rakuten-point]
+  kind: official
+  render: js
+  frequency: daily
+  domains: [rakuten.co.jp]
+
+- id: aupay-campaign
+  name: au PAY キャンペーン一覧
+  url: https://aupay.wallet.auone.jp/campaign/
+  brand_ids: [au-pay, ponta]
+  kind: official
+  render: js
+  frequency: daily
+  domains: [auone.jp, au.com]
+
+- id: ponta-campaign
+  name: Ponta キャンペーン一覧（PontaWeb）
+  url: https://point.recruit.co.jp/point/?tab=campaign
+  brand_ids: [ponta]
+  kind: official
+  render: js
+  frequency: daily
+  domains: [recruit.co.jp, ponta.jp]
+
+- id: vpoint-campaign
+  name: Vポイント キャンペーン一覧
+  url: https://cpn.tsite.jp/list/all
+  brand_ids: [vpoint]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [tsite.jp, vpoint.jp]
+
+- id: smbc-member-campaign
+  name: 三井住友カード 会員向けキャンペーン
+  url: https://www.smbc-card.com/memfs/campaign/index.jsp
+  brand_ids: [smbc-card, vpoint]
+  kind: official
+  render: static
+  frequency: weekly
+  domains: [smbc-card.com]
+
+- id: waon-campaign
+  name: WAON キャンペーン一覧
+  url: https://www.waon.net/campaign/
+  brand_ids: [waon, waon-point, aeon-pay]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [waon.net, aeon.co.jp]
+
+- id: aeonretail-otoku
+  name: イオン お得・キャンペーン
+  url: https://www.aeonretail.jp/otoku/
+  brand_ids: [waon-point, aeon-pay, aeon-card, waon]
+  store_ids: [aeon]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [aeonretail.jp, aeon.co.jp]

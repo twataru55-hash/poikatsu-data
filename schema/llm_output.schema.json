@@ -1,0 +1,198 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "llm_output",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "campaigns"
+  ],
+  "properties": {
+    "campaigns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "type",
+          "brand_ids",
+          "title",
+          "benefit",
+          "scope",
+          "period",
+          "entry",
+          "conditions",
+          "official_url",
+          "evidence_quote",
+          "confidence"
+        ],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "reward",
+              "lottery",
+              "bonus",
+              "local",
+              "change"
+            ]
+          },
+          "brand_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "title": {
+            "type": "string"
+          },
+          "benefit": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "rate_max",
+              "rate_text",
+              "cap_per_use",
+              "cap_total",
+              "cap_unit"
+            ],
+            "properties": {
+              "rate_max": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "rate_text": {
+                "type": "string"
+              },
+              "cap_per_use": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "cap_total": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "cap_unit": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "pt",
+                  "円相当",
+                  null
+                ]
+              }
+            }
+          },
+          "scope": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "kind",
+              "store_ids",
+              "prefecture_codes",
+              "municipality"
+            ],
+            "properties": {
+              "kind": {
+                "type": "string",
+                "enum": [
+                  "stores",
+                  "payment_wide",
+                  "region"
+                ]
+              },
+              "store_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "prefecture_codes": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "municipality": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "period": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "start",
+              "end"
+            ],
+            "properties": {
+              "start": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "end": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "entry": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "required",
+              "url"
+            ],
+            "properties": {
+              "required": {
+                "type": "boolean"
+              },
+              "url": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "conditions": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "official_url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "evidence_quote": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "confirmed",
+              "unconfirmed"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

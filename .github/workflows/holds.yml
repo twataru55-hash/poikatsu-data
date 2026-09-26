@@ -1,0 +1,37 @@
+name: holds
+# 保留 Issue に approve / reject ラベルが付いたら取り込む（3時間ごとにも確認）
+on:
+  issues:
+    types: [labeled]
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: poikatsu-data
+  cancel-in-progress: false
+
+jobs:
+  process:
+    if: github.event_name != 'issues' || github.event.label.name == 'approve' || github.event.label.name == 'reject'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 承認・却下の取り込み
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONPATH: scripts
+        run: python scripts/holds.py process
+      - name: 結果を保存
+        if: always()
+        run: bash scripts/commit.sh "holds $(TZ=Asia/Tokyo date '+%F %H:%M')"

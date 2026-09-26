@@ -1,0 +1,275 @@
+[
+  {
+    "id": "rakuten-point",
+    "name": "楽天ポイント",
+    "kind": "point",
+    "point_id": "rakuten-point",
+    "official_url": "https://point.rakuten.co.jp/",
+    "domains": [
+      "rakuten.co.jp"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "楽天ポイント"
+    ]
+  },
+  {
+    "id": "dpoint",
+    "name": "dポイント",
+    "kind": "point",
+    "point_id": "dpoint",
+    "official_url": "https://dpoint.docomo.ne.jp/",
+    "domains": [
+      "docomo.ne.jp"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "dポイント"
+    ]
+  },
+  {
+    "id": "ponta",
+    "name": "Ponta",
+    "kind": "point",
+    "point_id": "ponta",
+    "official_url": "https://www.ponta.jp/",
+    "domains": [
+      "ponta.jp",
+      "recruit.co.jp"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "Ponta"
+    ]
+  },
+  {
+    "id": "vpoint",
+    "name": "Vポイント",
+    "kind": "point",
+    "point_id": "vpoint",
+    "official_url": "https://tsite.jp/",
+    "domains": [
+      "tsite.jp",
+      "vpoint.jp",
+      "smbc-card.com"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "Vポイント"
+    ]
+  },
+  {
+    "id": "paypay-point",
+    "name": "PayPayポイント",
+    "kind": "point",
+    "point_id": "paypay-point",
+    "official_url": "https://paypay.ne.jp/",
+    "domains": [
+      "paypay.ne.jp"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "PayPayポイント"
+    ]
+  },
+  {
+    "id": "waon-point",
+    "name": "WAON POINT",
+    "kind": "point",
+    "point_id": "waon-point",
+    "official_url": "https://www.aeon.co.jp/waon/point/",
+    "domains": [
+      "aeon.co.jp",
+      "waon.net",
+      "aeonretail.jp",
+      "aeon.com"
+    ],
+    "wallet": true,
+    "note": null,
+    "match_terms": [
+      "WAON POINT"
+    ]
+  },
+  {
+    "id": "rakuten-pay",
+    "name": "楽天ペイ",
+    "kind": "payment",
+    "point_id": "rakuten-point",
+    "official_url": "https://pay.rakuten.co.jp/",
+    "domains": [
+      "rakuten.co.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "楽天ペイ",
+      "楽天Pay"
+    ]
+  },
+  {
+    "id": "d-barai",
+    "name": "d払い",
+    "kind": "payment",
+    "point_id": "dpoint",
+    "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/",
+    "domains": [
+      "docomo.ne.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "d払い"
+    ]
+  },
+  {
+    "id": "au-pay",
+    "name": "au PAY",
+    "kind": "payment",
+    "point_id": "ponta",
+    "official_url": "https://aupay.wallet.auone.jp/",
+    "domains": [
+      "auone.jp",
+      "au.com"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "au PAY"
+    ]
+  },
+  {
+    "id": "paypay",
+    "name": "PayPay",
+    "kind": "payment",
+    "point_id": "paypay-point",
+    "official_url": "https://paypay.ne.jp/",
+    "domains": [
+      "paypay.ne.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "PayPay"
+    ]
+  },
+  {
+    "id": "aeon-pay",
+    "name": "AEON Pay",
+    "kind": "payment",
+    "point_id": "waon-point",
+    "official_url": "https://www.aeon.co.jp/",
+    "domains": [
+      "aeon.co.jp",
+      "waon.net",
+      "aeonretail.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "AEON Pay"
+    ]
+  },
+  {
+    "id": "waon",
+    "name": "WAON（電子マネー）",
+    "kind": "payment",
+    "point_id": "waon-point",
+    "official_url": "https://www.waon.net/",
+    "domains": [
+      "waon.net",
+      "aeon.co.jp",
+      "aeonretail.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "WAON"
+    ]
+  },
+  {
+    "id": "rakuten-card",
+    "name": "楽天カード",
+    "kind": "card",
+    "point_id": "rakuten-point",
+    "official_url": "https://www.rakuten-card.co.jp/",
+    "domains": [
+      "rakuten-card.co.jp",
+      "rakuten.co.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "楽天カード"
+    ]
+  },
+  {
+    "id": "d-card",
+    "name": "dカード",
+    "kind": "card",
+    "point_id": "dpoint",
+    "official_url": "https://dcard.docomo.ne.jp/",
+    "domains": [
+      "docomo.ne.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "dカード"
+    ]
+  },
+  {
+    "id": "smbc-card",
+    "name": "三井住友カード",
+    "kind": "card",
+    "point_id": "vpoint",
+    "official_url": "https://www.smbc-card.com/",
+    "domains": [
+      "smbc-card.com",
+      "tsite.jp",
+      "vpoint.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "タッチ決済",
+      "コンタクトレス"
+    ]
+  },
+  {
+    "id": "paypay-card",
+    "name": "PayPayカード",
+    "kind": "card",
+    "point_id": "paypay-point",
+    "official_url": "https://www.paypay-card.co.jp/",
+    "domains": [
+      "paypay-card.co.jp",
+      "paypay.ne.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "PayPayカード"
+    ]
+  },
+  {
+    "id": "aeon-card",
+    "name": "イオンカード",
+    "kind": "card",
+    "point_id": "waon-point",
+    "official_url": "https://www.aeon.co.jp/card/",
+    "domains": [
+      "aeon.co.jp",
+      "aeonretail.jp"
+    ],
+    "wallet": false,
+    "note": null,
+    "match_terms": [
+      "イオンカード"
+    ]
+  }
+]

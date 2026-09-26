@@ -1,0 +1,6 @@
+requests==2.33.1
+beautifulsoup4==4.14.3
+lxml==6.1.0
+jsonschema==4.26.0
+PyYAML==6.0.3
+pytest==9.1.1

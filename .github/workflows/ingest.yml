@@ -1,0 +1,43 @@
+name: ingest
+# PC（ChatGPT デスクトップアプリ）から回答が push されたら取り込む
+on:
+  push:
+    branches: [main]
+    paths: ["inbox/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: poikatsu-data
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: JS描画ページがあれば Playwright を入れる
+        run: |
+          if grep -q "render: js" config/sources.yaml; then
+            pip install playwright==1.55.0
+            python -m playwright install --with-deps chromium
+          fi
+      - name: 回答の取り込み
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONPATH: scripts
+        run: python scripts/ingest.py
+      - name: 結果を保存
+        if: always()
+        run: bash scripts/commit.sh "ingest $(TZ=Asia/Tokyo date '+%F %H:%M')"

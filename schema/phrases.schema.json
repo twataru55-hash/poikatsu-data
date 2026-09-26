@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "phrases",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "deadline_today",
+    "recurring_today",
+    "alert",
+    "quiet"
+  ],
+  "properties": {
+    "deadline_today": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 60
+      },
+      "minItems": 1
+    },
+    "recurring_today": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 60
+      },
+      "minItems": 1
+    },
+    "alert": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 60
+      },
+      "minItems": 1
+    },
+    "quiet": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 60
+      },
+      "minItems": 1
+    }
+  }
+}

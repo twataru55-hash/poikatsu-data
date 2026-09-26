@@ -1,0 +1,209 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "campaign",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "type",
+    "brand_ids",
+    "title",
+    "benefit",
+    "scope",
+    "period",
+    "entry",
+    "official_url",
+    "evidence_quote",
+    "confidence",
+    "source_id",
+    "first_seen",
+    "last_verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^cp-[0-9a-f]{10}$"
+    },
+    "type": {
+      "enum": [
+        "reward",
+        "lottery",
+        "bonus",
+        "local",
+        "change"
+      ]
+    },
+    "brand_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 40
+    },
+    "benefit": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "rate_max",
+        "rate_text"
+      ],
+      "properties": {
+        "rate_max": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "rate_text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 30
+        },
+        "cap_per_use": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "cap_total": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "cap_unit": {
+          "enum": [
+            "pt",
+            "円相当",
+            null
+          ]
+        }
+      }
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "stores",
+            "payment_wide",
+            "region"
+          ]
+        },
+        "store_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+          },
+          "uniqueItems": true
+        },
+        "prefecture_codes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^(0[1-9]|[1-3][0-9]|4[0-7])$"
+          },
+          "uniqueItems": true
+        },
+        "municipality": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "maxLength": 30
+        }
+      }
+    },
+    "period": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "start",
+        "end"
+      ],
+      "properties": {
+        "start": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}(:\\d{2})?\\+09:00$"
+        },
+        "end": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}(:\\d{2})?\\+09:00$"
+        }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "required"
+      ],
+      "properties": {
+        "required": {
+          "type": "boolean"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^https://"
+        }
+      }
+    },
+    "conditions": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "maxLength": 60
+    },
+    "official_url": {
+      "type": "string",
+      "pattern": "^https://"
+    },
+    "evidence_quote": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "confidence": {
+      "enum": [
+        "confirmed",
+        "unconfirmed"
+      ]
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+    },
+    "first_seen": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "last_verified": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "status_override": {
+      "enum": [
+        "ended",
+        null
+      ]
+    }
+  }
+}

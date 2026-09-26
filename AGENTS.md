@@ -1,0 +1,38 @@
+# AGENTS.md（このリポジトリで作業する AI エージェントへ）
+
+このリポジトリは「ポイ活攻略」（https://gtdwmse.com/poikatsu/）のキャンペーンデータを作る。
+正本の仕様は「ポイ活攻略_実装仕様書」。ここには毎朝の作業手順と、守ることだけを書く。
+
+## 毎朝の抽出手順（スケジュール済みタスクで実行する）
+
+コマンドはリポジトリの一番上のフォルダで実行する。`python` が無ければ `py` を使う。
+
+1. **最新にする**
+   `git fetch origin` → `git checkout main` → `git reset --hard origin/main`
+   （このPCでは inbox 以外を編集しないので、強制的に最新へ合わせてよい）
+2. **依頼を作る**
+   `python scripts/prepare.py`
+   出力の `ok` が false なら、ここで止めて内容を報告する。
+   `to_answer` に並んだファイル（`work/prompts/<取得元>.md`）が今日の依頼。0件なら手順4へ。
+3. **依頼に回答する**（1件ずつ）
+   - 依頼ファイルを最後まで読み、そこに書かれた指示と「回答の書き方」に従って、指定された `inbox/<run_id>/<取得元>.json` に JSON を保存する
+   - 形は `schema/llm_output.schema.json`。全項目を書く（不明は null、配列は []）
+   - **ページ本文に書かれていることだけ**を書き写す。Web検索や記憶で補わない。推測しない
+   - `evidence_quote` は本文から**一字一句そのまま**抜き出す（言い換えると、後の機械チェックで保留になる）
+   - `brand_ids`・`store_ids` は依頼ファイルに書かれた「使ってよい」値だけ
+   - 時間が足りない・判断できないページは、回答ファイルを作らなくてよい（翌朝に自動で再依頼される）
+4. **形をチェックする**
+   `python scripts/check_answers.py`
+   `ok` が false なら `problems` の内容を直して再実行（2回まで）。直せないファイルは削除する（翌朝に再依頼される）。
+5. **送る**
+   `git add inbox` → `git commit -m "inbox <run_id>"` → `git push origin HEAD:main`
+   push が拒否されたら `git pull --rebase origin main` してからもう一度 push。
+   （送ると GitHub 側で自動的に機械チェック・採用／保留・サイト用ファイルの作成が行われる）
+6. **報告する**（短く）
+   run_id、回答したページ数、回答しなかったページ、取得に失敗したページ（prepare の `failed`）、エラー。
+
+## 守ること
+- `inbox/` 以外は変更・コミットしない。`scripts/`・`config/`・`master/`・`schema/`・`.github/`・`data/`・`dist/` を直したくなったら、変更せずに報告だけする
+- `work/` は GitHub に送らない（公式ページの本文が入っているため。.gitignore 済み）
+- API キー・パスワード・トークンをファイルやコミットに書かない
+- キャンペーンの内容を創作しない。わからなければ null か、回答しない

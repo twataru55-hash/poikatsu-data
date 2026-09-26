@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "recurring",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "title",
+      "store_ids",
+      "brand_ids",
+      "rule",
+      "benefit_text",
+      "official_url",
+      "evidence_quote",
+      "last_verified"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^rc-[a-z0-9-]{1,40}$"
+      },
+      "title": {
+        "type": "string",
+        "maxLength": 30
+      },
+      "store_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+        },
+        "minItems": 1
+      },
+      "brand_ids": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]{0,62}$"
+        }
+      },
+      "rule": {
+        "oneOf": [
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type",
+              "days"
+            ],
+            "properties": {
+              "type": {
+                "const": "monthly_days"
+              },
+              "days": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "maximum": 31
+                },
+                "minItems": 1
+              }
+            }
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type",
+              "weekdays"
+            ],
+            "properties": {
+              "type": {
+                "const": "weekly"
+              },
+              "weekdays": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 6
+                },
+                "minItems": 1
+              }
+            }
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type",
+              "n",
+              "weekday"
+            ],
+            "properties": {
+              "type": {
+                "const": "nth_weekday"
+              },
+              "n": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 5
+              },
+              "weekday": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 6
+              }
+            }
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type"
+            ],
+            "properties": {
+              "type": {
+                "const": "month_end"
+              }
+            }
+          }
+        ]
+      },
+      "benefit_text": {
+        "type": "string",
+        "maxLength": 30
+      },
+      "official_url": {
+        "type": "string",
+        "pattern": "^https://"
+      },
+      "evidence_quote": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 200
+      },
+      "last_verified": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "verified": {
+        "type": "boolean",
+        "description": "根拠文が公式ページに実在することを機械で確認済みか"
+      }
+    }
+  }
+}

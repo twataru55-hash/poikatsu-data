@@ -1,0 +1,48 @@
+name: daily-api
+# API方式（llm.provider が anthropic / openai）のときだけ動く。manual のときは何もしない
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "変更がなくても全ページを抽出し直す"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: poikatsu-data
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: JS描画ページがあれば Playwright を入れる
+        run: |
+          if grep -q "render: js" config/sources.yaml; then
+            pip install playwright==1.55.0
+            python -m playwright install --with-deps chromium
+          fi
+      - name: 日次処理
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONPATH: scripts
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then python scripts/daily.py --force; else python scripts/daily.py; fi
+      - name: 結果を保存
+        if: always()
+        run: bash scripts/commit.sh "daily $(TZ=Asia/Tokyo date +%F)"
