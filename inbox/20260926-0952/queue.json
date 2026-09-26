@@ -1,0 +1,75 @@
+{
+  "run_id": "20260926-0952",
+  "created_at": "2026-09-26T09:52:17+09:00",
+  "items": [
+    {
+      "source_id": "paypay-event",
+      "hash": "f03a30016a686a05ef3388fac47d3e8aa67362588cc7ddc2d661f05c3055d2c9",
+      "prompt_file": "work/prompts/paypay-event.md",
+      "answer_file": "inbox/20260926-0952/paypay-event.json"
+    },
+    {
+      "source_id": "paypay-local",
+      "hash": "3ee77adc5f2a14140538026b813884d95726912db14a4dcc748d5c38af11dadd",
+      "prompt_file": "work/prompts/paypay-local.md",
+      "answer_file": "inbox/20260926-0952/paypay-local.json"
+    },
+    {
+      "source_id": "dpoint-campaign",
+      "hash": "1f3e10ab6d9f4e8b02613b37c21d4a6cc1dbca16d9bbe444a836a932df5abf7b",
+      "prompt_file": "work/prompts/dpoint-campaign.md",
+      "answer_file": "inbox/20260926-0952/dpoint-campaign.json"
+    },
+    {
+      "source_id": "dbarai-campaign",
+      "hash": "abed231b4deaa105b0f7ebf89b20ccc6bce3b5c6b72bbee5e9f2e588707f35f6",
+      "prompt_file": "work/prompts/dbarai-campaign.md",
+      "answer_file": "inbox/20260926-0952/dbarai-campaign.json"
+    },
+    {
+      "source_id": "rakuten-pay-campaign",
+      "hash": "600d4aa326901ddbc82c4381c7cf2ca879e43f91587005c2084d58787cb405b5",
+      "prompt_file": "work/prompts/rakuten-pay-campaign.md",
+      "answer_file": "inbox/20260926-0952/rakuten-pay-campaign.json"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign",
+      "hash": "889f16578da1bcb61dbfdaa32963a65d9295934268dd708e74568fbaf82bedec",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign.md",
+      "answer_file": "inbox/20260926-0952/rakuten-pointcard-campaign.json"
+    },
+    {
+      "source_id": "aupay-campaign",
+      "hash": "42f466185ec4b8f754dfb940d57605c4655fa12f918b012552bfcdf61c6df178",
+      "prompt_file": "work/prompts/aupay-campaign.md",
+      "answer_file": "inbox/20260926-0952/aupay-campaign.json"
+    },
+    {
+      "source_id": "ponta-campaign",
+      "hash": "f871abe93443a409b4ece48769300910f4aead380fae3859c89b639baf34121b",
+      "prompt_file": "work/prompts/ponta-campaign.md",
+      "answer_file": "inbox/20260926-0952/ponta-campaign.json"
+    },
+    {
+      "source_id": "vpoint-campaign",
+      "hash": "121a791b481eeda481b3f13f3da02b3067068e71bc6e58474e69fa34fcf0465b",
+      "prompt_file": "work/prompts/vpoint-campaign.md",
+      "answer_file": "inbox/20260926-0952/vpoint-campaign.json"
+    },
+    {
+      "source_id": "waon-campaign",
+      "hash": "0b7ddbc8602dc05dda1f522e535249f02e2c8300d81522d8af29ff2ac0ef0e2a",
+      "prompt_file": "work/prompts/waon-campaign.md",
+      "answer_file": "inbox/20260926-0952/waon-campaign.json"
+    },
+    {
+      "source_id": "aeonretail-otoku",
+      "hash": "1f3297ef38e5c8a450b23e03e77ac5850986f99f1766de48543ed6728f8a30f4",
+      "prompt_file": "work/prompts/aeonretail-otoku.md",
+      "answer_file": "inbox/20260926-0952/aeonretail-otoku.json"
+    }
+  ],
+  "unchanged": [],
+  "failed": [],
+  "deferred": []
+}
