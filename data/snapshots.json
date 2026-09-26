@@ -8,5 +8,75 @@
     "hash": "0b7ddbc8602dc05dda1f522e535249f02e2c8300d81522d8af29ff2ac0ef0e2a",
     "fetched_at": "2026-09-26T09:52:17+09:00",
     "chars": 969
+  },
+  "paypay-event--b13b5555": {
+    "hash": "85d9c91dcdb5d3bc7a8a51d224b0786321840a72edd3e11eb715fb8c6c5c90cb",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 8829
+  },
+  "paypay-event--34cbf1bf": {
+    "hash": "f760a123d42f6e8cbe99954f162f239930b1f410f059540686479f06509643fe",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 4942
+  },
+  "paypay-event--fd9ad360": {
+    "hash": "18a4b30ea4ee76f398f1a310026073adbc104cf82737cd7f31f2d8819d2d5929",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 10475
+  },
+  "paypay-event--c7bade14": {
+    "hash": "f5391275325beab2fdefc2b86946cdee8354b8cfec66c2e9a7b2530d0fea32dd",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 2602
+  },
+  "paypay-event--d2b08c4c": {
+    "hash": "e40946000772303af2a033b808cd4518ef905cdb9af341ce3877b97d04999934",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 5454
+  },
+  "paypay-event--769d6220": {
+    "hash": "051c574cb498f8eb43c5626ce9b0c8f839933b8d347411b989b9faf4617784a4",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 7723
+  },
+  "paypay-event--565fc9bd": {
+    "hash": "8040833c4d85f9f6dc547802be77cd7abf4be3aaf2067b3bbcfd34be4b20c34c",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 13126
+  },
+  "paypay-event--844ea371": {
+    "hash": "cbde16e21675474edca40366e09fd559906f65a588185b7932f98a6b0a7449d6",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 3270
+  },
+  "dpoint-campaign--a0a7017b": {
+    "hash": "62b0f4302430d722657d33135d1e3c19fe6e0cfa9238a6dc3498cfc23fc947c8",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 4139
+  },
+  "dpoint-campaign--b1689c12": {
+    "hash": "8af3a5e105d075a6c33984c25cea60624418f0fd5a0da76477838f275036884f",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 5227
+  },
+  "dpoint-campaign--3089826e": {
+    "hash": "2aae2690cd0a50ecf485dc3dbf7f39e3c46dbf0acf3130f4bdc6e6721280ca39",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 5566
+  },
+  "dpoint-campaign--0052309f": {
+    "hash": "141ab860cfd8789e0ea5fd147c1acb48e5cc81bf3a7e2d9aed90bae46c814837",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 4406
+  },
+  "dpoint-campaign--d53a51dc": {
+    "hash": "bfcf12a93a74d8dce82d847160f0343bfa3594e92b34b0a68fe44f06f1182aa7",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 3969
+  },
+  "dpoint-campaign--099c2c8e": {
+    "hash": "734e91e2a1ac08d4bc03a615c889e13a036be1cbaa45c027d4d082dab09587ba",
+    "fetched_at": "2026-09-26T20:51:22+09:00",
+    "chars": 3292
   }
 }

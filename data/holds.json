@@ -14,5 +14,70 @@
       "V02 エントリー必要なのにエントリーURLがない",
       "V12 公式で確認できていない（unconfirmed）"
     ]
+  },
+  "cp-1cad8e921e": {
+    "issue": 3,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-8f584bb8a7": {
+    "issue": 4,
+    "created": "2026-09-26",
+    "reasons": [
+      "V05 エントリーURLが開けない: 接続エラー: ConnectionError",
+      "V07 根拠の近くに開始日・終了日が見つからない",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-bf6a99ff9f": {
+    "issue": 5,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-057849248d": {
+    "issue": 6,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-0c7ca1e4c3": {
+    "issue": 7,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-5815e724f4": {
+    "issue": 8,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-cb0ddcda0e": {
+    "issue": 9,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-9175fe1f4c": {
+    "issue": 10,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-fe89c1b8a2": {
+    "issue": 11,
+    "created": "2026-09-26",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
   }
 }

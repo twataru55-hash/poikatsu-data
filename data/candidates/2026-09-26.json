@@ -20,5 +20,133 @@
     ],
     "source": "waon-campaign",
     "title": "WAON・AEON Payで購入して応募する抽選"
+  },
+  {
+    "id": "cp-5785968adb",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "paypay-event",
+    "title": "ザバス購入で1,000円分が1,000名に当たる"
+  },
+  {
+    "id": "cp-8634f56f56",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "paypay-event",
+    "title": "対象銀行の初登録・チャージ・支払いで最大500ポイント"
+  },
+  {
+    "id": "cp-5e2a9c68b8",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string' / period/start: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "ペイトク2の買い物特典（最大＋10％）"
+  },
+  {
+    "id": "cp-715f82e0c7",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "paypay-event",
+    "title": "海外スクラッチくじ（PayPayは韓国・台湾）"
+  },
+  {
+    "id": "cp-1cad8e921e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "メガネの愛眼・SYZで500ポイント"
+  },
+  {
+    "id": "cp-8f584bb8a7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 接続エラー: ConnectionError",
+      "V07 根拠の近くに開始日・終了日が見つからない",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパークの木曜3倍・日曜5倍"
+  },
+  {
+    "id": "cp-bf6a99ff9f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパークの土曜ポイント利用10％還元"
+  },
+  {
+    "id": "cp-057849248d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "小田急百貨店でdポイント5倍"
+  },
+  {
+    "id": "cp-0c7ca1e4c3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "小田急百貨店で抽選最大5,000ポイント"
+  },
+  {
+    "id": "cp-5815e724f4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ビックカメラ・コジマ対象店で＋10％"
+  },
+  {
+    "id": "cp-cb0ddcda0e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "多慶屋で300ポイント（第1弾）"
+  },
+  {
+    "id": "cp-9175fe1f4c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "多慶屋で300ポイント（第2弾）"
+  },
+  {
+    "id": "cp-fe89c1b8a2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "あまいけ対象3店でdポイント5倍"
   }
 ]

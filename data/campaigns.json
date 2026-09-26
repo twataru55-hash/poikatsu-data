@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "paypay",
+      "paypay-point"
+    ],
+    "title": "ザバス購入で1,000円分が1,000名に当たる",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で1,000円分",
+      "cap_per_use": 1000,
+      "cap_total": 1000,
+      "cap_unit": "円相当"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "tsuruha"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-16T00:00:00+09:00",
+      "end": "2026-10-15T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "対象ザバス1会計1,000円以上。購買情報利用への同意が必要。当選は1人1回。",
+    "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
+    "evidence_quote": "ザバス対象商品を1,000円（税込）以上PayPayで支払うと、抽選で1,000名様にPayPayポイント1,000円分が当たる！！ 期間：2026.9.16〜10.15。",
+    "confidence": "confirmed",
+    "source_id": "paypay-event",
+    "first_seen": "2026-09-26",
+    "last_verified": "2026-09-26",
+    "status_override": null,
+    "id": "cp-5785968adb"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "paypay",
+      "paypay-point"
+    ],
+    "title": "対象銀行の初登録・チャージ・支払いで最大500ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で最大500ポイント",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-08-03T00:00:00+09:00",
+      "end": "2026-09-30T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "対象銀行の初登録・本人確認後、1度に8,000円以上チャージし残高で1回1,000円以上支払う。",
+    "official_url": "https://paypay.ne.jp/event/bank-20260803/",
+    "evidence_quote": "対象銀行をはじめてチャージ用口座登録・チャージ・お支払いで最大500ポイントもらえるキャンペーン。条件1：はじめて対象銀行をチャージ用口座として登録で200ポイント、条件2：1度に8,000円以上チャージ＆PayPay残高から1回1,000円以上のお支払いで300ポイント。",
+    "confidence": "confirmed",
+    "source_id": "paypay-event",
+    "first_seen": "2026-09-26",
+    "last_verified": "2026-09-26",
+    "status_override": null,
+    "id": "cp-8634f56f56"
+  }
+]
