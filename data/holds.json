@@ -125,5 +125,83 @@
       "V10 期間上限が大きい（10000）ため確認が必要",
       "V12 公式で確認できていない（unconfirmed）"
     ]
+  },
+  "cp-845a7509d2": {
+    "issue": 18,
+    "created": "2026-09-28",
+    "reasons": [
+      "V10 期間上限が大きい（20000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-55f9ac2ca1": {
+    "issue": 19,
+    "created": "2026-09-28",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-403e363a6c": {
+    "issue": 20,
+    "created": "2026-09-28",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-0347a17b62": {
+    "issue": 21,
+    "created": "2026-09-28",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=B5uRdIls51kHEvnh3ulIK85fHiRbk74B&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=flNWbT8uElNwtPwKgzMOT7JaanZo513b&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-901cb03ed2": {
+    "issue": 22,
+    "created": "2026-09-28",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=lDvCs0QbC6UYVCD4TupH1XxAd0lebmnG&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=Wc1zGAvsk7SgBaZs5XolM48iAud3JD3H&ui_locales=ja-JP",
+      "V10 期間上限が大きい（30000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-aa3d09f12d": {
+    "issue": 23,
+    "created": "2026-09-28",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=4sBl0tV9xgCG1N5ymCLBx6RemtqxsfUQ&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=BSUqz95Ve4Vn0kzPg6dbq6qfSNi3pPqe&ui_locales=ja-JP",
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-40a9f132dd": {
+    "issue": 24,
+    "created": "2026-09-28",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=w3QlbQjzlxBh5XyS6V4WvGadyCCAKuAy&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=WwK8AFbG9N6sAtdbvmUtBfN5CWZ9vOXH&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-c90a81d7a1": {
+    "issue": 25,
+    "created": "2026-09-28",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-b7f1aa1963": {
+    "issue": 26,
+    "created": "2026-09-28",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-2b06ec7a83": {
+    "issue": 27,
+    "created": "2026-09-28",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=nEsidz1WssLKJgTUaTGA97bbwOA4xqjz&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=yYQjikkktLxYDRO0cpaFUWE5grZ9PEEV&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
   }
 }
