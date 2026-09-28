@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富士薬品 7のつく日最大5％還元",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "最大5％（通常含む・特典分月上限2,000pt）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-07T00:00:00+09:00",
+        "end": "2026-12-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "富士薬品グループ対象店、7のつく日。楽天ポイントカード提示・利用登録と楽天ペイ決済要",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0907-fujiyakuhin/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ポイントを期間中の7のつく日のお支払い合計金額に対して最大5％分進呈\n「最大5％」には最大2％の定常還元分を含みます。内訳は\n最大5％の内訳\nをご確認ください。\nお一人さまあたりの特典ポイントの上限は、ひと月あたり2,000ポイントです。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

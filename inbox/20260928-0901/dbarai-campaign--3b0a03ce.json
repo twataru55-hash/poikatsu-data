@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "オータニ×d払い 栃木SC応援キャンペーン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大20,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 20000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://gpcp229.tda.docomo.ne.jp/camsys/campaign.jsp?b=DPAYSC2608&x1=0595"
+      },
+      "conditions": "オータニ全店で1会計1,000円以上。レシート応募。タバコ・ポイント利用分等対象外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720",
+      "evidence_quote": "■キャンペーン・エントリー期間\n2026年9月1日（火）午前0：00～2026年10月31日（土）午後11：59\n■対象店舗\nオータニ 全店舗",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

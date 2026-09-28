@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "いわき市内マルト×いわきFC d払い抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選100名に500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-11T00:00:00+09:00",
+        "end": "2026-09-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "いわき市内マルト等対象店。3,500円以上、dカード設定・いわきFC券面要。たばこ対象外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_maruto_260811_7734/?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202608_7734&utm_content=a",
+      "evidence_quote": "【キャンペーン期間】\n2026年8月11日（火）～2026年9月30日（水）\n【対象店舗】\nいわきFC応援店に登録されている マルト、くすりのマルト、パワードラッグ、マルト衣料のファミリー、酒のマルトのd払い対応店舗",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

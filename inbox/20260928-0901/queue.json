@@ -1,0 +1,176 @@
+{
+  "run_id": "20260928-0901",
+  "created_at": "2026-09-28T09:01:46+09:00",
+  "items": [
+    {
+      "source_id": "paypay-event--b1aa8b60",
+      "hash": "8c1cd4b7ff7e5a131de2df1f719c4e53ccd2d14e0508b61f55366156fb111de4",
+      "prompt_file": "work/prompts/paypay-event--b1aa8b60.md",
+      "answer_file": "inbox/20260928-0901/paypay-event--b1aa8b60.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/youth-20260303/"
+    },
+    {
+      "source_id": "paypay-local",
+      "hash": "9afef22b1aa6f35e6a58ee055101ed01d4c89fc83f1d5f31297bedb9a0d011c6",
+      "prompt_file": "work/prompts/paypay-local.md",
+      "answer_file": "inbox/20260928-0901/paypay-local.json"
+    },
+    {
+      "source_id": "dbarai-campaign--3b0a03ce",
+      "hash": "f13360c76b9569b5fc8091a9dd00ffd42b83e090ae530f4819027533f30e12fc",
+      "prompt_file": "work/prompts/dbarai-campaign--3b0a03ce.md",
+      "answer_file": "inbox/20260928-0901/dbarai-campaign--3b0a03ce.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720"
+    },
+    {
+      "source_id": "dbarai-campaign--98adc542",
+      "hash": "8e5b755e22efc6bf8c0f305b5c200f66c17d164dfca6cecc92c85749fed996b5",
+      "prompt_file": "work/prompts/dbarai-campaign--98adc542.md",
+      "answer_file": "inbox/20260928-0901/dbarai-campaign--98adc542.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_marudai-akita_260901_7727/?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7727&utm_content=a"
+    },
+    {
+      "source_id": "dbarai-campaign--493022f1",
+      "hash": "29be905def84036e521b060705f90bc8c619b25e94eea68aaa750f952aa503ed",
+      "prompt_file": "work/prompts/dbarai-campaign--493022f1.md",
+      "answer_file": "inbox/20260928-0901/dbarai-campaign--493022f1.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_duskin_260401_7263/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202604_7263&utm_content=c"
+    },
+    {
+      "source_id": "dbarai-campaign--a0ffda99",
+      "hash": "87aa3ca9f8d618a8aa5783a522caa0b262d0b35969db8991c6b15efa741b8579",
+      "prompt_file": "work/prompts/dbarai-campaign--a0ffda99.md",
+      "answer_file": "inbox/20260928-0901/dbarai-campaign--a0ffda99.json",
+      "parent": "dbarai-campaign",
+      "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_maruto_260811_7734/?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202608_7734&utm_content=a"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--dd245728",
+      "hash": "bdfa21217342a4d701ca93c7d512db17361b5964b2c016b16bc4f188528ef7ac",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--dd245728.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--dd245728.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/debut-bonus/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--83dea92b",
+      "hash": "cf5243265f9743719610f79b3795c26a969bd9f14e803476be92c69ba611c5fa",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--83dea92b.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--83dea92b.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/hanakin/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--55e3a7f2",
+      "hash": "9e0a6ad985ee3b6ab6f7b273c9c074616575a13dc8f05c438d2cabd7ac0e56a3",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--55e3a7f2.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--55e3a7f2.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/pay-mobile/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--fbf2bd05",
+      "hash": "12ea39135115c56de16ec827b9efde96a9076d4eece4b7542fae017a223de0ab",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--fbf2bd05.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--fbf2bd05.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/digital-payroll/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--82dda1b0",
+      "hash": "cb2089e730854cc1cbf8bdb777d982fe61e6e741f730852b507c30086fcf8a85",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--82dda1b0.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--82dda1b0.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/2026/0803-suica/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--5d51aab0",
+      "hash": "7c94b2a6cc35b05512267e4cb980172381df4a86c41f04f5ebb44a9cdb4baeab",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--5d51aab0.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--5d51aab0.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/pay-5and0day/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--fcf77407",
+      "hash": "63e1897328f0d567af8a13ac1fa020069406a47c0f00c1127b221ce46b9efb2a",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--fcf77407.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--fcf77407.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--a5538500",
+      "hash": "dc791e651cbee41fff4aba95505f7c5636cf86ca4f2df39ac4740d96266aed64",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--a5538500.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pay-campaign--a5538500.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/2026/0907-fujiyakuhin/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--6452773e",
+      "hash": "1f5b46e8e194ea1a77ebf0f9714f919959d7af073591981977ff6639ea924687",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--6452773e.md",
+      "answer_file": "inbox/20260928-0901/rakuten-pointcard-campaign--6452773e.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/?scid=wi_pym_cpn_list"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "rakuten-pointcard-campaign--130105ad",
+    "rakuten-pointcard-campaign--9d3d63e2",
+    "rakuten-pointcard-campaign--d124277f",
+    "rakuten-pointcard-campaign--8ddc57be",
+    "rakuten-pointcard-campaign--976ff833",
+    "rakuten-pointcard-campaign--d721faf8",
+    "rakuten-pointcard-campaign--5d094389",
+    "aupay-campaign--3777f625",
+    "aupay-campaign--5e5900b6",
+    "aupay-campaign--5a3652c6",
+    "aupay-campaign--d1893548",
+    "aupay-campaign--7a593cff",
+    "aupay-campaign--6e28f09a",
+    "aupay-campaign--2c964c3d",
+    "aupay-campaign--0c331a3b",
+    "ponta-campaign",
+    "vpoint-campaign--8e775837",
+    "vpoint-campaign--53bec1ab",
+    "vpoint-campaign--3730d984",
+    "vpoint-campaign--2719a96c",
+    "vpoint-campaign--22d30b9a",
+    "vpoint-campaign--f35c6f58",
+    "vpoint-campaign--1a4dd7fd",
+    "vpoint-campaign--5db6c6dd",
+    "smbc-member-campaign",
+    "waon-campaign--74850c1c",
+    "waon-campaign--16bc60e2",
+    "waon-campaign--705fa259",
+    "waon-campaign--7c1f74b1",
+    "waon-campaign--c9dec637",
+    "waon-campaign--33fbf0ec",
+    "aeonretail-otoku--219279c2",
+    "aeonretail-otoku--71a7f92c",
+    "aeonretail-otoku--168a2d48",
+    "aeonretail-otoku--3e00c3cf",
+    "aeonretail-otoku--228cfe19",
+    "aeonretail-otoku--8fcfec19"
+  ],
+  "detail_failed": []
+}

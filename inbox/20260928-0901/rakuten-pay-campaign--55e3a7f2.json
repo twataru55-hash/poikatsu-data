@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天モバイル契約者 楽天ペイ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大30,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 30000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T10:00:00+09:00",
+        "end": "2026-10-01T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/mobile/2609?ekey=checked-wi_pym_cpn_list"
+      },
+      "conditions": "楽天モバイル対象契約、計1,500円以上・メルマガ要。ファミリーマート・ファミマ‼・TOMONY等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-mobile/?scid=wi_pym_cpn_list",
+      "evidence_quote": "〈キャンペーン期間〉2026/9/1(火)10:00～10/1(木)9:59\nキャンペーン期間中合計1,500円（税込）以上のコード・QR、セルフ払いが対象です。\nキャンペーン期間終了時点で「楽天モバイル（Rakuten最強プラン）」に関する所定の契約条件を達成している必要があります。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

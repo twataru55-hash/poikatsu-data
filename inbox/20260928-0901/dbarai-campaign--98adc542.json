@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "マルダイ d払いでdポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=4110a0f5f835148534fe3d1522a81bb3ea8ff561999b09fc2390989aca0054a2"
+      },
+      "conditions": "マルダイ全5店、税込2,500円以上。dポイント利用者登録要。たばこ等対象外。予算到達で早期終了あり",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_marudai-akita_260901_7727/?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7727&utm_content=a",
+      "evidence_quote": "マルダイ d払いキャンペーン キャンペーン期間中に2,500円（税込）以上のお買物でdポイント（期間・用途限定）5倍プレゼント 要エントリー キャンペーン期間：2026年9月1日（火）＞2026年9月30日（水）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

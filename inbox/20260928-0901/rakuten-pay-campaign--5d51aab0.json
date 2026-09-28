@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "5と0のつく日 楽天ペイ抽選で全額還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で全額還元（1日上限10,000pt）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T10:00:00+09:00",
+        "end": "2026-10-01T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/campaign/rpay/5and0/202608?ekey=checked-wi_pym_cpn_list"
+      },
+      "conditions": "対象日合計100円以上・メルマガ要。コード等決済限定、ファミリーマート・ファミマ‼・TOMONY等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-5and0day/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年8月3日（月）10:00～2026年10月1日（木）9:59\nエントリー\n必要\n特典\n対象日ごとに抽選で100名さまに、楽天ポイントを対象日のご利用合計金額に対して全額還元",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
