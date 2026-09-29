@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cp-be1dc2df4d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "富山県の対象店舗限定 楽天ペイ最大10％還元"
+  },
+  {
+    "id": "cp-5bbbdc9874",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: period/end: None is not of type 'string'"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 翌日スクラッチで全額ポイント還元"
+  },
+  {
+    "id": "cp-834f076ea8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "宮城県のヤマザワ イーグルス勝利翌日最大3％"
+  },
+  {
+    "id": "cp-9a9371f7cc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ一般店最大20％還元"
+  },
+  {
+    "id": "cp-10336a4e31",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=oseT1WlrELxNclpG3yDRkOX3EUsm0zqQ&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=jcRJHN6ObIZnLYiBd6cXCFgUyHky4BOd&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ ようこそ＆おかえり500ポイント"
+  },
+  {
+    "id": "cp-9a41552156",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=5aEPQmRf5cy6GaiLfrb89YB9aysVazTg&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=3vUFLbSTHIi9CaWyTRXYbyyXOzvJhEz1&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーエン 両カード提示で楽天ポイント5倍"
+  },
+  {
+    "id": "cp-a6e73f293f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=2ZLRKewmFw01TVMyrbKrnKfMbN4VxeBM&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=dT93ckd3EO4m3cCcOkUtZXJt4kLPbHdl&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "松屋銀座・プチプチ マルシェ 楽天ポイント2倍"
+  },
+  {
+    "id": "cp-d4d3f8ee7c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=s1q40W5PQu4UnUVJ57bjtJqmvZTY6wQP&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=QFY8NL5uqroxZ3ziKKUMeJ37PX7POAYi&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サンドラッグ・ドラッグトップス 楽天ポイント最大10倍"
+  },
+  {
+    "id": "cp-e8e7fcfa2f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=gYuFwAVAWFL1iJGZ1535dGl6xAEzPd2c&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=9OGplAFOAZc98cTULp4uyqzpQdBlbXDT&ui_locales=ja-JP",
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン×花王 楽天ポイント最大20％還元"
+  },
+  {
+    "id": "cp-dba52e881f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=4oHviaDFUjeQzkyEKHZNb2armRukOIGW&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=eWyOCU1n2MP2jRaqnqISseB9owrL94CV&ui_locales=ja-JP",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイアプリのポイントカードで最大2倍"
+  },
+  {
+    "id": "cp-5382f7349a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=qlweJACZ7tStOAkQBSRypEHoM7Xro9oq&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=LVQcEaedqpLSKC62Uw6tqkrMdpdzsJOG&ui_locales=ja-JP",
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペングループ 抽選100名に全額ポイントバック"
+  }
+]
