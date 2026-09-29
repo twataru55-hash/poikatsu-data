@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 翌日スクラッチで全額ポイント還元",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選で1等100％、2等5％、3等1ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T10:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "コード・QR/セルフで200円以上、翌日抽選。日上限1万pt。ファミリーマート・ファミマ‼・TOMONY等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-scratch/?scid=wi_pym_cpn_list",
+      "evidence_quote": "抽選で以下の特典を進呈\n1等：楽天ポイント100%還元\n2等：楽天ポイント5%還元\n3等：楽天ポイント1ポイント\n抽選は対象のお支払いをした翌日にスクラッチを削ることで実施されます。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

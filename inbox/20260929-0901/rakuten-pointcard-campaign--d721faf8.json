@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アルペングループ 抽選100名に全額ポイントバック",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選100名に全額ポイントバック",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T09:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/alpen/20260901?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "アルペングループ対象店限定。登録済カード提示で税抜200円以上購入・メルマガ購読。スポーツデポ名古屋南店対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/alpen/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【アルペングループ】［アルペンポイントと楽天ポイントがダブルで使える！貯まる！］対象店舗で楽天ポイントカードを提示のうえ200円（税抜）以上お買い物すると抽選で100名さまに楽天ポイント全額ポイントバック！\n〈キャンペーン期間〉\n2026/9/1(火)9:00〜9/30(水)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

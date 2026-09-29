@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "宮城県のヤマザワ イーグルス勝利翌日最大3％",
+      "benefit": {
+        "rate_max": 3,
+        "rate_text": "最大3％（通常進呈分最大1.5％含む）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-10T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "宮城県内のスーパーヤマザワ対象店限定。楽天イーグルス勝利翌日にコード・QR払い。終了日の試合勝利も翌日対象",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yamazawa/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ヤマザワ宮城県内の店舗限定！楽天イーグルスが勝った翌日は楽天ペイのコード・QR払いで楽天ポイント最大3％還元\n〈キャンペーン期間〉\n2026/9/1(火)0:00～10/10(土)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

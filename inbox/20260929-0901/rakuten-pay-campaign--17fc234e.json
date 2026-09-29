@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "由利本荘市 楽天ペイ一般店最大20％還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "一般店最大20％、大型店最大5％",
+        "cap_per_use": 1000,
+        "cap_total": 5000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "由利本荘市内の対象店舗でコード・QR払い、セルフ払い。対象外商品等あり。予算上限に達し次第終了の可能性あり",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【由利本荘市】由利本荘市の対象店舗で開催　楽天ペイのコード・QR払いで、一般店でお買い物した場合は楽天ポイント最大20％還元　大型店でお買い物した場合は楽天ポイント最大5％還元（期間中の進呈上限：5,000ポイント）\n〈キャンペーン期間〉\n2026/9/1(火)0:00～12/31(木)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

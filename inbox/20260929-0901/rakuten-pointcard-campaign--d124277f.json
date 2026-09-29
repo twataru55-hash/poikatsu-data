@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サンドラッグ・ドラッグトップス 楽天ポイント最大10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "サンドラッグアプリ内10倍、その他2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/sundrug/20260901?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "サンドラッグ・ドラッグトップス限定。登録済カード提示で税抜200円以上購入・メルマガ購読。調剤薬局は10倍対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sundrug/20260915/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【サンドラッグ ドラッグトップス】サンドラッグアプリ内の楽天ポイントカードを提示して200円（税抜）以上お買い物をすると楽天ポイント10倍　または、サンドラッグアプリ以外の楽天ポイントカードを提示して条件達成すると楽天ポイント2倍\n〈キャンペーン期間〉\n2026/9/15(火)0:00～2026/9/30(水)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

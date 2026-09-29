@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーエン 両カード提示で楽天ポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "通常の5倍（特典分4倍）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-18T10:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/coen/20260918?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "コーエン対象店限定。会員証と楽天ポイントカード提示で税抜200円以上購入。カード利用登録・メルマガ購読が必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/coen/20260918/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【コーエン】「coen MEMBER'S会員証」と「楽天ポイントカード」の両方を提示して200円（税抜）以上お買い物をすると楽天ポイント5倍\n〈キャンペーン期間〉\n2026/9/18(金)10:00～9/30(水)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

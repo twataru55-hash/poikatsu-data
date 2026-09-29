@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "楽天ペイアプリのポイントカードで最大2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初回は2倍、既存は抽選2万名に2倍",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T10:00:00+09:00",
+        "end": "2026-10-01T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/campaign/pp/payapp/202609?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "アプリ内の登録済カード提示で1pt以上獲得・メルマガ購読。ファミリーマート・ファミマ!!・TOMONY除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/entire/payapp-pointcard/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ペイアプリのポイントカードを提示してお買い物すると楽天ポイント2倍 【「はじめての方」もれなく全員に！ 「いつもの方」抽選で20,000名さまに！】\n〈キャンペーン期間〉\n2026/9/1(火)10:00～10/1(木)9:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

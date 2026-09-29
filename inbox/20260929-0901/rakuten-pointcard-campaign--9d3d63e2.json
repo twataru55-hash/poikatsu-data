@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "松屋銀座・プチプチ マルシェ 楽天ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "通常の2倍（特典分1倍）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-16T00:00:00+09:00",
+        "end": "2026-09-29T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/matsuya/20260916?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "松屋銀座・プチプチ マルシェ対象店でカード提示し税込5,000円以上。カード利用登録・メルマガ購読が必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/matsuya/20260916/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【松屋銀座 プチプチマルシェ】松屋銀座、プチプチマルシェの対象店舗で楽天ポイントカード（アプリを含む）を提示した1回あたり5,000円（税込）以上のお会計に対して楽天ポイント2倍\n〈キャンペーン期間〉\n2026/9/16(水)0:00～9/29(火)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+

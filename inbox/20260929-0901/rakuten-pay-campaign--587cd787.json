@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ ようこそ＆おかえり500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "500ポイント（1回限り）",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/welcomeinvitation/20260901"
+      },
+      "conditions": "初回・久しぶり対象者限定。対象月にエントリー・メルマガ購読、指定決済期間に合計2,500円以上。1回限り",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ペイアプリでのコード・QR払いが初めての方※1、久しぶりの方※1は楽天ポイント500ポイントがもれなくもらえる！\n〈キャンペーン期間〉\n2026/8/1(土)0:00～2027/1/31(日)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
+
