@@ -12,6 +12,8 @@ import shutil
 import sys
 from datetime import timedelta
 
+from campaign_shape import publication_errors
+
 from common import (
     DATA_DIR,
     DIST_DIR,
@@ -26,6 +28,13 @@ from common import (
 )
 
 MAX_BYTES = 2 * 1024 * 1024
+
+
+def require_publishable(campaigns: list[dict]) -> None:
+    for c in campaigns:
+        errors = publication_errors(c)
+        if errors:
+            raise ValueError("採用済みデータの必須値・形式が不正: " + " / ".join(errors[:5]))
 
 
 def archive_old(campaigns: list[dict], days: int) -> list[dict]:
@@ -46,6 +55,7 @@ def archive_old(campaigns: list[dict], days: int) -> list[dict]:
 
 
 def make_bundle(campaigns: list[dict], master: dict, config: dict, channel: str) -> dict:
+    require_publishable(campaigns)
     now = now_jst()
     within = now + timedelta(days=int(config.get("bundle", {}).get("upcoming_within_days", 30)))
     selected = []
@@ -132,6 +142,11 @@ def build() -> dict:
     config = load_config()
     master = load_master()
     campaigns = load_json(DATA_DIR / "campaigns.json", [])
+    # アーカイブや保存より前に止め、前回のstaging/liveをそのまま残す。
+    try:
+        require_publishable(campaigns)
+    except ValueError as e:
+        return {"staging": False, "live": False, "anomaly": [], "error": str(e)}
     campaigns = archive_old(campaigns, int(config.get("bundle", {}).get("archive_after_days", 7)))
     save_json(DATA_DIR / "campaigns.json", campaigns)
 

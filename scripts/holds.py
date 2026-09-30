@@ -91,12 +91,14 @@ class GitHub:
 
 def _field_table(c: dict) -> str:
     b, s, p, e = c.get("benefit", {}), c.get("scope", {}), c.get("period", {}), c.get("entry", {})
+    required = e.get("required")
+    entry_label = "必要" if required is True else "不要" if required is False else "不明"
     rows = [
         ("種類", c.get("type")), ("ブランド", ", ".join(c.get("brand_ids", []))), ("タイトル", c.get("title")),
         ("還元", f"{b.get('rate_text')}（最大 {b.get('rate_max')}%／1回上限 {b.get('cap_per_use')}／期間上限 {b.get('cap_total')} {b.get('cap_unit') or ''}）"),
         ("対象", f"{s.get('kind')} {', '.join(s.get('store_ids', []) + s.get('prefecture_codes', []))} {s.get('municipality') or ''}"),
-        ("期間", f"{p.get('start')} 〜 {p.get('end')}"),
-        ("エントリー", f"{'必要' if e.get('required') else '不要'} {e.get('url') or ''}"),
+        ("期間", f"{p.get('start') or '不明'} 〜 {p.get('end') or '不明'}"),
+        ("エントリー", f"{entry_label} {e.get('url') or ''}"),
         ("条件", c.get("conditions")), ("公式URL", c.get("official_url")), ("確度", c.get("confidence")),
     ]
     return "\n".join(["| 項目 | 内容 |", "|---|---|"] + [f"| {k} | {str(v or '').replace('|', '／')} |" for k, v in rows])

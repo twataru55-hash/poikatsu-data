@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 
 from build import build
+from campaign_shape import publication_errors
 from candidates import apply_update, match_existing, normalize
 from check_master import check_master, needs_verify, verify_online
 from common import (
@@ -59,7 +60,7 @@ def process_items(raw_items: list, src: dict, page_text: str, campaigns: list[di
         stats["candidates"] += 1
         c = normalize(raw, src)
         kind, existing = match_existing(c, campaigns)
-        if kind == "same":
+        if kind == "same" and not publication_errors(c):
             existing["last_verified"] = today_str()
             stats["same"] += 1
             cand_log.append({"id": existing["id"], "result": "same", "source": src["id"]})

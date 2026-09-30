@@ -1,12 +1,15 @@
 """配信ファイルの中身と異常検知。"""
 from build import detect_anomaly, make_bundle
+from copy import deepcopy
+from test_validate import BASE
 
 CONFIG = {"bundle": {"upcoming_within_days": 30}, "anomaly": {"max_change_ratio": 0.3, "min_items_for_ratio": 10, "max_removed_per_run": 10}}
 
 
 def camp(i, start="2026-10-01T00:00:00+09:00", end="2026-10-31T23:59:59+09:00"):
-    return {"id": f"cp-{i:010x}", "period": {"start": start, "end": end}, "status_override": None,
-            "evidence_quote": "x", "source_id": "s", "first_seen": "2026-10-01"}
+    c = deepcopy(BASE)
+    c.update(id=f"cp-{i:010x}", period={"start": start, "end": end})
+    return c
 
 
 MASTER = {

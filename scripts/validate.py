@@ -11,18 +11,14 @@ from dataclasses import dataclass, field
 from datetime import timedelta
 from typing import Callable
 
-from jsonschema import Draft202012Validator
+from campaign_shape import CANDIDATE_VALIDATOR, unknown_required_fields
 
 from common import (
-    SCHEMA_DIR,
     domain_allowed,
-    load_json,
     normalize_text,
     now_jst,
     parse_dt,
 )
-
-_CAMPAIGN_VALIDATOR = Draft202012Validator(load_json(SCHEMA_DIR / "campaign.schema.json"))
 
 
 @dataclass
@@ -78,11 +74,15 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
     now = now_jst()
 
     # V01 形のチェック（壊れていたら破棄）
-    if ctx.run("V01"):
-        errors = sorted(_CAMPAIGN_VALIDATOR.iter_errors(c), key=lambda e: list(e.path))
-        if errors:
-            msgs = [f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message}" for e in errors[:5]]
-            return "discard", ["V01 形式エラー: " + " / ".join(msgs)]
+    # 形と不明値のゲートは、承認経路や検査番号の指定でも省略しない。
+    errors = sorted(CANDIDATE_VALIDATOR.iter_errors(c), key=lambda e: list(e.path))
+    if errors:
+        msgs = [f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message}" for e in errors[:5]]
+        return "discard", ["V01 形式エラー: " + " / ".join(msgs)]
+    missing = unknown_required_fields(c)
+    if missing:
+        # 不明な日付をparse_dtへ渡さず、falseや仮の日付を補わず保留する。
+        return "hold", missing
 
     scope = c.get("scope") or {}
     entry = c.get("entry") or {}

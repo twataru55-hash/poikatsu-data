@@ -159,7 +159,7 @@
             ],
             "properties": {
               "required": {
-                "type": "boolean"
+                "type": ["boolean", "null"]
               },
               "url": {
                 "type": [

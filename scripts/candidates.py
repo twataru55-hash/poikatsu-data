@@ -61,7 +61,7 @@ def normalize(raw: dict, source: dict) -> dict:
             "municipality": _clean_str(scope.get("municipality")) or None,
         },
         "period": {"start": _norm_dt(period.get("start"), False), "end": _norm_dt(period.get("end"), True)},
-        "entry": {"required": bool(entry.get("required")), "url": _clean_str(entry.get("url")) or None},
+        "entry": {"required": entry.get("required"), "url": _clean_str(entry.get("url")) or None},
         "conditions": _clean_str(raw.get("conditions")) or None,
         "official_url": _clean_str(raw.get("official_url")) or source.get("url"),
         "evidence_quote": _clean_str(raw.get("evidence_quote")) or "",

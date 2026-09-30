@@ -8,6 +8,7 @@ import sys
 from pathlib import Path
 
 import yaml
+import pytest
 
 REPO = Path(__file__).resolve().parent.parent
 
@@ -84,7 +85,8 @@ def read(repo, rel):
     return json.loads((repo / rel).read_text(encoding="utf-8"))
 
 
-def test_manual_flow(tmp_path):
+@pytest.mark.parametrize("unknown", [False, True])
+def test_manual_flow(tmp_path, unknown):
     repo = tmp_path / "repo"
     shutil.copytree(REPO, repo, ignore=shutil.ignore_patterns(".git", "work", "__pycache__", ".pytest_cache", "inbox"))
     for p in ["data/campaigns.json", "data/rejected.json"]:
@@ -114,7 +116,11 @@ def test_manual_flow(tmp_path):
     assert read(repo, "data/snapshots.json") == {}  # PC側はスナップショットを触らない
 
     # 2) PC：ChatGPT の代わりに3件だけ回答を書く → 形チェック
-    (repo / "_ans.py").write_text(ANSWER, encoding="utf-8")
+    answer_code = ANSWER
+    if unknown:
+        answer_code = answer_code.replace('entry={"required": False, "url": None}', 'entry={"required": None, "url": None}')
+        answer_code = answer_code.replace('"end": "2026-10-31T23:59:59+09:00"', '"end": None')
+    (repo / "_ans.py").write_text(answer_code, encoding="utf-8")
     subprocess.run([sys.executable, "_ans.py", f"inbox/{prep['run_id']}/queue.json"], cwd=repo, check=True, env=ENV)
     chk = subprocess.run([sys.executable, "scripts/check_answers.py"], cwd=repo, capture_output=True, text=True,
                          encoding="utf-8", env=ENV)
@@ -127,14 +133,22 @@ def test_manual_flow(tmp_path):
     # 3) GitHub：取り込み
     ing = json.loads(run(repo, INGEST))
     assert ing["ok"] and ing["mode"] == "ingest"
-    assert ing["accepted_new"] == 2 and ing["llm_calls"] == 3 and ing["llm_skipped"] == len(unanswered_ids)
+    assert ing["accepted_new"] == (1 if unknown else 2) and ing["llm_calls"] == 3 and ing["llm_skipped"] == len(unanswered_ids)
+    assert ing["held"] == (1 if unknown else 0) and ing["discarded"] == 0
     snaps = read(repo, "data/snapshots.json")
     assert set(snaps) == answered_ids
     assert (repo / "data" / "inbox_done" / prep["run_id"] / "queue.json").exists()
     bundle = read(repo, "dist/staging/poikatsu.json")
     by_title = {c["title"]: c for c in bundle["campaigns"]}
     assert by_title["コンビニで最大10%戻ってくる"]["entry"]["url"] == "https://paypay.ne.jp/entry/test/"
-    assert "対象のお店で最大5%戻ってくる" in by_title
+    assert ("対象のお店で最大5%戻ってくる" in by_title) is (not unknown)
+    if unknown:
+        saved = read(repo, f"data/inbox_done/{prep['run_id']}/paypay-local.json")["campaigns"][0]
+        assert saved["entry"]["required"] is None and saved["period"]["end"] is None
+        held = read(repo, "data/holds.json")
+        assert len(held) == 1
+        assert any("entry.required" in r for h in held.values() for r in h["reasons"])
+        assert any("period.end" in r for h in held.values() for r in h["reasons"])
 
     # 4) 次の朝：回答済み（空回答も含む）は再依頼せず、未回答ページだけを再依頼する。
     prep2 = json.loads(run(repo, PREPARE))
