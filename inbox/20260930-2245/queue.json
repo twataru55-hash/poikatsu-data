@@ -1,0 +1,180 @@
+{
+  "run_id": "20260930-2245",
+  "created_at": "2026-09-30T22:45:06+09:00",
+  "items": [
+    {
+      "source_id": "paypay-event--b1aa8b60",
+      "hash": "8c1cd4b7ff7e5a131de2df1f719c4e53ccd2d14e0508b61f55366156fb111de4",
+      "prompt_file": "work/prompts/paypay-event--b1aa8b60.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--b1aa8b60.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/youth-20260303/"
+    },
+    {
+      "source_id": "paypay-event--33aa1d9f",
+      "hash": "8aa32e486857603bcfc276ab0b8765b3b8f39f22931c81274e2610cabb691dfb",
+      "prompt_file": "work/prompts/paypay-event--33aa1d9f.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--33aa1d9f.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/bank-stepup-20250317/"
+    },
+    {
+      "source_id": "paypay-event--78d8497b",
+      "hash": "bf441cc7e143c06cd93b60602f34f8500e0ccbeb6bc505adbddc97fc488c004d",
+      "prompt_file": "work/prompts/paypay-event--78d8497b.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--78d8497b.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/retail-daiopaper-20261005/"
+    },
+    {
+      "source_id": "paypay-event--d59cb93a",
+      "hash": "12467ab85228bd7d0de3b2fdb3bc5eb255cbbe12e07f7c3a1d9abe0c8d56bcc7",
+      "prompt_file": "work/prompts/paypay-event--d59cb93a.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--d59cb93a.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/kohnan-20261001/"
+    },
+    {
+      "source_id": "paypay-event--0af219aa",
+      "hash": "e145371d3b0d423612068501488d2440c24a2b8dd10944b2dfe6311c53162a6d",
+      "prompt_file": "work/prompts/paypay-event--0af219aa.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--0af219aa.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/matsuya-20261001/"
+    },
+    {
+      "source_id": "paypay-event--2698e468",
+      "hash": "9e29818767779e68d858760861a2e6c814a33d9a7ac5fc089e0fe0cea29f6b24",
+      "prompt_file": "work/prompts/paypay-event--2698e468.md",
+      "answer_file": "inbox/20260930-2245/paypay-event--2698e468.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/youth-ekyc-20261001/"
+    },
+    {
+      "source_id": "paypay-local",
+      "hash": "44e0ec25521573efb2723e2acd45dbf3c9833ff5e08d90a68e94e5cfc8eb4737",
+      "prompt_file": "work/prompts/paypay-local.md",
+      "answer_file": "inbox/20260930-2245/paypay-local.json"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--b0e925d9",
+      "hash": "a90d7f1b1c97b764862eb57529cbaea9ede045c46b6f5a0a8eba9633a5cce9c5",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--b0e925d9.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pay-campaign--b0e925d9.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--65ce2a22",
+      "hash": "b8ec82d05bd5129f966e57a31372b287f209aefc60f5e410064d37cdbd51dd05",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--65ce2a22.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--65ce2a22.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--92a0f5f6",
+      "hash": "a74f6ba606b75a81af863744937fbaceeda2dd96904e32078273ec72ec681a16",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--92a0f5f6.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--92a0f5f6.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/uber/20260907/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--90f89e10",
+      "hash": "05eaa940821b872c0c291febc3586d323baea68d0546adc325410633aca706d4",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--90f89e10.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--90f89e10.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/alpen/20260901/golf5/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--40d99224",
+      "hash": "d6942623dd8b6813a76532795b1905a8450c6e5180522ac6951836987ea320ea",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--40d99224.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--40d99224.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20260901/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--6056a8c7",
+      "hash": "68f432bae6e500ef26fdf7b6d928984791171ac11a66a4df557a404c5fbf7af8",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--6056a8c7.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--6056a8c7.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/hihirose/20260901/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--7a6fb4d2",
+      "hash": "effbd3708c6ea2323b53eb9b07bdfa4c8199f436867d8cd7debf752c2a344842",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--7a6fb4d2.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--7a6fb4d2.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20260901/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--cfe49a4e",
+      "hash": "0ff0e6c7324fd08a5a7203f893eb48c5c483478bdc3bc0abb9d1c7b620104e41",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--cfe49a4e.md",
+      "answer_file": "inbox/20260930-2245/rakuten-pointcard-campaign--cfe49a4e.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/gyokkodo/20250701/?scid=wi_pym_cpn_list"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "rakuten-pointcard-campaign--f018ca06",
+    "aupay-campaign--7a593cff",
+    "aupay-campaign--6e28f09a",
+    "aupay-campaign--2c964c3d",
+    "aupay-campaign--0c331a3b",
+    "aupay-campaign--91d74267",
+    "aupay-campaign--6f6c9f77",
+    "aupay-campaign--9201120d",
+    "ponta-campaign",
+    "vpoint-campaign--8e775837",
+    "vpoint-campaign--53bec1ab",
+    "vpoint-campaign--3730d984",
+    "vpoint-campaign--2719a96c",
+    "vpoint-campaign--22d30b9a",
+    "vpoint-campaign--f35c6f58",
+    "vpoint-campaign--1a4dd7fd",
+    "vpoint-campaign--5db6c6dd",
+    "waon-campaign--74850c1c",
+    "waon-campaign--16bc60e2",
+    "waon-campaign--705fa259",
+    "waon-campaign--7c1f74b1",
+    "waon-campaign--c9dec637",
+    "waon-campaign--33fbf0ec",
+    "aeonretail-otoku--3bbc7465",
+    "aeonretail-otoku--219279c2",
+    "aeonretail-otoku--71a7f92c",
+    "aeonretail-otoku--168a2d48",
+    "aeonretail-otoku--3e00c3cf",
+    "aeonretail-otoku--228cfe19",
+    "aeonretail-otoku--8fcfec19"
+  ],
+  "detail_failed": [
+    {
+      "source_id": "aupay-campaign--cfd60680",
+      "url": "https://aupay-cp.auone.jp/202609_ucc?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_ucc?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202609_ucc?"
+    },
+    {
+      "source_id": "aupay-campaign--0bab481b",
+      "url": "https://aupay-cp.auone.jp/202609_matsuya_mechacomic?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202609_matsuya_mechacomic?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "エリスルナフィット購入で最大30％還元",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "最大30％還元",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ツルハの対象店でルナフィット購入（シンプル除外）。見せる支払い・11/2まで購買情報同意。",
+      "official_url": "https://paypay.ne.jp/event/retail-daiopaper-20261005/",
+      "evidence_quote": "キャンペーン期間中、対象店舗において、エリス ルナフィット商品を購入し、支払いに「PayPay」をご利用いただいた方に対して、最大30％のPayPayポイントを後日付与。付与上限は500ポイント／期間。Alipay（支付宝）・kakaopay・HIVEX事業者などでのお支払いは対象外です。",
+      "confidence": "confirmed"
+    }
+  ]
+}

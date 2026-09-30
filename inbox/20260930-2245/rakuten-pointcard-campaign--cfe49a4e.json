@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "玉光堂等で新譜予約・店頭購入ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "玉光堂・バンダレコード・ライオン堂限定。新譜を店頭か電話で予約。受取時カード提示・税抜100円以上。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/gyokkodo/20250701/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2025年7月1日（火）0:00～常時開催",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

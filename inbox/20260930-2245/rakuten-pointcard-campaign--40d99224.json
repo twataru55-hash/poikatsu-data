@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン9月指定日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で最大7倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友・リヴィン9月指定日限定（最終9/28）。税抜日計2,500円以上・提示。最大はアプリ＋対象決済。日250pt。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月1日（火）0:00～2026年9月30日（水）23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

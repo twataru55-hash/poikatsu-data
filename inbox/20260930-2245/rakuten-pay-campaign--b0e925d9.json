@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "NEXCO中日本の対象SA・PAで抽選1万pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-20T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/cnexco?ekey=checked-wi_pym_cpn_list"
+      },
+      "conditions": "NEXCO中日本の対象SA・PA限定。1回税込1,000円以上コード・QR払い、メルマガ購読・スタンプ。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年10月1日（木）0:00～2026年12月20日（日）23:59",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "NEXCO中日本の対象SA・PA最大8％予定",
+      "benefit": {
+        "rate_max": 8,
+        "rate_text": "最大8％還元（開催予定）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-25T00:00:00+09:00",
+        "end": "2027-01-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "NEXCO中日本の対象SA・PA限定。条件達成が必要だが、詳細条件は本文に記載なし。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "evidence_quote": "対象のサービスエリア/パーキングエリア限定 条件達成すると最大楽天ポイント8％還元 要エントリー 開催予定期間：2026年12月25日（金）～2027年1月11日（月・祝）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

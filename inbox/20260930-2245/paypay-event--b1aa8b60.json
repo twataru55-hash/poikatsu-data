@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "U18チャージと支払いで最大2％上乗せ",
+      "benefit": {
+        "rate_max": 2,
+        "rate_text": "最大2％上乗せ",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "12〜18歳・本人確認。毎月1度2,000円以上チャージ後に残高払い。銀行チャージで合計2％。",
+      "official_url": "https://paypay.ne.jp/event/youth-20260303/",
+      "evidence_quote": "毎月1度に2,000円以上チャージしてPayPay残高でお支払いすると、お支払い金額に対して1％のPayPayポイントがもらえます。PayPay銀行からチャージした場合は1％上乗せされ、合計2％のPayPayポイントがもらえます。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

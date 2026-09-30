@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ゴルフ5でカード提示・買替査定額最大20％UP",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "買取査定額最大20％UP",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T09:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ゴルフ5等対象店限定。カード提示とクラブ買取依頼。買取のみ10％、成約時買替20％。併用・単品アイアン除外。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/alpen/20260901/golf5/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月1日（火）9:00～2026年9月30日（水）23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー9月対象土曜に条件達成で最大5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で最大5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "サニー限定。9/5・12・19・26。税抜2,500円以上・カード提示。最大には楽天Edy決済・利用登録。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月1日（火）0:00～2026年9月30日（水）23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
