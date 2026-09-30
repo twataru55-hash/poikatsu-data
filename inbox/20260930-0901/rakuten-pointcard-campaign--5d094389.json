@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン アプリ連携・提示で楽天ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/kohnan/20260901?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "コーナン等の指定店舗限定。コーナンプラス登録・カード連携、会員コード提示で税抜200円以上、メルマガ購読",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年9月1日（火）0:00～2026年10月31日（土）23:59\nエントリー\n必要\n特典\n楽天ポイントを通常の2倍分進呈",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

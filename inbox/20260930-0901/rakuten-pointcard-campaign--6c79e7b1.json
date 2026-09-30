@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ 抽選で楽天ポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で5,000名に楽天ポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/arclands/20261001?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "ビバホーム・ホームセンタームサシ等の指定店舗限定。カード提示で税抜2,000円以上、メルマガ購読",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年10月1日（木）0:00～2026年10月31日（土）23:59\nエントリー期間\n2026年9月29日（火）0:00～2026年10月31日（土）23:59\nエントリー\n必要\n特典\n抽選で5,000名さまに楽天ポイントを通常の5倍分進呈",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

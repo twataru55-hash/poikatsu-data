@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "セブンスター 楽天100万ポイント山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100万ポイント山分け",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "セブンスター対象店限定。カード提示で税抜200円以上・1ポイント以上獲得、利用登録。店舗別導入日あり",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sevenstar/20260924/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年9月24日（木）0:00～2026年10月31日（土）23:59\n特典\n楽天ポイント100万ポイントを山分けにて進呈",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

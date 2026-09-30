@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ENEOS 初めてのカード利用で抽選500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で1,000名に500ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/eneos/20260803?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "ENEOS対象店限定。初めて楽天ポイントカードを提示し税抜600円以上・1ポイント以上獲得、メルマガ購読",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/eneos/20260803/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年8月3日（月）0:00～2026年9月30日（水）23:59\nエントリー\n必要\n特典\n【特典1】\n抽選で1,000名さまに楽天ポイントを500ポイント進呈",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ファミリーマート ラインソックスクーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初回はもれなく、他は抽選でクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-09-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/campaign/familymart/20260901/coupon?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "カード提示で税込計3,000円以上、楽天ペイのコード・QR払い、メルマガ購読。初回の定義は公式参照",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/familymart/20260901/coupon/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キャンペーン\n期間\n2026年9月1日（火）0:00～2026年9月30日（水）23:59\nエントリー\n必要\n参加方法\nキャンペーン期間中に、ファミリーマートで楽天ポイントカードを提示して合計3,000円（税込）以上ご購入のうえ、楽天ペイのコード・QR払いにて1回以上お支払い",
+      "confidence": "confirmed"
+    }
+  ]
+}
