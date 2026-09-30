@@ -69,11 +69,6 @@
     "fetched_at": "2026-09-26T20:51:22+09:00",
     "chars": 4406
   },
-  "dpoint-campaign--d53a51dc": {
-    "hash": "bfcf12a93a74d8dce82d847160f0343bfa3594e92b34b0a68fe44f06f1182aa7",
-    "fetched_at": "2026-09-26T20:51:22+09:00",
-    "chars": 3969
-  },
   "dpoint-campaign--099c2c8e": {
     "hash": "734e91e2a1ac08d4bc03a615c889e13a036be1cbaa45c027d4d082dab09587ba",
     "fetched_at": "2026-09-26T20:51:22+09:00",
@@ -194,30 +189,10 @@
     "fetched_at": "2026-09-28T09:01:46+09:00",
     "chars": 2894
   },
-  "rakuten-pay-campaign--fcf77407": {
-    "hash": "63e1897328f0d567af8a13ac1fa020069406a47c0f00c1127b221ce46b9efb2a",
-    "fetched_at": "2026-09-28T09:01:46+09:00",
-    "chars": 2346
-  },
-  "rakuten-pay-campaign--a5538500": {
-    "hash": "dc791e651cbee41fff4aba95505f7c5636cf86ca4f2df39ac4740d96266aed64",
-    "fetched_at": "2026-09-28T09:01:46+09:00",
-    "chars": 3878
-  },
-  "rakuten-pointcard-campaign--6452773e": {
-    "hash": "1f5b46e8e194ea1a77ebf0f9714f919959d7af073591981977ff6639ea924687",
-    "fetched_at": "2026-09-28T09:01:46+09:00",
-    "chars": 8129
-  },
   "dbarai-campaign--f44fe88a": {
     "hash": "2a24bafc751a3dcea386b3ca6044c72bb0a11039d7dd1e97bf4d26ff6d8af751",
     "fetched_at": "2026-09-29T09:01:42+09:00",
     "chars": 5396
-  },
-  "rakuten-pay-campaign--2859221a": {
-    "hash": "20f04ec0187eac096544392845877613a6cc1536b4dc4c4a66359ccb2eb4008a",
-    "fetched_at": "2026-09-29T09:01:42+09:00",
-    "chars": 5387
   },
   "rakuten-pay-campaign--e55739a3": {
     "hash": "57075908d69630e4d79ebc84289d0a49aca36dfaa0f690f556fba73fa901086e",
@@ -229,20 +204,10 @@
     "fetched_at": "2026-09-29T09:01:42+09:00",
     "chars": 1996
   },
-  "rakuten-pay-campaign--ced1dcad": {
-    "hash": "245b708a54af675f6203eccb9dc50e0c86ea25caa48588120d39816258ef9ca4",
-    "fetched_at": "2026-09-29T09:01:42+09:00",
-    "chars": 2567
-  },
   "rakuten-pay-campaign--17fc234e": {
     "hash": "fdf92716dda0a28dbb6e6609601f01ab556abf6af747414a8a01e75057b7df58",
     "fetched_at": "2026-09-29T09:01:42+09:00",
     "chars": 2460
-  },
-  "rakuten-pay-campaign--587cd787": {
-    "hash": "6c4479ea4f389c371afba2d5bd35062590fb00c14be348f870845137e6a0088f",
-    "fetched_at": "2026-09-29T09:01:42+09:00",
-    "chars": 6488
   },
   "rakuten-pointcard-campaign--130105ad": {
     "hash": "ab1c12c6ba19404a1fdaa5d71cd8bc95cad36999d0f6406f392c8857c73daeaa",
@@ -274,16 +239,6 @@
     "fetched_at": "2026-09-29T09:01:42+09:00",
     "chars": 8524
   },
-  "rakuten-pointcard-campaign--6c79e7b1": {
-    "hash": "c2e6cddb2ca0329f21571b97ffd1b81d6ab449c1048bcd07b1aab5d7921ace71",
-    "fetched_at": "2026-09-30T09:01:49+09:00",
-    "chars": 8173
-  },
-  "rakuten-pointcard-campaign--5d094389": {
-    "hash": "8f1c9177d28252fdf524b420ee6b4443389b233b938b74ff8b4c97054e2460ff",
-    "fetched_at": "2026-09-30T09:01:49+09:00",
-    "chars": 8093
-  },
   "rakuten-pointcard-campaign--a8377f87": {
     "hash": "13462efd3c44474751563114e02301a695ed3eee43fc7d2959fb33c1c0a5e5eb",
     "fetched_at": "2026-09-30T09:01:49+09:00",
@@ -308,11 +263,6 @@
     "hash": "b99ef7ec19d708b0e9161eecf03ba32662a913315f265d8315eae359aaf90179",
     "fetched_at": "2026-09-30T09:01:49+09:00",
     "chars": 10580
-  },
-  "rakuten-pointcard-campaign--6da755e9": {
-    "hash": "486c277b04fdcc3070f164c6766f50007444939e5c176936c45a7c96a9da5657",
-    "fetched_at": "2026-09-30T09:01:49+09:00",
-    "chars": 7483
   },
   "aupay-campaign--3777f625": {
     "hash": "974530f35cc8cb1fe20f2b35f8242be7252459ca5add447aa4f81ff1c7ac932c",
@@ -363,16 +313,6 @@
     "hash": "44e0ec25521573efb2723e2acd45dbf3c9833ff5e08d90a68e94e5cfc8eb4737",
     "fetched_at": "2026-09-30T22:45:06+09:00",
     "chars": 4621
-  },
-  "rakuten-pay-campaign--b0e925d9": {
-    "hash": "a90d7f1b1c97b764862eb57529cbaea9ede045c46b6f5a0a8eba9633a5cce9c5",
-    "fetched_at": "2026-09-30T22:45:06+09:00",
-    "chars": 4086
-  },
-  "rakuten-pointcard-campaign--65ce2a22": {
-    "hash": "b8ec82d05bd5129f966e57a31372b287f209aefc60f5e410064d37cdbd51dd05",
-    "fetched_at": "2026-09-30T22:45:06+09:00",
-    "chars": 10879
   },
   "rakuten-pointcard-campaign--92a0f5f6": {
     "hash": "a74f6ba606b75a81af863744937fbaceeda2dd96904e32078273ec72ec681a16",
