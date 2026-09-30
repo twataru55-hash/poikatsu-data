@@ -204,12 +204,14 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
 
 def http_url_checker(config: dict):
     """V05 用：URL が 200 で開け、最終URLが公式ドメイン内かを確かめる関数を返す。"""
-    from common import http_session
+    from common import domain_of, http_session
 
     fetch = config.get("fetch", {})
     headers = {"User-Agent": fetch.get("user_agent", "PoikatsuKouryakuBot/1.0")}
     timeout = int(fetch.get("timeout_sec", 20))
     cache: dict[str, tuple[bool, str]] = {}
+    # 公式のエントリーURLが、公式のログイン画面へ転送されるのは正常（エントリーにログインが必要なため）
+    login_hosts = {h.lower() for h in config.get("validation", {}).get("login_redirect_hosts", [])}
 
     def check(url: str, allowed: set) -> tuple[bool, str]:
         if url in cache:
@@ -223,7 +225,10 @@ def http_url_checker(config: dict):
             if r.status_code != 200:
                 result = (False, f"HTTP {r.status_code}")
             elif not domain_allowed(r.url, allowed):
-                result = (False, f"公式外へ転送: {r.url}")
+                if domain_allowed(url, allowed) and domain_of(r.url) in login_hosts:
+                    result = (True, "")
+                else:
+                    result = (False, f"公式外へ転送: {r.url}")
             else:
                 result = (True, "")
         except Exception as e:  # noqa: BLE001

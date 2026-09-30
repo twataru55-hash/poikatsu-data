@@ -17,6 +17,7 @@ llm:
 
 manual:
   max_sources_per_run: 15     # PC側で1回に抽出を頼むページ数の上限
+  give_up_after_unanswered: 3 # 同じ内容のページが続けてこの回数回答されなければ、ページが変わるまで依頼しない
 
 fetch:
   user_agent: "PoikatsuKouryakuBot/1.0 (+https://gtdwmse.com/poikatsu/)"
@@ -30,6 +31,8 @@ validation:
   evidence_window: 600        # 根拠文の前後何文字以内に還元率・日付があればよいか
   check_urls: true
   max_days_ahead: 400
+  # 公式のエントリーURLがログイン画面へ転送される場合に、正常とみなすログイン画面のホスト（完全一致）
+  login_redirect_hosts: [login.account.rakuten.com]
 
 anomaly:
   max_change_ratio: 0.3

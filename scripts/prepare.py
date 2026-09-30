@@ -80,6 +80,26 @@ def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher) -> tup
     return got, failed
 
 
+def fair_order(pending: list, state: dict) -> list:
+    """依頼の順番を決める。取得元（一覧ページ単位）ごとに1件ずつ順番に取り、
+    同じ取得元の中では、前回までに後回しにされた古いものから先に出す。
+    （上限で毎回同じ取得元が後回しになり、ずっと処理されない状態を防ぐ）"""
+    groups: dict[str, list] = {}
+    for entry in pending:
+        groups.setdefault(entry[3], []).append(entry)
+    for key in groups:
+        groups[key].sort(key=lambda e: (state.get(e[0]["id"], {}).get("deferred_since") or "9999"))
+    # 後回しが一番古い取得元から回す
+    order = sorted(groups, key=lambda k: min(state.get(e[0]["id"], {}).get("deferred_since") or "9999" for e in groups[k]))
+    result, i = [], 0
+    while any(i < len(groups[k]) for k in order):
+        for k in order:
+            if i < len(groups[k]):
+                result.append(groups[k][i])
+        i += 1
+    return result
+
+
 def main(force: bool = False) -> dict:
     config = load_config()
     if not config.get("enabled", True):
@@ -97,9 +117,22 @@ def main(force: bool = False) -> dict:
     stores = load_master()["stores"]
 
     queue = {"run_id": run_id, "created_at": now.isoformat(timespec="seconds"),
-             "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": []}
+             "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": [], "gave_up": []}
     snapshots = load_json(DATA_DIR / "snapshots.json", {})
+    # GitHub 側（ingest）が記録する依頼の状態：後回しにされた日時・回答されなかった回数
+    state = load_json(DATA_DIR / "request_state.json", {})
+    give_up = int(config.get("manual", {}).get("give_up_after_unanswered", 3))
+    pending: list = []
     fetcher = Fetcher(config)
+
+    def queue_up(src: dict, text: str, digest: str) -> None:
+        sid = src["id"]
+        st = state.get(sid) or {}
+        if not force and st.get("unanswered", 0) >= give_up and st.get("hash") == digest:
+            # 同じ内容のページが続けて回答されていない。ページが変わるまで依頼しない（報告には出す）
+            queue["gave_up"].append(sid)
+            return
+        pending.append((src, text, digest, src.get("parent") or sid))
 
     def add_item(src: dict, text: str, digest: str) -> None:
         sid = src["id"]
@@ -125,17 +158,20 @@ def main(force: bool = False) -> dict:
             got, failed = follow_details(page, config, snapshots, fetcher)
             queue["detail_failed"] += failed
             for src, text, digest in got:
-                add_item(src, text, digest)
+                queue_up(src, text, digest)
             continue
         if not page.changed:
             queue["unchanged"].append(sid)
             continue
-        add_item(page.source, page.text, page.digest)
+        queue_up(page.source, page.text, page.digest)
+
+    for src, text, digest, _group in fair_order(pending, state):
+        add_item(src, text, digest)
 
     save_json(run_dir / "queue.json", queue)
     return {"ok": True, "run_id": run_id, "to_answer": [i["prompt_file"] for i in queue["items"]],
             "unchanged": len(queue["unchanged"]), "failed": queue["failed"], "deferred": queue["deferred"],
-            "detail_failed": queue["detail_failed"]}
+            "detail_failed": queue["detail_failed"], "gave_up": queue["gave_up"]}
 
 
 if __name__ == "__main__":

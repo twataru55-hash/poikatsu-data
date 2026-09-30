@@ -133,6 +133,11 @@ def write_report(stats: dict, cand_log: list[dict]) -> None:
         lines += ["## マスタの根拠確認で見つからなかったもの", *[f"- {m}" for m in stats["master_verify_failures"]], ""]
     if stats["errors"]:
         lines += ["## エラー", *[f"- {e}" for e in stats["errors"]], ""]
+    if stats.get("unanswered"):
+        lines += ["## 回答されなかった依頼（次回また依頼する）", *[f"- {s}" for s in stats["unanswered"]], ""]
+    if stats.get("gave_up"):
+        lines += ["## 続けて回答されず、ページが変わるまで依頼を止めたもの（中身を確認してください）",
+                  *[f"- {s}" for s in stats["gave_up"]], ""]
     held = [c for c in cand_log if c.get("result") in ("hold", "discard")]
     if held:
         lines += ["## 保留・破棄", *[f"- [{c['result']}] {c.get('title')}：{' / '.join(c.get('reasons') or [])}" for c in held]]
