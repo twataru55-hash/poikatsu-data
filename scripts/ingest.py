@@ -52,6 +52,7 @@ def run() -> dict:
     campaigns = load_json(DATA_DIR / "campaigns.json", [])
     snapshots = load_json(DATA_DIR / "snapshots.json", {})
     status = load_json(DATA_DIR / "source_status.json", {})
+    requests = load_json(DATA_DIR / "request_state.json", {})
     checker = http_url_checker(config)
     cand_log: list[dict] = []
 
@@ -71,6 +72,9 @@ def run() -> dict:
             st.update(fail_count=0, last_ok=at, last_error=None)
             stats["sources_ok"] += 1
         stats["llm_skipped"] += len(queue.get("deferred", []))
+        for sid in queue.get("deferred", []):
+            requests.setdefault(sid, {}).setdefault("deferred_since", at)
+        stats["gave_up"] = sorted(set(stats.get("gave_up", [])) | set(queue.get("gave_up", [])))
 
         for item in queue.get("items", []):
             sid = item["source_id"]
@@ -87,6 +91,11 @@ def run() -> dict:
                 continue
             if not path.exists():
                 stats["llm_skipped"] += 1
+                rq = requests.setdefault(sid, {})
+                rq["unanswered"] = int(rq.get("unanswered", 0)) + 1 if rq.get("hash") == item["hash"] else 1
+                rq["hash"] = item["hash"]
+                rq.setdefault("deferred_since", at)  # 回答されなかったものも次回は先に回す
+                stats.setdefault("unanswered", []).append(sid)
                 continue
             try:
                 answer = json.loads(path.read_text(encoding="utf-8"))
@@ -106,6 +115,7 @@ def run() -> dict:
             campaigns = process_items(answer.get("campaigns", []), src, text, campaigns, master, config,
                                       gh, stats, cand_log, checker)
             snapshots[sid] = {"hash": item["hash"], "fetched_at": at, "chars": len(text)}
+            requests.pop(sid, None)
 
         DONE.mkdir(parents=True, exist_ok=True)
         target = DONE / run_dir.name
@@ -115,6 +125,7 @@ def run() -> dict:
 
     save_json(DATA_DIR / "snapshots.json", snapshots)
     save_json(DATA_DIR / "source_status.json", status)
+    save_json(DATA_DIR / "request_state.json", requests)
     return finalize(gh, config, campaigns, cand_log, stats)
 
 

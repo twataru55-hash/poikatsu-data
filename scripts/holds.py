@@ -149,7 +149,7 @@ def process() -> dict:
     campaigns = load_json(DATA_DIR / "campaigns.json", [])
     holds = load_json(DATA_DIR / "holds.json", {})
     rejected = load_json(DATA_DIR / "rejected.json", [])
-    result = {"approved": 0, "rejected": 0, "failed": 0, "stale": 0}
+    result = {"approved": 0, "rejected": 0, "failed": 0, "stale": 0, "expired": 0, "resolved": 0}
 
     for issue in gh.list_issues("hold"):
         labels = {l["name"] for l in issue.get("labels", [])}
@@ -192,6 +192,25 @@ def process() -> dict:
             holds.pop(cid, None)
             gh.close(number, "承認を反映しました。次の配信ファイル更新から表示されます。")
             result["approved"] += 1
+            continue
+
+        # 取り直しなどで同じ内容が既に採用済みなら、保留は役目を終えたので閉じる
+        if cid and any(x.get("id") == cid for x in campaigns):
+            holds.pop(cid, None)
+            gh.close(number, "同じ内容が機械チェックを通って採用済みのため、自動で閉じました。")
+            result["resolved"] += 1
+            continue
+
+        # 終了日を過ぎた保留は、もう公開できないので自動で閉じる（採用も却下もしない。rejected には入れない）
+        end = ((cand or {}).get("period") or {}).get("end")
+        try:
+            ended = bool(end) and parse_dt(end) < now_jst()
+        except ValueError:
+            ended = False
+        if ended:
+            holds.pop(cid, None)
+            gh.close(number, "終了日を過ぎたため自動で閉じました（採用も却下もしていません）。")
+            result["expired"] += 1
             continue
 
         created = parse_dt(issue["created_at"].replace("Z", "+00:00"))
