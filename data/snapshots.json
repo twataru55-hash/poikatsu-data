@@ -273,5 +273,60 @@
     "hash": "24b405d313f33722f1372783fd7c300b3b17c60f1ed0ae3c0762332663f96266",
     "fetched_at": "2026-09-29T09:01:42+09:00",
     "chars": 8524
+  },
+  "rakuten-pointcard-campaign--6c79e7b1": {
+    "hash": "c2e6cddb2ca0329f21571b97ffd1b81d6ab449c1048bcd07b1aab5d7921ace71",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 8173
+  },
+  "rakuten-pointcard-campaign--5d094389": {
+    "hash": "8f1c9177d28252fdf524b420ee6b4443389b233b938b74ff8b4c97054e2460ff",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 8093
+  },
+  "rakuten-pointcard-campaign--a8377f87": {
+    "hash": "13462efd3c44474751563114e02301a695ed3eee43fc7d2959fb33c1c0a5e5eb",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 8109
+  },
+  "rakuten-pointcard-campaign--02828427": {
+    "hash": "d28ab6062fa24dd761e2a1bffacc59d53d87039456bc6458222da58ef95ffa18",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 9519
+  },
+  "rakuten-pointcard-campaign--e5e5296e": {
+    "hash": "64821e116f024c0b4f9bd33ddb875e9f19bed5c7db948d65c1fac519b5a777ab",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 7590
+  },
+  "rakuten-pointcard-campaign--25f8412c": {
+    "hash": "e1d3b98aa6df0d05fe664a479dfa3bdbbdcdf254ab8ece815e1005001f4c752f",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 10357
+  },
+  "rakuten-pointcard-campaign--b8bdcfd4": {
+    "hash": "b99ef7ec19d708b0e9161eecf03ba32662a913315f265d8315eae359aaf90179",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 10580
+  },
+  "rakuten-pointcard-campaign--6da755e9": {
+    "hash": "486c277b04fdcc3070f164c6766f50007444939e5c176936c45a7c96a9da5657",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 7483
+  },
+  "aupay-campaign--3777f625": {
+    "hash": "974530f35cc8cb1fe20f2b35f8242be7252459ca5add447aa4f81ff1c7ac932c",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 2320
+  },
+  "aupay-campaign--5e5900b6": {
+    "hash": "983dc796e6c353ec60ee7ffea196d72bfe9a40e190612666dc78d9196a5b3172",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 1809
+  },
+  "aupay-campaign--5a3652c6": {
+    "hash": "b21b4409309b20050cc37dd1a32bc75968e804bae61d7938f20af6dd1fbebccb",
+    "fetched_at": "2026-09-30T09:01:49+09:00",
+    "chars": 1863
   }
 }
