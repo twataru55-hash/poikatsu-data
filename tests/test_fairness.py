@@ -43,6 +43,9 @@ def _fresh_repo(tmp_path):
 
 def test_unanswered_is_counted_and_given_up(tmp_path):
     repo = _fresh_repo(tmp_path)
+    # 過去のレポートが残っていても、今回の取り込み結果を読む。
+    old_report = repo / "reports" / "run-2000-01-01.md"
+    old_report.write_text("過去のレポート", encoding="utf-8")
     prep = json.loads(run(repo, PREPARE))
     queue = read(repo, f"inbox/{prep['run_id']}/queue.json")
     target = queue["items"][0]
@@ -53,8 +56,9 @@ def test_unanswered_is_counted_and_given_up(tmp_path):
     state = read(repo, "data/request_state.json")
     assert state[target["source_id"]]["unanswered"] == 1
     assert state[target["source_id"]]["hash"] == target["hash"]
-    report = next((repo / "reports").glob("run-*.md")).read_text(encoding="utf-8")
+    report = (repo / "reports" / f"run-{ing['date'][:10]}.md").read_text(encoding="utf-8")
     assert "回答されなかった依頼" in report and target["source_id"] in report
+    assert old_report.read_text(encoding="utf-8") == "過去のレポート"
 
     # 同じ内容のまま3回回答されなければ、ページが変わるまで依頼しない
     state[target["source_id"]]["unanswered"] = 3
@@ -118,11 +122,11 @@ def test_expired_hold_is_closed_without_reject(tmp_path, monkeypatch):
     from test_unknown_fields import BASE, SOURCE
 
     ended = copy.deepcopy(BASE)
-    ended["id"], ended["period"]["end"] = "cp-ended", "2026-09-01T23:59:59+09:00"
+    ended["id"], ended["period"]["end"] = "cp-0000000001", "2026-09-01T23:59:59+09:00"
     active = copy.deepcopy(BASE)
-    active["id"], active["period"]["end"] = "cp-active", "2099-12-31T23:59:59+09:00"
+    active["id"], active["period"]["end"] = "cp-0000000002", "2099-12-31T23:59:59+09:00"
     unknown = copy.deepcopy(BASE)
-    unknown["id"], unknown["period"]["end"] = "cp-unknown", None
+    unknown["id"], unknown["period"]["end"] = "cp-0000000003", None
     issues = [{"number": n, "labels": [{"name": "hold"}], "created_at": "2026-09-30T00:00:00Z",
                "body": holds.hold_body(c, ["V12"], SOURCE)} for n, c in ((1, ended), (2, active), (3, unknown))]
 
@@ -142,7 +146,7 @@ def test_expired_hold_is_closed_without_reject(tmp_path, monkeypatch):
     monkeypatch.setattr(common, "load_master", lambda: {"brands": [], "stores": []})
     monkeypatch.setattr(common, "load_sources", lambda: [])
     adopted = copy.deepcopy(BASE)
-    adopted["id"], adopted["period"]["end"] = "cp-adopted", "2099-12-31T23:59:59+09:00"
+    adopted["id"], adopted["period"]["end"] = "cp-0000000004", "2099-12-31T23:59:59+09:00"
     issues.append({"number": 4, "labels": [{"name": "hold"}], "created_at": "2026-09-30T00:00:00Z",
                    "body": holds.hold_body(adopted, ["V12"], SOURCE)})
     common.save_json(tmp_path / "campaigns.json", [adopted])
@@ -150,6 +154,6 @@ def test_expired_hold_is_closed_without_reject(tmp_path, monkeypatch):
                                                ((1, ended), (2, active), (3, unknown), (4, adopted))})
     result = holds.process()
     assert result["expired"] == 1 and result["resolved"] == 1 and sorted(gh.closed) == [1, 4]
-    assert set(common.load_json(tmp_path / "holds.json")) == {"cp-active", "cp-unknown"}
+    assert set(common.load_json(tmp_path / "holds.json")) == {"cp-0000000002", "cp-0000000003"}
     assert common.load_json(tmp_path / "rejected.json") == []
-    assert [c["id"] for c in common.load_json(tmp_path / "campaigns.json")] == ["cp-adopted"]
+    assert [c["id"] for c in common.load_json(tmp_path / "campaigns.json")] == ["cp-0000000004"]

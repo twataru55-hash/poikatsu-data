@@ -14,6 +14,7 @@ from datetime import timedelta
 
 import requests
 
+from campaign_shape import publication_errors
 from common import DATA_DIR, REPORTS_DIR, load_config, load_json, now_jst, parse_dt, save_json, today_str
 
 API = "https://api.github.com"
@@ -133,6 +134,17 @@ def file_hold(gh: GitHub, c: dict, reasons: list[str], source: dict | None) -> b
     return True
 
 
+def _same_published_content(candidate: dict, adopted: dict) -> bool:
+    """ID だけでは内容は一致しない。配信項目が全て同じときだけ解決済みにする。"""
+    if publication_errors(candidate) or publication_errors(adopted):
+        return False
+    fields = ("type", "brand_ids", "title", "benefit", "scope", "period", "entry",
+              "conditions", "official_url")
+    return candidate.get("id") == adopted.get("id") and all(
+        candidate[key] == adopted[key] for key in fields
+    )
+
+
 def process() -> dict:
     """approve / reject を取り込み、放置に stale を付ける。"""
     from candidates import apply_update, match_existing
@@ -195,7 +207,7 @@ def process() -> dict:
             continue
 
         # 取り直しなどで同じ内容が既に採用済みなら、保留は役目を終えたので閉じる
-        if cid and any(x.get("id") == cid for x in campaigns):
+        if cid and any(_same_published_content(cand, x) for x in campaigns):
             holds.pop(cid, None)
             gh.close(number, "同じ内容が機械チェックを通って採用済みのため、自動で閉じました。")
             result["resolved"] += 1
