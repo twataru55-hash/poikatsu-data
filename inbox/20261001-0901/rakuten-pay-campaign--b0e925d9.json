@@ -1,0 +1,68 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay"
+      ],
+      "title": "NEXCO中日本 対象SA・PAで最大10,000pt抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-20T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/cnexco?ekey=checked-wi_pym_cpn_list"
+      },
+      "conditions": "NEXCO中日本の対象SA・PA店舗限定。コード・QR払い税込1,000円以上、メルマガ購読",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【楽天ペイ】NEXCO中日本でのお支払いで最大10,000ポイントが当たるキャンペーン(2026/10/1～2026/12/20)",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay"
+      ],
+      "title": "NEXCO中日本 対象SA・PA最大8％予定",
+      "benefit": {
+        "rate_max": 8,
+        "rate_text": "最大楽天ポイント8％還元（予定）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-25T00:00:00+09:00",
+        "end": "2027-01-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象のサービスエリア・パーキングエリア限定。条件達成。第二弾開催予定",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "evidence_quote": "対象のサービスエリア/パーキングエリア限定 条件達成すると最大楽天ポイント8％還元 要エントリー 開催予定期間：2026年12月25日（金）～2027年1月11日（月・祝）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

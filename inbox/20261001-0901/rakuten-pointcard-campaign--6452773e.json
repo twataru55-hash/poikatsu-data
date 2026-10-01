@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ジョーシン 抽選500名に1,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で500名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-25T00:00:00+09:00",
+        "end": "2026-10-18T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "Joshinグループ実店舗限定。両カード提示、単品税抜200円以上、利用登録・メルマガ必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【ジョーシン】ジョーシングループの店舗で楽天ポイントカードとジョーシンカードを提示して単品200円（税抜）以上お買い物をすると抽選で500名さまに楽天ポイント1,000ポイント進呈！\r\n〈キャンペーン期間〉\r\n2026/9/25(金)0:00～10/18(日)23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

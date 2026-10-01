@@ -1,0 +1,107 @@
+{
+  "campaigns": [
+    {
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "confidence": "unconfirmed",
+      "type": "reward",
+      "brand_ids": [
+        "aeon-pay"
+      ],
+      "title": "毎月10日 AEON Pay基本10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "基本のポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "conditions": "毎月10日、本州（東北除く）・四国の直営売場。対象外商品等あり、他倍付けと併用不可",
+      "evidence_quote": "毎月10日はありが10デー\r\n毎月10日はありが10デー\r\nAEON Payのスマホ決済で基本のポイント10倍 200円(税込)ごとに10ポイント クレジット、電子マネーのお支払いで基本のポイント5倍 200円(税込)ごとに5ポイント"
+    },
+    {
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "confidence": "unconfirmed",
+      "type": "reward",
+      "brand_ids": [
+        "aeon-card",
+        "waon"
+      ],
+      "title": "毎月10日 イオンカード・WAON基本5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "基本のポイント5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "conditions": "毎月10日、本州（東北除く）・四国の直営売場。対象外商品等あり、他倍付けと併用不可",
+      "evidence_quote": "イオンカード、電子マネーWAONカードご利用の場合、各ご利用200円(税込)ごとに、1ポイントのところ毎月10日は5ポイントプレゼント！"
+    },
+    {
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "confidence": "unconfirmed",
+      "type": "change",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "WAON POINTカードありが10デー5倍終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5倍ポイント進呈終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": null,
+        "end": "2025-08-10T23:59:59+09:00"
+      },
+      "conditions": "WAON POINTカードのありが10デー5倍ポイント進呈",
+      "evidence_quote": "WAON POINTカードをお持ちのお客さま WAON POINTカードのありが10デーでの5倍ポイント進呈は2025年8月10日をもって終了いたしました。"
+    }
+  ]
+}

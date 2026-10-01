@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "ドラッグストアmac 抽選最大1,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000ポイント・W抽選10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T09:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ドラッグストアmac限定。対象商品400円税込ごと応募、Vポイントカード提示",
+      "official_url": "https://cpn.tsite.jp/detail/en910038430012",
+      "evidence_quote": "■エントリー期間\r\n2026/10/1 09:00:00　～　2026/10/31 23:59:59\r\n対象商品を400円(税込)以上買うと抽選でmac限定Vポイントが最大1,000ポイント当たる！",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

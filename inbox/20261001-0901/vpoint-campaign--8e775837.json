@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "ENEOSでんき申込者 給油でVポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "Vポイント10倍",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2027-04-01T00:00:00+09:00",
+        "end": "2028-03-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ENEOSサービスステーション限定。11月4日まで電気新規申込、3月末まで供給・V手続き",
+      "official_url": "https://cpn.tsite.jp/detail/en910038600002",
+      "evidence_quote": "（特典③）2027年4月1日～2028年3月31日のENEOSサービスステーションのご利用で付与されるVポイントが10倍※\r\n※進呈上限3,000pt（期間内累計）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

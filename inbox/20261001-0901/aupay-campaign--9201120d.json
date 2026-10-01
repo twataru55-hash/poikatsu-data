@@ -1,0 +1,100 @@
+{
+  "campaigns": [
+    {
+      "brand_ids": [
+        "au-pay"
+      ],
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "official_url": "https://aupay-cp.auone.jp/202608_doutor_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "unconfirmed",
+      "type": "reward",
+      "title": "ドトール対象店 17時以降Pontaポイント2倍",
+      "benefit": {
+        "rate_max": 1,
+        "rate_text": "Pontaポイント2倍（1％）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": "2026-08-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ドトールグループ対象店限定。17:00～23:59、コード支払い税込200円以上。通常分含む",
+      "evidence_quote": "・通常は200円（税込）ごとに1ポイント（0.5％）還元のところ、本キャンペーンでは2ポイント（1％）還元となります。"
+    },
+    {
+      "brand_ids": [
+        "au-pay"
+      ],
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "official_url": "https://aupay-cp.auone.jp/202608_doutor_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "unconfirmed",
+      "type": "reward",
+      "title": "ドトール対象店 3回決済で88Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "88Pontaポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ドトールグループ対象店限定。コード支払い1回税込300円以上を3回。詳細は開始日以降",
+      "evidence_quote": "au PAY（コード支払い）で3回以上決済をすると、\r\nもれなく88Pontaポイントを還元！"
+    },
+    {
+      "brand_ids": [
+        "au-pay"
+      ],
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "official_url": "https://aupay-cp.auone.jp/202608_doutor_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "unconfirmed",
+      "type": "lottery",
+      "title": "オーケー・ドトール両店決済で100Ponta抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100pt、はずれでも3pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "東京・神奈川・千葉・埼玉・大阪・兵庫の対象オーケー・ドトール限定。両店で各税込200円以上",
+      "evidence_quote": "抽選で1,000名様に100Pontaポイントプレゼント！\r\nはずれた方にも3Pontaポイントプレゼント！"
+    }
+  ]
+}
