@@ -1,0 +1,802 @@
+[
+  {
+    "id": "cp-047215d3b7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "遠野市 第2弾 ポイント還元"
+  },
+  {
+    "id": "cp-0b1d324f36",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "野田村 第4弾 ポイント還元"
+  },
+  {
+    "id": "cp-466163abfc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "奥州市 プレミアム商品券"
+  },
+  {
+    "id": "cp-f88a75791d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "由利本荘市 第5弾 ポイント還元"
+  },
+  {
+    "id": "cp-34724f791e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "にかほ市 プレミアム商品券"
+  },
+  {
+    "id": "cp-4e656e9f77",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大子町 プレミアム商品券"
+  },
+  {
+    "id": "cp-52baad27b5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "神栖市 プレミアム商品券"
+  },
+  {
+    "id": "cp-5f451f4521",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "高根沢町 プレミアム商品券"
+  },
+  {
+    "id": "cp-db583207ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "那須烏山市 プレミアム商品券"
+  },
+  {
+    "id": "cp-316e1cae32",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大泉町 第4弾 ポイント還元"
+  },
+  {
+    "id": "cp-0f9a971e2f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "朝霞市 第2弾 ポイント還元"
+  },
+  {
+    "id": "cp-f08ed22d9e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "三郷市 プレミアム商品券"
+  },
+  {
+    "id": "cp-60f2da898a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "飯能市 プレミアム商品券"
+  },
+  {
+    "id": "cp-c1896e4824",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "坂戸市 プレミアム商品券"
+  },
+  {
+    "id": "cp-baf843b251",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "入間市 プレミアム商品券"
+  },
+  {
+    "id": "cp-b31ef74e9c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "荒川区 プレミアム商品券"
+  },
+  {
+    "id": "cp-32af2b2d02",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "品川区 プレミアム商品券"
+  },
+  {
+    "id": "cp-d8531fc638",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "稲城市 プレミアム商品券"
+  },
+  {
+    "id": "cp-a2fbf2aca4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "墨田区 プレミアム商品券"
+  },
+  {
+    "id": "cp-c09b168a4b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "文京区 プレミアム商品券"
+  },
+  {
+    "id": "cp-0d90f2fed5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "東久留米市 プレミアム商品券"
+  },
+  {
+    "id": "cp-b1aee532d3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "品川区 プレミアム商品券"
+  },
+  {
+    "id": "cp-0c01bf14e8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "江戸川区 プレミアム商品券"
+  },
+  {
+    "id": "cp-52eda2ef7c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "川崎市 プレミアム商品券"
+  },
+  {
+    "id": "cp-5c55dde691",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "高岡市 プレミアム商品券"
+  },
+  {
+    "id": "cp-f1a6adde8d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "上野原市 プレミアム商品券"
+  },
+  {
+    "id": "cp-44a9fc8694",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "甲府市 プレミアム商品券"
+  },
+  {
+    "id": "cp-0a8602c942",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "松川町 プレミアム商品券"
+  },
+  {
+    "id": "cp-6e443626f9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "北名古屋市 プレミアム商品券"
+  },
+  {
+    "id": "cp-a1f847447a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "半田市 プレミアム商品券"
+  },
+  {
+    "id": "cp-913334f4d7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "東海市 プレミアム商品券"
+  },
+  {
+    "id": "cp-33ee6f5f9a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "南知多町 プレミアム商品券"
+  },
+  {
+    "id": "cp-a1cb5c1bb3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "菰野町 プレミアム商品券"
+  },
+  {
+    "id": "cp-89a1179c08",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "精華町 プレミアム商品券"
+  },
+  {
+    "id": "cp-8f5c1e223d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "枚方市 第2弾 ポイント還元"
+  },
+  {
+    "id": "cp-7e7ebf3f44",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "門真市 プレミアム商品券"
+  },
+  {
+    "id": "cp-2e8d84926f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "富田林市 プレミアム商品券"
+  },
+  {
+    "id": "cp-7861272cf4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "三木市 プレミアム商品券"
+  },
+  {
+    "id": "cp-a7f260f707",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "西脇市 プレミアム商品券"
+  },
+  {
+    "id": "cp-e29dc7abc8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "紀美野町 第5弾 ポイント還元"
+  },
+  {
+    "id": "cp-dc43f7a1a4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "紀の川市 プレミアム商品券"
+  },
+  {
+    "id": "cp-439ecf35d1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "倉吉市 プレミアム商品券"
+  },
+  {
+    "id": "cp-c02bee1e2d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "鳴門市 プレミアム商品券"
+  },
+  {
+    "id": "cp-eadf774c10",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "宇美町 プレミアム商品券"
+  },
+  {
+    "id": "cp-e363c528f7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（VIOROプレミアム商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-8bd02b5d64",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（福岡市お城まわり電子商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-03334ad2c8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ソラリアステージプレミアム商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-c5e414e40f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（レイリア大橋プレミアム商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-e569eb6df8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "北九州市（サンリブシティ小倉デジタル商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-ae0808e978",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（BiVi福岡モバイル商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-967ff9890b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ソラリアプラザプレミアム商品券） プレミアム商品券"
+  },
+  {
+    "id": "cp-c99a5ee73e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ワンビルプレミアム商品券2026） プレミアム商品券"
+  },
+  {
+    "id": "cp-d739638376",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "唐津市 プレミアム商品券"
+  },
+  {
+    "id": "cp-326dde1588",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "島原市 プレミアム商品券"
+  },
+  {
+    "id": "cp-71e2c67437",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "豊後大野市 プレミアム商品券"
+  },
+  {
+    "id": "cp-64459670f4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "都城市 第5弾 ポイント還元"
+  },
+  {
+    "id": "cp-0a8bbb8dd9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "宮古島市 ポイント還元"
+  },
+  {
+    "id": "cp-52188b6d48",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "多慶屋 dポイント300ポイント 第2弾"
+  },
+  {
+    "id": "cp-1d176ccaf9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "NEXCO中日本 対象SA・PAで最大10,000pt抽選"
+  },
+  {
+    "id": "cp-00eae1e65a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "NEXCO中日本 対象SA・PA最大8％予定"
+  },
+  {
+    "id": "cp-ded663a398",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ 抽選で楽天ポイント5倍"
+  },
+  {
+    "id": "cp-1b79ad43b3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ドトール対象店 17時以降Pontaポイント2倍"
+  },
+  {
+    "id": "cp-b13893645c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ドトール対象店 3回決済で88Pontaポイント"
+  },
+  {
+    "id": "cp-75c8618e26",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aupay-campaign",
+    "title": "オーケー・ドトール両店決済で100Ponta抽選"
+  },
+  {
+    "id": "cp-e11d06f80f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン 抽選でお買い物金額最大実質無料"
+  },
+  {
+    "id": "cp-8d0b70d320",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソンストア１００ ボーナスポイント"
+  },
+  {
+    "id": "cp-1a4c6badc7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ドトールグループ スタンプでポイント"
+  },
+  {
+    "id": "cp-7319fc7a5e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ジョーシン 合計250Pontaポイント"
+  },
+  {
+    "id": "cp-742954df61",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "ドラッグストアmac 抽選最大1,000ポイント"
+  },
+  {
+    "id": "cp-7fbba38972",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V04 エントリーURLのドメインが公式と一致しない: https://aeon.cp-form.jp/kidsdance2026cp/?utm_source=waon&utm_medium=referral&utm_campaign=kidsdance2026",
+      "V05 エントリーURLが開けない: 公式外へ転送: https://aeon.cp-form.jp/kidsdance2026cp/form/?utm_source=waon&utm_medium=referral&utm_campaign=kidsdance2026",
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "waon-campaign",
+    "title": "大阪府内 WAON・AEON Pay抽選10,000pt"
+  },
+  {
+    "id": "cp-0368b1a5dc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン お酒購入でWAON POINT基本10倍"
+  },
+  {
+    "id": "cp-2585b82213",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "富山県対象店舗 楽天ペイ最大10％還元"
+  },
+  {
+    "id": "cp-2b06ec7a83",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ジョーシン 抽選500名に1,000ポイント"
+  },
+  {
+    "id": "cp-d0739ce055",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V08 終了日が先すぎる",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "ENEOSでんき申込者 給油でVポイント10倍"
+  },
+  {
+    "id": "cp-4655122f5b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "毎月10日 スマホ決済で基本10倍"
+  },
+  {
+    "id": "cp-14affdf462",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "毎月10日 AEON Pay基本10倍"
+  },
+  {
+    "id": "cp-ada6e31d46",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "毎月10日 イオンカード・WAON基本5倍"
+  },
+  {
+    "id": "cp-77aa03e26d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "WAON POINTカードありが10デー5倍終了"
+  },
+  {
+    "id": "cp-f287b96009",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "アカカベ 楽天ペイくじ最大1,000ポイント"
+  }
+]

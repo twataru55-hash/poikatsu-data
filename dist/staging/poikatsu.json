@@ -1,8 +1,8 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-09-30-2311",
-    "generated_at": "2026-09-30T23:11:15+09:00",
+    "data_version": "2026-10-01-0920",
+    "generated_at": "2026-10-01T09:20:27+09:00",
     "channel": "staging",
     "counts": {
       "campaigns": 2,
@@ -407,41 +407,6 @@
   ],
   "campaigns": [
     {
-      "type": "bonus",
-      "brand_ids": [
-        "paypay",
-        "paypay-point"
-      ],
-      "title": "対象銀行の初登録・チャージ・支払いで最大500ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で最大500ポイント",
-        "cap_per_use": null,
-        "cap_total": 500,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "payment_wide",
-        "store_ids": [],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-08-03T00:00:00+09:00",
-        "end": "2026-09-30T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象銀行の初登録・本人確認後、1度に8,000円以上チャージし残高で1回1,000円以上支払う。",
-      "official_url": "https://paypay.ne.jp/event/bank-20260803/",
-      "confidence": "confirmed",
-      "last_verified": "2026-09-26",
-      "status_override": null,
-      "id": "cp-8634f56f56"
-    },
-    {
       "type": "lottery",
       "brand_ids": [
         "paypay",
@@ -477,6 +442,42 @@
       "last_verified": "2026-09-26",
       "status_override": null,
       "id": "cp-5785968adb"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay"
+      ],
+      "title": "富山県対象店舗 楽天ペイ最大10％還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10％、楽天モバイル契約者最大＋10％",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "富山県内の対象店舗限定。コード・QR払い、セルフ払い。追加特典は年末時点の契約が条件",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-01",
+      "status_override": null,
+      "id": "cp-2585b82213"
     }
   ],
   "pr_links": [],

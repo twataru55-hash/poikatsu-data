@@ -310,9 +310,9 @@
     "chars": 5736
   },
   "paypay-local": {
-    "hash": "44e0ec25521573efb2723e2acd45dbf3c9833ff5e08d90a68e94e5cfc8eb4737",
-    "fetched_at": "2026-09-30T22:45:06+09:00",
-    "chars": 4621
+    "hash": "583a98ce805e8424ed2db33e50826d409d27f52e51727a6bd322bf2bca1a6622",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 4451
   },
   "rakuten-pointcard-campaign--92a0f5f6": {
     "hash": "a74f6ba606b75a81af863744937fbaceeda2dd96904e32078273ec72ec681a16",
@@ -343,5 +343,75 @@
     "hash": "0ff0e6c7324fd08a5a7203f893eb48c5c483478bdc3bc0abb9d1c7b620104e41",
     "fetched_at": "2026-09-30T22:45:06+09:00",
     "chars": 7461
+  },
+  "dpoint-campaign--d53a51dc": {
+    "hash": "639844c4056e1744f28bce16469fce5d5468ab246bc826db1b0aec410eea39f3",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 3969
+  },
+  "rakuten-pay-campaign--b0e925d9": {
+    "hash": "a90d7f1b1c97b764862eb57529cbaea9ede045c46b6f5a0a8eba9633a5cce9c5",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 4086
+  },
+  "rakuten-pointcard-campaign--6c79e7b1": {
+    "hash": "1e5ee859cf513ac6628399b44e7a9a3e0c18f83e76dfddad235975f6ccf5a571",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 8253
+  },
+  "aupay-campaign--9201120d": {
+    "hash": "73a6bb897dccd292388d49420e6fe5f040f73abe7753e0a27534fecf871bdac4",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 2259
+  },
+  "ponta-campaign": {
+    "hash": "e58de5b562d967e6888d7dafbc37041d645f712cd24dc99d6d065e68c6bde7bf",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 3388
+  },
+  "vpoint-campaign--d59ff7fe": {
+    "hash": "e870e811c9210153cf887160a369f49622b2bf49ed41cd5146e33fc060ad26a3",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 1622
+  },
+  "waon-campaign--74850c1c": {
+    "hash": "8a5f09c2fb6b75e6403a3d7e4ae99ac4b3a88a157c6813d16abbe2b08258bf27",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 3749
+  },
+  "aeonretail-otoku--3bbc7465": {
+    "hash": "8a47ecb2f4b4c657adc73b6a553059e570f72319ca6fe619d878c843e4f67cf3",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 1417
+  },
+  "rakuten-pay-campaign--2859221a": {
+    "hash": "20f04ec0187eac096544392845877613a6cc1536b4dc4c4a66359ccb2eb4008a",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 5387
+  },
+  "rakuten-pointcard-campaign--6452773e": {
+    "hash": "df3d86ef1be58fa61bcc6c00c0cada5b2d7a27cf78d47ead737fdce42e1929f2",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 8282
+  },
+  "vpoint-campaign--8e775837": {
+    "hash": "9ded7aa3c3e4eb641ceeecab386df5e70f952ada9f0c02d65ac389b68d81c024",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 3230
+  },
+  "waon-campaign--16bc60e2": {
+    "hash": "c309fcf7dfd57ae31b0e367e7d5a198b77c25f36d0bf5041f02d3a7841d3b319",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 2057
+  },
+  "aeonretail-otoku--219279c2": {
+    "hash": "87cbc8556d9cd1db73d5d6c72d116684d1cd3dff0be78318d7acea6cf1815c4b",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 3056
+  },
+  "rakuten-pay-campaign--fcf77407": {
+    "hash": "63e1897328f0d567af8a13ac1fa020069406a47c0f00c1127b221ce46b9efb2a",
+    "fetched_at": "2026-10-01T09:01:50+09:00",
+    "chars": 2346
   }
 }
