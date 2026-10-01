@@ -66,7 +66,14 @@ class GitHub:
     def list_issues(self, label: str, state: str = "open") -> list[dict]:
         if not self.enabled:
             return []
-        return self._req("GET", f"/issues?labels={label}&state={state}&per_page=100")
+        issues = []
+        page = 1
+        while True:
+            batch = self._req("GET", f"/issues?labels={label}&state={state}&per_page=100&page={page}")
+            issues.extend(batch)
+            if len(batch) < 100:
+                return issues
+            page += 1
 
     def comment(self, number: int, body: str) -> None:
         if self.enabled:
