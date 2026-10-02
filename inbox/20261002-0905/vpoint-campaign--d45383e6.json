@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "DRUGユタカ・花王エコトクフェア",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000Vポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "DRUGユタカ限定。事前エントリー・カード提示、対象花王商品税込1,000円毎に1口。",
+      "official_url": "https://cpn.tsite.jp/detail/en910038410004",
+      "evidence_quote": "抽選で最大Vポイント1,000ポイントプレゼントいたします。\n・グループ合計500名様　1,000ポイントプレゼント\n・グループ合計5000名様　100ポイントプレゼント",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

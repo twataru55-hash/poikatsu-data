@@ -1,0 +1,169 @@
+{
+  "run_id": "20261002-0905",
+  "created_at": "2026-10-02T09:05:15+09:00",
+  "items": [
+    {
+      "source_id": "rakuten-pay-campaign--587cd787",
+      "hash": "5423576d42cfcd3bec192c4cbab5beef0eba0259a3c8e076d93964c8fab44860",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--587cd787.md",
+      "answer_file": "inbox/20261002-0905/rakuten-pay-campaign--587cd787.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--5d094389",
+      "hash": "80ebb685530b4c63642d24faf6f2e65bc189a45c9f8c5392932a7308b018ac93",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--5d094389.md",
+      "answer_file": "inbox/20261002-0905/rakuten-pointcard-campaign--5d094389.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--3730d984",
+      "hash": "8cf4f4c9468849a75474829b5a4045fca0a6ce7b0de38f59dffd821c8e1a28c9",
+      "prompt_file": "work/prompts/vpoint-campaign--3730d984.md",
+      "answer_file": "inbox/20261002-0905/vpoint-campaign--3730d984.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/en910040492007"
+    },
+    {
+      "source_id": "waon-campaign--705fa259",
+      "hash": "6f44f01baa2df48d5daa6724b4b511ac822fb38240753180532a1fc3cdc08c55",
+      "prompt_file": "work/prompts/waon-campaign--705fa259.md",
+      "answer_file": "inbox/20261002-0905/waon-campaign--705fa259.json",
+      "parent": "waon-campaign",
+      "url": "https://www.waon.net/campaign/20190601_2baipointcp/"
+    },
+    {
+      "source_id": "aeonretail-otoku--71a7f92c",
+      "hash": "8b62a6e055e4a85751e13f36780cbb2187afed9c8a529afe28daf62b94762b8d",
+      "prompt_file": "work/prompts/aeonretail-otoku--71a7f92c.md",
+      "answer_file": "inbox/20261002-0905/aeonretail-otoku--71a7f92c.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointback/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner"
+    },
+    {
+      "source_id": "paypay-event--81e6fb0e",
+      "hash": "4495f8c59da4a5f51e982d2c144b61acd00ffc7f570d7e8af69a406c3fff8216",
+      "prompt_file": "work/prompts/paypay-event--81e6fb0e.md",
+      "answer_file": "inbox/20261002-0905/paypay-event--81e6fb0e.json",
+      "parent": "paypay-event",
+      "url": "https://paypay.ne.jp/event/retail-pasco-20261006/"
+    },
+    {
+      "source_id": "dpoint-campaign--73a4f52a",
+      "hash": "71e7c4ba5893e80b4d6fdfd07c552bd635234421bb4abb72fa660dfe31e931fb",
+      "prompt_file": "work/prompts/dpoint-campaign--73a4f52a.md",
+      "answer_file": "inbox/20261002-0905/dpoint-campaign--73a4f52a.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7773"
+    },
+    {
+      "source_id": "aupay-campaign--24be53d7",
+      "hash": "3a0e1d810bbab9e2f1c3df14782813a741a424057dc3b2db69bc580d28aa37fc",
+      "prompt_file": "work/prompts/aupay-campaign--24be53d7.md",
+      "answer_file": "inbox/20261002-0905/aupay-campaign--24be53d7.json",
+      "parent": "aupay-campaign",
+      "url": "https://aupay-cp.auone.jp/202610_ringbell?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist"
+    },
+    {
+      "source_id": "ponta-campaign",
+      "hash": "17eb2c8e48f8a160115e8d808b6bf651be1e5ed5b51defcca94f776dfa03fe91",
+      "prompt_file": "work/prompts/ponta-campaign.md",
+      "answer_file": "inbox/20261002-0905/ponta-campaign.json"
+    },
+    {
+      "source_id": "rakuten-pay-campaign--7444312a",
+      "hash": "c233aa1066f7593fc0fd69547460ad67a42e9678d7a0852b0425c94533775142",
+      "prompt_file": "work/prompts/rakuten-pay-campaign--7444312a.md",
+      "answer_file": "inbox/20261002-0905/rakuten-pay-campaign--7444312a.json",
+      "parent": "rakuten-pay-campaign",
+      "url": "https://pay.rakuten.co.jp/campaign/2026/1001-bookoff/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--65ce2a22",
+      "hash": "7535007e4656bb40c9d637c030e9661ddf81362e2447f2ddd6aa2b5e747812ab",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--65ce2a22.md",
+      "answer_file": "inbox/20261002-0905/rakuten-pointcard-campaign--65ce2a22.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--d45383e6",
+      "hash": "9ff4a4c94918789ee84ea1e3c946b36efd55c3260992fe2cb229bb5c131baf15",
+      "prompt_file": "work/prompts/vpoint-campaign--d45383e6.md",
+      "answer_file": "inbox/20261002-0905/vpoint-campaign--d45383e6.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/en910038410004"
+    },
+    {
+      "source_id": "waon-campaign--7c1f74b1",
+      "hash": "f409ba6d38b4c9c8b8af913e767a983a740a29e274fb63881bc10b21272db41d",
+      "prompt_file": "work/prompts/waon-campaign--7c1f74b1.md",
+      "answer_file": "inbox/20261002-0905/waon-campaign--7c1f74b1.json",
+      "parent": "waon-campaign",
+      "url": "https://www.waon.net/campaign/thanks_day/"
+    },
+    {
+      "source_id": "aeonretail-otoku--168a2d48",
+      "hash": "260e134e38702accfd71ae56a46788084ac416dfe9bfd2de2b181f4b5c69fbcf",
+      "prompt_file": "work/prompts/aeonretail-otoku--168a2d48.md",
+      "answer_file": "inbox/20261002-0905/aeonretail-otoku--168a2d48.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner"
+    },
+    {
+      "source_id": "dpoint-campaign--b88c9b90",
+      "hash": "ab43cb1c3e77d7decbbd3836a686e4a5025840f49531f52586ac548f4cbc2bc7",
+      "prompt_file": "work/prompts/dpoint-campaign--b88c9b90.md",
+      "answer_file": "inbox/20261002-0905/dpoint-campaign--b88c9b90.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "paypay-local",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "aupay-campaign--d4aae2dd",
+    "rakuten-pay-campaign--3b7a2d76",
+    "rakuten-pointcard-campaign--29590cc4",
+    "vpoint-campaign--9c7b8c27",
+    "waon-campaign--c9dec637",
+    "aeonretail-otoku--3e00c3cf",
+    "dpoint-campaign--c109f15a",
+    "aupay-campaign--fe6a90dc",
+    "rakuten-pointcard-campaign--e3ff2e8d",
+    "vpoint-campaign--a5926a38",
+    "waon-campaign--33fbf0ec",
+    "aeonretail-otoku--228cfe19",
+    "dpoint-campaign--c2070096",
+    "aupay-campaign--a282a6fc",
+    "rakuten-pointcard-campaign--d519814e",
+    "vpoint-campaign--6440e862",
+    "aeonretail-otoku--8fcfec19",
+    "dpoint-campaign--2046b5e2",
+    "aupay-campaign--6b71735d",
+    "rakuten-pointcard-campaign--9f0e1a89",
+    "vpoint-campaign--4b4d7d2d",
+    "dpoint-campaign--b667d0a0",
+    "rakuten-pointcard-campaign--e6b2e064",
+    "vpoint-campaign--43c6557a",
+    "dpoint-campaign--32bc2d2c",
+    "rakuten-pointcard-campaign--18160312",
+    "vpoint-campaign--706a8254",
+    "dpoint-campaign--75857030"
+  ],
+  "detail_failed": [],
+  "gave_up": []
+}

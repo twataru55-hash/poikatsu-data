@@ -1,0 +1,1000 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン・アプリ連携の会員コード提示でポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/kohnan/20260901?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "コーナン系対象5ブランド限定。アプリ連携会員コード提示200円(税抜)以上、メルマガ購読。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【コーナン コーナンPRO CAMP DEPOT ビーバートザン ビーバープロ】期間中に対象店舗で楽天ポイントカードと連携したコーナン プラスの会員コードを提示して200円（税抜）以上お買い物をすると楽天ポイント2倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン×楽天モバイル・ポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "コーナンの対象店舗限定。楽天モバイル初申込・契約中の方も対象。付与上限等あり。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【コーナン×楽天モバイル】[楽天モバイルへ初めてお申し込みの方 ご契約中の方も対象！]対象店舗での期間中のお買い物が楽天ポイント10倍※期間限定ポイント。付与上限その他条件あり。",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ウォンツ・ウェルネススタンプカード",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "スタンプカードキャンペーン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ウォンツ・ウェルネス限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ウォンツ、ウェルネス｜スタンプカードキャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "玉光堂・新譜予約購入でポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "玉光堂限定。新譜予約購入。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "玉光堂｜新譜予約購入でポイント2倍キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "楽天ペイのポイントカード継続利用",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイントカード継続利用キャンペーン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": null,
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "使えば使うほどおトク！楽天ペイアプリのポイントカード継続利用キャンペーン",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "楽天モバイル契約者限定・店舗ポイント20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "楽天モバイルご契約者・対象店舗限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【楽天モバイルご契約者限定】対象店舗でのお会計で楽天ポイント20倍キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ファミリーマート・条件達成でポイント20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成でポイント20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "条件達成が必要。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ファミリーマート｜条件達成でポイント20倍！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ビックカメラ・楽天ポイント最大22.5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント最大22.5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "街のビックカメラ限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ビック｜街のビックカメラでポイント最大22.5倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "運転条件達成で給油ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "給油でポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "月2回運転する条件。対象給油店限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "たった月2回運転すると給油で貯まる楽天ポイントがいつでも2倍！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "街のファッションでポイント最大19倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント最大19倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象ファッション店舗で購入・カード提示。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "街でファッションアイテムを購入＆楽天ポイントカード提示でポイント最大19倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ポプラ・ボーナスポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ポプラ｜ボーナスポイントプレゼントキャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コナカグループ・抽選で500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で3人に1人500ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "コナカグループ限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "コナカグループ｜抽選で3人に1人楽天ポイント500ポイント当たる！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "キグナス石油・抽選で2,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で150名に2,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "キグナス石油限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "キグナス石油｜抽選で150名さまに楽天ポイント2,000ポイント当たる！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "楽天ペイアプリのカードでポイント最大2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント最大2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": null,
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ペイアプリのポイントカードならポイント最大2倍！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "異なる3店の楽天ペイ決済で抽選10,000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100名に10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "楽天ペイで異なる3つのお店でお支払い。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ペイで異なる3つのお店でお支払いすると、抽選で100名さまに10,000ポイントが当たる！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アルペングループ・抽選で全額ポイントバック",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100名に全額ポイントバック",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アルペングループ限定。条件達成が必要。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "アルペングループ｜条件達成すると抽選で100名さまに全額ポイントバック！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "富士薬品・抽選で100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で10,000名に100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "富士薬品限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "富士薬品｜抽選で10,000名さまに100ポイントが当たる！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ・抽選でポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で5,000名にポイント5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アークランズ限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "アークランズ｜抽選で5,000名さまに楽天ポイント5倍キャンペーン！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ブックオフ・対象者限定最大20％還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象者限定最大20％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ブックオフの対象者限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ブックオフ｜対象者限定！最大20％還元キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ENEOS・抽選で最大10,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ENEOS限定。条件達成が必要。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ENEOS｜条件達成すると抽選で最大10,000ポイントが当たる！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ファミリーマート・エントリーとSPU特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "エントリー1pt・抽選10,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "SPU達成条件あり。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ファミリーマート｜エントリーで1ポイント&SPU達成で10,000ポイントが当たる",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ジョーシン・抽選で1,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で500名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ジョーシン限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ジョーシン｜抽選で500名さまに1,000ポイント進呈！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン・花王購入で最大20％還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "楽天ポイント最大20％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "コーナン限定。花王商品購入。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "コーナン×花王｜花王商品購入で楽天ポイント最大20％還元",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10月ポイント増量日",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成でポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "西友・リヴィン限定。条件達成が必要。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "西友・リヴィン｜10月度 条件達成で楽天ポイント最大7倍！楽天ポイント増量日！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "対象ラーメン店・ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象ラーメン店限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "人気のラーメン店集合！楽天ポイント2倍キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "すき家・楽天ポイント最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "すき家限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "すき家｜楽天ポイント最大15倍キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "なか卯・楽天ポイント最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "なか卯限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "なか卯｜楽天ポイント最大15倍キャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー・条件達成でポイント最大5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成でポイント最大5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "サニー限定。条件達成が必要。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "サニー｜条件達成で楽天ポイント最大5倍！楽天ポイント増し増しデー！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ベイシア・抽選で100万ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100万ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ベイシア限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "ベイシア｜抽選で100万ポイントキャンペーン",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ対象商品で最大300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品購入で最大300ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アークランズ限定。対象商品購入。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "アークランズ｜対象商品を購入すると最大300ポイントもらえる！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "セブンスター導入記念100万ポイント山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100万ポイント山分け",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "セブンスター限定。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "evidence_quote": "セブンスター｜楽天ポイントカード導入記念100万ポイント山分けキャンペーン！",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

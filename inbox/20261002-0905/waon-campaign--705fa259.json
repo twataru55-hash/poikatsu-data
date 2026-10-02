@@ -1,0 +1,73 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon"
+      ],
+      "title": "会員登録限定・対象イオングループ店舗でポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント基本の2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon",
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "会員登録済WAON限定。JMB・WAON POINTカード対象外。一部店舗・商品除外。",
+      "official_url": "https://www.waon.net/campaign/20190601_2baipointcp/",
+      "evidence_quote": "電子マネーWAONのお支払いで200円(税込)ごとに1ポイントのところ、イオングループの対象店舗にて、あらかじめ会員登録が完了された電子マネーWAONでのお支払いで200円(税込)ごとに2ポイント付与！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon"
+      ],
+      "title": "イオンのありが10デー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "200円(税込)のお支払いで5ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "北海道・九州エリアのイオン等対象外。いつでも2倍との併用なし。",
+      "official_url": "https://www.waon.net/campaign/20190601_2baipointcp/",
+      "evidence_quote": "「ありが10デー」\n※1\nの併用はございません。200円(税込)の電子マネーWAONのお支払いに対して、5ポイントがたまります。",
+      "confidence": "confirmed"
+    }
+  ]
+}

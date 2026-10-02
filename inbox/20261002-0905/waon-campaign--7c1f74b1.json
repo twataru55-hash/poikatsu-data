@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon"
+      ],
+      "title": "毎月20日・30日のお客さま感謝デー",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "電子マネーWAONのお支払いで5%OFF",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月20・30日。対象商品・店舗限定。ミニストップ対象外。地域により期日等が異なる。",
+      "official_url": "https://www.waon.net/campaign/thanks_day/",
+      "evidence_quote": "毎月20日・30日\nに対象店舗にて、電子マネーWAONのお支払いで5%OFFとなります。",
+      "confidence": "confirmed"
+    }
+  ]
+}
