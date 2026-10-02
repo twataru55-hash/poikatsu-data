@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-01-0920",
-    "generated_at": "2026-10-01T09:20:27+09:00",
+    "data_version": "2026-10-02-0920",
+    "generated_at": "2026-10-02T09:20:41+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 2,
-      "live_campaigns": 2,
+      "campaigns": 3,
+      "live_campaigns": 3,
       "stores": 7,
       "recurring": 1
     }
@@ -478,6 +478,41 @@
       "last_verified": "2026-10-01",
       "status_override": null,
       "id": "cp-2585b82213"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイへようこそ＆おかえりキャンペーン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初めて・久しぶりの方に500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/welcomeinvitation/20261001"
+      },
+      "conditions": "対象月の条件を満たし合計2,500円以上決済・メルマガ購読。全期間で1回限り。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-02",
+      "status_override": null,
+      "id": "cp-1eb0751db0"
     }
   ],
   "pr_links": [],
