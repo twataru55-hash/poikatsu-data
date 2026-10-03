@@ -1,13 +1,13 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-03-1527",
-    "generated_at": "2026-10-03T15:27:29+09:00",
+    "data_version": "2026-10-03-1555",
+    "generated_at": "2026-10-03T15:55:53+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 87,
-      "live_campaigns": 77,
-      "stores": 61,
+      "campaigns": 115,
+      "live_campaigns": 98,
+      "stores": 80,
       "recurring": 7
     }
   },
@@ -860,6 +860,158 @@
       "official_url": "https://dpoint.docomo.ne.jp/cp_6/mustbuy/mizkan_vinegardrink_2610_MI0178/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_0178&utm_content=web",
       "accepted_brand_ids": [],
       "base_rewards": []
+    },
+    {
+      "id": "lawson-store100",
+      "name": "ローソンストア100",
+      "category": "convenience",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/lawson_261001_7814/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "natural-lawson",
+      "name": "ナチュラルローソン",
+      "category": "convenience",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/lawson_261001_7814/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "matsukiyo-cocokara",
+      "name": "マツモトキヨシ・ココカラファイン（対象店）",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "shinseido-drug",
+      "name": "新生堂薬局・くすりのハッピー",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7818/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "lalaport-nagoya",
+      "name": "ららぽーと名古屋みなとアクルス",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "lalaport-togo",
+      "name": "ららぽーと愛知東郷",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "lalaport-anjo",
+      "name": "ららぽーと安城",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "mop-okazaki",
+      "name": "三井アウトレットパーク 岡崎",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "rayard-hisaya",
+      "name": "RAYARD Hisaya-odori Park",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "yonezawa",
+      "name": "メガネのヨネザワ・ヨネザワコンタクト",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/yonezawa_250801_6584/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "sunmusic",
+      "name": "サンミュージック（対象店舗）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "cosmo",
+      "name": "コスモ石油（dポイント対象店）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898747_PB7821/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "arka-drug",
+      "name": "アルカドラッグ（調剤薬局除外）",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899320_PB7786/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "super-maruhachi",
+      "name": "スーパーマルハチ",
+      "category": "supermarket",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/supermaruhachi_261001/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "super-ooji",
+      "name": "スーパーオオジ（対象7店）",
+      "category": "supermarket",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/superoog_260401/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "super-sanshin",
+      "name": "スーパー三心",
+      "category": "supermarket",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "shizutetsu-store",
+      "name": "しずてつストア・KITE-GO",
+      "category": "supermarket",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/shizutetsu-store_dpoint05/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "mos-burger",
+      "name": "モスバーガー・モスバーガー＆カフェ",
+      "category": "restaurant",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "mister-donut",
+      "name": "ミスタードーナツ",
+      "category": "cafe",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260917_7751/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
     }
   ],
   "recurring": [
@@ -1013,6 +1165,78 @@
     }
   ],
   "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/3 ポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-6bc7e69f42"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/4 dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-04T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b31e1426ca"
+    },
     {
       "type": "coupon",
       "brand_ids": [
@@ -1256,6 +1480,150 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-f5e4951606"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 プリンアラモード",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-23T00:00:00+09:00",
+        "end": "2026-10-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-774e5a5c33"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 チキン＆うずら玉子串",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-ad03cba981"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス対象3商品 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-09T00:00:00+09:00",
+        "end": "2026-10-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c773c5d6403ca620767204a4c35992198a8ee9b0f3d97f619a46ff7667cf860a"
+      },
+      "conditions": "月見等対象3商品購入・カード提示。利用者登録と加盟店への基本情報提供設定必要",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-16b95aaf5e"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス対象2種類購入で100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-09T00:00:00+09:00",
+        "end": "2026-10-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c773c5d6403ca620767204a4c35992198a8ee9b0f3d97f619a46ff7667cf860a"
+      },
+      "conditions": "対象3商品のうち2種類以上購入・カード提示。1人1回。基本情報提供設定必要",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-86b4628eb4"
     },
     {
       "type": "coupon",
@@ -1990,6 +2358,78 @@
       "id": "cp-062e26827b"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 ハッシュドポテト",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-a69248c178"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 おいしい免疫ケア　睡眠",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-df6bb0b819"
+    },
+    {
       "type": "coupon",
       "brand_ids": [],
       "title": "セブン 東京限定ベース麺値引券",
@@ -2022,6 +2462,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-50dfd55b71"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point",
+        "rakuten-point"
+      ],
+      "title": "ファミペイ 楽天ポイント初連携で100円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "過去にd・楽天・V連携して購入した方は除外。クーポン獲得ボタンを10/28までに押す",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-rakutenpoint_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-5f4c87109d"
     },
     {
       "type": "coupon",
@@ -2198,6 +2675,78 @@
       "id": "cp-210be6cff0"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 温泉たまご",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-5847d514a3"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 とろり半熟トッピングたまご",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-6f43d16f73"
+    },
+    {
       "type": "coupon",
       "brand_ids": [
         "vpoint"
@@ -2232,6 +2781,46 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-83305a1afa"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "愛知5施設 2施設以上でdポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lalaport-anjo",
+          "lalaport-nagoya",
+          "lalaport-togo",
+          "mop-okazaki",
+          "rayard-hisaya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
+      },
+      "conditions": "2施設以上で各1pt以上、合計10pt以上。利用者登録。一部店除外、公式一覧要確認",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-263aebb752"
     },
     {
       "type": "reward",
@@ -2671,6 +3260,79 @@
       "id": "cp-267726d774"
     },
     {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小倉井筒屋90周年 9,090ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選40名に9,090ポイント",
+        "cap_per_use": null,
+        "cap_total": 9090,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "izutsuya-kokura"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
+      },
+      "conditions": "dポイントためる/つかう・合計税込3000円以上。利用日ごと1口、最大31口。対象外売場あり",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-474b009e95"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "サンリブ 提示＆d払いで＋20倍抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で＋20倍",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1d259a4a33e0165df1a59ace500189cb771958cdb4bb555072fb8611610d04d1"
+      },
+      "conditions": "カード提示＆d払い合計税抜3000円以上。ランダムな1会計。ローソンマルショク長浜店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-4897bfb6f1"
+    },
+    {
       "type": "reward",
       "brand_ids": [
         "rakuten-point"
@@ -2887,6 +3549,115 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-694e96799c"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "サンリブ dポイント初利用50ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1d259a4a33e0165df1a59ace500189cb771958cdb4bb555072fb8611610d04d1"
+      },
+      "conditions": "対象店で初dポイント利用、d払い合計税抜3000円以上。ローソンマルショク長浜店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-75f645a691"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ ビオレ＋10％",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "＋10％dポイント還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ビオレザボディ対象品1会計税込1000円以上、カード提示。シャワーヘッド等・一部店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7796/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-85d26c652d"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "多慶屋10月 2回買物で300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "300ポイント",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "takeya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=3f07e414e89c0cbd820f3dfe27eea6ea597c54227bbc679a4223b79398d0d2f7"
+      },
+      "conditions": "TAKEYA1/3、カード提示・税込1000円以上2回、10pt以上ためる。第2弾へ別途エントリー",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-86734b61de"
     },
     {
       "type": "reward",
@@ -3106,6 +3877,42 @@
     {
       "type": "lottery",
       "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ENEOS はじめて・久しぶりdポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "eneos"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5ed1d8270628560d8fc856d81f89547922f0e7f4b1095800c3502d8092838ad9"
+      },
+      "conditions": "7/1以降ENEOSでdポイントをためていない方。期間合計3pt以上、利用者登録必要",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/eneos_261001_7793/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-bf98f8ee69"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
         "d-barai",
         "dpoint"
       ],
@@ -3139,6 +3946,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-c1bb69fdc0"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ meltミルク購入特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=004439509d210964d4c87a2fda96bdec30c4021c6189a4fa0231d65902c73b9d"
+      },
+      "conditions": "対象3品購入・カード提示。10/10発売予定、ブランド1人1回。対象外店あり",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7804/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-ce8685d070"
     },
     {
       "type": "coupon",
@@ -3249,6 +4092,42 @@
       "id": "cp-dfea39d50d"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ 花王購入ダブルチャンス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "花王対象品1会計1500円以上かつ合計税込3500円以上、カード提示。期間1回",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-e48e408610"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "vpoint"
@@ -3289,6 +4168,42 @@
       "brand_ids": [
         "dpoint"
       ],
+      "title": "サンミュージック dポイント5倍・初10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "通常5倍・はじめて10倍",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunmusic"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7ba2b89f8f1f36e65f9286022fcd5eb16e013e68746248f050ea85700641fa46"
+      },
+      "conditions": "公式対象店でカード提示・合計1pt以上獲得、利用者登録。過去提示あり5倍・初提示10倍",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-a90a33100e"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
       "title": "サンミュージック dポイント5～10倍",
       "benefit": {
         "rate_max": null,
@@ -3319,6 +4234,76 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-b4210b9a55"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 異なる3店で抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選100名に10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/kaimawari/202610?ekey=checked"
+      },
+      "conditions": "9月利用者限定。3店で合計税込500円以上。ファミマ等除外。メルマガ購読必要",
+      "official_url": "https://pay.rakuten.co.jp/campaign/kaimawari/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-6438ff1a01"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天モバイル利用者 楽天ペイ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大30,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/mobile/2610?ekey=checked"
+      },
+      "conditions": "所定の楽天モバイル契約・同一IDで合計税込1500円以上。初利用10倍。ファミマ等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-mobile/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-96e1f4bedb"
     },
     {
       "type": "bonus",
@@ -3561,6 +4546,42 @@
       "id": "cp-b7e9f3eac3"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 ホワイトロースハム",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-8574b7b3eb"
+    },
+    {
       "type": "coupon",
       "brand_ids": [
         "vpoint"
@@ -3595,6 +4616,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-8f9711efb0"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 炭火焼鳥ぼんじり串（塩）",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10Pボーナス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-9876826423"
     },
     {
       "type": "coupon",
@@ -3886,6 +4943,43 @@
     {
       "type": "bonus",
       "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "ダスキン対象サービス 楽天ペイ特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1,500ポイント",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "duskin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "サービスマスター・メリーメイド利用後、QR払い1回2万円以上。1人1回のみ",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-duskin/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-3cb4365ed9"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
         "famima-point"
       ],
       "title": "ファミマ 友達紹介・店頭購入特典",
@@ -3918,6 +5012,78 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-d8a455f323"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 5と0のつく日全額還元抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で全額還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-12-01T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/campaign/rpay/5and0/202610?ekey=checked"
+      },
+      "conditions": "毎月5・10・15・20・25・30日、合計税込100円以上。日上限1万pt。ファミマ等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-5and0day/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b2a6640ea8"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "NEXCO中日本 楽天ペイスタンプ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "cnexco-sa-pa"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/cnexco?ekey=checked"
+      },
+      "conditions": "対象SA・PAで1店1回税込1000円以上。コンビニ・GS等除外。応募1人1口",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-3910a743fc"
     },
     {
       "type": "local",

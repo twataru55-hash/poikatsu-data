@@ -5876,5 +5876,1130 @@
     "reasons": [],
     "source": "familymart-offers",
     "title": "ファミマ ポケモンGOスタンプ応募ポイント"
+  },
+  {
+    "id": "cp-03ca1fb11b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ビック・ママ 金曜日dポイント2倍"
+  },
+  {
+    "id": "cp-3cb4365ed9",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "ダスキン対象サービス 楽天ペイ特典"
+  },
+  {
+    "id": "cp-774e5a5c33",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 プリンアラモード"
+  },
+  {
+    "id": "cp-ad03cba981",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 チキン＆うずら玉子串"
+  },
+  {
+    "id": "cp-df6bb0b819",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 おいしい免疫ケア　睡眠"
+  },
+  {
+    "id": "cp-df6bb0b819",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-df6bb0b819",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-df6bb0b819",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-8574b7b3eb",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 ホワイトロースハム"
+  },
+  {
+    "id": "cp-a69248c178",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 ハッシュドポテト"
+  },
+  {
+    "id": "cp-6f43d16f73",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 とろり半熟トッピングたまご"
+  },
+  {
+    "id": "cp-5847d514a3",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 温泉たまご"
+  },
+  {
+    "id": "cp-9876826423",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 炭火焼鳥ぼんじり串（塩）"
+  },
+  {
+    "id": "cp-3f41580b08",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ファミリーマート 対象商品dポイント"
+  },
+  {
+    "id": "cp-0f9351a9f7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ第3弾"
+  },
+  {
+    "id": "cp-e9074837e9",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-5f4c87109d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ファミペイ 楽天ポイント初連携で100円相当"
+  },
+  {
+    "id": "cp-9475774bb3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "福屋 第3金曜から3日間コスメ10倍"
+  },
+  {
+    "id": "cp-f4ac18cbae",
+    "result": "same",
+    "source": "rakuten-pay-campaign"
+  },
+  {
+    "id": "cp-87e4ad2de8",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-1ecb64c19f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "福屋 dポイント5つ星会員2倍"
+  },
+  {
+    "id": "cp-572873821d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "ブックオフ はじめて・ひさしぶり楽天ペイ"
+  },
+  {
+    "id": "cp-694e96799c",
+    "result": "same",
+    "source": "ponta-campaign"
+  },
+  {
+    "id": "cp-3c8f34f4f5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ クリスマス対象ケーキ店頭早割"
+  },
+  {
+    "id": "cp-84fd6857a9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ チキン等予約で2L飲料無料券"
+  },
+  {
+    "id": "cp-6747741ddc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "平田牧場 月水2倍・本店特定日3倍"
+  },
+  {
+    "id": "cp-3910a743fc",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "NEXCO中日本 楽天ペイスタンプ抽選"
+  },
+  {
+    "id": "cp-855be95878",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "コメヤ薬局 水曜dポイント3倍"
+  },
+  {
+    "id": "cp-528063e0a8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "札幌宿泊＆楽天ペイ買物"
+  },
+  {
+    "id": "cp-a6bcdd9638",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マルベリィ 曜日限定dポイント3倍"
+  },
+  {
+    "id": "cp-57918ddbc6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "富山県 楽天ペイ＆モバイル還元"
+  },
+  {
+    "id": "cp-83773e5798",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ファミマル水・茶24本券"
+  },
+  {
+    "id": "cp-aec687c48b",
+    "result": "same",
+    "source": "dpoint-campaign"
+  },
+  {
+    "id": "cp-809512b353",
+    "result": "same",
+    "source": "rakuten-pay-campaign"
+  },
+  {
+    "id": "cp-73b4d89357",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-52d47836ee",
+    "result": "same",
+    "source": "dpoint-campaign"
+  },
+  {
+    "id": "cp-c0897609ec",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ヤクルトY1000回数券"
+  },
+  {
+    "id": "cp-7ac2a3f9fc",
+    "result": "same",
+    "source": "dpoint-campaign"
+  },
+  {
+    "id": "cp-2122e37873",
+    "result": "same",
+    "source": "rakuten-pay-campaign"
+  },
+  {
+    "id": "cp-f8b1602187",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ カフェ回数券"
+  },
+  {
+    "id": "cp-56c2bb3545",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ホームセンタータイム エステーd払い"
+  },
+  {
+    "id": "cp-2d0bce43f5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 給与受取利用者の店頭支払"
+  },
+  {
+    "id": "cp-2c4fae1b63",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 伊右衛門特茶回数券"
+  },
+  {
+    "id": "cp-cc5e080400",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "d払いスタンプ 宝箱抽選"
+  },
+  {
+    "id": "cp-4c16f71950",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 毎週金曜日POSA特典"
+  },
+  {
+    "id": "cp-534277aada",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない",
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ミツカン お酢ドリンクdポイント還元"
+  },
+  {
+    "id": "cp-a761f8d876",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 火曜日の日配品セール"
+  },
+  {
+    "id": "cp-dd393c5dbc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 金曜日の冷凍食品セール"
+  },
+  {
+    "id": "cp-bf98f8ee69",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "ENEOS はじめて・久しぶりdポイント抽選"
+  },
+  {
+    "id": "cp-6438ff1a01",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 異なる3店で抽選"
+  },
+  {
+    "id": "cp-872f1a6982",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ローソン3業態 dポイント抽選777倍"
+  },
+  {
+    "id": "cp-c3023c2893",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 朝のコンビ割"
+  },
+  {
+    "id": "cp-6c388392c3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ 花王＋20％"
+  },
+  {
+    "id": "cp-e48e408610",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ 花王購入ダブルチャンス"
+  },
+  {
+    "id": "cp-b2a6640ea8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 5と0のつく日全額還元抽選"
+  },
+  {
+    "id": "cp-85d26c652d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ ビオレ＋10％"
+  },
+  {
+    "id": "cp-96e1f4bedb",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天モバイル利用者 楽天ペイ抽選"
+  },
+  {
+    "id": "cp-d8a455f323",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-b11ecb3316",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ キュキュット泡スプレー購入特典"
+  },
+  {
+    "id": "cp-ce8685d070",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ meltミルク購入特典"
+  },
+  {
+    "id": "cp-6806b4c7ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 毎日スクラッチ"
+  },
+  {
+    "id": "cp-8cb6177985",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ 10月最大1000倍抽選"
+  },
+  {
+    "id": "cp-c96fb7ed14",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ 11月最大1000倍抽選"
+  },
+  {
+    "id": "cp-724bc1fa09",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ 12月最大1000倍抽選"
+  },
+  {
+    "id": "cp-bf5c19fea6",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-639aedc8ce",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（30000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "愛知5施設 dポイント最大3万pt抽選"
+  },
+  {
+    "id": "cp-263aebb752",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "愛知5施設 2施設以上でdポイント10倍"
+  },
+  {
+    "id": "cp-8500c42a39",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-16b95aaf5e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "モス対象3商品 dポイント3倍"
+  },
+  {
+    "id": "cp-86b4628eb4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "モス対象2種類購入で100ポイント"
+  },
+  {
+    "id": "cp-45b5887777",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-b23926a0f8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（15000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "モス・ミスド 第1弾dポイント抽選"
+  },
+  {
+    "id": "cp-1651809df7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（25000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "モス・ミスド 第2弾dポイント抽選"
+  },
+  {
+    "id": "cp-12bb8ac785",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-a417802cf5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "モス14～18時 dポイント最大5倍"
+  },
+  {
+    "id": "cp-3f79413933",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ10月エントリー 初・久しぶり特典"
+  },
+  {
+    "id": "cp-22e01e7efb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ スニッカーズ無料引換券"
+  },
+  {
+    "id": "cp-413f910c4a",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-b7e9f3eac3",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-2fbf466a7d",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-14f43639a8",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-6c53645a37",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-61408c6564",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-97fa35eb8b",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-5fe28670ee",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-f3a2e85c2c",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-f265683fab",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-f5e4951606",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-7676ec209d",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-e5778fd06f",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-0bf1b18987",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-37de27b356",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-40220c76b1",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-7102c37294",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-aa52974400",
+    "result": "same",
+    "source": "familymart-offers"
+  },
+  {
+    "id": "cp-29040b6c16",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ヨネザワ 毎月第2金曜コンタクト5倍"
+  },
+  {
+    "id": "cp-b7cc57217b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 毎月25日～翌月3日POSA特典"
+  },
+  {
+    "id": "cp-bd9109ff6d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "すき家 月間来店回数で最大15倍"
+  },
+  {
+    "id": "cp-0d33445137",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "なか卯 月間来店回数で最大15倍"
+  },
+  {
+    "id": "cp-86734b61de",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "多慶屋10月 2回買物で300ポイント"
+  },
+  {
+    "id": "cp-4897bfb6f1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンリブ 提示＆d払いで＋20倍抽選"
+  },
+  {
+    "id": "cp-75f645a691",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンリブ dポイント初利用50ポイント"
+  },
+  {
+    "id": "cp-60a9a7d452",
+    "result": "same",
+    "source": "dpoint-campaign"
+  },
+  {
+    "id": "cp-a2ba4a2da2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/8 dポイント3倍"
+  },
+  {
+    "id": "cp-efa045f7c4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/15 dポイント3倍"
+  },
+  {
+    "id": "cp-e4797b2866",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/22 dポイント3倍"
+  },
+  {
+    "id": "cp-fbc1307cb9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/29 dポイント3倍"
+  },
+  {
+    "id": "cp-b31e1426ca",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/4 dポイント5倍"
+  },
+  {
+    "id": "cp-de890ab9cb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/11 dポイント5倍"
+  },
+  {
+    "id": "cp-95d537e1a2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/18 dポイント5倍"
+  },
+  {
+    "id": "cp-15e3a2b959",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/25 dポイント5倍"
+  },
+  {
+    "id": "cp-6bc7e69f42",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/3 ポイント利用10％返還"
+  },
+  {
+    "id": "cp-e1c45fa5a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/10 ポイント利用10％返還"
+  },
+  {
+    "id": "cp-b14a965943",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/17 ポイント利用10％返還"
+  },
+  {
+    "id": "cp-c23a2831a7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/24 ポイント利用10％返還"
+  },
+  {
+    "id": "cp-f350ee443b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク10/31 ポイント利用10％返還"
+  },
+  {
+    "id": "cp-a90a33100e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンミュージック dポイント5倍・初10倍"
+  },
+  {
+    "id": "cp-61c785b17a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "コスモ給油 dポイント毎月ハズレなし抽選"
+  },
+  {
+    "id": "cp-474b009e95",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "小倉井筒屋90周年 9,090ポイント抽選"
+  },
+  {
+    "id": "cp-74accb175a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "アルカドラッグ d払い最大1万ポイント抽選"
+  },
+  {
+    "id": "cp-5641a25698",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "トモズ10/3 dポイント利用10％返還"
+  },
+  {
+    "id": "cp-fa33c343dc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパーマルハチ d払い最大1万ポイント抽選"
+  },
+  {
+    "id": "cp-4caf76433b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパーオオジ10/10 dポイント2倍"
+  },
+  {
+    "id": "cp-27a656a40d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパーオオジ10/24 dポイント2倍"
+  },
+  {
+    "id": "cp-c431ed9170",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパー三心 税抜3000円以上で2倍"
+  },
+  {
+    "id": "cp-8472e62084",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパー三心 毎月11～20日抽選"
+  },
+  {
+    "id": "cp-fd773c12e6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパー三心10/1～20日 ポイント返還"
+  },
+  {
+    "id": "cp-f7b9292c24",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "スーパー三心10/21～末日 ポイント返還"
+  },
+  {
+    "id": "cp-590ebbff33",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/7 dポイント10倍"
+  },
+  {
+    "id": "cp-5cb48d3aad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/14 dポイント10倍"
+  },
+  {
+    "id": "cp-c2e65aaf9c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/21 dポイント10倍"
+  },
+  {
+    "id": "cp-d12591ea01",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/28 dポイント10倍"
+  },
+  {
+    "id": "cp-7cae672807",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/11 dポイント7倍"
+  },
+  {
+    "id": "cp-dceb272d39",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "しずてつストア10/25 dポイント7倍"
   }
 ]
