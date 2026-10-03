@@ -79,7 +79,7 @@ def fair_order(pending: list, state: dict) -> list:
     return result
 
 
-def main(force: bool = False, limit_override: int | None = None) -> dict:
+def main(force: bool = False, limit_override: int | None = None, source_ids: list[str] | None = None) -> dict:
     config = load_config()
     if not config.get("enabled", True):
         return {"ok": True, "message": "停止スイッチ（enabled: false）のため何もしない"}
@@ -130,7 +130,13 @@ def main(force: bool = False, limit_override: int | None = None) -> dict:
             item.update(parent=src["parent"], url=src["url"])
         queue["items"].append(item)
 
-    for page in collect(load_sources(), config, force=force, record_snapshots=False, record_status=False):
+    selected = load_sources()
+    if source_ids:
+        unknown = set(source_ids) - {s["id"] for s in selected}
+        if unknown:
+            return {"ok": False, "errors": [f"取得元が未登録: {sorted(unknown)}"]}
+        selected = [s for s in selected if s["id"] in source_ids]
+    for page in collect(selected, config, force=force, record_snapshots=False, record_status=False):
         sid = page.source["id"]
         if not page.ok:
             queue["failed"].append({"source_id": sid, "error": page.error})
@@ -165,9 +171,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--sources", nargs="+")
     args = parser.parse_args()
     if args.limit is not None and not 1 <= args.limit <= 300:
         parser.error("--limit は1〜300")
-    res = main(force=args.force, limit_override=args.limit)
+    res = main(force=args.force, limit_override=args.limit, source_ids=args.sources)
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)

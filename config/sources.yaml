@@ -39,7 +39,7 @@
   domains:
   - docomo.ne.jp
   follow:
-    pattern: ^https://dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp/[^?#]+)(?:\?[^#]*)?$
+    pattern: ^https://dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp_[0-9]+/[^?#]+)(?:\?[^#]*)?$
     max_new: 20
     render: static
 - id: dbarai-campaign
@@ -83,6 +83,7 @@
   - .campaign-peek
   - '#campaign-peek'
   - section.related-campaigns
+  - .carouselArea
 - id: rakuten-pointcard-campaign
   name: 楽天ポイントカード キャンペーン一覧
   url: https://pointcard.rakuten.co.jp/campaign/
@@ -106,6 +107,7 @@
   - .campaign-peek
   - '#campaign-peek'
   - section.related-campaigns
+  - .carouselArea
 - id: aupay-campaign
   name: au PAY キャンペーン一覧
   url: https://aupay.wallet.auone.jp/campaign/
@@ -142,6 +144,7 @@
     - https://www.ponta.jp/c/campaign/lawson_2608/
     redirect_hosts:
     - s9.r-ad.ne.jp
+    - dr.r-ad.ne.jp
     redirect_label_pattern: ローソン|ドトール|ジョーシン
 - id: vpoint-campaign
   name: Vポイント キャンペーン一覧
