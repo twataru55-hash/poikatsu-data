@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 朝のコンビ割",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象セット250円税込",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象のおむすび・パンと茶・コーヒーのセット。沖縄除外、鹿児島一部265円。併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_asafamima_cp_mxSa28FC.html",
+      "evidence_quote": "対象の商品がセットで\n250円(税込)",
+      "confidence": "confirmed"
+    }
+  ]
+}

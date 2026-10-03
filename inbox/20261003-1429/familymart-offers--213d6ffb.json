@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 新規登録の無料茶クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の茶1点無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-03-03T00:00:00+09:00",
+        "end": "2027-02-28T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "実施期間内のアプリ新規登録者。対象商品・利用期限は配信券面を確認。地域・規格除外あり",
+      "official_url": "https://www.family.co.jp/campaign/spot/2503_famipay-welcome_cp.html",
+      "evidence_quote": "会員登録完了後、対象商品のうちいずれか1点に使用できる無料クーポンをお届けします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

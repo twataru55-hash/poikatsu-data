@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ヤクルトY1000回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14枚2106円・1本分おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ購入・店頭引換。対象110ml、14枚、購入日含む45日。併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2504_famipay-yakult1000_cp.html",
+      "evidence_quote": "回数券を2,106円（1本分おトク）で販売します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

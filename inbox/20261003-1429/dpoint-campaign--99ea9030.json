@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "コメヤ薬局 水曜dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "水曜日dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "komeya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で登録済カード提示。一体型ファミリーマート店・一部品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/komeya_181031_0432/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_201810_0432",
+      "evidence_quote": "コメヤ薬局 dポイント 毎週水曜日はdポイント3倍！",
+      "confidence": "confirmed"
+    }
+  ]
+}

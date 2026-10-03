@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "セブン ソフトバンクPayPayクーポン",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10%PayPayポイント還元",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ソフトバンク利用者限定。事前取得・セブンアプリ経由支払、1回のみ。タバコ・7NOW等除外",
+      "official_url": "https://www.sej.co.jp/cmp/app_paypay2603.html",
+      "evidence_quote": "PayPayクーポンページで\nクーポンを事前に獲得し、\nセブン‐イレブンアプリから\nPayPayでお支払いすると、\n最大10%のPayPayポイントを\n付与します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

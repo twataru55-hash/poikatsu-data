@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "夜マック ポテナゲ大・特大",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "大380円以上／特大560円以上お得",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "夜17時以降。24時間店翌4:59まで。特定店・デリバリーは価格等異なる",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/yorumac/",
+      "evidence_quote": "マックフライポテト®(L)×1個とチキンマックナゲット® 10ピースがセットで￥380以上おトク！夜マック®だけのサイドセットです。",
+      "confidence": "confirmed"
+    }
+  ]
+}

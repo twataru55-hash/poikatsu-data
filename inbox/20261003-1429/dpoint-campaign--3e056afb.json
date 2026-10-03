@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ホームセンタータイム エステーd払い",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象エステー品＋20%還元",
+        "cap_per_use": null,
+        "cap_total": 1200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "homecenter-time"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=80a051386778874f88cb5fdd768ce404cb1d7b1432f55e124280dc0fac3b5b08"
+      },
+      "conditions": "対象エステー品をコード払い1会計1,500円以上。PRO・カイロ・タッチ等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/time_stcp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7839",
+      "evidence_quote": "※期間中のポイント進呈上限：1,200ポイント",
+      "confidence": "confirmed"
+    }
+  ]
+}

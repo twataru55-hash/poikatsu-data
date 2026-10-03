@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン 銀しゃりむすび特売",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象銀しゃりむすび税込108円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象6種。地域により対象品が異なる。欠品・取扱いなしあり",
+      "official_url": "https://www.sej.co.jp/cmp/ong2610.html",
+      "evidence_quote": "10/3（土）・4（日） 対象の銀しゃりむすび6種 100円＊（税込108円）この販促物が目印 掲示物イメージ",
+      "confidence": "confirmed"
+    }
+  ]
+}

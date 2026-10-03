@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ビック・ママ 金曜日dポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "金曜日dポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "big-mama"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2021-09-03T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "登録済カード提示で1pt以上ためる。ネット決済・宅配や一部店・サービス除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/bigmama_211001_2604/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=202507_902358_dpc_202109_2604",
+      "evidence_quote": "毎週金曜日はお得にたまる！dポイントが2倍day！！",
+      "confidence": "confirmed"
+    }
+  ]
+}

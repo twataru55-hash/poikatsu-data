@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン ユンケルおかわり値引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ユンケル300円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-03T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/3～10/7対象品購入で発券。次回対象品1本に1枚。他券併用不可、税抜価格から値引",
+      "official_url": "https://www.sej.co.jp/cmp/yunker2609.html",
+      "evidence_quote": "次回使える\n300円引きレシートクーポンが\n1枚もらえます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

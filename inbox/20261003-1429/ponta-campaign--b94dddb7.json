@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ドトールグループ Pontaスタンプ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプごと30pt、最大210pt",
+        "cap_per_use": null,
+        "cap_total": 210,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "doutor-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店でカード提示。1会計200円以上で1pt以上ためる。3スタンプごとに30pt",
+      "official_url": "https://www.ponta.jp/c/campaign/doutor_2609/?utm_source=pontaweb&utm_medium=cp&utm_campaign=doutor_2609&dspn=v2sZkd2DDHRnwcQzTAZ8YGJ8OvRdJISNSa3wQq_3FrQzk_r0gK6QG8aI8-KVqYA7KqE3xgJ3s8hJkJZMc7uMHP_vQbvBrzMu-CEoyJb2Hus",
+      "evidence_quote": "スタンプ3個ごとにもれなく30ポイント\n最大210ポイントもらえる！",
+      "confidence": "confirmed"
+    }
+  ]
+}

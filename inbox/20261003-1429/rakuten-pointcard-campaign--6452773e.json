@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "Joshin 楽天ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選500名に1,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-25T00:00:00+09:00",
+        "end": "2026-10-18T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "両カード提示で単品税抜200円以上・1pt以上獲得。web除外・利用登録・メルマガ購読",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/?scid=wi_pym_cpn_list",
+      "evidence_quote": "抽選で500名さまに楽天ポイントを1,000ポイント進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

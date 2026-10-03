@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "Joshin Vポイント抽選バック",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選で最大100%ポイントバック",
+        "cap_per_use": null,
+        "cap_total": 100000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "両会員証提示、税抜1万円以上かつV50pt以上。期間中最高額の1会計が対象。web除外",
+      "official_url": "https://cpn.tsite.jp/page/pg910040101002",
+      "evidence_quote": "・1等（8名様）：会計相当額の100％分ポイントバック（上限100,000pt）",
+      "confidence": "confirmed"
+    }
+  ]
+}

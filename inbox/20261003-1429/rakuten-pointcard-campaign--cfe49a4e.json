@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "玉光堂グループ 新譜予約楽天2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "予約対象新譜で楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "gyokkodo-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "発売前店頭・電話予約、受取時カード提示で税抜100円以上。イケヤ・通販除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/gyokkodo/20250701/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【玉光堂】［発売前のCD、DVD、Blu-ray、レコードを店頭 or 電話で予約］＋［店頭でのお受け取り時に楽天ポイントカードを提示してお会計すると］楽天ポイント2倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

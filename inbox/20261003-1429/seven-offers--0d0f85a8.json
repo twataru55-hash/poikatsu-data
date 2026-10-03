@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン ゴンチャ値引券抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選14万名に150円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T10:00:00+09:00",
+        "end": "2026-10-12T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "応募は10/5 23:59まで公式Xフォロー・リポスト。国内居住者、当選1回、他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/fr_gn2609.html",
+      "evidence_quote": "抽選で14万名様に、対象の貢茶（ゴンチャ）いずれか1本に使える150円引きクーポンがその場で当たる！",
+      "confidence": "confirmed"
+    }
+  ]
+}

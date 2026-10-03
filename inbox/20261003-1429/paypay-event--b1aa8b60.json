@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "PayPay U18ステップ条件引き下げ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成でポイント付与率アップ",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "12～18歳限定。本人確認が必要。付与率・達成条件の詳細は別ページ",
+      "official_url": "https://paypay.ne.jp/event/youth-20260303/",
+      "evidence_quote": "12-18歳の方は条件引き下げ！条件達成でもっとおトクに！ PayPaySTEP",
+      "confidence": "confirmed"
+    }
+  ]
+}

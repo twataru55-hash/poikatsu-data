@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アルペン 楽天ポイント全額抽選",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選100名に全額ポイントバック",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "alpen-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T09:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "登録済カード提示、税抜200円以上かつ1pt以上獲得。期間合計対象。要メルマガ",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/alpen/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "抽選で100名さまに楽天ポイント全額キャッシュバック！進呈上限：10,000ポイント",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ オートチャージ200万pt山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "200万ポイント山分け",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked-wi_pym_cpn_big"
+      },
+      "conditions": "オートチャージと残高コード・QR払い、メルマガ必須。ファミマ・請求書払い等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/?scid=wi_pym_cpn_big",
+      "evidence_quote": "楽天ポイント200万ポイントを山分けにて進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

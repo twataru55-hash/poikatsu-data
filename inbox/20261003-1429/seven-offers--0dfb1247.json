@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン ハイチュウおかわり値引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ハイチュウ20円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/12対象品購入で発券。次回対象品1個に1枚。他券併用不可、税抜価格から値引",
+      "official_url": "https://www.sej.co.jp/cmp/hc2609.html",
+      "evidence_quote": "次回使える\n20円引きレシートクーポンが\n1枚もらえます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

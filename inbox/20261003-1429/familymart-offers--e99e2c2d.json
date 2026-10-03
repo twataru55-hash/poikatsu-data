@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "famipay",
+        "famima-point"
+      ],
+      "title": "ファミマ 毎週金曜日POSA特典",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "対象POSA購入10%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象POSAをファミペイ店頭購入。Apple・Google・楽天・Amazon等指定カード除外。毎週金曜日",
+      "official_url": "https://www.family.co.jp/campaign/spot/2603_posa_famipay_cp.html",
+      "evidence_quote": "【ファミリーマート限定】対象のプリペイドカード（POSAカード）をファミペイ払いで購入すると毎週金曜日限定ファミマポイント10％還元",
+      "confidence": "confirmed"
+    }
+  ]
+}

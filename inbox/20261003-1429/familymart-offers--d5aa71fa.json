@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "famipay",
+        "famima-point"
+      ],
+      "title": "ファミマ 毎月25日～翌月3日POSA特典",
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "対象POSA購入1.5%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定POSAをファミペイ店頭購入。期間限定特典1.5%、通常0.5%別。対象カード確認。毎月25日～翌月3日",
+      "official_url": "https://www.family.co.jp/campaign/spot/posa-gmgs-cp.html",
+      "evidence_quote": "毎月25日～翌月3日にPOSAカードをファミペイ払いで購入すると、1.5％還元されるお得なキャンペーン開催中！！",
+      "confidence": "confirmed"
+    }
+  ]
+}

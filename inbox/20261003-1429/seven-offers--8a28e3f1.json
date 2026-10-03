@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン 買うほどランクアップ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で無料商品クーポン1枚・3枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示、税抜累計2000円・5000円達成。抽選11/5まで、当選後情報登録11/10まで",
+      "official_url": "https://www.sej.co.jp/cmp/app_campaign.html",
+      "evidence_quote": "ブロンズ 達成条件 お買い物金額累計2,000円（税抜）を達成すると 当月特典 特典1 選べる！人気商品無料クーポン1枚 ※商品は一例です。 抽選で10万名様 ※クーポン利用期限：12月31日（木）",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "tsuruha-group-point"
+      ],
+      "title": "ツルハ 10月対象商品のポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品別ポイントプラス",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ツルハ会員カード・アプリ提示。九州除外。商品の倍率は画像・店頭で確認",
+      "official_url": "https://www.tsuruha.co.jp/campaign/beauty_20261001/",
+      "evidence_quote": "※ポイント率は店舗、商品によって異なる場合がございます。また、一部除外商品もございます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

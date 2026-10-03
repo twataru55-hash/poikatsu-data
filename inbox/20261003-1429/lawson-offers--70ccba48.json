@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン カップ麺無料引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "取得済み券で対象カップ麺1個無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/22～9/28の対象ブタキム購入券が必要。ミニもやしみそ対象。持帰り限定",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532243_3677.html",
+      "evidence_quote": "レシート無料券　引換期間　9/29(火)〜10/5(月)",
+      "confidence": "confirmed"
+    }
+  ]
+}

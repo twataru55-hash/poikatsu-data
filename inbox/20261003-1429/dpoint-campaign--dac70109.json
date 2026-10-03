@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "平田牧場 月水2倍・本店特定日3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント2倍／本店対象日3倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "hiraboku"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2021-12-01T10:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "山形対象7店カード提示1pt以上。本店金曜・3/13/23/30/31/29日・2月9日3倍",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/hiraboku_211201_2753/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=202507_903477_dpc_202112_2753",
+      "evidence_quote": "月曜・水曜はdポイント2倍day！",
+      "confidence": "confirmed"
+    }
+  ]
+}

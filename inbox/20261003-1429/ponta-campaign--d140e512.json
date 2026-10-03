@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン Ponta10月抽選還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大全額相当還元",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Ponta提示で1pt以上加算。月上限4000pt。ストア100・Lミニマート除外",
+      "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/?utm_source=pontaweb&utm_medium=cp&utm_campaign=lawson_2608&vos=pppjpsspjQ12608040801260605001&dspn=MMiROKOvQ0NIqjaby96KNKXODI7-N6p28ytnBMcyu_czk_r0gK6QG8aI8-KVqYA7aj-gz04kutMtUfMCuP7BK__vQbvBrzMu-CEoyJb2Hus",
+      "evidence_quote": "2026年10月1日(木)～10月31日(土) 10月は抽選で1,010名様にPontaポイント還元！ お買い物金額が最大実質無料",
+      "confidence": "confirmed"
+    }
+  ]
+}

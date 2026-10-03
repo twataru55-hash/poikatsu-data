@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン 10月ポイント増量日",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10月3/5/10/12/17/19/21～26/31日限定。日税抜2,500円以上。アプリ＋指定決済等",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【特典1：西友アプリ限定】楽天ポイント4倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

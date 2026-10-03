@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン キューピーコーワ半額券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品半額クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-17T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/17～10/7アプリ提示で対象品購入。会員登録・ログイン必須。他券併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_qpk2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\n提示して\n対象のキューピーコーワシリーズを\n買うたびに、\n次回使える\n半額クーポンが\n1枚もらえます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

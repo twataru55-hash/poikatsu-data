@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン 対象たらみゼリーまとめ買い",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2個50円引／3個100円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象4品限定。スマホレジ除外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532253_3677.html",
+      "evidence_quote": "●下記対象商品のうち、2個一緒に買うと50円引、3個一緒に買うと100円引(税込)",
+      "confidence": "confirmed"
+    }
+  ]
+}

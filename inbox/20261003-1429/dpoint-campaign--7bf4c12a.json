@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マルベリィ 曜日限定dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店・曜日dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2024-12-01T10:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象3ブランドだけ。カード提示とd払い条件の記載が混在。一部店・商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/maruberry_241201_5897/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202412_5897",
+      "evidence_quote": "火曜日：マンママリー、ベイサイドジェラード\n木曜日：熟成とんかつまる兵衛",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

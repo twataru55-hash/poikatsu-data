@@ -1,0 +1,772 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ カット野菜(サラダ用)全品 1",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "宮崎・鹿児島除外、割引対象外品あり。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象商品1個につき30円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ しっとりケーキ（チョコ） 2",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で別途20円相当。下関・宇部・山陽小野田除外。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "10円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 大きなチーズカレーパン（CoCo壱番屋監修） 3",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で別途20円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "10円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ブルガリアヨーグルト果実Special彩りフルーツバリエ 4",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "26円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "180g。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "26円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ブルガリアヨーグルト果実Special雪梨ミックス 5",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "26円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "180g。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "26円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 白鶴まるパック 6",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "35円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "2000ml、アプリ提示別途15円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "35円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 信長鬼ころしパック 7",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "2000ml、アプリ提示別途40円相当。関東は静岡東部のみ、伊賀・名張除外。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "60円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 信長鬼ころしパック 8",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "1000ml、アプリ提示別途20円相当。関東は静岡東部のみ、伊賀・名張除外。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "40円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ヴイックスレモン風味 9",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "20個入。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "50円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ヴイックスオレンジ風味 10",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "20個入。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "50円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 対象のどん兵衛 11",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2個購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "掲載の対象どん兵衛限定、東西など地域別商品を確認。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象のどん兵衛　2個購入で100円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 板チョコアイス 12",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "セット購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "白い板チョコアイス・板チョコアイス対象。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象の板チョコアイスセット購入で50円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 白鶴まるパック 13",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "45円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "900ml、アプリ提示別途15円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "45円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ライフガード 14",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "500ml、アプリ提示別途10円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "14円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 対象の味の素おかゆ 15",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2個購入で80円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "白・梅・玉子・紅鮭がゆ、ごちかゆ対象2種。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象の味の素おかゆ　2個購入で80円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ デュワーズ　ホワイト・ラベル 16",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "700ml、アプリ提示別途50円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象のどん兵衛　2個購入で100円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ デュワーズ12年 17",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "700ml、アプリ提示別途50円相当。宮崎・鹿児島除外。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象のどん兵衛　2個購入で100円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ フロンテラ　カベルネ・ソーヴィニヨン 18",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "750ml。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象のどん兵衛　2個購入で100円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ フロンテラ　シャルドネ 19",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "750ml。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "対象のどん兵衛　2個購入で100円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ UCC　ブラック無糖 20",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "185g、アプリ提示別途10円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "14円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ジョージア　エメラルドマウンテンブレンド 21",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "185g。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "14円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ タリーズブラック 22",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "390ml、アプリ提示別途10円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "14円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ アクエリアス 23",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "22円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-04T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "500ml、アプリ提示別途10円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "22円引き",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ マッチ 24",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-28T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "500ml、アプリ提示別途10円相当。一部店・商品取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "14円引き",
+      "confidence": "confirmed"
+    }
+  ]
+}

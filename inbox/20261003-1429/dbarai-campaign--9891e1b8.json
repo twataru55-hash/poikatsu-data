@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ジョイフル本田 d払い毎月5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joyfulhonda-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2022-07-15T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=CPM27111"
+      },
+      "conditions": "毎月登録、対象d払い月合計5000円以上。上限月1000pt。THE GLOBEつくば等除外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_joyfulhonda_250401_6223/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202504_6223&utm_content=a",
+      "evidence_quote": "毎月5,000円（税込）以上のd払いでポイント5倍進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

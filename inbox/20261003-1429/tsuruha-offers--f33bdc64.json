@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "tsuruha-group-point"
+      ],
+      "title": "ツルハ感謝デー 対象ペット用品特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ペット用品5%OFF・自社pt5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "開催日不明。九州・一部商品除外、楽天ポイントは対象外。高い倍率のみ適用",
+      "official_url": "https://www.tsuruha.co.jp/campaign/pet_day/",
+      "evidence_quote": "お客様感謝デー【ペット用品5％OFF&ポイント5倍】※九州地区のツルハドラッグ除外",
+      "confidence": "confirmed"
+    }
+  ]
+}

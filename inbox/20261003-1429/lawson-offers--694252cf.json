@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン きりっと果実無料引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象飲料1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/5対象品購入で発券。ストア100等・スマホレジ除外。持ち帰り限定",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532747_3677.html",
+      "evidence_quote": "レシート無料券　引換期間　10/6(火)〜10/19(月)",
+      "confidence": "confirmed"
+    }
+  ]
+}

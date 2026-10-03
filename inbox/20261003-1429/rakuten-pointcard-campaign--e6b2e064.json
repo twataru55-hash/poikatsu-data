@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ファミマ SPU達成で楽天ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "エントリー1pt＋抽選10,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/familymart/20261001?ekey=mp_on_wi_pym_cpn_list"
+      },
+      "conditions": "カード提示で月3,000円税込以上、1回1pt以上獲得。利用登録・メルマガ購読が条件",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/familymart/20261001/spu/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【特典2】\n抽選で50名さまに楽天ポイント10,000ポイントを進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

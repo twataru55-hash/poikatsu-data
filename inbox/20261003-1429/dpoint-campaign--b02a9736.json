@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "はるやま dポイント最大50倍抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大50倍／10万pt山分け",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "haruyama"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-14T00:00:00+09:00",
+        "end": "2026-11-08T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5a7563ad62160afbf8fd063075231bcadd8576ceddc0028f31dec05850541696"
+      },
+      "conditions": "カード提示で合計25pt以上ためる。50pt以上で1・2等確率2倍。通販除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/haruyamacp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7682",
+      "evidence_quote": "1等　50倍×50名さま\n（進呈上限：3,000ポイント/人）",
+      "confidence": "confirmed"
+    }
+  ]
+}

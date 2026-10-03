@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ 楽天ポイント抽選5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選5,000名 楽天ポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店で税込2000円以上、カード1pt以上獲得、要メルマガ。追加分上限100pt",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "抽選で5,000名さまに楽天ポイント5倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

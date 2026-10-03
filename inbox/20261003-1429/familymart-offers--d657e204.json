@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ アプリ提示クーポン抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で飲料等の無料引換クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリバーコード提示購入。配信11月予定、酒は20歳以上。返品・キャンセル対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2022_famipay-yokoku.html",
+      "evidence_quote": "ファミマのアプリのバーコードをスキャンしてお買い物された方に飲料、ドリンク剤、20歳以上の方にお酒の無料引換クーポンプレゼント！",
+      "confidence": "confirmed"
+    }
+  ]
+}

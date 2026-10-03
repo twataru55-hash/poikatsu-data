@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ 対象ペット用品特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品 最大300ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "登録済カード提示。NICO PET対象厚型シーツ300pt・薄型100pt。プロ店舗等除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

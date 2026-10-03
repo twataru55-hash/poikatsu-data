@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "Joshin Pontaスタンプ特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプ合計250pt＋抽選2,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "事前エントリー。ジョーシン・Pontaカード併用、1会計1,100円以上。webショップ除外",
+      "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/?utm_source=pontaweb&utm_medium=cp&utm_campaign=joshin_2608&dspn=GmPV3F4cu2p8ejsKBMLB1yhnVgvr766pGzq80Vr6miczk_r0gK6QG8aI8-KVqYA7ALGSxZPZhhBVepkaK4QT-f_vQbvBrzMu-CEoyJb2Hus",
+      "evidence_quote": "スタンプを3個ためると\n合計\n250\nPontaポイント",
+      "confidence": "confirmed"
+    }
+  ]
+}

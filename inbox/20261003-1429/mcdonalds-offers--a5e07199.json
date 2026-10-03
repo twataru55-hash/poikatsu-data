@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マクドナルド セット500",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象セット税込500円～",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ハンバーガー等対象3セット。朝マック店舗10:30以降。一部店・デリバリーは価格等異なる",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/set500/",
+      "evidence_quote": "バーガーに、選べるサイドメニューとドリンクMがついてワンコイン500円! 『セット500』なら、平日も土日も、昼も夜もおトク！",
+      "confidence": "confirmed"
+    }
+  ]
+}

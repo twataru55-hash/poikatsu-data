@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "KFC 店頭Vポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "Vポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kfc"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "店頭の対面・セルフレジでカード提示。値引き後税抜200円未満・一部店除外",
+      "official_url": "https://cpn.tsite.jp/page/pg910040546003",
+      "evidence_quote": "【特典①】お店での「Tカード」または「モバイルVカード」提示で、全員もれなくポイント２倍！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "KFC 記念日アンケート抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選365名に3,300pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kfc"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "特設サイトで記念日アンケートに回答。特典は2027年2月28日期限",
+      "official_url": "https://cpn.tsite.jp/page/pg910040546003",
+      "evidence_quote": "【特典②】特設サイトでの「記念日入力」で、抽選で365名様に3,300ポイントが当たるチャンス！",
+      "confidence": "confirmed"
+    }
+  ]
+}

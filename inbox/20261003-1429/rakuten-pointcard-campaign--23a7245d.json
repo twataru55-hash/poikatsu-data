@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー 土曜ポイント増し増しデー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で最大5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunny"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象10/3・10・17・24・31。カード3倍は税抜2500円以上。Edy2倍条件あり",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "【サニー】楽天ポイント増し増しデー！毎週土曜日は条件達成＆1回あたり2,500円（税抜）以上お会計すると楽天ポイント最大5倍 2026年10月対象日：3日（土）、10日（土）、17日（土）、24日（土）、31日（土） ※200円（税抜）につき1ポイント進呈を基準とした場合の最大の倍率です",
+      "confidence": "confirmed"
+    }
+  ]
+}

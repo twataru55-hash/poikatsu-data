@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン オイコス購入で次回クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "次回30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で対象オイコス1個につき1枚。発券9/30～10/13、24時間以内配信、他券不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリ会員限定 買うたび届く30円引きクーポン",
+      "confidence": "confirmed"
+    }
+  ]
+}

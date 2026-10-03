@@ -1,0 +1,580 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ スカルプスパ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-10-22T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/2～8対象レバタ1回分購入で発券。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「レバタ スカルプスパ SP・TR 1回分」を1個買うと、同商品1個無料クーポンプレゼント10月9日（金）から使える。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ アリナミン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-08T00:00:00+09:00",
+        "end": "2026-10-21T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/1～7対象アリナミン購入で発券。引換対象5種のいずれか。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「アリナミンV 50mL」「アリナミンV＆V ロイヤル 50mL」「アリナミン メディカルバランス アップル風味」「アリナミン メディカルバランス グレープフルーツ風味」いずれか1つ買うと、「アリナミン ナイトリカバー 50mL」「アリナミン ナイトリカバーh 50mL」「アリナミン ナイトリカバーi 50mL」「アリナミン7」「アリナミンゼロ7」いずれか1本無料クーポンプレゼ",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ ブルガリアヨーグルト",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-08T00:00:00+09:00",
+        "end": "2026-10-21T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/1～7対象果実スペシャル購入で発券。引換対象3種いずれか。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「明治ブルガリアヨーグルト 果実スペシャル彩りフルーツバリエ」「明治ブルガリアヨーグルト 果実スペシャル雪梨ミックス」いずれか1個買うと、「明治ブルガリアヨーグルト ジューシーブルーベリー」「明治ブルガリアヨーグルト ジューシー苺」「明治ブルガリアヨーグルト 低糖ヨーグルト」いずれか1個無料クーポンプレゼント10月8日（木）から使える。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ フローズンヨーグルト",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-08T00:00:00+09:00",
+        "end": "2026-10-21T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/1～7対象フローズンヨーグルトいちご購入で発券。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「明治 ブルガリア フローズンヨーグルトデザート いちご」を1個買うと、同商品1個無料クーポンプレゼント10月8日（木）から使える。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ 天然水",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/5特水600ml購入で発券。天然水1L引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「サントリー 特水 600ml」を1本買うと、「サントリー 天然水 1L」1本無料クーポンプレゼント10月6日（火）から使える。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ UCC BLACK",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/5黒の余韻275g購入で発券。ホット含む同商品。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「UCC BLACK無糖 黒の余韻 275g※ホットも対象です。」を1本買うと、同商品1本無料クーポンプレゼント10月6日（火）から使える。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ チオビタ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/24～30対象品購入で発券済券が必要。チオビタ100mL引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「ソルマック5 50mL」「チオビタ・ドリンク 100mL」いずれか1本買うと、「チオビタ・ドリンク 100mL」1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ カルビーポテトチップス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/24～30鬼旨ブラックペッパー購入で発券済券が必要。対象3種引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「カルビー 堅あげポテト 鬼旨ブラックペッパー」を1個買うと、「カルビー ポテトチップス のりしおW」「カルビー ポテトチップス しあわせバタ～W」「カルビー ポテトチップス しょうゆWマヨ」いずれか1個無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ コカ・コーラ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/22～28ゼロ500ml購入で発券済券が必要。ゼロ・プラス対象品引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「コカ・コーラ ゼロ 500ml」を1本買うと、「コカ・コーラ ゼロ 500ml」「コカ・コーラ プラス 470ml」いずれか1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ クラフトボス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/22～28ホワイトモカ購入で発券済券が必要。対象ボス2種、ホット除外。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「スターバックス ホワイトモカ 500ml」を1本買うと、「サントリー クラフトボス ラテ 500ml※ホットは対象外です。」「サントリー クラフトボス 甘くないイタリアーノ 500ml」いずれか1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ 爽バニラ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23雪見だいふく購入で発券済券が必要。爽バニラ引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「ロッテ 雪見だいふく」を1個買うと、「ロッテ 爽 バニラ」1個無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ inバーエネルギー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23対象inバー購入で発券済券が必要。エネルギーサツマイモ引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「森永inバー エネルギー サツマイモ」「森永inバー プロテイン ベイクドチョコ」「森永inバー プロテイン ベイクドビター」「森永inバー プロテインザクザクチョコ」「森永inバー プロテイン ザクザクビター」いずれか1個買うと、「森永inバー エネルギー サツマイモ」1個無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ サッポロ一番",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23対象サッポロ一番購入で発券済券が必要。対象袋麺3種引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「サッポロ一番 塩らーめん やっぱりたまごでしょ！」「サッポロ一番 塩らーめん味〆のご飯」「サッポロ一番 みそラーメン味〆のご飯」「サッポロ一番 塩らーめん ミニどんぶり」いずれか1個買うと、「サッポロ一番 しょうゆ味」「サッポロ一番 みそラーメン」「サッポロ一番 塩らーめん」いずれか1個無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ セブンプレミアム茶",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23対象ヘパリーゼ購入で発券済券が必要。対象セブンプレミアム茶3種。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「ヘパリーゼW ハイパー 100ml」「ヘパリーゼW プレミアム極 100ml」「ヘパリーゼ 胃腸ドリンク 50mL」いずれか1本買うと、「セブンプレミアム むぎ茶 600ml」「セブンプレミアム ルイボスティー 600ml」「セブンプレミアム ジャスミン茶 600ml」いずれか1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ よわない檸檬堂",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23対象よわない檸檬堂購入で発券済券が必要。同商品引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「よわない檸檬堂 350ml」「よわない檸檬堂 無糖シークヮーサー 350ml」いずれか1本買うと、同商品1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ ロッテチョコパイ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/17～23対象ポップジョイ購入で発券済券が必要。対象チョコパイ2種。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「ロッテ マカダミア ポップジョイ」「ロッテ ガーナ ポップジョイ」いずれか1個買うと、「ロッテ チョコパイ クリームシュー」「ロッテ チョコパイ ビターエクレア」いずれか1個無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ 綾鷹ほうじ茶・爽健美茶",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/15～21綾鷹650ml購入で発券済券が必要。引換対象2種、ホット除外。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「綾鷹 650ml※ホットは対象外です。」を1本買うと、「綾鷹 濃いほうじ茶 650ml※ホットは対象外です。」「爽健美茶 600ml※ホットは対象外です。」いずれか1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンプライチ サントリーNOPE",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個／1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/15～21ミルクラテ500ml購入で発券済券が必要。NOPE600ml引換。無人レジ・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "evidence_quote": "「サントリー クラフトボス ミルクラテ 500ml」を1本買うと、「サントリー NOPE 600ml」1本無料引換中 ※無料クーポンの発券は終了しています。",
+      "confidence": "confirmed"
+    }
+  ]
+}

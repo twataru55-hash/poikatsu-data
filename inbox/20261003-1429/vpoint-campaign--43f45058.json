@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "すき家 来店回数でVポイント倍率UP",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "Vポイント最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sukiya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "来店回数による倍率・対象条件は詳細で確認。取得本文には要エントリーの記載なし",
+      "official_url": "https://web.tsite.jp/app/push/zensho261001_sukiya_cp/",
+      "evidence_quote": "来店すればするほど獲得倍率アップ！\nすき家でVポイント最大15倍♪",
+      "confidence": "confirmed"
+    }
+  ]
+}

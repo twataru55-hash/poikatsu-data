@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富山県 楽天ペイ＆モバイル還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大10%＋モバイル最大10%",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店コード・QR・セルフ払い。加算は12/31楽天モバイル対象プラン同一ID契約、対象外店あり",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/?scid=wi_pym_cpn_big",
+      "evidence_quote": "富山県の対象店舗限定！楽天ペイのコード・QR払いで楽天ポイント最大10％還元 さらに楽天モバイルご契約者は最大＋10％還元",
+      "confidence": "confirmed"
+    }
+  ]
+}
