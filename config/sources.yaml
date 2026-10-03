@@ -214,6 +214,8 @@
   - dpoint
   - rakuten-point
   - vpoint
+  - famima-point
+  - famipay
   store_ids:
   - familymart
   kind: official

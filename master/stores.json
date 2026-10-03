@@ -590,5 +590,214 @@
     ],
     "accepted_brand_ids": [],
     "base_rewards": []
+  },
+  {
+    "id": "big-mama",
+    "name": "ビック・ママ（対象店）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/bigmama_211001_2604/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=202507_902358_dpc_202109_2604",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "joshin",
+    "name": "Joshinグループ（対象実店舗）",
+    "category": "other",
+    "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/?utm_source=pontaweb&utm_medium=cp&utm_campaign=joshin_2608&dspn=GmPV3F4cu2p8ejsKBMLB1yhnVgvr766pGzq80Vr6miczk_r0gK6QG8aI8-KVqYA7ALGSxZPZhhBVepkaK4QT-f_vQbvBrzMu-CEoyJb2Hus",
+    "domains": [
+      "www.ponta.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "fukuya",
+    "name": "福屋（対象売場）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/fukuya-dept_221118_3741/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202211_3741",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "hiraboku",
+    "name": "平田牧場（山形県内の対象7店）",
+    "category": "restaurant",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/hiraboku_211201_2753/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=202507_903477_dpc_202112_2753",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "komeya",
+    "name": "コメヤ薬局（対象店）",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/komeya_181031_0432/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_201810_0432",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "clayton-bay",
+    "name": "クレイトンベイホテル（d払い対象場所）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/claytonbay_dpaycp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7640",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "kfc",
+    "name": "ケンタッキーフライドチキン（対象実店舗）",
+    "category": "restaurant",
+    "official_url": "https://cpn.tsite.jp/page/pg910040546003",
+    "domains": [
+      "cpn.tsite.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "nakau",
+    "name": "なか卯（対象店）",
+    "category": "restaurant",
+    "official_url": "https://web.tsite.jp/app/push/zensho261001_nakau/",
+    "domains": [
+      "web.tsite.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sukiya",
+    "name": "すき家（対象店）",
+    "category": "restaurant",
+    "official_url": "https://web.tsite.jp/app/push/zensho261001_sukiya_cp/",
+    "domains": [
+      "web.tsite.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "fujiyakuhin-group",
+    "name": "富士薬品ドラッグストアグループ（対象6ブランド）",
+    "category": "drugstore",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "gyokkodo-group",
+    "name": "玉光堂・バンダレコード・ライオン堂",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/gyokkodo/20250701/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "konaka-group",
+    "name": "コナカグループ（対象4ブランド）",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "seiyu-livin",
+    "name": "西友・リヴィン（対象実店舗）",
+    "category": "supermarket",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sevenstar",
+    "name": "セブンスター（楽天ポイント導入済対象店）",
+    "category": "supermarket",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/sevenstar/20260924/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "foel",
+    "name": "大きいサイズの店フォーエル（対象実店舗）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/foelcp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202608_7642",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "haruyama",
+    "name": "はるやま（対象実店舗）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/haruyamacp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7682",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "homecenter-time",
+    "name": "ホームセンタータイム",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/time_stcp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7839",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "welcia-group",
+    "name": "ウエルシアグループ（企画ごとの対象店）",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_6/mustbuy/mizkan_vinegardrink_2610_MI0178/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_0178&utm_content=web",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "satudora",
+    "name": "サツドラ（対象店）",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_6/mustbuy/mizkan_vinegardrink_2610_MI0178/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_0178&utm_content=web",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
   }
 ]

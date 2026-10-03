@@ -287,5 +287,36 @@
     "match_terms": [
       "ツルハグループポイント"
     ]
+  },
+  {
+    "id": "famima-point",
+    "name": "ファミマポイント",
+    "kind": "point",
+    "point_id": "famima-point",
+    "official_url": "https://www.family.co.jp/services/smartphone/famipay.html",
+    "domains": [
+      "family.co.jp"
+    ],
+    "wallet": true,
+    "note": "ファミリーマートのポイント・決済",
+    "match_terms": [
+      "ファミマポイント"
+    ]
+  },
+  {
+    "id": "famipay",
+    "name": "ファミペイ",
+    "kind": "payment",
+    "point_id": "famima-point",
+    "official_url": "https://www.family.co.jp/services/smartphone/famipay.html",
+    "domains": [
+      "family.co.jp"
+    ],
+    "wallet": false,
+    "note": "ファミリーマートのポイント・決済",
+    "match_terms": [
+      "ファミペイ",
+      "FamiPay"
+    ]
   }
 ]
