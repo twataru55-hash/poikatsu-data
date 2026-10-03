@@ -102,3 +102,10 @@ def test_catchup_budget_rejects_unbounded_fetch(limit):
     from prepare import with_detail_limit
     with pytest.raises(ValueError):
         with_detail_limit([SOURCE], limit)
+
+
+def test_tracking_changes_do_not_create_new_detail_identity():
+    a = 'https://official.example/cp/a/?campaign=one&dspn=aaa&utm_source=a'
+    b = 'https://official.example/cp/a/?campaign=one&dspn=bbb&utm_source=b'
+    assert discovery.canonical_detail_url(a) == discovery.canonical_detail_url(b)
+    assert discovery.canonical_detail_url(a).endswith('?campaign=one')

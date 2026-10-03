@@ -137,7 +137,7 @@
   - ponta.jp
   - lawson.co.jp
   follow:
-    pattern: ^https://(?:www\.ponta\.jp/c/campaign/[^?#]+|www\.lawson\.co\.jp/[^?#]+)(?:\?[^#]*)?$
+    pattern: ^https://(?:www\.ponta\.jp/c/campaign/[^?#]+|(?:www|store100)\.lawson\.co\.jp/[^?#]+)(?:\?[^#]*)?$
     max_new: 20
     render: static
     seeds:
@@ -145,7 +145,7 @@
     redirect_hosts:
     - s9.r-ad.ne.jp
     - dr.r-ad.ne.jp
-    redirect_label_pattern: ローソン|ドトール|ジョーシン
+    redirect_label_pattern: ローソン(?!銀行)|ドトール|ジョーシン
 - id: vpoint-campaign
   name: Vポイント キャンペーン一覧
   url: https://cpn.tsite.jp/list/all
