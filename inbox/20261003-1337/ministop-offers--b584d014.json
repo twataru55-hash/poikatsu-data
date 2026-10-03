@@ -1,0 +1,164 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ザバス無料引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象購入でジュニアPROTEIN無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/5に対象バナナ風味1本購入。レシート券で対象商品1本交換",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 ザバス MILK PROTEIN バナナ風味(200ml)を1本購入で、明治 ザバス ジュニアPROTEIN チョコバナナ風味(200ml)無料引換券プレゼント！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ 天然水無料引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "既発券で対象ヨーグルト味無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券終了。取得済み無料券で対象590ml1本交換",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "サントリー 天然水きりっと果実 ピンクグレープフルーツ&マスカット(600ml)を1本購入で、サントリー 天然水きりっとヨグ 朝摘みレモン&ヨーグルト味(590ml)無料引換券プレゼント！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ R-1無料引換予告",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象購入で指定ヨーグルト無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/6～10/12に指定R-1を1本購入。レシート券で対象商品1本交換",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 R-1ドリンク 低糖・低カロリー(112g)を1本購入で、明治 ヘモグロビンA1c 対策ヨーグルトドリンク(112g)無料引換券プレゼント！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ スキットルズ無料引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象購入でサワー40g無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/6～10/12にオリジナル40g1個購入。レシート券で対象商品1個交換",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "マース スキットルズ オリジナル(40g)を1個購入で、マース スキットルズ サワー(40g)無料引換券プレゼント！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ウィルキンソン無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象購入でエクストラ490ml無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/6～10/12に対象500ml1本購入。レシート券で指定490ml交換",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "アサヒ飲料 ウィルキンソン タンサン レモンまたはオレンジ＆カシス(各500ml)を1本購入で、アサヒ飲料 ウィルキンソン タンサン エクストラ(490ml)無料引換券プレゼント！",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン おにぎり・寿司クーポン抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100円引券等",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/27まで対象3個購入毎、10/30まで抽選。対象432円以下",
+      "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+      "evidence_quote": "10月1日（木）～\n11月2日（月）",
+      "confidence": "confirmed"
+    }
+  ]
+}

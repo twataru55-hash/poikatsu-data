@@ -1,0 +1,132 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 チョコラBB",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "420マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "エーザイ チョコラBB",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 ブリトー300円以下",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "230マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "（税抜300円以下）",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 ブリトー301円以上",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "300マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "（税抜301円以上）",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 スニッカーズミニ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "マース スニッカーズ ミニ",
+      "confidence": "confirmed"
+    }
+  ]
+}

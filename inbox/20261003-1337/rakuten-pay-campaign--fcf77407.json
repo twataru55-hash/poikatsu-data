@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "アカカベ 楽天ペイラッキーくじ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "akakabe"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-14T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "100円税込以上のコード・QR払い後、決済画面のくじへ。1人1日1回。通販除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月14日（月）0:00～2026年10月13日（火）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

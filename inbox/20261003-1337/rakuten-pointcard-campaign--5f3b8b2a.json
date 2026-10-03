@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ベイシア 楽天ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "beisia"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "登録済みカード提示、1会計200円税抜以上で1ポイント以上獲得。FC10店舗除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

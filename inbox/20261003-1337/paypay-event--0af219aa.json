@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "松屋 モバイル注文PayPayスクラッチ",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選 最大100%還元",
+        "cap_per_use": 100000,
+        "cap_total": 100000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsuya-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "松弁ネット・デリバリー・モバイル注文800円以上限定。店頭決済除外、30日以内くじ",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "evidence_quote": "［付与上限］ 100,000ポイント／回および期間",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "松屋 注文サービスPayPayクーポン",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsuya-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "松弁ネット・デリバリー・モバイル注文800円以上限定。クーポン獲得、1回200pt・5回まで",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "evidence_quote": "すべての方が対象 PayPayクーポン 付与上限：200ポイント／回 利用回数：5回 有効期間：10/1〜10/31 最低決済金額：800円。最大10％戻ってくる",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "オータニ d払い＆レシート抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大20,000dポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "otani"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店1会計1000円税込以上d払いコード決済、レシート応募。たばこ・ポイント充当等除外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720",
+      "evidence_quote": "当選者数 1等20,000ポイント×1名さま 2等10,000ポイント×10名さま 3等5,000ポイント×20名さま 4等1,000ポイント×50名さま 5等500ポイント×100名さま",
+      "confidence": "confirmed"
+    }
+  ]
+}

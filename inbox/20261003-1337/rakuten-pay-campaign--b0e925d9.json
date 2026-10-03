@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "NEXCO中日本 楽天ペイスタンプ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "cnexco-sa-pa"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/cnexco?ekey=checked-wi_pym_cpn_list"
+      },
+      "conditions": "対象SA・PAで1000円税込以上、1店1スタンプ。コンビニ・GS等除外、要メルマガ",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "evidence_quote": "抽選で楽天ポイント 1等最大10,000ポイント当たる！ 1等 10,000ポイント（20名さま）2等 3,000ポイント（100名さま）3等 1,000ポイント（1,000名さま）4等 100ポイント（3,000名さま）",
+      "confidence": "confirmed"
+    }
+  ]
+}

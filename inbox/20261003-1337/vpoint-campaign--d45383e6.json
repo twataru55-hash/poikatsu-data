@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "DRUGユタカ 花王エコトク抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "drug-yutaka"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "DRUGユタカ対象店限定。事前エントリー・カード提示。花王1会計1,000円毎",
+      "official_url": "https://cpn.tsite.jp/detail/en910038410004",
+      "evidence_quote": "2026年9月1日（火）～2026年10月31日（土）",
+      "confidence": "confirmed"
+    }
+  ]
+}

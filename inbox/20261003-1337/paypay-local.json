@@ -1,0 +1,319 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "遠野市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "遠野市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "遠野市 第2弾\n開催中\n2026/10/1 〜 11/30",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "野田村 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "野田村"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "野田村 第4弾\n開催予定\n2026/11/1 〜 11/30",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "由利本荘市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "由利本荘市 第5弾\n開催中\n2026/9/1 〜 12/31",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "大泉町 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "10"
+        ],
+        "municipality": "大泉町"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "大泉町 第4弾\n開催予定\n2026/11/1 〜 11/30",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "朝霞市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "朝霞市"
+      },
+      "period": {
+        "start": "2026-09-28T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "朝霞市 第2弾\n開催中\n2026/9/28 〜 10/27",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "枚方市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "27"
+        ],
+        "municipality": "枚方市"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "枚方市 第2弾\n開催予定\n2026/11/1 〜 11/30",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "紀美野町 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "30"
+        ],
+        "municipality": "紀美野町"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "紀美野町 第5弾\n開催中\n2026/9/1 〜 10/31",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "都城市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "45"
+        ],
+        "municipality": "都城市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "都城市 第5弾\n開催中\n2026/10/1 〜 10/31",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "宮古島市 PayPay地域還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店舗のPayPay支払いでポイント付与",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "47"
+        ],
+        "municipality": "宮古島市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "還元率・上限・対象店舗詳細はこの一覧に記載なし",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "宮古島市\n開催中\n2026/10/1 〜 12/31",
+      "confidence": "confirmed"
+    }
+  ]
+}

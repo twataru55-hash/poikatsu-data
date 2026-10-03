@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "aeon-pay",
+        "waon-point"
+      ],
+      "title": "ミニストップ 週末AEON Pay10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "金・土・日曜日 基本10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-04-12T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "金土日店頭のスマホ決済。WAONタッチ・モバイルオーダー・対象外店除く",
+      "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
+      "evidence_quote": "2026年4月12日(日)から日曜日も10倍！WAON POINT基本の10倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

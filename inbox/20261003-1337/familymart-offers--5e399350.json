@@ -1,0 +1,652 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ キャラメルミルクティー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "240ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "キャラメルミルクティー\n240ML\n226円\n1点につき\n＋30ポイント\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ウコンの力ドリンク",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "100ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ウコンの力ドリンク\n100ML\n247円\n1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ウコンの力スーパー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "120ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ウコンの力スーパー\n120ML\n365円\n1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ウコンの力超MAX",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "120ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ウコンの力超MAX\n120ML\n581円\n1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ キレートレモン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "155ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "キレートレモン\n155ML\n172円\n1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ キレートレモン　クエン酸2700",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "155ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "キレートレモン　クエン酸2700\n155ML\n189円\n1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ キレートレモン　MUKUMI",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "155ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "キレートレモン　MUKUMI\n155ML\n189円\n1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ 眠眠打破",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "50ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "眠眠打破\n50ML\n324円\n1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ 強強打破",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋40ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "50ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "強強打破\n50ML\n410円\n1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ソルマック5　サキノミ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋40ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "50ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ソルマック5　サキノミ\n50ML\n386円\n1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ エスカップ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "100ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "エスカップ\n100ML\n151円\n1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ 液キャベコーワA",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "45ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "液キャベコーワA\n45ML\n437円\n1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ カンゾコーワドリンク1000",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋70ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "100ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "カンゾコーワドリンク1000\n100ML\n378円\n1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ Q&PコーワゴールドZEROドリンク",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "50ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "Q&PコーワゴールドZEROドリンク\n50ML\n308円\n1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ネルノダ　睡眠＋疲労感ケア",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "100ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ネルノダ　睡眠＋疲労感ケア\n100ML\n289円\n1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ユンケル滋養液ゴールド",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "50ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ユンケル滋養液ゴールド\n50ML\n838円\n1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ ルル滋養内服液ゴールド",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋70ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "30ml、終了1/11は年の明記なし。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ルル滋養内服液ゴールド\n30ML\n748円\n1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ファミマ 紅茶花伝　ロイヤルミルクティー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "440ml。カード/連携アプリ提示でいずれか1種、合算不可。一部店取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "紅茶花伝　ロイヤルミルクティー\n440ML\n183円\n1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！\n9/8(火)～10/12(月)\n北海道\n東北\n関東\n東海\n北陸\n関西\n中国・四国\n九州\n沖縄\n",
+      "confidence": "confirmed"
+    }
+  ]
+}

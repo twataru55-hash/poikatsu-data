@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "コーナン PayPayスクラッチくじ",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選1等 最大100%還元",
+        "cap_per_use": 100000,
+        "cap_total": 100000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kohnan-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "PayPay対象払い税込3000円以上、取得30日内にくじを削る。他社カード等除外",
+      "official_url": "https://paypay.ne.jp/event/kohnan-20261001/",
+      "evidence_quote": "［付与上限］ 100,000ポイント／回および期間",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "コーナンアプリ限定PayPayクーポン",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20%還元",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kohnan-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "コーナンアプリ限定クーポンを取得、最低決済500円、1回まで。PayPay対象払い",
+      "official_url": "https://paypay.ne.jp/event/kohnan-20261001/",
+      "evidence_quote": "全ての方が対象 コーナンアプリ限定配信 PayPayクーポン 付与上限：200ポイント／回・利用回数：1回まで・有効期間：10/1〜10/14・最低決済金額：500円→最大20%戻ってくる",
+      "confidence": "confirmed"
+    }
+  ]
+}

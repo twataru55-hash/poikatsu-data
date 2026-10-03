@@ -1,0 +1,106 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク 木曜dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "10/1・8・15・22・29のみ、カード提示。日曜企画と追加分合算上限800pt、調剤等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "evidence_quote": "・進呈ポイント：通常ポイント1倍分＋キャンペーンポイント2倍分",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク 日曜dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "10/4・11・18・25のみ、カード提示。木曜企画と追加分合算上限800pt、調剤等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "evidence_quote": "・進呈ポイント：通常ポイント1倍分＋キャンペーンポイント4倍分",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク 土曜ポイント利用還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "利用dポイントの10%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/3・10・17・24・31、カード200pt以上利用。1日上限1000pt、d払い充当対象外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "evidence_quote": "dポイント ウェルパーク 10月も毎週おトク！ 要エントリー 期間中に、エントリーの上ウェルパークの対象店舗でお会計の際にdポイントカードを提示するとdポイントがもれなく 毎週木曜日3倍 1日（木）、8日（木）、15日（木）、22日（木）、29日（木）毎週日曜日5倍 4日（日）、11日（日）、18日（日）、25日（日） エントリー不要 毎週土曜日 dポイントを200ポイント以上",
+      "confidence": "confirmed"
+    }
+  ]
+}

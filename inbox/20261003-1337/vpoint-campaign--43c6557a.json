@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "街のお店 Vポイント抽選",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選 最大100%ポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "街のお店の対象店限定。ファミマ・ウエルシア・ガスト・ENEOS・TSUTAYA等と通販除外",
+      "official_url": "https://cpn.tsite.jp/detail/en910039708007",
+      "evidence_quote": "2026年10月1日～2026年10月31日にエントリーかつ対象店舗でモバイルVカードまたはTカードを提示すると、抽選で最大100%ポイントバック！",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

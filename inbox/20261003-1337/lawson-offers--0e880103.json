@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン ジョージア保有無料券引換",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象飲料1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券9/22～28終了。保有レシート券でカフェウォーターブラック500ml引換、スマホレジ不可",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532242_3677.html",
+      "evidence_quote": "レシート無料券　引換期間　9/29(火)〜10/12(月)",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン ドデカミンBIGセール",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象600ml 159円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ドデカミンBIG600ml限定。ナチュラルローソン・スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1531591_3677.html",
+      "evidence_quote": "2026.09.01 - 2026.10.05",
+      "confidence": "confirmed"
+    }
+  ]
+}

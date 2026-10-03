@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小倉井筒屋 開店90周年抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選40名に9,090ポイント",
+        "cap_per_use": null,
+        "cap_total": 9090,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "izutsuya-kokura"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
+      },
+      "conditions": "小倉井筒屋限定。カード提示で累計3,000円以上。対象外商品あり",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7775",
+      "evidence_quote": "キャンペーン期間：2026年10月1日（木）～2026年10月31日（土）",
+      "confidence": "confirmed"
+    }
+  ]
+}

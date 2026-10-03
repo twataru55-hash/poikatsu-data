@@ -1,0 +1,68 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ウィルキンソン1本無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象飲料購入で1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T07:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券9/29～10/5、対象タンサンエクストラ490ml。引換10/6朝7時～12日",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "ウィルキンソン",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 対象チョコ購入で無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ミルキーチョコビスケット無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T07:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券9/29～10/5、対象ルック購入。10/6新発売パウチ引換、引換10/6朝7時～12日",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "ミルキーチョコビスケット",
+      "confidence": "confirmed"
+    }
+  ]
+}

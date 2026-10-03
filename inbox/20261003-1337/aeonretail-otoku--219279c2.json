@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "aeon-pay",
+        "waon",
+        "aeon-card",
+        "waon-point"
+      ],
+      "title": "イオン 毎月10日ありが10デー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "スマホ決済10倍・指定カード5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月10日、本州（東北除く）・四国の直営売場。対象決済・商品限定",
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "evidence_quote": "AEON Payのスマホ決済で基本のポイント10倍 200円(税込)ごとに10ポイント クレジット、電子マネーのお支払いで基本のポイント5倍 200円(税込)ごとに5ポイント",
+      "confidence": "confirmed"
+    }
+  ]
+}

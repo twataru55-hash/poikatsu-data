@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マクドナルド ひるまック",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "てりやきセット600円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "平日10:30～14:00限定。対象セット・店舗。デリバリー等価格異なる",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/hirumac/",
+      "evidence_quote": "600円で「てりやきマックバーガー セット」が楽しめる、ひるまック®は平日のお昼限定！",
+      "confidence": "confirmed"
+    }
+  ]
+}

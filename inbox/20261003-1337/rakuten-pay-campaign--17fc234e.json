@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "由利本荘市 楽天ペイ中小店舗20%",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20%還元",
+        "cap_per_use": 1000,
+        "cap_total": 5000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "市内対象中小店舗で楽天ペイコード・QR・セルフ払い。1回上限1000pt、オンライン対象外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月1日（火）0:00～2026年12月31日（木）23:59",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "由利本荘市 楽天ペイ大型店舗5%",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "最大5%還元",
+        "cap_per_use": 1000,
+        "cap_total": 5000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "市内対象大型店舗で楽天ペイコード・QR・セルフ払い。1回上限1000pt、オンライン対象外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/?scid=wi_pym_cpn_list",
+      "evidence_quote": "2026年9月1日（火）0:00～2026年12月31日（木）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

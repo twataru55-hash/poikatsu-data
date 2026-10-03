@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon-point",
+        "aeon-card"
+      ],
+      "title": "イオン ヘアカラー毎月3日ポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月10・15・25日、本州（東北除く）・四国直営対象ヘアカラー。カード払い、制度化粧品除外",
+      "official_url": "https://www.aeonretail.jp/campaign/pointC-hairc/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
+      "evidence_quote": "毎月 10日、15日、25日はヘアカラー　ポイント10倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

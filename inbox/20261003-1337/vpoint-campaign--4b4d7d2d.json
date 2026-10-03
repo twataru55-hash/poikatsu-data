@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "Vポイント祭 福福キャンペーン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選でVポイント等が当たる",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2027-01-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象VポイントPay・SMBCカード・Olive決済。各期間5000円毎1口、ID連携。賞額不明",
+      "official_url": "https://cpn.tsite.jp/detail/en910040391001",
+      "evidence_quote": "対象のお支払い方法で、各期間中合計5,000円（税込）以上ご利用いただくと、2期間合計で100万本超のVポイントがあたります。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

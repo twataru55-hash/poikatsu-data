@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "トモズ dポイント利用10％還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "100pt以上利用で10％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tomods",
+          "american-pharmacy"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-02T00:00:00+09:00",
+        "end": "2026-10-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "トモズ・アメリカンファーマシー対象店限定。1会計100pt以上利用",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7906",
+      "evidence_quote": "10％還元：2026年10月2日（金）、2026年10月3日（土）",
+      "confidence": "confirmed"
+    }
+  ]
+}

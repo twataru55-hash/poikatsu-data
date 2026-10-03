@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint",
+        "d-barai"
+      ],
+      "title": "サンリブ dポイント提示＆d払い抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で+20倍",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "カード提示＆d払いで税抜合計3000円以上。抽選1000名、1会計分。ローソン長浜店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "evidence_quote": "サンリブ d払い dポイント 要エントリー 期間中対象店舗で、dポイントカードを提示の上、d払いにて合計3,000円（税抜）以上お支払いいただくと 抽選で1,000名さまに ＋20倍 dポイント（期間・用途限定）が当たる！ はじめて利用はもれなく50ポイント！ ※条件あり 2026年10月1日（木）～10月31日（土） ポイント進呈時期：2026年12月末 ポイント有効期限：進呈日から94日 ポイ",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint",
+        "d-barai"
+      ],
+      "title": "サンリブ dポイント初利用50pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初利用で50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "エントリーとカード提示、dポイント初利用＆d払い期間合計3000円税抜以上。対象店舗限定",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "evidence_quote": "期間中、サンリブグループ各店にて、はじめてdポイントをご利用された方のなかで、d払い（コード決済）で期間中合計決済金額3,000円（税抜）以上のお支払いをされた方にもれなくdポイント（期間・用途限定）50ポイントを進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}
