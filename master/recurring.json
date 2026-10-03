@@ -20,5 +20,145 @@
     "evidence_quote": "毎月10日はAEON Payのスマホ決済ご利用でWAON POINTが基本の10倍",
     "last_verified": "2026-09-26",
     "verified": true
+  },
+  {
+    "id": "rc-waon-thanks",
+    "title": "WAON お客さま感謝デー",
+    "store_ids": [
+      "aeon"
+    ],
+    "brand_ids": [
+      "waon"
+    ],
+    "rule": {
+      "type": "monthly_days",
+      "days": [
+        20,
+        30
+      ]
+    },
+    "benefit_text": "対象品5%OFF、一部店・商品除外",
+    "official_url": "https://www.waon.net/campaign/thanks_day/",
+    "evidence_quote": "に対象店舗にて、電子マネーWAONのお支払いで5%OFFとなります。",
+    "last_verified": "2026-10-03",
+    "verified": false
+  },
+  {
+    "id": "rc-aeon-oral10",
+    "title": "イオン 対象オーラルケア10倍",
+    "store_ids": [
+      "aeon"
+    ],
+    "brand_ids": [
+      "waon-point",
+      "aeon-card",
+      "aeon-pay"
+    ],
+    "rule": {
+      "type": "monthly_days",
+      "days": [
+        10
+      ]
+    },
+    "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
+    "official_url": "https://www.aeonretail.jp/campaign/pointC-oral/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
+    "evidence_quote": "毎月10日はオーラルケア(ハブラシ・電動歯ブラシ・歯間ブラシ・歯磨き粉・マウスウォッシュ・入れ歯用品) イオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍。",
+    "last_verified": "2026-10-03",
+    "verified": false
+  },
+  {
+    "id": "rc-aeon-pet-days",
+    "title": "イオン 対象ペット用品20倍",
+    "store_ids": [
+      "aeon"
+    ],
+    "brand_ids": [
+      "waon-point",
+      "aeon-card"
+    ],
+    "rule": {
+      "type": "monthly_days",
+      "days": [
+        11,
+        12,
+        21,
+        22
+      ]
+    },
+    "benefit_text": "対象カード払い、本州(東北除く)四国直営限定",
+    "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
+    "evidence_quote": "毎月 11日、12日、21日、22日はわんにゃんデー ペットフード・用品　ポイント20倍",
+    "last_verified": "2026-10-03",
+    "verified": false
+  },
+  {
+    "id": "rc-aeon-hair-days",
+    "title": "イオン 対象シャンプー類10倍",
+    "store_ids": [
+      "aeon"
+    ],
+    "brand_ids": [
+      "waon-point",
+      "aeon-card",
+      "aeon-pay"
+    ],
+    "rule": {
+      "type": "monthly_days",
+      "days": [
+        10,
+        25
+      ]
+    },
+    "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
+    "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
+    "evidence_quote": "毎月10日・25日はイオン・イオンスタイル直営売場で、シャンプー・リンスをイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍",
+    "last_verified": "2026-10-03",
+    "verified": false
+  },
+  {
+    "id": "rc-ministop-weekend",
+    "title": "ミニストップ 金土日AEON Pay10倍",
+    "store_ids": [
+      "ministop"
+    ],
+    "brand_ids": [
+      "aeon-pay",
+      "waon-point"
+    ],
+    "rule": {
+      "type": "weekly",
+      "weekdays": [
+        5,
+        6,
+        0
+      ]
+    },
+    "benefit_text": "コード払い限定、対象外商品あり",
+    "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
+    "evidence_quote": "特典拡大 週末は3日連続でおトクに！2026年4月12日(日)から日曜日も10倍！WAON POINT基本の10倍",
+    "last_verified": "2026-10-03",
+    "verified": false
+  },
+  {
+    "id": "rc-ministop10",
+    "title": "ミニストップ 毎月10日ポイント10倍",
+    "store_ids": [
+      "ministop"
+    ],
+    "brand_ids": [
+      "waon",
+      "waon-point"
+    ],
+    "rule": {
+      "type": "monthly_days",
+      "days": [
+        10
+      ]
+    },
+    "benefit_text": "対象カード・電子マネー等、対象外商品あり",
+    "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+    "evidence_quote": "毎月10日はAEON Pay のスマホ決済ご利用で WAON POINT基本の10倍！",
+    "last_verified": "2026-10-03",
+    "verified": false
   }
 ]
