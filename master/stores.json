@@ -205,5 +205,390 @@
       ]
     },
     "base_rewards": []
+  },
+  {
+    "id": "izutsuya-kokura",
+    "name": "小倉井筒屋",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7775",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "denmaru",
+    "name": "伝丸",
+    "category": "restaurant",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "ifu",
+    "name": "威風",
+    "category": "restaurant",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "ikkokudo",
+    "name": "壱鵠堂",
+    "category": "restaurant",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "tenkaichi",
+    "name": "天下一",
+    "category": "restaurant",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "duskin",
+    "name": "ダスキン（対象お掃除サービス）",
+    "category": "other",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-duskin/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pay.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "tomods",
+    "name": "トモズ",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7906",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "american-pharmacy",
+    "name": "アメリカンファーマシー",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7906",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "doutor-group",
+    "name": "ドトールグループ（対象店）",
+    "category": "cafe",
+    "official_url": "https://aupay-cp.auone.jp/202608_doutor_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+    "domains": [
+      "aupay-cp.auone.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sugi-group",
+    "name": "スギ薬局グループ（対象店）",
+    "category": "drugstore",
+    "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/daiouseishi_goon_2609_MI0177/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_daiou-sugi_202609&utm_content=dpaytop_cpsmlbnr",
+    "domains": [
+      "service.smt.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "drug-yutaka",
+    "name": "DRUGユタカ",
+    "category": "drugstore",
+    "official_url": "https://cpn.tsite.jp/detail/en910038410004",
+    "domains": [
+      "cpn.tsite.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "beisia",
+    "name": "ベイシア",
+    "category": "supermarket",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sunny",
+    "name": "サニー",
+    "category": "supermarket",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "vivahome",
+    "name": "ビバホーム",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "musashi",
+    "name": "ホームセンタームサシ",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "nicopet",
+    "name": "ニコペット",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "takeya",
+    "name": "多慶屋（TAKEYA1・3）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7721",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "coke-on-vending",
+    "name": "Coke ON Pay対応自販機",
+    "category": "other",
+    "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_coke-on_260901_7748/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_coke-on_202609&utm_content=cplist_smlbnr",
+    "domains": [
+      "service.smt.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "akakabe",
+    "name": "ドラッグアカカベ",
+    "category": "drugstore",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pay.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sunlive-group",
+    "name": "サンリブグループ（対象店）",
+    "category": "supermarket",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "biccamera",
+    "name": "ビックカメラ（対象店）",
+    "category": "other",
+    "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+    "domains": [
+      "aupay-cp.auone.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "bookoff",
+    "name": "ブックオフ（対象店）",
+    "category": "other",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-bookoff/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pay.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "ryuseido",
+    "name": "クスリの龍生堂薬局",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7768",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "alpen-group",
+    "name": "アルペングループ（対象店）",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/alpen/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "ksdenki",
+    "name": "ケーズデンキ（対象店）",
+    "category": "other",
+    "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+    "domains": [
+      "aupay-cp.auone.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "kohnan-group",
+    "name": "コーナングループ（対象店）",
+    "category": "other",
+    "official_url": "https://paypay.ne.jp/event/kohnan-20261001/",
+    "domains": [
+      "paypay.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "joyfulhonda-group",
+    "name": "ジョイフル本田・ホームジョイ本田",
+    "category": "other",
+    "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_joyfulhonda_250401_6223/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202504_6223&utm_content=a",
+    "domains": [
+      "service.smt.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "cnexco-sa-pa",
+    "name": "NEXCO中日本 対象SA・PA",
+    "category": "other",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pay.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "welpark",
+    "name": "ウェルパーク",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "okay",
+    "name": "オーケー",
+    "category": "supermarket",
+    "official_url": "https://aupay-cp.auone.jp/202610_ok_doutor?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+    "domains": [
+      "aupay-cp.auone.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "matsuya-group",
+    "name": "松屋（対象注文サービス）",
+    "category": "restaurant",
+    "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+    "domains": [
+      "paypay.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "otani",
+    "name": "オータニ・フードオアシスオータニ",
+    "category": "supermarket",
+    "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720",
+    "domains": [
+      "service.smt.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "drugstore-mac",
+    "name": "ドラッグストアmac",
+    "category": "drugstore",
+    "official_url": "https://cpn.tsite.jp/detail/en910038430012",
+    "domains": [
+      "cpn.tsite.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sunmusic-group",
+    "name": "サンミュージック（対象店）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7773",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "eneos",
+    "name": "ENEOS（楽天ポイント対象店）",
+    "category": "other",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/eneos/20261001/?scid=wi_pym_cpn_list",
+    "domains": [
+      "pointcard.rakuten.co.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
   }
 ]

@@ -297,6 +297,7 @@
   url: https://www.tsuruha.co.jp/campaign/
   brand_ids:
   - rakuten-point
+  - tsuruha-group-point
   store_ids:
   - tsuruha
   kind: official

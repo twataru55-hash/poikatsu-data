@@ -271,5 +271,21 @@
     "match_terms": [
       "イオンカード"
     ]
+  },
+  {
+    "id": "tsuruha-group-point",
+    "name": "ツルハグループポイント",
+    "kind": "point",
+    "point_id": "tsuruha-group-point",
+    "official_url": "https://www.tsuruha-kcp.com/cp/tsuruha-bfcp2026/?utm_source=HP_tsuruha&utm_medium=refferal&utm_campaign=tsuruha-bfcp2026",
+    "domains": [
+      "tsuruha-kcp.com",
+      "tsuruha.co.jp"
+    ],
+    "wallet": true,
+    "note": "ツルハグループ限定のポイント",
+    "match_terms": [
+      "ツルハグループポイント"
+    ]
   }
 ]
