@@ -1,0 +1,165 @@
+{
+  "run_id": "20261003-1044",
+  "created_at": "2026-10-03T10:44:33+09:00",
+  "items": [
+    {
+      "source_id": "rakuten-pointcard-campaign--6da755e9",
+      "hash": "2bf8acfa5d778f1da6dc6631ad0d4cc62859d646686cd88926fdba6472d82092",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--6da755e9.md",
+      "answer_file": "inbox/20261003-1044/rakuten-pointcard-campaign--6da755e9.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/sevenstar/20260924/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--3730d984",
+      "hash": "8cf4f4c9468849a75474829b5a4045fca0a6ce7b0de38f59dffd821c8e1a28c9",
+      "prompt_file": "work/prompts/vpoint-campaign--3730d984.md",
+      "answer_file": "inbox/20261003-1044/vpoint-campaign--3730d984.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/en910040492007"
+    },
+    {
+      "source_id": "aeonretail-otoku--8fcfec19",
+      "hash": "9ea947a1ffced327493329393148c2e10964fd249645ab01e8fffa1c48a94aed",
+      "prompt_file": "work/prompts/aeonretail-otoku--8fcfec19.md",
+      "answer_file": "inbox/20261003-1044/aeonretail-otoku--8fcfec19.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner"
+    },
+    {
+      "source_id": "dpoint-campaign--32bc2d2c",
+      "hash": "bc92d74a6fb2a98062434e0e90f1c39915832f53552127bfab50791834c4106c",
+      "prompt_file": "work/prompts/dpoint-campaign--32bc2d2c.md",
+      "answer_file": "inbox/20261003-1044/dpoint-campaign--32bc2d2c.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_899320_PB7786/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7786"
+    },
+    {
+      "source_id": "aupay-campaign--d4aae2dd",
+      "hash": "f672eb9514bad1f8d4f59f00dbe7e2b82c6702e98441e9e5f135e2f837c5772e",
+      "prompt_file": "work/prompts/aupay-campaign--d4aae2dd.md",
+      "answer_file": "inbox/20261003-1044/aupay-campaign--d4aae2dd.json",
+      "parent": "aupay-campaign",
+      "url": "https://aupay-cp.auone.jp/202610_ucc_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--d519814e",
+      "hash": "74fbf3e2caa5a22fdf38e2ef7d7cbb1d4f5646b6d19d2ab861e881001be2af48",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--d519814e.md",
+      "answer_file": "inbox/20261003-1044/rakuten-pointcard-campaign--d519814e.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--b2567bb5",
+      "hash": "89d3c692c6b65a1a19fcfb6ceb5589d0c81fc5b8617102b56e9fb14d7b7bf8f6",
+      "prompt_file": "work/prompts/vpoint-campaign--b2567bb5.md",
+      "answer_file": "inbox/20261003-1044/vpoint-campaign--b2567bb5.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/qt910039183003"
+    },
+    {
+      "source_id": "aeonretail-otoku--c5427ffe",
+      "hash": "20aadfd81e341b7be5e908537ae8082b06f6b906e8e469b1966466d80ef21c7e",
+      "prompt_file": "work/prompts/aeonretail-otoku--c5427ffe.md",
+      "answer_file": "inbox/20261003-1044/aeonretail-otoku--c5427ffe.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointC-2/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner"
+    },
+    {
+      "source_id": "dpoint-campaign--2046b5e2",
+      "hash": "15ac73c392f6c2d9eac727ecec568a1b2ce25c7a1138f2db6c6b1196ea537b38",
+      "prompt_file": "work/prompts/dpoint-campaign--2046b5e2.md",
+      "answer_file": "inbox/20261003-1044/dpoint-campaign--2046b5e2.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782"
+    },
+    {
+      "source_id": "aupay-campaign--ecf7c528",
+      "hash": "e7ebc85e606bbb299c2848bc6912e8389aa6d3a0fdb5d2fb189adf8cdac75dde",
+      "prompt_file": "work/prompts/aupay-campaign--ecf7c528.md",
+      "answer_file": "inbox/20261003-1044/aupay-campaign--ecf7c528.json",
+      "parent": "aupay-campaign",
+      "url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--9f0e1a89",
+      "hash": "00396d9c4d62e730050b5866f3743cdfee677f1f904ed4aa54b469b3b16a7f78",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--9f0e1a89.md",
+      "answer_file": "inbox/20261003-1044/rakuten-pointcard-campaign--9f0e1a89.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/eneos/20261001/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--05f4b995",
+      "hash": "5cddb14318308784bac1f8590e8e6916efd0c52f3dc9e991389d26f6697803b1",
+      "prompt_file": "work/prompts/vpoint-campaign--05f4b995.md",
+      "answer_file": "inbox/20261003-1044/vpoint-campaign--05f4b995.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/en910039950001"
+    },
+    {
+      "source_id": "dpoint-campaign--75857030",
+      "hash": "9e6fd64d1d10b02a30f4f9d01374845ef9203ee8afb10ebe78a0023268dc0c72",
+      "prompt_file": "work/prompts/dpoint-campaign--75857030.md",
+      "answer_file": "inbox/20261003-1044/dpoint-campaign--75857030.json",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_898747_PB7821/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7821"
+    },
+    {
+      "source_id": "rakuten-pointcard-campaign--e6b2e064",
+      "hash": "0efb078b6205094b3a1715385a81e85a63738dd342823b3e22570aa25e382ca3",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--e6b2e064.md",
+      "answer_file": "inbox/20261003-1044/rakuten-pointcard-campaign--e6b2e064.json",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/familymart/20261001/spu/?scid=wi_pym_cpn_list"
+    },
+    {
+      "source_id": "vpoint-campaign--a5926a38",
+      "hash": "9d54db31418e297d86cbd6d03023ecaf66ddc3da46f2fec403091132072d8bd5",
+      "prompt_file": "work/prompts/vpoint-campaign--a5926a38.md",
+      "answer_file": "inbox/20261003-1044/vpoint-campaign--a5926a38.json",
+      "parent": "vpoint-campaign",
+      "url": "https://cpn.tsite.jp/detail/en910040672001"
+    }
+  ],
+  "unchanged": [
+    "paypay-event",
+    "paypay-local",
+    "dpoint-campaign",
+    "dbarai-campaign",
+    "rakuten-pay-campaign",
+    "rakuten-pointcard-campaign",
+    "aupay-campaign",
+    "ponta-campaign",
+    "vpoint-campaign",
+    "waon-campaign",
+    "aeonretail-otoku"
+  ],
+  "failed": [],
+  "deferred": [
+    "dpoint-campaign--b667d0a0",
+    "rakuten-pointcard-campaign--18160312",
+    "vpoint-campaign--6440e862",
+    "dpoint-campaign--f26ee323",
+    "rakuten-pointcard-campaign--23a7245d",
+    "vpoint-campaign--4b4d7d2d",
+    "rakuten-pointcard-campaign--5f3b8b2a",
+    "vpoint-campaign--43c6557a",
+    "rakuten-pointcard-campaign--70b5a802",
+    "vpoint-campaign--706a8254"
+  ],
+  "detail_failed": [
+    {
+      "source_id": "aupay-campaign--ff91b969",
+      "url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp/202610_"
+    },
+    {
+      "source_id": "aupay-campaign--6b71735d",
+      "url": "https://aupay-cp.auone.jp/202610_online_chance?utm_source=pontaportal&utm_medium=web&utm_campaign=cpnlist",
+      "error": "Page.goto: net::ERR_CONNECTION_RESET at https://aupay-cp.auone.jp/202610_online_chance?utm_source=pontaportal&utm_medium=web&utm_campaign=cpnlist\nCall log:\n  - navigating to \"https://aupay-cp.auone.jp"
+    }
+  ],
+  "gave_up": []
+}

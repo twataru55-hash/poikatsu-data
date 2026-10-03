@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "ドラッグストアmac・ポムポムプリン抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で抽選・対象商品で当選チャンス5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-17T00:00:00+09:00",
+        "end": "2026-09-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ドラッグストアmac限定。紐付けVカード提示・税込1,500円/3,000円コース。応募10/4まで。",
+      "official_url": "https://cpn.tsite.jp/detail/qt910039183003",
+      "evidence_quote": "キャンペーン対象期間(レシート有効期間)\n2026年8月17日(月)～9月30日(水)",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

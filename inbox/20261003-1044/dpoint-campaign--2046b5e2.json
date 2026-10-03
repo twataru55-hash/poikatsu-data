@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint",
+        "d-barai"
+      ],
+      "title": "サンリブ・抽選1,000名dポイント＋20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名に＋20倍",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1d259a4a33e0165df1a59ace500189cb771958cdb4bb555072fb8611610d04d1"
+      },
+      "conditions": "サンリブグループ対象店限定(ローソンマルショク長浜除く)。カード提示・d払い合計税抜3,000円。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "evidence_quote": "期間中、エントリーの上対象条件を満たした方のなかから抽選で1,000名さまに、対象となるお会計1回分に対して、通常進呈分に加え、＋20倍分のdポイント（期間・用途限定）を進呈します。",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "d-barai"
+      ],
+      "title": "サンリブ・初めてdポイント利用50pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初めて利用で50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1d259a4a33e0165df1a59ace500189cb771958cdb4bb555072fb8611610d04d1"
+      },
+      "conditions": "サンリブグループ対象店限定。初めてdポイント利用・d払い期間合計税抜3,000円以上。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "evidence_quote": "キャンペーンにエントリーの上、サンリブにてdポイントを利用（つかう・ためる）かつd払い（コード決済）で期間中合計決済金額3,000円（税抜）以上のお支払いをされた方に、もれなくdポイント（期間・用途限定）50ポイントを進呈。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

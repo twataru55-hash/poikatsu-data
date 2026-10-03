@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "アルカドラッグ・抽選最大1万ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=3b3112fc7d3478b2ca8506e59989a67190852db3ef7be74bb9e054dd6b26e23f"
+      },
+      "conditions": "アルカドラッグ限定(調剤除く)。d払いバーコード1回税込2,000円以上・登録。同一アカウント。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899320_PB7786/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7786",
+      "evidence_quote": "期間中、キャンペーンサイトからエントリーの上、アルカドラッグにてd払い（バーコード）で1決済あたり2,000円（税込）以上お支払いいただくと、dポイント（期間・用途限定）を抽選で最大10,000ポイント進呈いたします。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

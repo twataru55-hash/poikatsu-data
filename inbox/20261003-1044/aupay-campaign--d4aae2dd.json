@@ -1,0 +1,103 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "UCCグループ・17時以降1.5％還元",
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "17時以降1.5％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "UCCグループ対象店限定。17:00～23:59コード支払い税込200円以上。基本等含む・上限なし。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ucc_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "evidence_quote": "・通常は200円（税込）ごとに2ポイント（1％）還元のところ、本キャンペーンでは3ポイント（1.5％）還元となります。",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "UCCグループ・Pontaアップ2ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "200円ごとに2ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "UCCグループのPontaアップ対象店限定。一部対象外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ucc_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "evidence_quote": "通常200円（税込）ごとに1ポイントのところUCCグループなら、\n200円（税込）ごとに2ポイント還元！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "Pontaパスブースト・最大3.5％",
+      "benefit": {
+        "rate_max": 3.5,
+        "rate_text": "最大7倍・最大3.5％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "UCC含む対象加盟店限定。Pontaパス有料月548円・毎月エントリー・ID連携・コード支払い。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ucc_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "evidence_quote": "au PAY（コード支払い）200円（税込）毎に最大7倍のPontaポイント還元！（最大3.5%）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
