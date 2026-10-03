@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 給与受取利用者の店頭支払",
+      "benefit": {
+        "rate_max": 3,
+        "rate_text": "通常分含め最大3%還元",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/digitalpayroll/202610?ekey=checked"
+      },
+      "conditions": "期間内に給与受取と残高コード・QR・セルフ払い。メルマガ必須、ポイント利用分除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/digital-payroll/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ポイントを期間中のお支払い合計金額に対して最大3％分進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

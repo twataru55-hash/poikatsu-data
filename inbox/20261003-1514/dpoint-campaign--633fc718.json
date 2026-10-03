@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "トモズ10/3 dポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tomods"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "1会計100pt以上利用・登録。店別実施日確認。調剤/一部商品/d払い充当除外、エントリー要否不明",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/",
+      "evidence_quote": "トモズ×dポイント 2026年10月2日（金）・10月3日（土）は100ポイント以上のご利用でご利用ポイントに対してdポイント10％が戻ってくる！ ※一部店舗は対象外です。※調剤および一部商品は対象外です。 ※店舗によって実施日が異なる場合がございます。 詳しくは店頭ポスターなどをご覧ください。 トモズ アメリカンファーマシー ポイント進呈時期：2026年11月末",
+      "confidence": "confirmed"
+    }
+  ]
+}

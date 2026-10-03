@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ キュキュット泡スプレー購入特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=004439509d210964d4c87a2fda96bdec30c4021c6189a4fa0231d65902c73b9d"
+      },
+      "conditions": "対象JAN品購入・カード提示。ブランド1人1回。関空3店・新生堂・オンライン除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7804/index.html",
+      "evidence_quote": "①キュキュット泡スプレー 各種 もれなく100ポイント",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ meltミルク購入特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=004439509d210964d4c87a2fda96bdec30c4021c6189a4fa0231d65902c73b9d"
+      },
+      "conditions": "対象3品購入・カード提示。10/10発売予定、ブランド1人1回。対象外店あり",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7804/index.html",
+      "evidence_quote": "②meltミルク 各種 もれなく100ポイント ※10月10日（土）発売予定。 一部お取扱いのない店舗があります。",
+      "confidence": "confirmed"
+    }
+  ]
+}

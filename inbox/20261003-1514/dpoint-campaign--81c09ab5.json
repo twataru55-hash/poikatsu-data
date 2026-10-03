@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "龍生堂 dポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ryuseido"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=ac10d8d1ec881b131e1e44c4e684701779f16f25e92d746c11b71379972171e0"
+      },
+      "conditions": "カード提示で1pt以上ためる、利用者登録。保険調剤・一部店舗商品除外。進呈上限なし",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/",
+      "evidence_quote": "期間中エントリーの上、龍生堂でdポイントカードを提示して1ポイント以上ためた方に、もれなく10倍のdポイントを進呈いたします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

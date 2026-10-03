@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "札幌宿泊＆楽天ペイ買物",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20％還元",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "01"
+        ],
+        "municipality": "札幌市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天トラベル対象宿泊3万円以上。同一楽天IDで市内対象店利用。1回1000pt上限",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-sapporo/",
+      "evidence_quote": "【好きを楽しむ札幌旅。好奇心を大解放！ 楽天トラベル】［エントリー不要 楽天トラベルで対象施設30,000円以上予約して宿泊の方※］札幌市内の対象店舗にて楽天ペイのコード・QR払いで 楽天ポイント最大20％還元",
+      "confidence": "confirmed"
+    }
+  ]
+}

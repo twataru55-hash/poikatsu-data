@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス14～18時 dポイント最大5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント最大5倍",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=18ea3002e5659bbdce7be0043a9d05c7dbbf71f36c87701f09901d6f43c8aea3"
+      },
+      "conditions": "14～18時決済・税込100円以上で1pt獲得。1/2/3回以上で2/3/5倍。1日1回カウント",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_261001_7816/index.html",
+      "evidence_quote": "dポイントが最大5倍たまる！ 1回目2倍 2回目3倍 3回目以降5倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "スーパーオオジ10/10 dポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント2倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-ooji"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "第2/4土曜、税込100円以上・カード提示。月共通上限1000pt。現金/dカード/d払い等指定",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/superoog_260401/",
+      "evidence_quote": "期間中の毎月第2・第4土曜日にスーパーオオジの店舗で、お会計の際にdポイントカード（※）をご提示いただくと、dポイントが2倍（通常ポイント：1倍、キャンペーンポイント（期間・用途限定ポイント）：1倍）進呈します。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "スーパーオオジ10/24 dポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント2倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-ooji"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-24T00:00:00+09:00",
+        "end": "2026-10-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "第2/4土曜、税込100円以上・カード提示。月共通上限1000pt。現金/dカード/d払い等指定",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/superoog_260401/",
+      "evidence_quote": "期間中の毎月第2・第4土曜日にスーパーオオジの店舗で、お会計の際にdポイントカード（※）をご提示いただくと、dポイントが2倍（通常ポイント：1倍、キャンペーンポイント（期間・用途限定ポイント）：1倍）進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

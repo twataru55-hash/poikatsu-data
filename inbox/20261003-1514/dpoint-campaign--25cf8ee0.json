@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "スーパーマルハチ d払い最大1万ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-maruhachi"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T09:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=54b7a8d9d62b09e255246cbb0848b5e8fabaa55b81d1c3cec7bb617b4d2ec1d0"
+      },
+      "conditions": "コード決済で合計税込1500円以上。同一dアカウントでエントリー。たばこ等除外",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/supermaruhachi_261001/",
+      "evidence_quote": "要エントリー　スーパーマルハチでd払いするなら今がチャンス！d払い（コード決済）で合計1,500円以上(税込)のお買物をすると抽選でdポイント(期間・用途限定)最大10,000ポイントもらえる！ キャンペーン期間:2026年10月1日(木)～2026年10月31日(土)",
+      "confidence": "confirmed"
+    }
+  ]
+}

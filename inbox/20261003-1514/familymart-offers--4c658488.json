@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ファミチキスタンプ参加賞",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ファミチキ20円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19アプリ提示で対象品購入、1スタンプ交換は10/23まで。1人1回",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "参加賞について\n特典\nファミチキ20円引きクーポン",
+      "confidence": "confirmed"
+    }
+  ]
+}

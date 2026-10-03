@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "多慶屋10月 2回買物で300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "300ポイント",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "takeya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=3f07e414e89c0cbd820f3dfe27eea6ea597c54227bbc679a4223b79398d0d2f7"
+      },
+      "conditions": "TAKEYA1/3、カード提示・税込1000円以上2回、10pt以上ためる。第2弾へ別途エントリー",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/",
+      "evidence_quote": "CP期間中にエントリーの上、dポイントカードをご提示した1,000円（税込）以上のお買物が2回以上あったお客さまにdポイント300ポイントを進呈いたします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

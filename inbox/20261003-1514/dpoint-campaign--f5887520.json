@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "福屋 第3金曜から3日間コスメ10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象コスメdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "fukuya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2022-11-18T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定の化粧品売場限定。カード提示で200円税抜以上、1pt以上ためる。一部品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/fukuya-dept_221118_3741/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202211_3741",
+      "evidence_quote": "2022年11月18日（金）～毎月第3金曜日から3日間",
+      "confidence": "confirmed"
+    }
+  ]
+}

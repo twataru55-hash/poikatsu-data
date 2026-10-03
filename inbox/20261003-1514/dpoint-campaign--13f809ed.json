@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ 花王＋20％",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "＋20％dポイント還元",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "花王対象品1会計税込1500円以上、カード提示。キュレル・ソフィーナ・カネボウ等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "evidence_quote": "dポイント マツキヨココカラ 花王 要エントリー 対象店舗でdポイントカードをご提示の上、花王の対象商品を1回に1,500円（税込）以上お買い上げで もれなく dポイント（期間・用途限定） ＋20％還元 ＊1 ニベア花王商品を含む。 ＊2 キュレル、ソフィーナ、カネボウ商品は除く。 ＊3 商品画像は対象商品の一例です。掲載画像商品・ブランドの取扱いがない店舗もございます。 ダブ",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ 花王購入ダブルチャンス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "花王対象品1会計1500円以上かつ合計税込3500円以上、カード提示。期間1回",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "evidence_quote": "［ダブルチャンス］さらに、期間中に対象の花王商品を合計3,500円（税込）以上購入すると、もれなく100ポイント進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

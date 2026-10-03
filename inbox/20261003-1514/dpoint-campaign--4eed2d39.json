@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ファミリーマート 対象商品dポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品購入でdポイント進呈",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品と進呈数・実施期間は店頭等で確認。dポイントカードか連携ファミペイ提示",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/familymart_221107_3725/index.html?utm_source=dpointclub&utm_medium=applink&utm_campaign=dpc_202211_3725",
+      "evidence_quote": "ファミリーマートで対象商品を購入すると必ず！dポイントがもらえる！",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "d払いスタンプ 宝箱抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1～最大10,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象払い200円以上で1スタンプ。3個後に宝箱開封。dカード以外の設定等は除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_3/stamp_payment_promotion/index.html?utm_source=dpointclub&utm_medium=free-display&utm_campaign=dpc_202403_kessaistamp-dpointclubsite-1",
+      "evidence_quote": "d払いを利用し200円(税込)以上のお買物でスタンプが1つたまり、3つスタンプをためると抽選に参加できます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

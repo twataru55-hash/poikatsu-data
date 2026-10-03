@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint",
+        "d-barai"
+      ],
+      "title": "ミツカン お酢ドリンクdポイント還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象品で最大＋20%還元",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group",
+          "satudora",
+          "sugi-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品のみ。サツドラはカード提示、ウエルシア・スギはコード払い。購入前利用登録・一部店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_6/mustbuy/mizkan_vinegardrink_2610_MI0178/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_0178&utm_content=web",
+      "evidence_quote": "対象店舗でdポイントカードをご提示またはd払い（コード決済）で対象商品を購入するとdポイント（期間・用途限定）最大＋20％還元！",
+      "confidence": "confirmed"
+    }
+  ]
+}

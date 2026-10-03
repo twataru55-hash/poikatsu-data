@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point",
+        "rakuten-point"
+      ],
+      "title": "ファミペイ 楽天ポイント初連携で100円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "過去にd・楽天・V連携して購入した方は除外。クーポン獲得ボタンを10/28までに押す",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-rakutenpoint_cp.html",
+      "evidence_quote": "期間中、楽天ポイントをはじめてファミペイに連携し、ファミリーマート店舗でファミペイを提示してお買い物すると、100円相当のファミマポイントクーポンを進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

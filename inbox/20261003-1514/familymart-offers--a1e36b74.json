@@ -1,0 +1,68 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ クリスマス対象ケーキ店頭早割",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ケーキ400円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-01T09:00:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象ケーキ5品を店頭予約。開始日は本文不明。数量限定・一部店舗除外",
+      "official_url": "https://www.family.co.jp/campaign/spot/famima-xmas2026_ifpb5w3.html",
+      "evidence_quote": "店頭予約でもおトク！12月1日（火）AM9:00までの予約で対象のケーキ5品400円引き。対象のチキンセット、パーティーメニューを1品買うごとに対象の2Lドリンク1本無料引換券もらえる。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ チキン等予約で2L飲料無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2Lドリンク1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象チキンセット・パーティー1品で1枚。店頭は受取時発券。利用期限は本文不明",
+      "official_url": "https://www.family.co.jp/campaign/spot/famima-xmas2026_ifpb5w3.html",
+      "evidence_quote": "店頭予約でもおトク！12月1日（火）AM9:00までの予約で対象のケーキ5品400円引き。対象のチキンセット、パーティーメニューを1品買うごとに対象の2Lドリンク1本無料引換券もらえる。",
+      "confidence": "confirmed"
+    }
+  ]
+}

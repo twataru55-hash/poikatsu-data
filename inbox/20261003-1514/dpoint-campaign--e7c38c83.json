@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "コスモ給油 dポイント毎月ハズレなし抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "cosmo"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1d608aa78b17a4848d903ed49825f4d82d121fc85dd014f9914aff911e6a4d5a"
+      },
+      "conditions": "対象燃料給油・カード提示で合計5pt以上。抽選月末までエントリー・登録、当選1人1回",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898747_PB7821/",
+      "evidence_quote": "期間中にキャンペーンサイトからエントリーの上、コスモの対象店舗でお会計の際にdポイントカードを提示し、合計5ポイント（1,000円（税込））以上給油した方を対象に、毎月抽選で最大10,000ポイント進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "サンミュージック dポイント5倍・初10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "通常5倍・はじめて10倍",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunmusic"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7ba2b89f8f1f36e65f9286022fcd5eb16e013e68746248f050ea85700641fa46"
+      },
+      "conditions": "公式対象店でカード提示・合計1pt以上獲得、利用者登録。過去提示あり5倍・初提示10倍",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/",
+      "evidence_quote": "サンミュージックのお買物でdポイントを1ポイント以上ためるとdポイント5倍！新規のお客さまは10倍！",
+      "confidence": "confirmed"
+    }
+  ]
+}

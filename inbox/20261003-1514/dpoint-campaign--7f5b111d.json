@@ -1,0 +1,80 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "愛知5施設 dポイント最大3万pt抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大30,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 30000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lalaport-nagoya",
+          "lalaport-togo",
+          "lalaport-anjo",
+          "mop-okazaki",
+          "rayard-hisaya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
+      },
+      "conditions": "対象店舗で合計10pt以上ためる・利用者登録。一部店除外、公式対象外一覧要確認",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "evidence_quote": "期間中にキャンペーンサイトよりエントリーの上、対象店舗でのお会計時にdポイントカードをご提示いただき、dポイントを合計10ポイント（税込2,000円）以上ためると、抽選で最大30,000ポイントを進呈します。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "愛知5施設 2施設以上でdポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lalaport-nagoya",
+          "lalaport-togo",
+          "lalaport-anjo",
+          "mop-okazaki",
+          "rayard-hisaya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-03T00:00:00+09:00",
+        "end": "2026-10-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
+      },
+      "conditions": "2施設以上で各1pt以上、合計10pt以上。利用者登録。一部店除外、公式一覧要確認",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+      "evidence_quote": "キャンペーン期間中に、キャンペーン対象の5施設のうち2施設以上をご利用（各施設でdポイントを1ポイント以上ためる）の上、dポイントを合計10ポイント以上ためると、もれなくdポイント10倍（通常ポイント1倍分＋キャンペーンポイント9倍分）を進呈します。",
+      "confidence": "confirmed"
+    }
+  ]
+}

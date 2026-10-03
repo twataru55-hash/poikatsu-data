@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小倉井筒屋90周年 9,090ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選40名に9,090ポイント",
+        "cap_per_use": null,
+        "cap_total": 9090,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "izutsuya-kokura"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
+      },
+      "conditions": "dポイントためる/つかう・合計税込3000円以上。利用日ごと1口、最大31口。対象外売場あり",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/",
+      "evidence_quote": "エントリーの上、期間中小倉井筒屋にてdポイントを「ためる・つかう」にて合計3,000円（税込）以上お買い上げいただいたお客さまのなかから、抽選で40名さまにdポイント9,090ポイントを進呈いたします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

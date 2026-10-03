@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 伊右衛門特茶回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "8本1358円／14本2328円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ購入・店頭引換。対象500ml、購入から91日。併用不可、購入取消不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+      "evidence_quote": "・7本分のお値段で8本分（通常、税込1,552円がまとめて買うと税込1,358円。1本分おトク！）",
+      "confidence": "confirmed"
+    }
+  ]
+}

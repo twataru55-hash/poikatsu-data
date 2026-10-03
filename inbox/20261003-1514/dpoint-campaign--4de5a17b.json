@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス対象3商品 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-09T00:00:00+09:00",
+        "end": "2026-10-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c773c5d6403ca620767204a4c35992198a8ee9b0f3d97f619a46ff7667cf860a"
+      },
+      "conditions": "月見等対象3商品購入・カード提示。利用者登録と加盟店への基本情報提供設定必要",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+      "evidence_quote": "期間中エントリーの上、モスバーガー、モスバーガー＆カフェで対象商品をお買い上げの際、dポイントカードをご提示（またはモスのネット注文でdポイントカードをご登録）いただくと、対象商品はdポイントを3倍進呈いたします。さらに、期間中に対象商品を2種類以上購入いただくと、もれなくdポイントを100ポイント進呈いたします。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス対象2種類購入で100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-09T00:00:00+09:00",
+        "end": "2026-10-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c773c5d6403ca620767204a4c35992198a8ee9b0f3d97f619a46ff7667cf860a"
+      },
+      "conditions": "対象3商品のうち2種類以上購入・カード提示。1人1回。基本情報提供設定必要",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+      "evidence_quote": "期間中エントリーの上、モスバーガー、モスバーガー＆カフェで対象商品をお買い上げの際、dポイントカードをご提示（またはモスのネット注文でdポイントカードをご登録）いただくと、対象商品はdポイントを3倍進呈いたします。さらに、期間中に対象商品を2種類以上購入いただくと、もれなくdポイントを100ポイント進呈いたします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 5と0のつく日全額還元抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で全額還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-12-01T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/campaign/rpay/5and0/202610?ekey=checked"
+      },
+      "conditions": "毎月5・10・15・20・25・30日、合計税込100円以上。日上限1万pt。ファミマ等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-5and0day/",
+      "evidence_quote": "抽選でお支払い額分の楽天ポイント全額還元 合計100円（税込）以上お支払いをした対象日のお支払い全額が対象！(上限：10,000ポイント/1日)",
+      "confidence": "confirmed"
+    }
+  ]
+}

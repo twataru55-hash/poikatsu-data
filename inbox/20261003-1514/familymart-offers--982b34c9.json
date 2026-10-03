@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ カフェ回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10杯分の価格で11杯",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ購入・店頭引換。購入日含む91日、地域差・ファミマ!!等除外。併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "ファミマカフェが10杯分の値段で11杯飲めるおトクな回数券です。",
+      "confidence": "confirmed"
+    }
+  ]
+}

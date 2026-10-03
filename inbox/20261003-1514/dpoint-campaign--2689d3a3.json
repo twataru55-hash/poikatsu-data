@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "フォーエル dポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大15,000pt／10万pt山分け",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "foel"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=3b39a80050186e31709d326b713a4a619452bd8971e689d482db85c7619ce3b6"
+      },
+      "conditions": "登録済カード提示で合計25pt以上ためる。50pt以上で1・2等確率2倍。通販除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/foelcp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202608_7642",
+      "evidence_quote": "1等　15,000ポイント×10名さま\n2等　1,000ポイント×250名さま\n3等　10万ポイント山分け（進呈上限：500ポイント/人）",
+      "confidence": "confirmed"
+    }
+  ]
+}

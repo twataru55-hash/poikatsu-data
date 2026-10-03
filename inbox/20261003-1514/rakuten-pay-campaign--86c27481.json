@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "アカカベ 楽天ペイラッキーくじ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "akakabe"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-14T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "1回税込100円以上、決済画面からくじ参加。1人1日1回",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/",
+      "evidence_quote": "【アカカベ】アカカベの対象店舗にて楽天ペイのコード・QR払いで1回あたり100円（税込）以上お支払いすると楽天ポイント1,000ポイント当たるチャンス！",
+      "confidence": "confirmed"
+    }
+  ]
+}

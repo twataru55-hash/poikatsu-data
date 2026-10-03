@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "NEXCO中日本 楽天ペイスタンプ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "cnexco-sa-pa"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/cnexco?ekey=checked"
+      },
+      "conditions": "対象SA・PAで1店1回税込1000円以上。コンビニ・GS等除外。応募1人1口",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/",
+      "evidence_quote": "【NEXCO中日本】＼対象のサービスエリア・パーキングエリア限定／ 楽天ペイのコード・QR払いで1回1,000円（税込）以上の決済をしてスタンプを獲得すると抽選で楽天ポイント1等最大10,000ポイント当たる！",
+      "confidence": "confirmed"
+    }
+  ]
+}

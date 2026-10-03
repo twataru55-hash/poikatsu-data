@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ デビューボーナス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1回100pt・最大1000pt",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001debutbonus?ekey=checked"
+      },
+      "conditions": "初めてコード・QR・セルフ払い、メルマガ必須。ファミマ・請求書等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/debut-bonus/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ポイントを1回のお支払いにつき100ポイント、期間中合計最大1,000ポイント進呈",
+      "confidence": "confirmed"
+    }
+  ]
+}

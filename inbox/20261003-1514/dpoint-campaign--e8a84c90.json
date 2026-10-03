@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "クレイトンベイホテル d払い抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "clayton-bay"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=bd427d23b4d769e50dc45ac40fbf9e922815122ad893d1780a2ee2af3a2b5450"
+      },
+      "conditions": "館内対象場所でコード決済1会計1,000円以上。婚礼・宴会等除外、情報メール登録",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/claytonbay_dpaycp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7640",
+      "evidence_quote": "特典内容 dポイント（期間・用途限定）1等：10,000ポイント×1名さま 2等：3,000ポイント×5名さま 3等：500ポイント×50名さま",
+      "confidence": "confirmed"
+    }
+  ]
+}

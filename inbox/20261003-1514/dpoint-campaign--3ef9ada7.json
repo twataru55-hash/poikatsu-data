@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ヨネザワ 毎月第2金曜コンタクト5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "yonezawa"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月第2金曜日の店頭コンタクト購入・カード提示。ポイント利用分除外。期間・エントリー要否不明",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/yonezawa_250801_6584/index.html",
+      "evidence_quote": "メガネのヨネザワ ヨネザワコンタクト dPOINT 毎月第2金曜日 コンタクトの日 毎月第2金曜日に店頭にてdポイントカードを提示して、コンタクトをご購入いただくと dポイント5倍 ※店頭でのコンタクトの購入者対象",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

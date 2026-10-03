@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ファミマル水・茶24本券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "24本券で5本分おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ購入・店頭引換。水2242円・対象茶2451円、購入から91日。併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2503_famipay-bottlekeep_cp.html",
+      "evidence_quote": "【販売価格】\n24本分　2,242円（通常価格より5本分おトク）",
+      "confidence": "confirmed"
+    }
+  ]
+}

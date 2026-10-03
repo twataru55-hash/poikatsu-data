@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ファミマ おいもスタンプ応募ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "応募／交換ごと1円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で対象税込300円ごと1スタンプ。3個交換で1円相当、交換10/12まで",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_oimo_cp.html",
+      "evidence_quote": "※交換毎にファミマポイント1円相当を進呈いたします。",
+      "confidence": "confirmed"
+    }
+  ]
+}

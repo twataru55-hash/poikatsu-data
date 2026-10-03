@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "すき家 月間来店回数で最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sukiya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-04-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "月内1/2/3/4/5回以上で1/2/5/10/15倍。1日1回カウント、税込200円以上。終了未定",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/zensho_260401_7301/index.html",
+      "evidence_quote": "1ヶ月の間に、すき家に来店すればするほど、ポイントの倍率がアップ！ 1回来店1倍 2回来店2倍 3回来店5倍 4回来店10倍 5回以上来店15倍",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

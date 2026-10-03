@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "しずてつストア10/11 dポイント7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント7倍",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "shizutetsu-store"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-11T00:00:00+09:00",
+        "end": "2026-10-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象日曜、税抜2000円/10pt獲得（KITE-GO1000円/5pt）・登録。エントリー要否不明",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/shizutetsu-store_dpoint06/",
+      "evidence_quote": "を提示し2,000円（税抜）以上購入した方（対象日1日につき10ポイント以上ためた方）、またはKITE-GOにてdポイントカードを提示し1,000円（税抜）以上購入した方（対象日1日につき5ポイント以上ためた方）へ、dポイントを7倍進呈！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "しずてつストア10/25 dポイント7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント7倍",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "shizutetsu-store"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-25T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象日曜、税抜2000円/10pt獲得（KITE-GO1000円/5pt）・登録。エントリー要否不明",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/shizutetsu-store_dpoint06/",
+      "evidence_quote": "を提示し2,000円（税抜）以上購入した方（対象日1日につき10ポイント以上ためた方）、またはKITE-GOにてdポイントカードを提示し1,000円（税抜）以上購入した方（対象日1日につき5ポイント以上ためた方）へ、dポイントを7倍進呈！",
+      "confidence": "confirmed"
+    }
+  ]
+}

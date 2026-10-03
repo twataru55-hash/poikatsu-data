@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "ブックオフ はじめて・ひさしぶり楽天ペイ",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20％還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "bookoff"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/bookoff?ekey=checked"
+      },
+      "conditions": "対象213店で税込500円以上。前年10/1～今年9/30利用なし。通常1.5％含む、1回300pt上限",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-bookoff/",
+      "evidence_quote": "【ブックオフ】＼はじめて・ひさしぶりの方限定／対象の213店舗にて楽天ペイのコード・QR払いで1回あたり500円（税込）以上お支払いすると楽天ポイント最大20％還元",
+      "confidence": "confirmed"
+    }
+  ]
+}
