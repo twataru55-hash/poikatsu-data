@@ -799,5 +799,214 @@
     ],
     "accepted_brand_ids": [],
     "base_rewards": []
+  },
+  {
+    "id": "lawson-store100",
+    "name": "ローソンストア100",
+    "category": "convenience",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/lawson_261001_7814/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "natural-lawson",
+    "name": "ナチュラルローソン",
+    "category": "convenience",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/lawson_261001_7814/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "matsukiyo-cocokara",
+    "name": "マツモトキヨシ・ココカラファイン（対象店）",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "shinseido-drug",
+    "name": "新生堂薬局・くすりのハッピー",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7818/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "lalaport-nagoya",
+    "name": "ららぽーと名古屋みなとアクルス",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "lalaport-togo",
+    "name": "ららぽーと愛知東郷",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "lalaport-anjo",
+    "name": "ららぽーと安城",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "mop-okazaki",
+    "name": "三井アウトレットパーク 岡崎",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "rayard-hisaya",
+    "name": "RAYARD Hisaya-odori Park",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "yonezawa",
+    "name": "メガネのヨネザワ・ヨネザワコンタクト",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/yonezawa_250801_6584/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "sunmusic",
+    "name": "サンミュージック（対象店舗）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "cosmo",
+    "name": "コスモ石油（dポイント対象店）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898747_PB7821/",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "arka-drug",
+    "name": "アルカドラッグ（調剤薬局除外）",
+    "category": "drugstore",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899320_PB7786/",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "super-maruhachi",
+    "name": "スーパーマルハチ",
+    "category": "supermarket",
+    "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/supermaruhachi_261001/",
+    "domains": [
+      "www.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "super-ooji",
+    "name": "スーパーオオジ（対象7店）",
+    "category": "supermarket",
+    "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/superoog_260401/",
+    "domains": [
+      "www.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "super-sanshin",
+    "name": "スーパー三心",
+    "category": "supermarket",
+    "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+    "domains": [
+      "www.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "shizutetsu-store",
+    "name": "しずてつストア・KITE-GO",
+    "category": "supermarket",
+    "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/shizutetsu-store_dpoint05/",
+    "domains": [
+      "www.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "mos-burger",
+    "name": "モスバーガー・モスバーガー＆カフェ",
+    "category": "restaurant",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260909_7735/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "mister-donut",
+    "name": "ミスタードーナツ",
+    "category": "cafe",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260917_7751/index.html",
+    "domains": [
+      "dpoint.docomo.ne.jp"
+    ],
+    "accepted_brand_ids": [],
+    "base_rewards": []
   }
 ]
