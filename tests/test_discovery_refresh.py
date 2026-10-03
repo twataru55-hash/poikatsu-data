@@ -85,3 +85,20 @@ def test_unbranded_coupon_requires_named_store_and_other_campaign_requires_brand
     assert list(schema.iter_errors(c))
     c['scope'].update(kind='stores',store_ids=['lawson']);c['type']='reward'
     assert list(schema.iter_errors(c))
+
+
+def test_manual_catchup_does_not_mutate_daily_follow_configuration():
+    from prepare import with_detail_limit
+    sources = [deepcopy(SOURCE), {'id': 'direct', 'url': 'https://official.example/'}]
+    larger = with_detail_limit(sources, 120)
+    assert larger[0]['follow']['max_new'] == 120
+    assert sources[0]['follow']['max_new'] == 1
+    assert 'follow' not in larger[1]
+    assert with_detail_limit(sources, None) is sources
+
+
+@pytest.mark.parametrize('limit', [0, 301])
+def test_catchup_budget_rejects_unbounded_fetch(limit):
+    from prepare import with_detail_limit
+    with pytest.raises(ValueError):
+        with_detail_limit([SOURCE], limit)

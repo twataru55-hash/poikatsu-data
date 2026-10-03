@@ -79,7 +79,18 @@ def fair_order(pending: list, state: dict) -> list:
     return result
 
 
-def main(force: bool = False, limit_override: int | None = None, source_ids: list[str] | None = None) -> dict:
+def with_detail_limit(sources: list[dict], limit: int | None) -> list[dict]:
+    """One-off owner-requested catch-up; keep the daily source budgets unchanged."""
+    if limit is None:
+        return sources
+    if not 1 <= limit <= 300:
+        raise ValueError("詳細取得上限は1〜300")
+    return [{**s, "follow": {**s["follow"], "max_new": limit}} if s.get("follow") else dict(s)
+            for s in sources]
+
+
+def main(force: bool = False, limit_override: int | None = None, source_ids: list[str] | None = None,
+         detail_limit_override: int | None = None) -> dict:
     config = load_config()
     if not config.get("enabled", True):
         return {"ok": True, "message": "停止スイッチ（enabled: false）のため何もしない"}
@@ -130,7 +141,7 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
             item.update(parent=src["parent"], url=src["url"])
         queue["items"].append(item)
 
-    selected = load_sources()
+    selected = with_detail_limit(load_sources(), detail_limit_override)
     if source_ids:
         unknown = set(source_ids) - {s["id"] for s in selected}
         if unknown:
@@ -172,9 +183,13 @@ if __name__ == "__main__":
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--limit", type=int)
     parser.add_argument("--sources", nargs="+")
+    parser.add_argument("--detail-limit", type=int)
     args = parser.parse_args()
     if args.limit is not None and not 1 <= args.limit <= 300:
         parser.error("--limit は1〜300")
-    res = main(force=args.force, limit_override=args.limit, source_ids=args.sources)
+    if args.detail_limit is not None and not 1 <= args.detail_limit <= 300:
+        parser.error("--detail-limit は1〜300")
+    res = main(force=args.force, limit_override=args.limit, source_ids=args.sources,
+               detail_limit_override=args.detail_limit)
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)
