@@ -1,7 +1,7 @@
 {
   "vpoint-campaign--3730d984": {
     "deferred_since": "2026-10-01T09:01:50+09:00",
-    "unanswered": 2,
+    "unanswered": 3,
     "hash": "8cf4f4c9468849a75474829b5a4045fca0a6ce7b0de38f59dffd821c8e1a28c9"
   },
   "rakuten-pay-campaign--a5538500": {
@@ -10,40 +10,13 @@
   "rakuten-pay-campaign--ced1dcad": {
     "deferred_since": "2026-10-01T09:01:50+09:00"
   },
-  "rakuten-pointcard-campaign--6da755e9": {
-    "deferred_since": "2026-10-01T09:01:50+09:00"
-  },
   "rakuten-pointcard-campaign--f018ca06": {
     "deferred_since": "2026-10-01T09:01:50+09:00"
-  },
-  "vpoint-campaign--b2567bb5": {
-    "deferred_since": "2026-10-01T09:01:50+09:00"
-  },
-  "vpoint-campaign--05f4b995": {
-    "deferred_since": "2026-10-01T09:01:50+09:00"
-  },
-  "aeonretail-otoku--8fcfec19": {
-    "deferred_since": "2026-10-01T09:01:50+09:00"
-  },
-  "aupay-campaign--d4aae2dd": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
-  "vpoint-campaign--a5926a38": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
-  "rakuten-pointcard-campaign--d519814e": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
   },
   "vpoint-campaign--6440e862": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
-  "dpoint-campaign--2046b5e2": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
   "aupay-campaign--6b71735d": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
-  "rakuten-pointcard-campaign--9f0e1a89": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
   "vpoint-campaign--4b4d7d2d": {
@@ -52,22 +25,13 @@
   "dpoint-campaign--b667d0a0": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
-  "rakuten-pointcard-campaign--e6b2e064": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
   "vpoint-campaign--43c6557a": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
-  "dpoint-campaign--32bc2d2c": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
   "rakuten-pointcard-campaign--18160312": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
   "vpoint-campaign--706a8254": {
-    "deferred_since": "2026-10-02T09:05:15+09:00"
-  },
-  "dpoint-campaign--75857030": {
     "deferred_since": "2026-10-02T09:05:15+09:00"
   },
   "dpoint-campaign--f26ee323": {
@@ -78,5 +42,8 @@
   },
   "rakuten-pointcard-campaign--5f3b8b2a": {
     "deferred_since": "2026-10-03T09:05:22+09:00"
+  },
+  "rakuten-pointcard-campaign--70b5a802": {
+    "deferred_since": "2026-10-03T10:44:33+09:00"
   }
 }

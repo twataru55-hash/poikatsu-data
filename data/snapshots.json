@@ -548,5 +548,75 @@
     "hash": "3a777e3347f89a117b967420320e29521f2ccc7e47099e8f9278726869a47027",
     "fetched_at": "2026-10-03T09:05:22+09:00",
     "chars": 985
+  },
+  "rakuten-pointcard-campaign--6da755e9": {
+    "hash": "2bf8acfa5d778f1da6dc6631ad0d4cc62859d646686cd88926fdba6472d82092",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 6566
+  },
+  "aeonretail-otoku--8fcfec19": {
+    "hash": "9ea947a1ffced327493329393148c2e10964fd249645ab01e8fffa1c48a94aed",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 1434
+  },
+  "dpoint-campaign--32bc2d2c": {
+    "hash": "bc92d74a6fb2a98062434e0e90f1c39915832f53552127bfab50791834c4106c",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 4641
+  },
+  "aupay-campaign--d4aae2dd": {
+    "hash": "f672eb9514bad1f8d4f59f00dbe7e2b82c6702e98441e9e5f135e2f837c5772e",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 2429
+  },
+  "rakuten-pointcard-campaign--d519814e": {
+    "hash": "74fbf3e2caa5a22fdf38e2ef7d7cbb1d4f5646b6d19d2ab861e881001be2af48",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 8011
+  },
+  "vpoint-campaign--b2567bb5": {
+    "hash": "89d3c692c6b65a1a19fcfb6ceb5589d0c81fc5b8617102b56e9fb14d7b7bf8f6",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 1950
+  },
+  "aeonretail-otoku--c5427ffe": {
+    "hash": "20aadfd81e341b7be5e908537ae8082b06f6b906e8e469b1966466d80ef21c7e",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 1450
+  },
+  "dpoint-campaign--2046b5e2": {
+    "hash": "15ac73c392f6c2d9eac727ecec568a1b2ce25c7a1138f2db6c6b1196ea537b38",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 3534
+  },
+  "aupay-campaign--ecf7c528": {
+    "hash": "e7ebc85e606bbb299c2848bc6912e8389aa6d3a0fdb5d2fb189adf8cdac75dde",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 2796
+  },
+  "rakuten-pointcard-campaign--9f0e1a89": {
+    "hash": "00396d9c4d62e730050b5866f3743cdfee677f1f904ed4aa54b469b3b16a7f78",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 8492
+  },
+  "vpoint-campaign--05f4b995": {
+    "hash": "5cddb14318308784bac1f8590e8e6916efd0c52f3dc9e991389d26f6697803b1",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 2099
+  },
+  "dpoint-campaign--75857030": {
+    "hash": "9e6fd64d1d10b02a30f4f9d01374845ef9203ee8afb10ebe78a0023268dc0c72",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 4890
+  },
+  "rakuten-pointcard-campaign--e6b2e064": {
+    "hash": "0efb078b6205094b3a1715385a81e85a63738dd342823b3e22570aa25e382ca3",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 8237
+  },
+  "vpoint-campaign--a5926a38": {
+    "hash": "9d54db31418e297d86cbd6d03023ecaf66ddc3da46f2fec403091132072d8bd5",
+    "fetched_at": "2026-10-03T10:44:33+09:00",
+    "chars": 2510
   }
 }
