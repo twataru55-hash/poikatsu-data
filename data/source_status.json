@@ -7,7 +7,7 @@
   },
   "paypay-local": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -67,13 +67,13 @@
   },
   "paypay-event--b13b5555": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--34cbf1bf": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -91,25 +91,25 @@
   },
   "paypay-event--d2b08c4c": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--769d6220": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--565fc9bd": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--844ea371": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T20:51:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -139,7 +139,7 @@
   },
   "dpoint-campaign--d53a51dc": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -157,7 +157,7 @@
   },
   "dbarai-campaign--e747d422": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -169,13 +169,13 @@
   },
   "dbarai-campaign--9891e1b8": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dbarai-campaign--811ea050": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -193,7 +193,7 @@
   },
   "dbarai-campaign--3b0a03ce": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -211,25 +211,25 @@
   },
   "rakuten-pay-campaign--dd245728": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--83dea92b": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--55e3a7f2": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--fbf2bd05": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -241,19 +241,19 @@
   },
   "rakuten-pay-campaign--5d51aab0": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--fcf77407": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--6452773e": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -289,7 +289,7 @@
   },
   "rakuten-pointcard-campaign--8ddc57be": {
     "fail_count": 0,
-    "last_ok": "2026-09-29T09:01:42+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -301,7 +301,7 @@
   },
   "aupay-campaign--3777f625": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T09:01:49+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -337,13 +337,13 @@
   },
   "aupay-campaign--9201120d": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--8e775837": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -355,7 +355,7 @@
   },
   "vpoint-campaign--3730d984": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -391,31 +391,31 @@
   },
   "waon-campaign--74850c1c": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign--16bc60e2": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign--705fa259": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign--7c1f74b1": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign--c9dec637": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -427,55 +427,55 @@
   },
   "aeonretail-otoku--3bbc7465": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--c5427ffe": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--219279c2": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--71a7f92c": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--168a2d48": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--3e00c3cf": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--228cfe19": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--8fcfec19": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--b1aa8b60": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -487,43 +487,43 @@
   },
   "paypay-event--b0cb953a": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--32a4be5b": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--5cdd6981": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--2238d6a6": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--d1560b91": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--f383cc04": {
     "fail_count": 0,
-    "last_ok": "2026-09-26T22:19:31+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dbarai-campaign--493022f1": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -535,7 +535,7 @@
   },
   "aupay-campaign--5a3652c6": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T09:01:49+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -571,25 +571,25 @@
   },
   "rakuten-pointcard-campaign--5d094389": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "smbc-member-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-09-28T09:01:46+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dbarai-campaign--f44fe88a": {
     "fail_count": 0,
-    "last_ok": "2026-09-29T09:01:42+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--2859221a": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -601,7 +601,7 @@
   },
   "rakuten-pay-campaign--b3d76890": {
     "fail_count": 0,
-    "last_ok": "2026-09-29T09:01:42+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -613,7 +613,7 @@
   },
   "rakuten-pay-campaign--17fc234e": {
     "fail_count": 0,
-    "last_ok": "2026-09-29T09:01:42+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -637,19 +637,19 @@
   },
   "paypay-event--d59cb93a": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--0af219aa": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--6c79e7b1": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -679,37 +679,37 @@
   },
   "rakuten-pointcard-campaign--6da755e9": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--33aa1d9f": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--78d8497b": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--2698e468": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--b0e925d9": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--65ce2a22": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -745,7 +745,7 @@
   },
   "rakuten-pointcard-campaign--cfe49a4e": {
     "fail_count": 0,
-    "last_ok": "2026-09-30T22:45:06+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -763,235 +763,937 @@
   },
   "vpoint-campaign--d59ff7fe": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--d45383e6": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--106a7ab9": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--b2567bb5": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--05f4b995": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--81e6fb0e": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--73a4f52a": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--24be53d7": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--7444312a": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--b88c9b90": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--d4aae2dd": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign--3b7a2d76": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--29590cc4": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--9c7b8c27": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--c109f15a": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--fe6a90dc": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--e3ff2e8d": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--a5926a38": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--c2070096": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--a282a6fc": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--d519814e": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--6440e862": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--2046b5e2": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--6b71735d": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--9f0e1a89": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--4b4d7d2d": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--b667d0a0": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--e6b2e064": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--43c6557a": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--32bc2d2c": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--18160312": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--706a8254": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--75857030": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-event--cf5929cb": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--f26ee323": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--23a7245d": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--5f3b8b2a": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--ecf7c528": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--70b5a802": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T10:44:33+09:00",
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "smartwaon-weekly": {
+    "fail_count": 1,
+    "last_ok": null,
+    "last_error": "HTTP 403",
+    "issue_open": false
+  },
+  "ponta-campaign--708e5ca4": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--a4a82c90": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--d1fdd374": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--7a669425": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "ministop-offers--7a8dcd46": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "ministop-waon": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--f7256550": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--0ff7a873": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--5e399350": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--abf8667b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--8a28e3f1": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "ministop-offers--b584d014": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--d2fb890c": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--717c152e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--d657e204": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--0680669b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--cdca31ff": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "ministop-offers--eb52ac07": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--244e93c2": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--835e1108": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--2decfaad": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--7c59bd44": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--3c4248b8": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "ministop-offers--a2f3ad8b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--8555d33a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--577e6bb9": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "aupay-campaign--ff91b969": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--0d2abe98": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--c774fa32": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--42c3f7af": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--04c44861": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--9c997c3b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--754872ec": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--0e880103": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--be571bd5": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--fd2188b1": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--88927db6": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--0775b22d": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--2449799b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--70ccba48": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--cba95e36": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--8f468591": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--4745d74c": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--932e08f6": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--581c5842": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--6282c2ec": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--188a8145": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--a87a62aa": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--09d8cc8e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--3423a90b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--4556a8b4": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--47efa1c6": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "tsuruha-offers--f33bdc64": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--a5e07199": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--94d37a98": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--549368df": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--b7093ffa": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--ca131055": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--b517edc2": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--4290bb5f": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--213d6ffb": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--ccf4ec15": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--c8958cd7": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "mcdonalds-offers--c966f458": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--2a824d57": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--3f7dbddd": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--b149c5ff": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--982b34c9": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--9fc0068e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--0d0f85a8": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--265925a9": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--da686fa9": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--783f30ad": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--31afff08": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--fe55fa10": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--c08c2e8d": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--e99e2c2d": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--c66984b2": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--9985bb2d": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--1e4ab790": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--6002e0f9": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--c861ca1c": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--1bc6b40e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--0dfb1247": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--2f32def1": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--eb87a112": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--3516dc0a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--1ee69c5c": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--7561589e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--43f45058": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pay-campaign--363a2a4b": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--412bc53f": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--694252cf": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--f2c11c7a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "vpoint-campaign--393c0180": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--eb86457a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--a2a90cdb": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--148675c1": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--ae0fb863": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--6a0ce4e0": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--3f90512e": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--da911b2c": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--8e3ce780": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--c6c26d33": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--f3eb81c8": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "lawson-offers--ddd5b740": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--05a3bcd8": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--4c658488": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "seven-offers--dbf5f0dd": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--01d4669f": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--c333d838": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--f8304e57": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--24693ba0": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--e615d259": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--04563631": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "familymart-offers--a1e36b74": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T13:37:33+09:00",
     "last_error": null,
     "issue_open": false
   }

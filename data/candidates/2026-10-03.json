@@ -2559,5 +2559,1391 @@
     ],
     "source": "vpoint-campaign",
     "title": "VポイントPay・交換＆タッチ決済20％"
+  },
+  {
+    "id": "cp-b6397f3b36",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "小倉井筒屋 開店90周年抽選"
+  },
+  {
+    "id": "cp-15d1b9e0dd",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "対象ラーメン店 楽天ポイント2倍"
+  },
+  {
+    "id": "cp-8ddb30f913",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "遠野市 PayPay地域還元"
+  },
+  {
+    "id": "cp-807840a751",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "野田村 PayPay地域還元"
+  },
+  {
+    "id": "cp-f4f3f524ad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "由利本荘市 PayPay地域還元"
+  },
+  {
+    "id": "cp-2882e91bf9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大泉町 PayPay地域還元"
+  },
+  {
+    "id": "cp-ee629cc720",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "朝霞市 PayPay地域還元"
+  },
+  {
+    "id": "cp-93ef83d94e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "枚方市 PayPay地域還元"
+  },
+  {
+    "id": "cp-05a43b98ce",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "紀美野町 PayPay地域還元"
+  },
+  {
+    "id": "cp-b5dd29f614",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "都城市 PayPay地域還元"
+  },
+  {
+    "id": "cp-d368fbcd69",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "宮古島市 PayPay地域還元"
+  },
+  {
+    "id": "cp-b0b274b764",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "スギ薬局グループ グーン還元"
+  },
+  {
+    "id": "cp-2c5e876cf8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "ダスキン対象掃除サービス特典"
+  },
+  {
+    "id": "cp-e7c58499ce",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ローソン Ponta抽選還元 10月"
+  },
+  {
+    "id": "cp-5ca6de2c96",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン 毎月10日ありが10デー"
+  },
+  {
+    "id": "cp-d190798f66",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ カット野菜(サラダ用)全品 1"
+  },
+  {
+    "id": "cp-b77109ef60",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ しっとりケーキ（チョコ） 2"
+  },
+  {
+    "id": "cp-eaef377e2c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 大きなチーズカレーパン（CoCo壱番屋監修） 3"
+  },
+  {
+    "id": "cp-8a73bcdbb6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ブルガリアヨーグルト果実Special彩りフルーツバリエ 4"
+  },
+  {
+    "id": "cp-5c5ce065c1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ブルガリアヨーグルト果実Special雪梨ミックス 5"
+  },
+  {
+    "id": "cp-07cefbf101",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 白鶴まるパック 6"
+  },
+  {
+    "id": "cp-01a501b9cd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 信長鬼ころしパック 7"
+  },
+  {
+    "id": "cp-59a0b93eff",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 信長鬼ころしパック 8"
+  },
+  {
+    "id": "cp-e4c6cc8c75",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ヴイックスレモン風味 9"
+  },
+  {
+    "id": "cp-2735803ca6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ヴイックスオレンジ風味 10"
+  },
+  {
+    "id": "cp-f15c15173c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 対象のどん兵衛 11"
+  },
+  {
+    "id": "cp-3b8baafd04",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 板チョコアイス 12"
+  },
+  {
+    "id": "cp-dbefa328a1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 白鶴まるパック 13"
+  },
+  {
+    "id": "cp-a410b98ee7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ライフガード 14"
+  },
+  {
+    "id": "cp-1615611956",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 対象の味の素おかゆ 15"
+  },
+  {
+    "id": "cp-2805eebb66",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ デュワーズ　ホワイト・ラベル 16"
+  },
+  {
+    "id": "cp-977ba73c16",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ デュワーズ12年 17"
+  },
+  {
+    "id": "cp-d50d123866",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ フロンテラ　カベルネ・ソーヴィニヨン 18"
+  },
+  {
+    "id": "cp-2280037c3e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ フロンテラ　シャルドネ 19"
+  },
+  {
+    "id": "cp-eaca01cf78",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ UCC　ブラック無糖 20"
+  },
+  {
+    "id": "cp-3871e0b8bf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ジョージア　エメラルドマウンテンブレンド 21"
+  },
+  {
+    "id": "cp-e6b2c6e1b0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ タリーズブラック 22"
+  },
+  {
+    "id": "cp-bea4fca2f9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ アクエリアス 23"
+  },
+  {
+    "id": "cp-5e472ad60f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ マッチ 24"
+  },
+  {
+    "id": "cp-9d2ac2bde6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン ドデカミンBIGセール"
+  },
+  {
+    "id": "cp-062e26827b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン Vポイント引換 10-07"
+  },
+  {
+    "id": "cp-83305a1afa",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン Vポイント引換 10-14"
+  },
+  {
+    "id": "cp-8f9711efb0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン Vポイント引換 10-21"
+  },
+  {
+    "id": "cp-204b5dcbae",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン Vポイント引換 10-28"
+  },
+  {
+    "id": "cp-f248263cab",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 毎月10日ポイント10倍"
+  },
+  {
+    "id": "cp-b577948c9b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "トモズ dポイント利用10％還元"
+  },
+  {
+    "id": "cp-21861164e1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ベイシア 楽天ポイント抽選"
+  },
+  {
+    "id": "cp-3a6d0de346",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ドトール 17時以降Ponta2倍"
+  },
+  {
+    "id": "cp-021a18ddec",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ中小店舗20%"
+  },
+  {
+    "id": "cp-bbb9497cc6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ大型店舗5%"
+  },
+  {
+    "id": "cp-bd874ce833",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "電子マネーWAON 会員登録でいつでも2倍"
+  },
+  {
+    "id": "cp-5cace7d7ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン お酒WAON POINT10倍"
+  },
+  {
+    "id": "cp-b9753e046a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ キャラメルミルクティー"
+  },
+  {
+    "id": "cp-e7776f1fcd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ウコンの力ドリンク"
+  },
+  {
+    "id": "cp-48f837933c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ウコンの力スーパー"
+  },
+  {
+    "id": "cp-dfc0d4885c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ウコンの力超MAX"
+  },
+  {
+    "id": "cp-9aee47cf2d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ キレートレモン"
+  },
+  {
+    "id": "cp-ce9e7d9992",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ キレートレモン　クエン酸2700"
+  },
+  {
+    "id": "cp-6c90baad3e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ キレートレモン　MUKUMI"
+  },
+  {
+    "id": "cp-00495d7a43",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 眠眠打破"
+  },
+  {
+    "id": "cp-4e62105077",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 強強打破"
+  },
+  {
+    "id": "cp-cc16036ea9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ソルマック5　サキノミ"
+  },
+  {
+    "id": "cp-34e8d9d77d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ エスカップ"
+  },
+  {
+    "id": "cp-0f4abef863",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 液キャベコーワA"
+  },
+  {
+    "id": "cp-dbcfb7bd3c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ カンゾコーワドリンク1000"
+  },
+  {
+    "id": "cp-d40d9370d6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ Q&PコーワゴールドZEROドリンク"
+  },
+  {
+    "id": "cp-dc5f47e697",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ネルノダ　睡眠＋疲労感ケア"
+  },
+  {
+    "id": "cp-b81d8a4129",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ユンケル滋養液ゴールド"
+  },
+  {
+    "id": "cp-baa3601dad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ルル滋養内服液ゴールド"
+  },
+  {
+    "id": "cp-83d2fb97ac",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 紅茶花伝　ロイヤルミルクティー"
+  },
+  {
+    "id": "cp-00ac189691",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン ウコンの力超MAX値引"
+  },
+  {
+    "id": "cp-d7e8332339",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン 買うほどランクアップ抽選"
+  },
+  {
+    "id": "cp-dfb9fd7f54",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ ザバス無料引換"
+  },
+  {
+    "id": "cp-3e776ea5f1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 天然水無料引換"
+  },
+  {
+    "id": "cp-70bbcd5caa",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ R-1無料引換予告"
+  },
+  {
+    "id": "cp-16eade5575",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ スキットルズ無料引換"
+  },
+  {
+    "id": "cp-522eb1a05a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ ウィルキンソン無料券"
+  },
+  {
+    "id": "cp-2b0922a946",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "街のお店 Vポイント抽選"
+  },
+  {
+    "id": "cp-8a86cd1e9b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "多慶屋 dポイント300ポイント"
+  },
+  {
+    "id": "cp-523555d3f1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サニー 土曜ポイント増し増しデー"
+  },
+  {
+    "id": "cp-1fcab42259",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（50%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "Coke ON d払い初回50%還元"
+  },
+  {
+    "id": "cp-f4ac18cbae",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "アカカベ 楽天ペイラッキーくじ"
+  },
+  {
+    "id": "cp-cce53de8fe",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "AEON Pay 毎月10日ポイント10倍"
+  },
+  {
+    "id": "cp-12819de775",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン 殺虫剤等WAON POINT20倍"
+  },
+  {
+    "id": "cp-889ded15ba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ アプリ提示クーポン抽選"
+  },
+  {
+    "id": "cp-0877654cf2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン メガシャキ2本値引"
+  },
+  {
+    "id": "cp-d7b79fa380",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン アプリ毎日抽選クーポン"
+  },
+  {
+    "id": "cp-c2efdfcf34",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 週末AEON Pay10倍"
+  },
+  {
+    "id": "cp-8c4b4710ce",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "Vポイント祭 福福キャンペーン"
+  },
+  {
+    "id": "cp-b449098090",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンリブ dポイント提示＆d払い抽選"
+  },
+  {
+    "id": "cp-267726d774",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンリブ dポイント初利用50pt"
+  },
+  {
+    "id": "cp-210be6cff0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ 対象ペット用品特典"
+  },
+  {
+    "id": "cp-0af326a997",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ au PAY1000円引き 第1"
+  },
+  {
+    "id": "cp-88f019650b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ au PAY1000円引き 第2"
+  },
+  {
+    "id": "cp-8ce89d01e0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ au PAY1000円引き 第3"
+  },
+  {
+    "id": "cp-c13c96fb6f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ au PAY1000円引き 第4"
+  },
+  {
+    "id": "cp-84bbe95e1b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ダスキン d払い1500ポイント"
+  },
+  {
+    "id": "cp-5aa7556be0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "ブックオフ 楽天ペイ初・久々20%"
+  },
+  {
+    "id": "cp-732053d7d0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン ヘアカラー毎月3日ポイント10倍"
+  },
+  {
+    "id": "cp-9d2105db78",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ウィルキンソン1本無料券"
+  },
+  {
+    "id": "cp-c4579a539e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 対象チョコ購入で無料券"
+  },
+  {
+    "id": "cp-195d4c484a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン バンドエイド2個値引"
+  },
+  {
+    "id": "cp-627a4fbc9c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン マイル交換 チョコラBB"
+  },
+  {
+    "id": "cp-003e04aae7",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン マイル交換 ブリトー300円以下"
+  },
+  {
+    "id": "cp-003e04aae7",
+    "result": "same",
+    "source": "seven-offers"
+  },
+  {
+    "id": "cp-a5f257cf87",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン マイル交換 スニッカーズミニ"
+  },
+  {
+    "id": "cp-94917e31b1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 食欲解放Day第1弾"
+  },
+  {
+    "id": "cp-30d42f18a8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 食欲解放Day第2弾"
+  },
+  {
+    "id": "cp-eaa21a61a0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "mcdonalds-offers",
+    "title": "マクドナルド ひるまック"
+  },
+  {
+    "id": "cp-60a9a7d452",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "龍生堂 dポイント10倍"
+  },
+  {
+    "id": "cp-485671e89a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペン 楽天ポイント全額抽選"
+  },
+  {
+    "id": "cp-d945bee7c5",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ au PAY1000円引き 第1"
+  },
+  {
+    "id": "cp-a37dd561ab",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ au PAY1000円引き 第2"
+  },
+  {
+    "id": "cp-52182e6428",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ au PAY1000円引き 第3"
+  },
+  {
+    "id": "cp-d06945f009",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ au PAY1000円引き 第4"
+  },
+  {
+    "id": "cp-224d69f37b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズ auひかり契約＆対象家電割引"
+  },
+  {
+    "id": "cp-5b9dfb01b4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ケーズ au PAY機種変更クーポン"
+  },
+  {
+    "id": "cp-8b9707cef8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V10 期間上限が大きい（100000）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "コーナン PayPayスクラッチくじ"
+  },
+  {
+    "id": "cp-cfdd553f84",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "コーナンアプリ限定PayPayクーポン"
+  },
+  {
+    "id": "cp-a0dd8f7c5a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ジョイフル本田 d払い毎月5倍"
+  },
+  {
+    "id": "cp-3910a743fc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない",
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "NEXCO中日本 楽天ペイスタンプ抽選"
+  },
+  {
+    "id": "cp-4e34964bf4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "WAON お客さま感謝デー"
+  },
+  {
+    "id": "cp-88f5770f2b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン 毎月10日オーラルケア10倍"
+  },
+  {
+    "id": "cp-0bbaab37a2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン オリジナルTシャツセール"
+  },
+  {
+    "id": "cp-1ba45e262f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン オイコス購入で次回クーポン"
+  },
+  {
+    "id": "cp-f8cfc1dcbb",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "vpoint-campaign",
+    "title": "DRUGユタカ 花王エコトク抽選"
+  },
+  {
+    "id": "cp-66eedeedee",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク 木曜dポイント3倍"
+  },
+  {
+    "id": "cp-66eedeedee",
+    "result": "same",
+    "source": "dpoint-campaign"
+  },
+  {
+    "id": "cp-17f86dbf86",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "ウェルパーク 土曜ポイント利用還元"
+  },
+  {
+    "id": "cp-600c6d4707",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ 楽天ポイント抽選5倍"
+  },
+  {
+    "id": "cp-9b728044b8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "オーケー＆ドトール au PAY抽選"
+  },
+  {
+    "id": "cp-6f6e6412b4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V10 期間上限が大きい（100000）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "松屋 モバイル注文PayPayスクラッチ"
+  },
+  {
+    "id": "cp-dfea39d50d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "paypay-event",
+    "title": "松屋 注文サービスPayPayクーポン"
+  },
+  {
+    "id": "cp-c1bb69fdc0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dbarai-campaign",
+    "title": "オータニ d払い＆レシート抽選"
+  },
+  {
+    "id": "cp-d85730fa07",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "札幌 楽天トラベル＆楽天ペイ還元"
+  },
+  {
+    "id": "cp-17fca0955c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン わんにゃんデー20倍"
+  },
+  {
+    "id": "cp-414361b4da",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン ジョージア保有無料券引換"
+  },
+  {
+    "id": "cp-b5a4b0993d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン おにぎり・寿司クーポン抽選"
+  },
+  {
+    "id": "cp-a99a30d6ab",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "tsuruha-offers",
+    "title": "ツルハ ブラックフライデー対象品"
+  },
+  {
+    "id": "cp-65900d85e4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "vpoint-campaign",
+    "title": "ドラッグストアmac 対象商品抽選"
+  },
+  {
+    "id": "cp-b4210b9a55",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンミュージック dポイント5～10倍"
+  },
+  {
+    "id": "cp-df1c409b59",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ENEOS 楽天ポイント初回・おかえり抽選"
+  },
+  {
+    "id": "cp-57918ddbc6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "富山県 楽天ペイ＆モバイル還元"
+  },
+  {
+    "id": "cp-deff8d6e33",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン 毎月10・25日シャンプー10倍"
+  },
+  {
+    "id": "cp-8e6232c5d7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン カップ麺無料引換"
   }
 ]

@@ -1,13 +1,13 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-03-1100",
-    "generated_at": "2026-10-03T11:00:46+09:00",
+    "data_version": "2026-10-03-1439",
+    "generated_at": "2026-10-03T14:39:00+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 4,
-      "live_campaigns": 4,
-      "stores": 7,
+      "campaigns": 41,
+      "live_campaigns": 31,
+      "stores": 42,
       "recurring": 1
     }
   },
@@ -284,6 +284,22 @@
       "match_terms": [
         "イオンカード"
       ]
+    },
+    {
+      "id": "tsuruha-group-point",
+      "name": "ツルハグループポイント",
+      "kind": "point",
+      "point_id": "tsuruha-group-point",
+      "official_url": "https://www.tsuruha-kcp.com/cp/tsuruha-bfcp2026/?utm_source=HP_tsuruha&utm_medium=refferal&utm_campaign=tsuruha-bfcp2026",
+      "domains": [
+        "tsuruha-kcp.com",
+        "tsuruha.co.jp"
+      ],
+      "wallet": true,
+      "note": "ツルハグループ限定のポイント",
+      "match_terms": [
+        "ツルハグループポイント"
+      ]
     }
   ],
   "stores": [
@@ -381,6 +397,286 @@
         "waon"
       ],
       "base_rewards": []
+    },
+    {
+      "id": "izutsuya-kokura",
+      "name": "小倉井筒屋",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7775",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "denmaru",
+      "name": "伝丸",
+      "category": "restaurant",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "ifu",
+      "name": "威風",
+      "category": "restaurant",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "ikkokudo",
+      "name": "壱鵠堂",
+      "category": "restaurant",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "tenkaichi",
+      "name": "天下一",
+      "category": "restaurant",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "duskin",
+      "name": "ダスキン（対象お掃除サービス）",
+      "category": "other",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-duskin/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "tomods",
+      "name": "トモズ",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7906",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "american-pharmacy",
+      "name": "アメリカンファーマシー",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_901490_PB7906/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7906",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "doutor-group",
+      "name": "ドトールグループ（対象店）",
+      "category": "cafe",
+      "official_url": "https://aupay-cp.auone.jp/202608_doutor_limited?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "sugi-group",
+      "name": "スギ薬局グループ（対象店）",
+      "category": "drugstore",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/daiouseishi_goon_2609_MI0177/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_daiou-sugi_202609&utm_content=dpaytop_cpsmlbnr",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "drug-yutaka",
+      "name": "DRUGユタカ",
+      "category": "drugstore",
+      "official_url": "https://cpn.tsite.jp/detail/en910038410004",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "beisia",
+      "name": "ベイシア",
+      "category": "supermarket",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "sunny",
+      "name": "サニー",
+      "category": "supermarket",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "vivahome",
+      "name": "ビバホーム",
+      "category": "other",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "musashi",
+      "name": "ホームセンタームサシ",
+      "category": "other",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "nicopet",
+      "name": "ニコペット",
+      "category": "other",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "takeya",
+      "name": "多慶屋（TAKEYA1・3）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7721",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "coke-on-vending",
+      "name": "Coke ON Pay対応自販機",
+      "category": "other",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_coke-on_260901_7748/index.html?utm_source=dpayment&utm_medium=free-display&utm_campaign=dpayment_coke-on_202609&utm_content=cplist_smlbnr",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "akakabe",
+      "name": "ドラッグアカカベ",
+      "category": "drugstore",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "sunlive-group",
+      "name": "サンリブグループ（対象店）",
+      "category": "supermarket",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "biccamera",
+      "name": "ビックカメラ（対象店）",
+      "category": "other",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "bookoff",
+      "name": "ブックオフ（対象店）",
+      "category": "other",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-bookoff/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "ryuseido",
+      "name": "クスリの龍生堂薬局",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7768",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "alpen-group",
+      "name": "アルペングループ（対象店）",
+      "category": "other",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/alpen/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "ksdenki",
+      "name": "ケーズデンキ（対象店）",
+      "category": "other",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "kohnan-group",
+      "name": "コーナングループ（対象店）",
+      "category": "other",
+      "official_url": "https://paypay.ne.jp/event/kohnan-20261001/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "joyfulhonda-group",
+      "name": "ジョイフル本田・ホームジョイ本田",
+      "category": "other",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_joyfulhonda_250401_6223/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202504_6223&utm_content=a",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "cnexco-sa-pa",
+      "name": "NEXCO中日本 対象SA・PA",
+      "category": "other",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-cnexco/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "welpark",
+      "name": "ウェルパーク",
+      "category": "drugstore",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "okay",
+      "name": "オーケー",
+      "category": "supermarket",
+      "official_url": "https://aupay-cp.auone.jp/202610_ok_doutor?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "matsuya-group",
+      "name": "松屋（対象注文サービス）",
+      "category": "restaurant",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "otani",
+      "name": "オータニ・フードオアシスオータニ",
+      "category": "supermarket",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "drugstore-mac",
+      "name": "ドラッグストアmac",
+      "category": "drugstore",
+      "official_url": "https://cpn.tsite.jp/detail/en910038430012",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "sunmusic-group",
+      "name": "サンミュージック（対象店）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7773",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "eneos",
+      "name": "ENEOS（楽天ポイント対象店）",
+      "category": "other",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/eneos/20261001/?scid=wi_pym_cpn_list",
+      "accepted_brand_ids": [],
+      "base_rewards": []
     }
   ],
   "recurring": [
@@ -406,6 +702,217 @@
     }
   ],
   "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラ au PAY1000円引き 第1",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-02T00:00:00+09:00",
+        "end": "2026-10-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-0af326a997"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 ブリトー300円以下",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "230マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-003e04aae7"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 チョコラBB",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "420マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-627a4fbc9c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラ au PAY1000円引き 第2",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-88f019650b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン マイル交換 スニッカーズミニ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60マイルで無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-a5f257cf87"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "アカカベ 楽天ペイラッキーくじ",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "akakabe"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-14T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "100円税込以上のコード・QR払い後、決済画面のくじへ。1人1日1回。通販除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-f4ac18cbae"
+    },
     {
       "type": "lottery",
       "brand_ids": [
@@ -444,6 +951,263 @@
       "id": "cp-5785968adb"
     },
     {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズ auひかり契約＆対象家電割引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定家電 最大60,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAY200円以上、auひかりプラス＋セット割新規契約、同店舗同時購入。既契約除外",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-224d69f37b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ au PAY1000円引き 第1",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-d945bee7c5"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラ au PAY1000円引き 第3",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-8ce89d01e0"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブン Vポイント引換 10-07",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "コーヒー70pt・カフェラテ100pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリ。10/7 14時～10/13交換。各商品先着2万名、1人1回",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-062e26827b"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ 対象ペット用品特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品 最大300ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "musashi",
+          "nicopet",
+          "vivahome"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "登録済カード提示。NICO PET対象厚型シーツ300pt・薄型100pt。プロ店舗等除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-210be6cff0"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブン Vポイント引換 10-14",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "コーヒー70pt・ヨーグルト80pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリ。10/14 14時～10/20交換。各商品先着2万名、1人1回",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-83305a1afa"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "対象ラーメン店 楽天ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "denmaru",
+          "ifu",
+          "ikkokudo",
+          "tenkaichi"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "伝丸・威風・壱鵠堂・天下一限定。提示で200円以上。利用登録必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-15d1b9e0dd"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "rakuten-point"
@@ -480,6 +1244,835 @@
       "id": "cp-c6c7b7df42"
     },
     {
+      "type": "lottery",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン Ponta抽選還元 10月",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,010名に購入額相当",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "カード提示で1pt以上獲得。月上限4,000pt。ストア100等対象外",
+      "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-e7c58499ce"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク 土曜ポイント利用還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "利用dポイントの10%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/3・10・17・24・31、カード200pt以上利用。1日上限1000pt、d払い充当対象外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-17f86dbf86"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ベイシア 楽天ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "beisia"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "登録済みカード提示、1会計200円税抜以上で1ポイント以上獲得。FC10店舗除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-21861164e1"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "サンリブ dポイント初利用50pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初利用で50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "エントリーとカード提示、dポイント初利用＆d払い期間合計3000円税抜以上。対象店舗限定",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-267726d774"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー 土曜ポイント増し増しデー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で最大5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunny"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象10/3・10・17・24・31。カード3倍は税抜2500円以上。Edy2倍条件あり",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-523555d3f1"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ 楽天ポイント抽選5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選5,000名 楽天ポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "musashi",
+          "nicopet",
+          "vivahome"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店で税込2000円以上、カード1pt以上獲得、要メルマガ。追加分上限100pt",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-600c6d4707"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "龍生堂 dポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ryuseido"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=ac10d8d1ec881b131e1e44c4e684701779f16f25e92d746c11b71379972171e0"
+      },
+      "conditions": "登録済カード提示で1pt以上獲得。保険調剤・決済ポイント対象外。上限なし",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7768",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-60a9a7d452"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "ドラッグストアmac 対象商品抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大1,000mac限定Vポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "drugstore-mac"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T09:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象商品累計400円ごと1口、カード提示。mac限定ポイント、アプリ連携で確率3倍・W抽選",
+      "official_url": "https://cpn.tsite.jp/detail/en910038430012",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-65900d85e4"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク 木曜dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "10/1・8・15・22・29のみ、カード提示。日曜企画と追加分合算上限800pt、調剤等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7831",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-66eedeedee"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "多慶屋 dポイント300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で300ポイント",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "takeya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "TAKEYA1・3でカード提示、税込1000円以上の買物2回・10pt以上獲得。10月分登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_889805_PB7721/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7721",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-8a86cd1e9b"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "サンリブ dポイント提示＆d払い抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で+20倍",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunlive-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "カード提示＆d払いで税抜合計3000円以上。抽選1000名、1会計分。ローソン長浜店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_897422_PB7782/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7782",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b449098090"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小倉井筒屋 開店90周年抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選40名に9,090ポイント",
+        "cap_per_use": null,
+        "cap_total": 9090,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "izutsuya-kokura"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
+      },
+      "conditions": "小倉井筒屋限定。カード提示で累計3,000円以上。対象外商品あり",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7775",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b6397f3b36"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "オータニ d払い＆レシート抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選 最大20,000dポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "otani"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店1会計1000円税込以上d払いコード決済、レシート応募。たばこ・ポイント充当等除外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html?utm_source=dpayment&utm_medium=owned&utm_campaign=dpc_202609_7720",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-c1bb69fdc0"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン 買うほどランクアップ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で無料商品クーポン1枚・3枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示、税抜累計2000円・5000円達成。抽選11/5まで、当選後情報登録11/10まで",
+      "official_url": "https://www.sej.co.jp/cmp/app_campaign.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-d7e8332339"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "松屋 注文サービスPayPayクーポン",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsuya-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "松弁ネット・デリバリー・モバイル注文800円以上限定。クーポン獲得、1回200pt・5回まで",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-dfea39d50d"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "DRUGユタカ 花王エコトク抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "drug-yutaka"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "DRUGユタカ対象店限定。事前エントリー・カード提示。花王1会計1,000円毎",
+      "official_url": "https://cpn.tsite.jp/detail/en910038410004",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-f8cfc1dcbb"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "サンミュージック dポイント5～10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "既存5倍・初回10倍",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunmusic-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ページ掲載対象店でカード提示1pt以上獲得。初回のみ10倍、月追加上限2000pt",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7773",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b4210b9a55"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン おにぎり・寿司クーポン抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で100円引券等",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/27まで対象3個購入毎、10/30まで抽選。対象432円以下",
+      "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-b5a4b0993d"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブン Vポイント引換 10-21",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "コーヒー・果汁飲料70pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリ。10/21 14時～10/27交換。各商品先着2万名、1人1回",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-8f9711efb0"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ au PAY1000円引き 第2",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-a37dd561ab"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブン Vポイント引換 10-28",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "コーヒー70pt・対象アイス90pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリ。10/28 14時～11/3交換。各商品先着2万名、1人1回",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-204b5dcbae"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン アプリ毎日抽選クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で4種クーポン計10枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "抽選10/16～31、1日1回。利用10/16～11/10。7のつく日は77名、通常7名",
+      "official_url": "https://www.sej.co.jp/cmp/app_lottery2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-d7b79fa380"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "ダスキン対象掃除サービス特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で1,500ポイント",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "duskin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天ペイQR対応ダスキン対象サービス限定。1回20,000円以上",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-duskin/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-2c5e876cf8"
+    },
+    {
       "type": "local",
       "brand_ids": [
         "rakuten-pay"
@@ -514,6 +2107,43 @@
       "last_verified": "2026-10-01",
       "status_override": null,
       "id": "cp-2585b82213"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "由利本荘市 楽天ペイ大型店舗5%",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "最大5%還元",
+        "cap_per_use": 1000,
+        "cap_total": 5000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "市内対象大型店舗で楽天ペイコード・QR・セルフ払い。1回上限1000pt、オンライン対象外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/?scid=wi_pym_cpn_list",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-bbb9497cc6"
     },
     {
       "type": "bonus",
