@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import hashlib
+import re
 import time
 import urllib.robotparser
 from dataclasses import dataclass
@@ -31,14 +32,23 @@ class Page:
     links: list = None  # ページ内のリンク（絶対URL）。詳細ページをたどるのに使う
 
 
-def html_to_text(html: str) -> str:
+def html_to_text(html: str, source: dict | None = None) -> str:
     soup = BeautifulSoup(html, "lxml")
+    # Only explicit, source-specific selectors remove related-campaign panels.
+    # Do not remove generic sections which may contain eligibility or dates.
+    for selector in (source or {}).get("exclude_selectors", []):
+        for node in soup.select(selector):
+            node.decompose()
     for t in soup(REMOVE_TAGS):
         t.decompose()
     for img in soup.find_all("img"):  # ロゴ画像だけで書かれた決済名などを拾う
         alt = (img.get("alt") or "").strip()
         img.replace_with(f" {alt} " if alt else "")
-    root = soup.find("main") or soup.body or soup
+    selector = (source or {}).get("content_selector")
+    root = soup.select_one(selector) if selector else None
+    if selector and root is None:
+        raise RuntimeError(f"本文セレクタが見つからない: {selector}")
+    root = root or soup.find("main") or soup.body or soup
     lines = [ln.strip() for ln in root.get_text("\n").splitlines()]
     return "\n".join(ln for ln in lines if ln)
 
@@ -69,6 +79,7 @@ class Fetcher:
         self._robots: dict[str, urllib.robotparser.RobotFileParser | None] = {}
         self._pw = None
         self.config = config
+        self.last_url = None
 
     def _wait(self, host: str) -> None:
         last = self._last.get(host)
@@ -103,7 +114,12 @@ class Fetcher:
                 self._wait(domain_of(url))
                 r = http_session(url, self.config).get(url, headers={"User-Agent": self.ua}, timeout=self.timeout)
                 if r.status_code == 200:
-                    r.encoding = r.apparent_encoding or r.encoding
+                    # Honour declared charset (HTTP or HTML), before heuristic
+                    # detection. Short Japanese pages were misdetected as other encodings.
+                    declared = re.search(r"charset\s*=\s*[\"']?([\w-]+)", r.headers.get("Content-Type", ""), re.I)
+                    meta = re.search(br"charset\s*=\s*[\"']?([\w-]+)", r.content[:8192], re.I)
+                    r.encoding = (declared.group(1) if declared else meta.group(1).decode("ascii") if meta else r.apparent_encoding) or "utf-8"
+                    self.last_url = r.url
                     return r.text
                 err = f"HTTP {r.status_code}"
                 if r.status_code in (404, 410):
@@ -125,6 +141,7 @@ class Fetcher:
             page.goto(url, timeout=self.timeout * 1000, wait_until="domcontentloaded")
             page.wait_for_timeout(4000)  # 一覧が描画されるのを待つ
             html = page.content()
+            self.last_url = page.url
             browser.close()
             return html
 
@@ -151,7 +168,7 @@ def collect(sources: list[dict], config: dict, force: bool = False, record_snaps
             if not fetcher.allowed(src["url"]):
                 raise RuntimeError("robots.txt で取得禁止")
             html = fetcher.get_js(src["url"]) if src.get("render") == "js" else fetcher.get_static(src["url"])
-            text = html_to_text(html)
+            text = html_to_text(html, src)
             if len(text) < 50:
                 raise RuntimeError("本文がほぼ空（JS描画ページの可能性）")
             digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
@@ -160,7 +177,7 @@ def collect(sources: list[dict], config: dict, force: bool = False, record_snaps
                 snapshots[sid] = {"hash": digest, "fetched_at": now.isoformat(timespec="seconds"), "chars": len(text)}
             (WORK_DIR / "pages" / f"{sid}.txt").write_text(text, encoding="utf-8")
             st.update(fail_count=0, last_ok=now.isoformat(timespec="seconds"), last_error=None)
-            pages.append(Page(src, text, changed, True, digest=digest, links=extract_links(html, src["url"])))
+            pages.append(Page(src, text, changed, True, digest=digest, links=extract_links(html, fetcher.last_url or src["url"])))
         except Exception as e:  # noqa: BLE001
             st["fail_count"] = int(st.get("fail_count", 0)) + 1
             st["last_error"] = str(e)[:200]
@@ -179,4 +196,4 @@ def fetch_text(source: dict, config: dict) -> str:
     if not fetcher.allowed(source["url"]):
         raise RuntimeError("robots.txt で取得禁止")
     html = fetcher.get_js(source["url"]) if source.get("render") == "js" else fetcher.get_static(source["url"])
-    return html_to_text(html)
+    return html_to_text(html, source)

@@ -81,7 +81,7 @@
         "required": [
           "pattern"
         ],
-        "description": "一覧ページから詳細ページをたどる設定。指定すると一覧ページ自体は抽出せず、未処理の詳細ページを1件ずつ依頼する",
+        "description": "公式の詳細URLを列挙し、処理済みを含め取得上限内で古い確認順に再取得。未巡回も記録する",
         "properties": {
           "pattern": {
             "type": "string",
@@ -90,14 +90,47 @@
           "max_new": {
             "type": "integer",
             "minimum": 1,
-            "maximum": 30
+            "maximum": 100
           },
           "render": {
             "enum": [
               "static",
               "js"
             ]
+          },
+          "seeds": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^https://"
+            }
+          },
+          "pagination_pattern": {
+            "type": "string"
+          },
+          "max_list_pages": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10
+          },
+          "redirect_hosts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "redirect_label_pattern": {
+            "type": "string"
           }
+        }
+      },
+      "content_selector": {
+        "type": "string"
+      },
+      "exclude_selectors": {
+        "type": "array",
+        "items": {
+          "type": "string"
         }
       }
     }

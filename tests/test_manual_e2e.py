@@ -58,7 +58,7 @@ for item in q["items"]:
             period={"start": "2026-10-01T00:00:00+09:00", "end": "2026-10-20T23:59:59+09:00"},
             entry={"required": True, "url": "https://paypay.ne.jp/entry/test/"},
             official_url=item["url"], evidence_quote="コンビニで最大10%戻ってくるキャンペーン")]}
-    elif item["source_id"] == "ponta-campaign":
+    elif item["source_id"] == "ministop-waon":
         ans = {"campaigns": []}
     else:
         continue  # 回答しない（次回に再依頼されるはず）
@@ -109,7 +109,7 @@ def test_manual_flow(tmp_path, unknown):
     details = [i for i in queue["items"] if i.get("parent") == "paypay-event"]
     assert len(details) == 1 and details[0]["url"] == "https://paypay.ne.jp/event/test-20261001/"  # きせかえは除外
     assert not followed.intersection(ids)
-    assert set(ids) == listed | {details[0]["source_id"]}
+    assert set(ids) == listed | {details[0]["source_id"], "ponta-campaign--708e5ca4"}
     assert len(ids) == len(set(ids))  # 重複した依頼を作らない
     prompt = (repo / details[0]["prompt_file"]).read_text(encoding="utf-8")
     assert "エントリーする：https://paypay.ne.jp/entry/test/" in prompt
@@ -127,7 +127,7 @@ def test_manual_flow(tmp_path, unknown):
     res = json.loads(chk.stdout)
     assert chk.returncode == 0, res
     assert len(res["answered"]) == 3
-    answered_ids = {"paypay-local", "ponta-campaign", details[0]["source_id"]}
+    answered_ids = {"paypay-local", "ministop-waon", details[0]["source_id"]}
     unanswered_ids = set(ids) - answered_ids
 
     # 3) GitHub：取り込み

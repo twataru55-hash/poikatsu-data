@@ -12,11 +12,11 @@ llm:
   model: "claude-haiku-4-5-20251001"   # 安価モデル。openai にするときは OpenAI の安価モデル名に変える
   temperature: 0              # 温度を受け付けないモデルなら null
   max_llm_calls: 40           # 1回の実行で呼ぶ上限
-  max_input_chars: 30000      # モデルに渡す本文の上限文字数
+  max_input_chars: 60000      # モデルに渡す本文の上限文字数
   max_output_tokens: 8192
 
 manual:
-  max_sources_per_run: 15     # PC側で1回に抽出を頼むページ数の上限
+  max_sources_per_run: 40     # PC側で1回に抽出を頼むページ数の上限
   give_up_after_unanswered: 3 # 同じ内容のページが続けてこの回数回答されなければ、ページが変わるまで依頼しない
 
 fetch:

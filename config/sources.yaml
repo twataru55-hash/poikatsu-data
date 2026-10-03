@@ -1,146 +1,335 @@
-# 巡回する公式ページの固定リスト（仕様書 §6）
-# render: js … JavaScript で中身が描画されるページ（Playwright で取得）
-# enabled: false … URL が未確認などで一時的に止めているもの
-# store_ids … そのページが特定チェーン向けのときだけ書く（空なら全店舗の一覧をモデルに渡す）
-
+# 公式ポイント一覧＋店舗公式のクーポン・値引き。取得上限・未巡回URLはwork/discoveryに記録。
 - id: paypay-event
   name: PayPay キャンペーン一覧
   url: https://paypay.ne.jp/event/
-  brand_ids: [paypay, paypay-point, paypay-card]
+  brand_ids:
+  - paypay
+  - paypay-point
+  - paypay-card
   kind: official
   render: static
   frequency: daily
-  domains: [paypay.ne.jp, paypay-card.co.jp]
-  follow:                       # 一覧から個別キャンペーンの詳細ページをたどる（きせかえ・自治体一覧は除外）
-    pattern: '^https://paypay\.ne\.jp/event/(?!kisekae-|support-local)[a-z0-9-]+/$'
-    max_new: 8
-
+  domains:
+  - paypay.ne.jp
+  - paypay-card.co.jp
+  follow:
+    pattern: ^https://paypay\.ne\.jp/event/(?!kisekae-|support-local)[a-z0-9-]+/$
+    max_new: 20
 - id: paypay-local
   name: PayPay 自治体キャンペーン一覧
   url: https://paypay.ne.jp/event/support-local/
-  brand_ids: [paypay, paypay-point]
+  brand_ids:
+  - paypay
+  - paypay-point
   kind: official
   render: static
   frequency: daily
-  domains: [paypay.ne.jp]
-
+  domains:
+  - paypay.ne.jp
 - id: dpoint-campaign
   name: dポイントクラブ キャンペーン一覧
   url: https://dpoint.docomo.ne.jp/campaign/index.html
-  brand_ids: [dpoint, d-barai, d-card]
+  brand_ids:
+  - dpoint
+  - d-barai
+  - d-card
   kind: official
   render: js
   frequency: daily
-  domains: [docomo.ne.jp]
+  domains:
+  - docomo.ne.jp
   follow:
-    pattern: '^https://dpoint\.docomo\.ne\.jp/static/cp/lp_[0-9]+_[A-Za-z0-9]+/(?:\?[^#]*)?$'
-    max_new: 8
+    pattern: ^https://dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp/[^?#]+)(?:\?[^#]*)?$
+    max_new: 20
     render: static
-
 - id: dbarai-campaign
   name: d払い キャンペーン
   url: https://service.smt.docomo.ne.jp/keitai_payment/campaign/
-  brand_ids: [d-barai, dpoint]
+  brand_ids:
+  - d-barai
+  - dpoint
   kind: official
   render: js
   frequency: daily
-  domains: [docomo.ne.jp]
+  domains:
+  - docomo.ne.jp
   follow:
-    pattern: '^https://service\.smt\.docomo\.ne\.jp/keitai_payment/campaign/(?:dpay_(?!list_|app_|hiraboku_|reservation(?:/|_))[A-Za-z0-9-]+_[0-9]{6}_[0-9]+|daiouseishi_goon_[0-9]{4}_[A-Za-z0-9]+)/(?:(?:index\.html))?(?:\?[^#]*)?$'
-    max_new: 8
+    pattern: ^https://service\.smt\.docomo\.ne\.jp/keitai_payment/campaign/(?:dpay_(?!list_|app_|hiraboku_|reservation(?:/|_))[A-Za-z0-9-]+_[0-9]{6}_[0-9]+|daiouseishi_goon_[0-9]{4}_[A-Za-z0-9]+)/(?:(?:index\.html))?(?:\?[^#]*)?$
+    max_new: 20
     render: static
-
 - id: rakuten-pay-campaign
   name: 楽天ペイ キャンペーン一覧
   url: https://pay.rakuten.co.jp/campaign/
-  brand_ids: [rakuten-pay, rakuten-point, rakuten-card]
+  brand_ids:
+  - rakuten-pay
+  - rakuten-point
+  - rakuten-card
   kind: official
   render: js
   frequency: daily
-  domains: [rakuten.co.jp, rakuten-card.co.jp]
+  domains:
+  - rakuten.co.jp
+  - rakuten-card.co.jp
   follow:
-    pattern: '^https://pay\.rakuten\.co\.jp/campaign/(?:20[0-9]{2}/[0-9]{4}-[a-z0-9-]+|pay-scratch|debut-bonus|hanakin|pay-mobile|pay-5and0day|digital-payroll|welcome-invitation)/(?:\?scid=wi_pym_cpn_list)?$'
-    max_new: 8
+    pattern: ^https://pay\.rakuten\.co\.jp/campaign/(?!$|.*(?:index|list)\.html)[^?#]+/(?:\?[^#]*)?$
+    max_new: 20
     render: js
-
+  exclude_selectors:
+  - '#recommendedLinks'
+  - '#ppHeader'
+  - '#ppFooter'
+  - '#rpoint-global-header'
+  - '#rpoint-global-footer'
+  - .campaign-peek
+  - '#campaign-peek'
+  - section.related-campaigns
 - id: rakuten-pointcard-campaign
   name: 楽天ポイントカード キャンペーン一覧
   url: https://pointcard.rakuten.co.jp/campaign/
-  brand_ids: [rakuten-point]
+  brand_ids:
+  - rakuten-point
   kind: official
   render: js
   frequency: daily
-  domains: [rakuten.co.jp]
+  domains:
+  - rakuten.co.jp
   follow:
-    pattern: '^https://pointcard\.rakuten\.co\.jp/campaign/(?:[a-z0-9-]+/[0-9]{8}(?:/[a-z0-9-]+)?|mtu/[a-z0-9-]+-[0-9]{8}|(?:seiyu|sunny)/pointupday/[0-9]{8}|entire/payapp-pointcard)/(?:\?scid=wi_pym_cpn_list)?$'
-    max_new: 8
+    pattern: ^https://pointcard\.rakuten\.co\.jp/campaign/(?!mail/)[^?#]*[0-9]{8}[^?#]*/(?:\?[^#]*)?$
+    max_new: 20
     render: js
-
+  exclude_selectors:
+  - '#recommendedLinks'
+  - '#ppHeader'
+  - '#ppFooter'
+  - '#rpoint-global-header'
+  - '#rpoint-global-footer'
+  - .campaign-peek
+  - '#campaign-peek'
+  - section.related-campaigns
 - id: aupay-campaign
   name: au PAY キャンペーン一覧
   url: https://aupay.wallet.auone.jp/campaign/
-  brand_ids: [au-pay, ponta]
+  brand_ids:
+  - au-pay
+  - ponta
   kind: official
   render: js
   frequency: daily
-  domains: [auone.jp, au.com]
+  domains:
+  - auone.jp
+  - au.com
   follow:
-    pattern: '^https://(?:aupay-cp\.auone\.jp/[0-9]{6}_[a-z0-9_]+|media\.aupay\.wallet\.auone\.jp/lp/campaign/[0-9]{6}_[a-z0-9_]+|camp\.auone\.jp/campaign/[a-f0-9]{24})/?(?:\?[^#]*)?$'
-    max_new: 8
+    pattern: ^https://(?:aupay-cp\.auone\.jp/[0-9]{6}_[a-z0-9_]+|media\.aupay\.wallet\.auone\.jp/lp/campaign/[0-9]{6}_[a-z0-9_]+|camp\.auone\.jp/campaign/[a-f0-9]{24})/?(?:\?[^#]*)?$
+    max_new: 20
     render: js
-
 - id: ponta-campaign
   name: Ponta キャンペーン一覧（PontaWeb）
   url: https://point.recruit.co.jp/point/?tab=campaign
-  brand_ids: [ponta]
+  brand_ids:
+  - ponta
   kind: official
   render: js
   frequency: daily
-  domains: [recruit.co.jp, ponta.jp]
-
+  domains:
+  - recruit.co.jp
+  - ponta.jp
+  - lawson.co.jp
+  follow:
+    pattern: ^https://(?:www\.ponta\.jp/c/campaign/[^?#]+|www\.lawson\.co\.jp/[^?#]+)(?:\?[^#]*)?$
+    max_new: 20
+    render: static
+    seeds:
+    - https://www.ponta.jp/c/campaign/lawson_2608/
+    redirect_hosts:
+    - s9.r-ad.ne.jp
+    redirect_label_pattern: ローソン|ドトール|ジョーシン
 - id: vpoint-campaign
   name: Vポイント キャンペーン一覧
   url: https://cpn.tsite.jp/list/all
-  brand_ids: [vpoint]
+  brand_ids:
+  - vpoint
   kind: official
   render: static
   frequency: daily
-  domains: [tsite.jp, vpoint.jp]
+  domains:
+  - tsite.jp
+  - vpoint.jp
   follow:
-    pattern: '^https://cpn\.tsite\.jp/detail/[a-z0-9]+$'
-    max_new: 8
-
+    pattern: ^https://(?:cpn\.tsite\.jp/(?:detail|page|stamp/detail)/[a-z0-9-]+|web\.tsite\.jp/(?:app/push|cpn)/[^?#]+|lot\.tsite\.jp/)(?:\?[^#]*)?$
+    max_new: 20
 - id: smbc-member-campaign
   name: 三井住友カード 会員向けキャンペーン
   url: https://www.smbc-card.com/memfs/campaign/index.jsp
-  brand_ids: [smbc-card, vpoint]
+  brand_ids:
+  - smbc-card
+  - vpoint
   kind: official
   render: static
   frequency: weekly
-  domains: [smbc-card.com]
-
+  domains:
+  - smbc-card.com
 - id: waon-campaign
   name: WAON キャンペーン一覧
   url: https://www.waon.net/campaign/
-  brand_ids: [waon, waon-point, aeon-pay]
+  brand_ids:
+  - waon
+  - waon-point
+  - aeon-pay
   kind: official
   render: static
   frequency: daily
-  domains: [waon.net, aeon.co.jp]
+  domains:
+  - waon.net
+  - aeon.co.jp
   follow:
-    pattern: '^https://www\.waon\.net/campaign/(?!p_\d+/)[A-Za-z0-9_-]+/$'
-    max_new: 8
-
+    pattern: ^https://www\.waon\.net/campaign/(?!p_\d+/|old/|list/)[A-Za-z0-9_-]+/$
+    max_new: 20
 - id: aeonretail-otoku
   name: イオン お得・キャンペーン
   url: https://www.aeonretail.jp/otoku/
-  brand_ids: [waon-point, aeon-pay, aeon-card, waon]
-  store_ids: [aeon]
+  brand_ids:
+  - waon-point
+  - aeon-pay
+  - aeon-card
+  - waon
+  store_ids:
+  - aeon
   kind: official
   render: static
   frequency: daily
-  domains: [aeonretail.jp, aeon.co.jp]
+  domains:
+  - aeonretail.jp
+  - aeon.co.jp
   follow:
-    pattern: '^https://www\.aeonretail\.jp/campaign/(?:pointC-[A-Za-z0-9-]+|pointback|ariga10)/(?:(?:index\.html))?(?:\?[^#]*)?$'
-    max_new: 8
+    pattern: ^https://www\.aeonretail\.jp/campaign/(?:pointC-[A-Za-z0-9-]+|pointback|ariga10)/(?:(?:index\.html))?(?:\?[^#]*)?$
+    max_new: 20
     render: static
+- id: familymart-offers
+  name: ファミマ公式クーポン・ポイント・値引き
+  url: https://www.family.co.jp/campaign.html
+  brand_ids:
+  - dpoint
+  - rakuten-point
+  - vpoint
+  store_ids:
+  - familymart
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - family.co.jp
+  - rakuten.co.jp
+  follow:
+    pattern: ^https://www\.family\.co\.jp/campaign/(?:spot/(?!redirect/)[^?#]+\.html|pointplus\.html|otoku\.html)$
+    max_new: 30
+- id: lawson-offers
+  name: ローソン公式値引券・セール
+  url: https://www.lawson.co.jp/recommend/sale/index.html
+  brand_ids:
+  - dpoint
+  - ponta
+  store_ids:
+  - lawson
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - lawson.co.jp
+  follow:
+    pattern: ^https://www\.lawson\.co\.jp/recommend/sale/detail/[0-9]+_[0-9]+\.html$
+    max_new: 30
+- id: seven-offers
+  name: セブン公式クーポン・セール
+  url: https://www.sej.co.jp/cmp/
+  brand_ids:
+  - paypay
+  - paypay-point
+  - vpoint
+  store_ids:
+  - seven-eleven
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - sej.co.jp
+  - tsite.jp
+  follow:
+    pattern: ^https://(?:www\.sej\.co\.jp/cmp/(?!index|snscmppdf)[A-Za-z0-9_-]+\.html|web\.tsite\.jp/cpn/seven-eleven/[^?#]+/)(?:\?[^#]*)?$
+    max_new: 30
+- id: ministop-offers
+  name: ミニストップ公式企画
+  url: https://www.ministop.co.jp/campaign/
+  brand_ids:
+  - waon-point
+  - waon
+  - aeon-pay
+  store_ids:
+  - ministop
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - ministop.co.jp
+  - aeon.co.jp
+  follow:
+    pattern: ^https://www\.ministop\.co\.jp/campaign/(?:[^?#]+\.html|[0-9][A-Za-z0-9_-]+/)$
+    max_new: 30
+- id: ministop-waon
+  name: ミニストップWAON POINT企画
+  url: https://www.ministop.co.jp/waon/campaign/
+  brand_ids:
+  - waon-point
+  - waon
+  - aeon-pay
+  store_ids:
+  - ministop
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - ministop.co.jp
+  - aeon.co.jp
+- id: tsuruha-offers
+  name: ツルハ公式企画・クーポン
+  url: https://www.tsuruha.co.jp/campaign/
+  brand_ids:
+  - rakuten-point
+  store_ids:
+  - tsuruha
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - tsuruha.co.jp
+  - tsuruha-kcp.com
+  - rakuten.co.jp
+  follow:
+    pattern: ^https://(?:www\.tsuruha\.co\.jp/campaign/(?!service/|campaign/|page/)[A-Za-z0-9_-]+/|www\.tsuruha-kcp\.com/cp/[^?#]+/|pointcard\.rakuten\.co\.jp/campaign/[^?#]+/)(?:\?[^#]*)?$
+    max_new: 30
+    pagination_pattern: ^https://www\.tsuruha\.co\.jp/campaign/page/[0-9]+/$
+    max_list_pages: 3
+- id: mcdonalds-offers
+  name: マクドナルド公式企画
+  url: https://www.mcdonalds.co.jp/campaign/
+  brand_ids: []
+  store_ids:
+  - mcdonalds
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - mcdonalds.co.jp
+  follow:
+    pattern: ^https://www\.mcdonalds\.co\.jp/campaign/[A-Za-z0-9_-]+/$
+    max_new: 30
+- id: smartwaon-weekly
+  name: WAON POINT公式10週企画
+  url: https://www.smartwaon.com/ext/001/WP10week_202608cp/
+  brand_ids:
+  - waon-point
+  store_ids: []
+  kind: official
+  render: static
+  frequency: daily
+  domains:
+  - smartwaon.com

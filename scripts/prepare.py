@@ -14,6 +14,7 @@ import hashlib
 import json
 import re
 import sys
+import argparse
 
 from check_master import check_master
 from collect import Fetcher, collect, extract_links, html_to_text
@@ -51,33 +52,11 @@ def detail_source(parent: dict, url: str) -> dict:
             "render": follow.get("render", parent.get("render", "static")), "parent": parent["id"]}
 
 
-def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher) -> tuple[list, list]:
+def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher, force=False, audit=None) -> tuple[list, list]:
     """一覧ページのリンクから、まだ処理していない詳細ページを取得する。
     戻り値：(取得できた [(src, text, digest)], 失敗 [{source_id, url, error}])"""
-    follow = page.source.get("follow") or {}
-    pattern = re.compile(follow["pattern"])
-    domains = set(page.source.get("domains") or [])
-    got, failed = [], []
-    for _label, url in page.links or []:
-        if len(got) >= int(follow.get("max_new", 8)):
-            break
-        if not pattern.search(url) or not domain_allowed(url, domains):
-            continue
-        src = detail_source(page.source, url)
-        if src["id"] in snapshots:
-            continue  # 取り込み済みの詳細ページ
-        try:
-            if not fetcher.allowed(url):
-                raise RuntimeError("robots.txt で取得禁止")
-            html = fetcher.get_js(url) if src["render"] == "js" else fetcher.get_static(url)
-            text = html_to_text(html)
-            if len(text) < 50:
-                raise RuntimeError("本文がほぼ空")
-            digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
-            got.append((src, text + link_section(extract_links(html, url)), digest))
-        except Exception as e:  # noqa: BLE001
-            failed.append({"source_id": src["id"], "url": url, "error": str(e)[:200]})
-    return got, failed
+    from discovery import discover_and_refresh
+    return discover_and_refresh(page, config, snapshots, fetcher, force, audit)
 
 
 def fair_order(pending: list, state: dict) -> list:
@@ -100,7 +79,7 @@ def fair_order(pending: list, state: dict) -> list:
     return result
 
 
-def main(force: bool = False) -> dict:
+def main(force: bool = False, limit_override: int | None = None) -> dict:
     config = load_config()
     if not config.get("enabled", True):
         return {"ok": True, "message": "停止スイッチ（enabled: false）のため何もしない"}
@@ -113,11 +92,11 @@ def main(force: bool = False) -> dict:
     run_dir = INBOX / run_id
     run_dir.mkdir(parents=True, exist_ok=True)
     (WORK_DIR / "prompts").mkdir(parents=True, exist_ok=True)
-    limit = int(config.get("manual", {}).get("max_sources_per_run", 15))
+    limit = limit_override or int(config.get("manual", {}).get("max_sources_per_run", 40))
     stores = load_master()["stores"]
 
     queue = {"run_id": run_id, "created_at": now.isoformat(timespec="seconds"),
-             "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": [], "gave_up": []}
+             "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": [], "gave_up": [], "coverage": []}
     snapshots = load_json(DATA_DIR / "snapshots.json", {})
     # GitHub 側（ingest）が記録する依頼の状態：後回しにされた日時・回答されなかった回数
     state = load_json(DATA_DIR / "request_state.json", {})
@@ -136,6 +115,10 @@ def main(force: bool = False) -> dict:
 
     def add_item(src: dict, text: str, digest: str) -> None:
         sid = src["id"]
+        max_chars = int(config.get("llm", {}).get("max_input_chars", 30000))
+        if len(text) > max_chars:
+            queue["detail_failed"].append({"source_id": sid, "url": src["url"], "error": f"本文{len(text)}字が上限{max_chars}字を超過。黙って切り捨てず未回答。"})
+            return
         if len(queue["items"]) >= limit:
             queue["deferred"].append(sid)  # 次回に回す（スナップショットを更新しないので自動で再依頼される）
             return
@@ -154,8 +137,10 @@ def main(force: bool = False) -> dict:
             continue
         if page.source.get("follow"):
             # 一覧ページは「詳細ページを見つける」ためだけに使い、詳細ページを1件ずつ依頼する
-            queue["unchanged"].append(sid)
-            got, failed = follow_details(page, config, snapshots, fetcher)
+            audit = {}
+            got, failed = follow_details(page, config, snapshots, fetcher, force, audit)
+            queue["coverage"].append(audit)
+            queue["unchanged"].extend(audit.get("unchanged", []))
             queue["detail_failed"] += failed
             for src, text, digest in got:
                 queue_up(src, text, digest)
@@ -169,6 +154,7 @@ def main(force: bool = False) -> dict:
         add_item(src, text, digest)
 
     save_json(run_dir / "queue.json", queue)
+    save_json(WORK_DIR / "discovery" / "latest-coverage.json", {"run_id": run_id, "sources": queue["coverage"], "deferred": queue["deferred"], "failed": queue["failed"], "detail_failed": queue["detail_failed"]})
     return {"ok": True, "run_id": run_id, "to_answer": [i["prompt_file"] for i in queue["items"]],
             "unchanged": len(queue["unchanged"]), "failed": queue["failed"], "deferred": queue["deferred"],
             "detail_failed": queue["detail_failed"], "gave_up": queue["gave_up"]}
@@ -176,6 +162,12 @@ def main(force: bool = False) -> dict:
 
 if __name__ == "__main__":
     setup_utf8_stdout()
-    res = main(force="--force" in sys.argv)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--force", action="store_true")
+    parser.add_argument("--limit", type=int)
+    args = parser.parse_args()
+    if args.limit is not None and not 1 <= args.limit <= 300:
+        parser.error("--limit は1〜300")
+    res = main(force=args.force, limit_override=args.limit)
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)
