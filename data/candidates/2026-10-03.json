@@ -1,0 +1,920 @@
+[
+  {
+    "id": "cp-5e2ad75fbd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "毎月10日・オーラルケアでポイント10倍"
+  },
+  {
+    "id": "cp-e1b0b7ae1e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "龍生堂薬局・dポイント10倍"
+  },
+  {
+    "id": "cp-2282050d25",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "札幌市・対象宿泊者の楽天ペイ最大20％還元"
+  },
+  {
+    "id": "cp-f7bbf58dad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コナカグループ・抽選で3人に1人500ポイント"
+  },
+  {
+    "id": "cp-c495e17067",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイ初めて・久しぶりの方500ポイント"
+  },
+  {
+    "id": "cp-22ee06e571",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ウォンツ、ウェルネス・スタンプカードキャンペーン"
+  },
+  {
+    "id": "cp-f837a35712",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "玉光堂・新譜予約購入でポイント2倍"
+  },
+  {
+    "id": "cp-caa97da470",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "使えば使うほどおトク！楽天ペイアプリのポ・ポイントカード継続利用特典"
+  },
+  {
+    "id": "cp-27f1969e52",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "【楽天モバイルご契約者限定】対象店舗での・楽天ポイント20倍"
+  },
+  {
+    "id": "cp-8f881ea01c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・条件達成でポイント20倍"
+  },
+  {
+    "id": "cp-d324a4e245",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ビック・ポイント最大22.5倍"
+  },
+  {
+    "id": "cp-cd09726402",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "たった月2回運転すると給油で貯まる楽天ポ・給油の楽天ポイント2倍"
+  },
+  {
+    "id": "cp-c24d818edc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "街でファッションアイテムを購入＆楽天ポイ・ポイント最大19倍"
+  },
+  {
+    "id": "cp-70449e39cf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ポプラ・ボーナスポイント"
+  },
+  {
+    "id": "cp-d46aa0f0a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "キグナス石油・抽選で150名に2,000ポイント"
+  },
+  {
+    "id": "cp-601d97dbac",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイアプリのポイントカードならポイン・ポイント最大2倍"
+  },
+  {
+    "id": "cp-6263d78e07",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイで異なる3つのお店でお支払いする・抽選で100名に10,000ポイント"
+  },
+  {
+    "id": "cp-a977bef9ae",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペングループ・抽選で100名に全額ポイントバック"
+  },
+  {
+    "id": "cp-b48e73b85a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "富士薬品・抽選で10,000名に100ポイント"
+  },
+  {
+    "id": "cp-df8cb8b87b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ・抽選で5,000名にポイント5倍"
+  },
+  {
+    "id": "cp-d1f58fa532",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ブックオフ・対象者限定・最大20％還元"
+  },
+  {
+    "id": "cp-d9c4c50afb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ENEOS・抽選で最大10,000ポイント"
+  },
+  {
+    "id": "cp-14eca2641f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・エントリー1pt・SPU達成で1万pt当たる"
+  },
+  {
+    "id": "cp-b5604c2363",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ジョーシン・抽選で500名に1,000ポイント"
+  },
+  {
+    "id": "cp-d397c4a1a6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン×花王・楽天ポイント最大20％還元"
+  },
+  {
+    "id": "cp-1066cce6d2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン・条件達成で楽天ポイント2倍"
+  },
+  {
+    "id": "cp-e5a5d956a7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン・楽天ポイント最大7倍"
+  },
+  {
+    "id": "cp-9a679096fd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "人気のラーメン店集合！楽天ポイント2倍キ・楽天ポイント2倍"
+  },
+  {
+    "id": "cp-4c3fb8c175",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "すき家・楽天ポイント最大15倍"
+  },
+  {
+    "id": "cp-ce52da0e20",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "なか卯・楽天ポイント最大15倍"
+  },
+  {
+    "id": "cp-4548ef30e9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サニー・楽天ポイント最大5倍"
+  },
+  {
+    "id": "cp-9189cbf09d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ベイシア・抽選で100万ポイント"
+  },
+  {
+    "id": "cp-c509d108c3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・条件達成でクーポン"
+  },
+  {
+    "id": "cp-78b079c0bc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ・対象商品購入で最大300ポイント"
+  },
+  {
+    "id": "cp-fd3592e08f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "セブンスター・100万ポイント山分け"
+  },
+  {
+    "id": "cp-da35ee6f0c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "オーケー×ドトール・抽選100ポイント"
+  },
+  {
+    "id": "cp-67b8b26237",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "京王線沿いのドトール・30ポイント予告"
+  },
+  {
+    "id": "cp-c1551c4bba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "薬王堂・WAON POINT3倍終了"
+  },
+  {
+    "id": "cp-e766ceb968",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "すかいらーく・WAON POINT2倍終了"
+  },
+  {
+    "id": "cp-c8a1933f3f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "全日食チェーン・WAON POINT2倍終了"
+  },
+  {
+    "id": "cp-440ec18f1a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "四六時中・10％還元終了"
+  },
+  {
+    "id": "cp-5aca16ad43",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "FC東京公式戦・ポイント5倍終了"
+  },
+  {
+    "id": "cp-b253beec6b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "waon-campaign",
+    "title": "お客さまわくわくデー終了"
+  },
+  {
+    "id": "cp-6daa7b9f98",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "毎月10・15・25日ヘアカラー10倍"
+  },
+  {
+    "id": "cp-b530796120",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペングループ・抽選100名全額還元"
+  },
+  {
+    "id": "cp-c495e17067",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイ初めて・久しぶりの方500ポイント"
+  },
+  {
+    "id": "cp-d8712f57e8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペングループ楽天カード最大6.5％"
+  },
+  {
+    "id": "cp-22ee06e571",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ウォンツ、ウェルネス・スタンプカードキャンペーン"
+  },
+  {
+    "id": "cp-f837a35712",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "玉光堂・新譜予約購入でポイント2倍"
+  },
+  {
+    "id": "cp-caa97da470",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "使えば使うほどおトク！楽天ペイアプリのポ・ポイントカード継続利用特典"
+  },
+  {
+    "id": "cp-27f1969e52",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "【楽天モバイルご契約者限定】対象店舗での・楽天ポイント20倍"
+  },
+  {
+    "id": "cp-8f881ea01c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・条件達成でポイント20倍"
+  },
+  {
+    "id": "cp-d324a4e245",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ビック・ポイント最大22.5倍"
+  },
+  {
+    "id": "cp-cd09726402",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "たった月2回運転すると給油で貯まる楽天ポ・給油の楽天ポイント2倍"
+  },
+  {
+    "id": "cp-c24d818edc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "街でファッションアイテムを購入＆楽天ポイ・ポイント最大19倍"
+  },
+  {
+    "id": "cp-70449e39cf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ポプラ・ボーナスポイント"
+  },
+  {
+    "id": "cp-d46aa0f0a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "キグナス石油・抽選で150名に2,000ポイント"
+  },
+  {
+    "id": "cp-601d97dbac",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイアプリのポイントカードならポイン・ポイント最大2倍"
+  },
+  {
+    "id": "cp-6263d78e07",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "楽天ペイで異なる3つのお店でお支払いする・抽選で100名に10,000ポイント"
+  },
+  {
+    "id": "cp-b48e73b85a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "富士薬品・抽選で10,000名に100ポイント"
+  },
+  {
+    "id": "cp-df8cb8b87b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ・抽選で5,000名にポイント5倍"
+  },
+  {
+    "id": "cp-d1f58fa532",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ブックオフ・対象者限定・最大20％還元"
+  },
+  {
+    "id": "cp-d9c4c50afb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ENEOS・抽選で最大10,000ポイント"
+  },
+  {
+    "id": "cp-14eca2641f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・エントリー1pt・SPU達成で1万pt当たる"
+  },
+  {
+    "id": "cp-b5604c2363",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ジョーシン・抽選で500名に1,000ポイント"
+  },
+  {
+    "id": "cp-d397c4a1a6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン×花王・楽天ポイント最大20％還元"
+  },
+  {
+    "id": "cp-1066cce6d2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン・条件達成で楽天ポイント2倍"
+  },
+  {
+    "id": "cp-e5a5d956a7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン・楽天ポイント最大7倍"
+  },
+  {
+    "id": "cp-9a679096fd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "人気のラーメン店集合！楽天ポイント2倍キ・楽天ポイント2倍"
+  },
+  {
+    "id": "cp-4c3fb8c175",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "すき家・楽天ポイント最大15倍"
+  },
+  {
+    "id": "cp-ce52da0e20",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "なか卯・楽天ポイント最大15倍"
+  },
+  {
+    "id": "cp-4548ef30e9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サニー・楽天ポイント最大5倍"
+  },
+  {
+    "id": "cp-9189cbf09d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ベイシア・抽選で100万ポイント"
+  },
+  {
+    "id": "cp-c509d108c3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミリーマート・条件達成でクーポン"
+  },
+  {
+    "id": "cp-78b079c0bc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ・対象商品購入で最大300ポイント"
+  },
+  {
+    "id": "cp-fd3592e08f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "セブンスター・100万ポイント山分け"
+  },
+  {
+    "id": "cp-c71b0d7a05",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コナカグループ・抽選で3人に1人500pt"
+  },
+  {
+    "id": "cp-1221ed56e6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "aupay-campaign",
+    "title": "丸善・ジュンク堂書店最大5％還元"
+  }
+]

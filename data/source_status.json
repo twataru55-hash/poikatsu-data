@@ -1,67 +1,67 @@
 {
   "paypay-event": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "paypay-local": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dbarai-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pay-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "ponta-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -355,7 +355,7 @@
   },
   "vpoint-campaign--3730d984": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -415,13 +415,13 @@
   },
   "waon-campaign--c9dec637": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "waon-campaign--33fbf0ec": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -457,19 +457,19 @@
   },
   "aeonretail-otoku--3e00c3cf": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--228cfe19": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aeonretail-otoku--8fcfec19": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -775,7 +775,7 @@
   },
   "vpoint-campaign--106a7ab9": {
     "fail_count": 0,
-    "last_ok": "2026-10-01T09:01:50+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -829,133 +829,157 @@
   },
   "rakuten-pay-campaign--3b7a2d76": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--29590cc4": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--9c7b8c27": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--c109f15a": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--fe6a90dc": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--e3ff2e8d": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--a5926a38": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--c2070096": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--a282a6fc": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--d519814e": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--6440e862": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--2046b5e2": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "aupay-campaign--6b71735d": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--9f0e1a89": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--4b4d7d2d": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--b667d0a0": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--e6b2e064": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--43c6557a": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--32bc2d2c": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "rakuten-pointcard-campaign--18160312": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "vpoint-campaign--706a8254": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   },
   "dpoint-campaign--75857030": {
     "fail_count": 0,
-    "last_ok": "2026-10-02T09:05:15+09:00",
+    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "paypay-event--cf5929cb": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "dpoint-campaign--f26ee323": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pointcard-campaign--23a7245d": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T09:05:22+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "rakuten-pointcard-campaign--5f3b8b2a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-03T09:05:22+09:00",
     "last_error": null,
     "issue_open": false
   }
