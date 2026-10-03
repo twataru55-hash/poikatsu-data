@@ -1754,5 +1754,1749 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-b4210b9a55"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "ponta"
+    ],
+    "title": "ドトールグループ Pontaスタンプ",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "3スタンプごと30pt、最大210pt",
+      "cap_per_use": null,
+      "cap_total": 210,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "doutor-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象店でカード提示。1会計200円以上で1pt以上ためる。3スタンプごとに30pt",
+    "official_url": "https://www.ponta.jp/c/campaign/doutor_2609/?utm_source=pontaweb&utm_medium=cp&utm_campaign=doutor_2609&dspn=v2sZkd2DDHRnwcQzTAZ8YGJ8OvRdJISNSa3wQq_3FrQzk_r0gK6QG8aI8-KVqYA7KqE3xgJ3s8hJkJZMc7uMHP_vQbvBrzMu-CEoyJb2Hus",
+    "evidence_quote": "スタンプ3個ごとにもれなく30ポイント\n最大210ポイントもらえる！",
+    "confidence": "confirmed",
+    "source_id": "ponta-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-e9074837e9"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "ponta"
+    ],
+    "title": "Joshin Pontaスタンプ特典",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "3スタンプ合計250pt＋抽選2,000pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "joshin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "事前エントリー。ジョーシン・Pontaカード併用、1会計1,100円以上。webショップ除外",
+    "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/?utm_source=pontaweb&utm_medium=cp&utm_campaign=joshin_2608&dspn=GmPV3F4cu2p8ejsKBMLB1yhnVgvr766pGzq80Vr6miczk_r0gK6QG8aI8-KVqYA7ALGSxZPZhhBVepkaK4QT-f_vQbvBrzMu-CEoyJb2Hus",
+    "evidence_quote": "スタンプを3個ためると\n合計\n250\nPontaポイント",
+    "confidence": "confirmed",
+    "source_id": "ponta-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-87e4ad2de8"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "ponta"
+    ],
+    "title": "ローソン Ponta10月抽選還元",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で最大全額相当還元",
+      "cap_per_use": null,
+      "cap_total": 4000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "lawson"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "Ponta提示で1pt以上加算。月上限4000pt。ストア100・Lミニマート除外",
+    "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/?utm_source=pontaweb&utm_medium=cp&utm_campaign=lawson_2608&vos=pppjpsspjQ12608040801260605001&dspn=MMiROKOvQ0NIqjaby96KNKXODI7-N6p28ytnBMcyu_czk_r0gK6QG8aI8-KVqYA7aj-gz04kutMtUfMCuP7BK__vQbvBrzMu-CEoyJb2Hus",
+    "evidence_quote": "2026年10月1日(木)～10月31日(土) 10月は抽選で1,010名様にPontaポイント還元！ お買い物金額が最大実質無料",
+    "confidence": "confirmed",
+    "source_id": "ponta-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-694e96799c"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ アリナミン ナイトリカバー値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "60円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n60\n円引き\nアリナミン\nナイトリカバー\n＜指定医薬部外品＞\nナイトリカバーi\n＜指定医薬部外品＞",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-413f910c4a"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ ビタミンゼリー値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "40円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き\n1日分のビタミンゼリー\nグレープフルーツ味\nマスカット味\n食物繊維 ピーチ味\n1日分のビタミン&Wミネラルゼリー\nグレープ味",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-b7e9f3eac3"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 1本満足バープロテイン値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "30円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-19T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nアサヒ\n1本満足バー\nプロテインチョコ\nプロテインブラック\nプロテインストロベリー\nプロテインホワイト",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-2fbf466a7d"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ キレートレモンゼリー値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "30円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nキレートレモン\nMUKUMIゼリー\nクエン酸2700ゼリー",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-14f43639a8"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ チョコラBB対象品値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "100円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-26T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-6c53645a37"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ キッコーマン豆乳値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "25円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-26T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n25\n円引き\nキッコーマン\n調製豆乳\n無調整豆乳\n豆乳飲料\nジャスミンティー\nよりそいアーモンド\n砂糖不使用",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-61408c6564"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ マカの元気ドリンク値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "30円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 11月2日（月）\n30\n円引き\nマカの元気ドリンク",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-97fa35eb8b"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ カゴメ野菜飲料値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "30円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-26T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-5fe28670ee"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ リポビタンD・ファイン値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-19T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nリポビタンD\n＜指定医薬部外品＞\nリポビタンファイン\n＜指定医薬部外品＞",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-f3a2e85c2c"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 燻製あい鴨ロース串値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\n燻製あい鴨ロース串",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-f265683fab"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 日清カップヌードル値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\nいずれか1個\n50\n円引き\n日清\nカップヌードル\nカップヌードル\nシーフードヌードル\nカップヌードル カレー\nカップヌードル\nチリトマトヌードル",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-f5e4951606"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ こんがり焼プリン値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "20円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n20\n円引き\nオハヨー\n新鮮卵のこんがり焼プリン",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-7676ec209d"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ たらみゼリー値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "30円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-19T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nたらみ\n体脂肪を減らす蒟蒻ゼリー 0kcalゴールドキウイ\nつぶつぶみかん果肉入りゼリー\nコリッコリナタデココ入り\nシャインマスカットゼリー",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-e5778fd06f"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ BifiXヨーグルトα値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\nグリコ\nBifiXヨーグルトα\nやさしい甘さ 低脂肪",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-0bf1b18987"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 医食同源麻辣湯・酸辣湯値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月12日（月）\nいずれか1個\n50\n円引き\n医食同源\n麻辣湯\n麻辣湯 黄色のトマト味\n酸辣湯",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-37de27b356"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ キューピーコーワ飲料値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-15T00:00:00+09:00",
+      "end": "2026-10-19T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月15日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nキューピーコーワ\nαドリンク\n＜指定医薬部外品＞\niドリンク\n＜指定医薬部外品＞",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-40220c76b1"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ チョコラBBライト・スパークリング値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-15T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月15日（火）～ 10月12日（月）\nいずれか1個\n50\n円引き\nチョコラＢＢ\nライト\n＜指定医薬部外品＞\nスパークリング マスカット味\nスパークリング グレープフルーツ＆ピーチ味",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-7102c37294"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ ユンケルローヤルG値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "100円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-08-11T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "8月11日（火）～ 10月12日（月）\n100\n円引き\nユンケルローヤルG\n＜指定医薬部外品＞\nクーポンの使い方\nクーポン一覧画面で、利用するクーポンの使う枚数を選択します。\n1枚～5枚まで選択することができます。\n1枚のみ使う場合は、使う枚数の選択は不要です。\n「セットする」をタップします。\nホーム画面に戻り、バーコードをレジでスキャンします。\n注意事項\nクーポンご使用時は、",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-aa52974400"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "vpoint"
+    ],
+    "title": "KFC 店頭Vポイント2倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "Vポイント2倍",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "kfc"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "店頭の対面・セルフレジでカード提示。値引き後税抜200円未満・一部店除外",
+    "official_url": "https://cpn.tsite.jp/page/pg910040546003",
+    "evidence_quote": "【特典①】お店での「Tカード」または「モバイルVカード」提示で、全員もれなくポイント２倍！",
+    "confidence": "confirmed",
+    "source_id": "vpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-bf4187b74d"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "vpoint"
+    ],
+    "title": "KFC 記念日アンケート抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選365名に3,300pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "kfc"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "特設サイトで記念日アンケートに回答。特典は2027年2月28日期限",
+    "official_url": "https://cpn.tsite.jp/page/pg910040546003",
+    "evidence_quote": "【特典②】特設サイトでの「記念日入力」で、抽選で365名様に3,300ポイントが当たるチャンス！",
+    "confidence": "confirmed",
+    "source_id": "vpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-8f9d95e9bf"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイ オートチャージ200万pt山分け",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "200万ポイント山分け",
+      "cap_per_use": null,
+      "cap_total": 200,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked-wi_pym_cpn_big"
+    },
+    "conditions": "オートチャージと残高コード・QR払い、メルマガ必須。ファミマ・請求書払い等除外",
+    "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/?scid=wi_pym_cpn_big",
+    "evidence_quote": "楽天ポイント200万ポイントを山分けにて進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-809512b353"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "paypay",
+      "paypay-point"
+    ],
+    "title": "セブン ソフトバンクPayPayクーポン",
+    "benefit": {
+      "rate_max": 10,
+      "rate_text": "最大10%PayPayポイント還元",
+      "cap_per_use": null,
+      "cap_total": 100,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "ソフトバンク利用者限定。事前取得・セブンアプリ経由支払、1回のみ。タバコ・7NOW等除外",
+    "official_url": "https://www.sej.co.jp/cmp/app_paypay2603.html",
+    "evidence_quote": "PayPayクーポンページで\nクーポンを事前に獲得し、\nセブン‐イレブンアプリから\nPayPayでお支払いすると、\n最大10%のPayPayポイントを\n付与します。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-dcd63c2159"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "d-barai",
+      "dpoint"
+    ],
+    "title": "クレイトンベイホテル d払い抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で最大10,000pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "clayton-bay"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=bd427d23b4d769e50dc45ac40fbf9e922815122ad893d1780a2ee2af3a2b5450"
+    },
+    "conditions": "館内対象場所でコード決済1会計1,000円以上。婚礼・宴会等除外、情報メール登録",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/claytonbay_dpaycp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7640",
+    "evidence_quote": "特典内容 dポイント（期間・用途限定）1等：10,000ポイント×1名さま 2等：3,000ポイント×5名さま 3等：500ポイント×50名さま",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-aec687c48b"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン キューピーコーワ半額券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象品半額クーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-17T00:00:00+09:00",
+      "end": "2026-10-14T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "9/17～10/7アプリ提示で対象品購入。会員登録・ログイン必須。他券併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/app_qpk2609.html",
+    "evidence_quote": "セブン‐イレブンアプリを\n提示して\n対象のキューピーコーワシリーズを\n買うたびに、\n次回使える\n半額クーポンが\n1枚もらえます。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-531c9f30a7"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "富士薬品 セイムスアプリ楽天抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選10,000名に100pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "fujiyakuhin-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/pp/fujiyakuhin/20261001?ekey=mp_on_wi_pym_cpn_list"
+    },
+    "conditions": "楽天連携セイムス会員証提示、税抜200円以上で1pt以上獲得。調剤薬局除外・購読条件",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/?scid=wi_pym_cpn_list",
+    "evidence_quote": "抽選で10,000名さまに楽天ポイントを100ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-d1427e3960"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "フォーエル dポイント抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選最大15,000pt／10万pt山分け",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "foel"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-08-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=3b39a80050186e31709d326b713a4a619452bd8971e689d482db85c7619ce3b6"
+    },
+    "conditions": "登録済カード提示で合計25pt以上ためる。50pt以上で1・2等確率2倍。通販除外",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/foelcp_2608/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202608_7642",
+    "evidence_quote": "1等　15,000ポイント×10名さま\n2等　1,000ポイント×250名さま\n3等　10万ポイント山分け（進呈上限：500ポイント/人）",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-52d47836ee"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン スターバックスTORORI値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象TORORI30円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-28T00:00:00+09:00",
+      "end": "2026-10-18T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "9/28～10/11アプリ提示で対象TORORI購入。会員登録・ログイン必須。他券併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/app_sbto2609.html",
+    "evidence_quote": "次回使える\n30円引きクーポンが\n1枚もらえます。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-72bf6d03cd"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "はるやま dポイント最大50倍抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選最大50倍／10万pt山分け",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "haruyama"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-14T00:00:00+09:00",
+      "end": "2026-11-08T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5a7563ad62160afbf8fd063075231bcadd8576ceddc0028f31dec05850541696"
+    },
+    "conditions": "カード提示で合計25pt以上ためる。50pt以上で1・2等確率2倍。通販除外",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/haruyamacp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7682",
+    "evidence_quote": "1等　50倍×50名さま\n（進呈上限：3,000ポイント/人）",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-7ac2a3f9fc"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイ デビューボーナス",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "1回100pt・最大1000pt",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001debutbonus?ekey=checked-wi_pym_cpn_list"
+    },
+    "conditions": "初めてコード・QR・セルフ払い、メルマガ必須。ファミマ・請求書等除外",
+    "official_url": "https://pay.rakuten.co.jp/campaign/debut-bonus/?scid=wi_pym_cpn_list",
+    "evidence_quote": "楽天ポイントを1回のお支払いにつき100ポイント、期間中合計最大1,000ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-2122e37873"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン 東京限定ベース麺値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象ベース麺100円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-24T00:00:00+09:00",
+      "end": "2026-10-21T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "東京都限定。9/24～10/7アプリ提示対象麺購入。会員登録・ログイン必須。他券併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/app_tk_by2609.html",
+    "evidence_quote": "100円引きクーポンが\n1枚もらえます。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-50dfd55b71"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "Joshin 楽天ポイント抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選500名に1,000pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "joshin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-25T00:00:00+09:00",
+      "end": "2026-10-18T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on_wi_pym_cpn_list"
+    },
+    "conditions": "両カード提示で単品税抜200円以上・1pt以上獲得。web除外・利用登録・メルマガ購読",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/?scid=wi_pym_cpn_list",
+    "evidence_quote": "抽選で500名さまに楽天ポイントを1,000ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-da446eed1c"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "コーナンプラス 楽天ポイント2倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "楽天ポイント2倍",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "kohnan-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/kohnan/20260901?ekey=mp_on_wi_pym_cpn_list"
+    },
+    "conditions": "楽天連携コーナンプラス会員コード提示、税抜200円以上。利用登録・メルマガ購読",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+    "evidence_quote": "楽天ポイントを通常の2倍分進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-093a0e69b9"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "コナカグループ 楽天ポイント抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で3人に1人500pt",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "konaka-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/konaka/20261001?ekey=mp_on_wi_pym_cpn_list"
+    },
+    "conditions": "カード提示税抜100円以上。DIFFERENCE・通販除外。利用登録・メルマガ購読",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/?scid=wi_pym_cpn_list",
+    "evidence_quote": "抽選で3人に1人に楽天ポイントを500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-39059ee892"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン ゴンチャ値引券抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選14万名に150円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T10:00:00+09:00",
+      "end": "2026-10-12T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "応募は10/5 23:59まで公式Xフォロー・リポスト。国内居住者、当選1回、他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/fr_gn2609.html",
+    "evidence_quote": "抽選で14万名様に、対象の貢茶（ゴンチャ）いずれか1本に使える150円引きクーポンがその場で当たる！",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-2bc9ceb428"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "西友・リヴィン 10月ポイント増量日",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で楽天ポイント最大7倍",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seiyu-livin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10月3/5/10/12/17/19/21～26/31日限定。日税抜2,500円以上。アプリ＋指定決済等",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/?scid=wi_pym_cpn_list",
+    "evidence_quote": "【特典1：西友アプリ限定】楽天ポイント4倍",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-d1733f2783"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン 四国学生限定学割クーポン",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "週替わり対象商品50円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "四国の対象学校学生、4/2時点15～22歳（中学生除外）。LINE友だち登録・学生認証必須",
+    "official_url": "https://www.sej.co.jp/cmp/gakuwari2609.html",
+    "evidence_quote": "週替わりで50円引き\nクーポンがもらえる",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-9e7c1e04ee"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "セブンスター 楽天100万ポイント山分け",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "総額100万pt山分け",
+      "cap_per_use": null,
+      "cap_total": 4000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "sevenstar"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-24T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "導入済対象店でカード提示、税抜200円以上・1pt以上獲得。店ごとに開始日が異なる",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/sevenstar/20260924/?scid=wi_pym_cpn_list",
+    "evidence_quote": "楽天ポイント100万ポイントを山分けにて進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-a1f25cb809"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 新規登録の無料茶クーポン",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象の茶1点無料",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-03-03T00:00:00+09:00",
+      "end": "2027-02-28T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "実施期間内のアプリ新規登録者。対象商品・利用期限は配信券面を確認。地域・規格除外あり",
+    "official_url": "https://www.family.co.jp/campaign/spot/2503_famipay-welcome_cp.html",
+    "evidence_quote": "会員登録完了後、対象商品のうちいずれか1点に使用できる無料クーポンをお届けします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-73b4d89357"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ 友達紹介・店頭購入特典",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "紹介双方100円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-11-30T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "新規登録6日以内コード入力、入力10日以内アプリ提示で購入。紹介者と新規登録者対象",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-friend_cp.html",
+    "evidence_quote": "ファミペイを紹介するとファミマポイント100円相当がもらえる！！期間は9月1日火曜日から11月30日月曜日まで",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-d8a455f323"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ 47都道府県ソックス応募ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "応募／交換ごと1円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-04T00:00:00+09:00",
+      "end": "2027-02-26T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象47都道府県ソックスをファミペイ購入、10スタンプで応募。賞品は別抽選",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_cw-47socks.html",
+    "evidence_quote": "※応募毎にファミマポイント1円相当を進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-bf5c19fea6"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ ファミチキスタンプ参加賞",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "ファミチキ20円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-29T00:00:00+09:00",
+      "end": "2026-10-26T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "9/29～10/19アプリ提示で対象品購入、1スタンプ交換は10/23まで。1人1回",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+    "evidence_quote": "参加賞について\n特典\nファミチキ20円引きクーポン",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-8500c42a39"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ おいもスタンプ応募ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "応募／交換ごと1円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で対象税込300円ごと1スタンプ。3個交換で1円相当、交換10/12まで",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_oimo_cp.html",
+    "evidence_quote": "※交換毎にファミマポイント1円相当を進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-45b5887777"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ ポケモンGOスタンプ応募ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "応募／交換ごと1円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-15T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で対象品購入、6スタンプ応募ごと1円相当。応募10/9まで、賞品は別抽選",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_pokemongo_cp.html",
+    "evidence_quote": "※スタンプ6個コースへの応募毎にファミマポイント1円相当を進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-12bb8ac785"
   }
 ]

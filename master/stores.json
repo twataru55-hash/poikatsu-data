@@ -17,7 +17,7 @@
     "accepted_source": {
       "official_url": "https://www.sej.co.jp/services/cash.html",
       "evidence_quote": "コンタクトレスマークのついたカード（非接触、タッチ決済）",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",
@@ -47,7 +47,7 @@
     "accepted_source": {
       "official_url": "https://www.family.co.jp/services/payment.html",
       "evidence_quote": "d払いでのお支払い方法をご紹介します。",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",
@@ -77,7 +77,7 @@
     "accepted_source": {
       "official_url": "https://www.lawson.co.jp/service/payment/settlement/",
       "evidence_quote": "PayPay",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",
@@ -107,7 +107,7 @@
     "accepted_source": {
       "official_url": "https://www.ministop.co.jp/service/barcodepay.html",
       "evidence_quote": "AEON Pay",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",
@@ -137,7 +137,7 @@
     "accepted_source": {
       "official_url": "https://www.tsuruha.co.jp/service/payment/",
       "evidence_quote": "d払いはNTTドコモが提供する決済サービスです。",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",
@@ -167,7 +167,7 @@
     "accepted_source": {
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
       "evidence_quote": "毎月10日はAEON Payのスマホ決済ご利用でWAON POINTが基本の10倍",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "aeon-pay",
@@ -194,7 +194,7 @@
     "accepted_source": {
       "official_url": "https://www.mcdonalds.co.jp/shop/payment/",
       "evidence_quote": "PayPay",
-      "last_verified": "2026-09-26",
+      "last_verified": "2026-10-03",
       "verified": true,
       "verified_brand_ids": [
         "paypay",

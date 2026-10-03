@@ -18,7 +18,7 @@
     "benefit_text": "WAON POINTが基本の10倍",
     "official_url": "https://www.waon.net/campaign/aeonpay10/",
     "evidence_quote": "毎月10日はAEON Payのスマホ決済ご利用でWAON POINTが基本の10倍",
-    "last_verified": "2026-09-26",
+    "last_verified": "2026-10-03",
     "verified": true
   },
   {
@@ -41,7 +41,7 @@
     "official_url": "https://www.waon.net/campaign/thanks_day/",
     "evidence_quote": "に対象店舗にて、電子マネーWAONのお支払いで5%OFFとなります。",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   },
   {
     "id": "rc-aeon-oral10",
@@ -64,7 +64,7 @@
     "official_url": "https://www.aeonretail.jp/campaign/pointC-oral/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
     "evidence_quote": "毎月10日はオーラルケア(ハブラシ・電動歯ブラシ・歯間ブラシ・歯磨き粉・マウスウォッシュ・入れ歯用品) イオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍。",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   },
   {
     "id": "rc-aeon-pet-days",
@@ -89,7 +89,7 @@
     "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
     "evidence_quote": "毎月 11日、12日、21日、22日はわんにゃんデー ペットフード・用品　ポイント20倍",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   },
   {
     "id": "rc-aeon-hair-days",
@@ -113,7 +113,7 @@
     "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
     "evidence_quote": "毎月10日・25日はイオン・イオンスタイル直営売場で、シャンプー・リンスをイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   },
   {
     "id": "rc-ministop-weekend",
@@ -137,7 +137,7 @@
     "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
     "evidence_quote": "特典拡大 週末は3日連続でおトクに！2026年4月12日(日)から日曜日も10倍！WAON POINT基本の10倍",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   },
   {
     "id": "rc-ministop10",
@@ -159,6 +159,6 @@
     "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
     "evidence_quote": "毎月10日はAEON Pay のスマホ決済ご利用で WAON POINT基本の10倍！",
     "last_verified": "2026-10-03",
-    "verified": false
+    "verified": true
   }
 ]

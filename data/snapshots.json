@@ -40,9 +40,9 @@
     "chars": 7723
   },
   "paypay-event--565fc9bd": {
-    "hash": "8040833c4d85f9f6dc547802be77cd7abf4be3aaf2067b3bbcfd34be4b20c34c",
-    "fetched_at": "2026-09-26T20:51:22+09:00",
-    "chars": 13126
+    "hash": "54cec69b333d7d4dce938771acbf38c0b9c749579834be61e880b195883e4656",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 13238
   },
   "paypay-event--844ea371": {
     "hash": "cbde16e21675474edca40366e09fd559906f65a588185b7932f98a6b0a7449d6",
@@ -126,7 +126,7 @@
   },
   "dbarai-campaign--9891e1b8": {
     "hash": "f49a17790cf6637a78b409b62a0cff479975ae0165acba6975b4cfd26ac6df6b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4569
   },
   "dbarai-campaign--e747d422": {
@@ -160,9 +160,9 @@
     "chars": 2914
   },
   "rakuten-pay-campaign--dd245728": {
-    "hash": "bdfa21217342a4d701ca93c7d512db17361b5964b2c016b16bc4f188528ef7ac",
-    "fetched_at": "2026-09-28T09:01:46+09:00",
-    "chars": 3298
+    "hash": "919e56fd74af1edcfd2139a75f8ed61f2eb0e32afcd9eef4ffe108011a51c1ce",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3338
   },
   "rakuten-pay-campaign--83dea92b": {
     "hash": "cf5243265f9743719610f79b3795c26a969bd9f14e803476be92c69ba611c5fa",
@@ -175,9 +175,9 @@
     "chars": 6916
   },
   "rakuten-pay-campaign--fbf2bd05": {
-    "hash": "12ea39135115c56de16ec827b9efde96a9076d4eece4b7542fae017a223de0ab",
-    "fetched_at": "2026-09-28T09:01:46+09:00",
-    "chars": 3700
+    "hash": "aea200ec372ed9e746ad5446614a87ffd3ee8656f46c202bfae1d5a971385986",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3702
   },
   "rakuten-pay-campaign--82dda1b0": {
     "hash": "cb2089e730854cc1cbf8bdb777d982fe61e6e741f730852b507c30086fcf8a85",
@@ -191,7 +191,7 @@
   },
   "dbarai-campaign--f44fe88a": {
     "hash": "cc7aadc4db97daadda1b4109a2742710633c67b75de45324a0643fcce1a544ff",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 5448
   },
   "rakuten-pay-campaign--e55739a3": {
@@ -225,9 +225,9 @@
     "chars": 7987
   },
   "rakuten-pointcard-campaign--8ddc57be": {
-    "hash": "bc85a810cc3ae9e76380b378b22fcc01a71d93474588adc44120f9b9dfc809af",
-    "fetched_at": "2026-09-29T09:01:42+09:00",
-    "chars": 8690
+    "hash": "0718caef5040c958a8aebdef7420544c26ad67954af04ebd376a0f89be8510fc",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4087
   },
   "rakuten-pointcard-campaign--976ff833": {
     "hash": "2f5789d94907183a3ce4f1c3e4c67640acad77f428dedfef843587845b88a1dd",
@@ -280,9 +280,9 @@
     "chars": 1863
   },
   "paypay-event--b1aa8b60": {
-    "hash": "8c1cd4b7ff7e5a131de2df1f719c4e53ccd2d14e0508b61f55366156fb111de4",
-    "fetched_at": "2026-09-30T22:45:06+09:00",
-    "chars": 3549
+    "hash": "609335e99a0ca15be32df59417c597611c29ff1c3683cc6ce0e75d08c5c13c80",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3402
   },
   "paypay-event--33aa1d9f": {
     "hash": "8aa32e486857603bcfc276ab0b8765b3b8f39f22931c81274e2610cabb691dfb",
@@ -340,9 +340,9 @@
     "chars": 9486
   },
   "rakuten-pointcard-campaign--cfe49a4e": {
-    "hash": "0ff0e6c7324fd08a5a7203f893eb48c5c483478bdc3bc0abb9d1c7b620104e41",
-    "fetched_at": "2026-09-30T22:45:06+09:00",
-    "chars": 7461
+    "hash": "b9229f0ee11cdf92aa7d7af6ecaec206b5ae3f49d7fa040483c3fd174a5054e2",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2705
   },
   "dpoint-campaign--d53a51dc": {
     "hash": "639844c4056e1744f28bce16469fce5d5468ab246bc826db1b0aec410eea39f3",
@@ -355,8 +355,8 @@
     "chars": 4086
   },
   "rakuten-pointcard-campaign--6c79e7b1": {
-    "hash": "c57326f23b2d6a9756bb154ec173a2f0b9c747b99e6699e1fe375bb376535df6",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "6f88cc629d1e14496bab3843bb86aa4cdf0113e00edad4a5963bdd5ea60924d6",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3497
   },
   "aupay-campaign--9201120d": {
@@ -390,9 +390,9 @@
     "chars": 5387
   },
   "rakuten-pointcard-campaign--6452773e": {
-    "hash": "df3d86ef1be58fa61bcc6c00c0cada5b2d7a27cf78d47ead737fdce42e1929f2",
-    "fetched_at": "2026-10-01T09:01:50+09:00",
-    "chars": 8282
+    "hash": "746c6bf7754d7081b1d489529256da26710cc4a77057b2e409aeab1376afbee1",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3526
   },
   "vpoint-campaign--8e775837": {
     "hash": "9ded7aa3c3e4eb641ceeecab386df5e70f952ada9f0c02d65ac389b68d81c024",
@@ -420,9 +420,9 @@
     "chars": 6495
   },
   "rakuten-pointcard-campaign--5d094389": {
-    "hash": "80ebb685530b4c63642d24faf6f2e65bc189a45c9f8c5392932a7308b018ac93",
-    "fetched_at": "2026-10-02T09:05:15+09:00",
-    "chars": 7122
+    "hash": "8ace4004091a25b891e1279508a698ea3abdd3358a7c0c2b1f6fe49cdd3349ee",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3417
   },
   "waon-campaign--705fa259": {
     "hash": "6f44f01baa2df48d5daa6724b4b511ac822fb38240753180532a1fc3cdc08c55",
@@ -455,9 +455,9 @@
     "chars": 3075
   },
   "rakuten-pointcard-campaign--65ce2a22": {
-    "hash": "7535007e4656bb40c9d637c030e9661ddf81362e2447f2ddd6aa2b5e747812ab",
-    "fetched_at": "2026-10-02T09:05:15+09:00",
-    "chars": 9828
+    "hash": "e087541a7fe6b7c036b380c6e1d97947a2f6e9219c927f4f32b805229b04dcf7",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 6123
   },
   "vpoint-campaign--d45383e6": {
     "hash": "9ff4a4c94918789ee84ea1e3c946b36efd55c3260992fe2cb229bb5c131baf15",
@@ -500,9 +500,9 @@
     "chars": 3919
   },
   "rakuten-pointcard-campaign--29590cc4": {
-    "hash": "fe94c3c98979dc63cc982e21262edef00948d82c7e11fcee5be2231f607c5dbe",
-    "fetched_at": "2026-10-03T09:05:22+09:00",
-    "chars": 7045
+    "hash": "ae578729128d88ff00986e3edfaeebc905781860444ec2574b7f15987f1a0aa5",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3286
   },
   "aupay-campaign--fe6a90dc": {
     "hash": "611aa78456c2122c64c7132f2880916e450245bc1d9c9589a3e167e36568b11c",
@@ -535,8 +535,8 @@
     "chars": 3400
   },
   "rakuten-pointcard-campaign--e3ff2e8d": {
-    "hash": "71a4ac05378158a94b4cafbf7aba00eaf266c8ece4b3d00711072369d9296203",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "d310abcf37159189edb7331e5ce7f6ba66f259330e7b237ede619cf7b6785f84",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3947
   },
   "aupay-campaign--a282a6fc": {
@@ -550,9 +550,9 @@
     "chars": 985
   },
   "rakuten-pointcard-campaign--6da755e9": {
-    "hash": "2bf8acfa5d778f1da6dc6631ad0d4cc62859d646686cd88926fdba6472d82092",
-    "fetched_at": "2026-10-03T10:44:33+09:00",
-    "chars": 6566
+    "hash": "489fa50c720f302017a04bdc4cdbdb281726d956e7a872a84dec8cfd3de9884b",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2807
   },
   "aeonretail-otoku--8fcfec19": {
     "hash": "9ea947a1ffced327493329393148c2e10964fd249645ab01e8fffa1c48a94aed",
@@ -570,9 +570,9 @@
     "chars": 2429
   },
   "rakuten-pointcard-campaign--d519814e": {
-    "hash": "74fbf3e2caa5a22fdf38e2ef7d7cbb1d4f5646b6d19d2ab861e881001be2af48",
-    "fetched_at": "2026-10-03T10:44:33+09:00",
-    "chars": 8011
+    "hash": "3eabd3efba04746fbec2b54631d6f419e36966c312828116bafe7ef1646fcd92",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4252
   },
   "vpoint-campaign--b2567bb5": {
     "hash": "89d3c692c6b65a1a19fcfb6ceb5589d0c81fc5b8617102b56e9fb14d7b7bf8f6",
@@ -595,8 +595,8 @@
     "chars": 2796
   },
   "rakuten-pointcard-campaign--9f0e1a89": {
-    "hash": "c6e812a2988b4c15eda952c818c20f829e382019d6fae67712f0ec6c86dc462b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "b8ba8df0f2eb8f3ed12452e565300c4e20734dacdd85f3d4c71c6b886aaeee00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4733
   },
   "vpoint-campaign--05f4b995": {
@@ -610,9 +610,9 @@
     "chars": 4890
   },
   "rakuten-pointcard-campaign--e6b2e064": {
-    "hash": "0efb078b6205094b3a1715385a81e85a63738dd342823b3e22570aa25e382ca3",
-    "fetched_at": "2026-10-03T10:44:33+09:00",
-    "chars": 8237
+    "hash": "d0a2346b7b6937222a0de940a6a975242a3448a20b6b0c8233809ac0db57a171",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4478
   },
   "vpoint-campaign--a5926a38": {
     "hash": "9d54db31418e297d86cbd6d03023ecaf66ddc3da46f2fec403091132072d8bd5",
@@ -621,7 +621,7 @@
   },
   "vpoint-campaign--3730d984": {
     "hash": "f1469072805efa0adec2a94841e69705ea054d08e699f5a3c3af1859a334da6e",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1446
   },
   "dpoint-campaign--b667d0a0": {
@@ -630,53 +630,53 @@
     "chars": 3943
   },
   "rakuten-pointcard-campaign--18160312": {
-    "hash": "b03ca6833011497041db52563084c35167806c8838195ee2b394ca4ebd05e601",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "6318b8720a4b07d83fc9cfcb0765f5b4fe417887643c306edca7b03d21f94afc",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2434
   },
   "aupay-campaign--6b71735d": {
     "hash": "03084a9575d5b175b87710a3f67016e96538f9d1096a2b07a432c6fc12806c71",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2252
   },
   "ponta-campaign--708e5ca4": {
     "hash": "1d426fd5dcb87bd1df6a4612364c4b34f03b5b4bb64737135b6e97ee510ba1bd",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 5923
   },
   "familymart-offers--a4a82c90": {
     "hash": "af468c13803fe21a71881b775c44b5867a86dcb24b9b06580290591e2c17f11d",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 13769
   },
   "lawson-offers--d1fdd374": {
     "hash": "b9c7734c198c4237a6646ea8b5b2201046950c4bfdf8703b86fe4a574a3f633b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 337
   },
   "seven-offers--7a669425": {
     "hash": "bbae898a2b31205f560da0de0ceaacd0e5a8705afeca5cb4facc0e7e9efdd507",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3092
   },
   "ministop-offers--7a8dcd46": {
     "hash": "e2f471d086278e5f646ce6c053195a5bcfc2752cc8859dd97fe710b07cbdc588",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 784
   },
   "tsuruha-offers--f7256550": {
     "hash": "3b368f4abc19bf83658d70f1bad21dc8f77e49c7353519b24c8f0bc846ab18e8",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 6474
   },
   "mcdonalds-offers--0ff7a873": {
     "hash": "baeac452d770de2d842df35432e9ab8a024f02dc0ef10f616f7b0b6279515cf1",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1598
   },
   "vpoint-campaign--706a8254": {
     "hash": "476b564a4818ebdda038c609abd87c5206508dff71153332766efe41b12e70cc",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2108
   },
   "dpoint-campaign--f26ee323": {
@@ -685,188 +685,653 @@
     "chars": 1678
   },
   "rakuten-pointcard-campaign--5f3b8b2a": {
-    "hash": "baaa11566aab6fcdfa8ff7838f1a1d778ef7f63933d0cf4d799be6b5aa20012c",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "f26ad1a2c9dede1dbd79feaccc0217ff214309e85ed60c7c0170ea816a08b195",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3373
   },
   "familymart-offers--5e399350": {
     "hash": "5467d851cced1ba1c0ac99e826d5ecb04d86f1487c4301a000e98739f24f8590",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 9088
   },
   "lawson-offers--abf8667b": {
     "hash": "45e40348646525a359ba3956eb5fc722e3d84b65d55604a432e309293ecec9ae",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 286
   },
   "seven-offers--8a28e3f1": {
     "hash": "39a5b06659f42c1be1e52626859d12722c27e39339445ef737c0f38e57a2f328",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 6409
   },
   "ministop-offers--b584d014": {
     "hash": "dabfae4e464639624149de78dd5e1bd86738ef311434ed97ae0efe15e03c787a",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1703
   },
   "tsuruha-offers--d2fb890c": {
     "hash": "a7b80e16a330992cf9a7ff0714390e2e87ecc6174e038018f781cd581d77fbbd",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1018
   },
   "mcdonalds-offers--717c152e": {
     "hash": "c17cd9be86ff0a6305437bf3d02f81f9bc1744487423d60c85c866a55fea2a01",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1498
   },
   "vpoint-campaign--43c6557a": {
     "hash": "254cb70035941f21b46f05ff6e75203904a287ee0b3c74a9ac9d68d7b40a0468",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1182
   },
   "rakuten-pointcard-campaign--23a7245d": {
-    "hash": "01dc07c8dd88931df0da7fea2ad1ccfa01476868d6215a6d6d24a7d588ac74a4",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "c502acde70de0b47658d5db1f5ea78fa4342033b0137c9e0faee3406345e9a56",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4348
   },
   "familymart-offers--d657e204": {
     "hash": "04471da8ba93f9015be2a08df4c626be078cfd07dce9479527654dd742a5d995",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2441
   },
   "lawson-offers--0680669b": {
     "hash": "3979dbbc3c9809f0d7aa3ac5162f263d6e0eef502f37b53bdd4c18fea0634737",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 241
   },
   "seven-offers--cdca31ff": {
     "hash": "0144090b37f2b3d1355a5468de31612014d606c651c578e603303e306012fd38",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3040
   },
   "ministop-offers--eb52ac07": {
     "hash": "5b2e50fdfa5ce3df5790db958c0042ca74bbc1aec19bd873fe079d10ad51b08b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3404
   },
   "tsuruha-offers--244e93c2": {
     "hash": "11aef61fd4427c337971e8e03de0691d15c084461a771b3bde82fbe2cdc9941d",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1091
   },
   "mcdonalds-offers--835e1108": {
     "hash": "f85bdba7b02c745151b9faf257b3d91c2377afb7ff12fc2474e53c713d66f550",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1395
   },
   "vpoint-campaign--4b4d7d2d": {
     "hash": "77fb33244288a0ef6dab1a6f511e159d672471374766f9d865deac4b99d9965f",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4691
   },
   "rakuten-pointcard-campaign--70b5a802": {
-    "hash": "2563fe4ac67a367e6972687b1d29a4fe0daa6361bff3d86f80d5cebb7ccc2f21",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "hash": "8effac5bd3d2538a8d09222db7bb7f11b148c6924548d776988081548c81d83d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3671
   },
   "familymart-offers--2decfaad": {
     "hash": "414f13f2ab25c340b19ba8b34e4caf96c121428f957f96c4f45ddcbaeb108e20",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 286
   },
   "lawson-offers--7c59bd44": {
     "hash": "9249f4b41c8d90cc1b77dd761fd4adfcac88c3cba5728d1cd058d00ef2c6c93b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 322
   },
   "seven-offers--3c4248b8": {
     "hash": "2167f4580e28bf4771abf8dd6a098819689baf48ac382b4b28f94065e52c3bf6",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 5880
   },
   "ministop-offers--a2f3ad8b": {
     "hash": "b1aade8b8e2ebc5348962d249f35c74f6bdec4b29b8a1836ece43db418346bf2",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 840
   },
   "mcdonalds-offers--577e6bb9": {
     "hash": "3bfd36a659bdc66965134244b9e2ba56049e1077bf3a5aea94e40c4954d670c6",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1269
   },
   "vpoint-campaign--6440e862": {
     "hash": "38b1b04c24f6bce1cd13e5f5f40cb374046f9cecaf957ecb3b6241f9463f3856",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1836
   },
   "aupay-campaign--ff91b969": {
     "hash": "5ad55c091c96cea7354ee531caa2d3d009d65102c2cf28abcb946e6db36203ea",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4206
   },
   "familymart-offers--0d2abe98": {
     "hash": "61ed97d780b689925b25c72864f296d7d9b01e8d9620228fe3b37af49d1961b0",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 15785
   },
   "lawson-offers--c774fa32": {
     "hash": "5723360048d0983dd77817807528c46e9d8cd3a3b7022a02c8238387db334dbf",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 520
   },
   "seven-offers--42c3f7af": {
     "hash": "0cbcb0cb7266aedb01c820434cd11062faeeb104edaf355a37e0453f6cc5f340",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2240
   },
   "tsuruha-offers--04c44861": {
     "hash": "657b05b5322f1a8390fe8b69b2d0b31abb0ba85f6b635ea4d7ae2d4bc1da73a3",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4539
   },
   "mcdonalds-offers--9c997c3b": {
     "hash": "17bed4af5ca708f9d65c9d68351e405d9f87d84bf421c0a66297021122d6de1a",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1705
   },
   "familymart-offers--754872ec": {
     "hash": "2fea3c709036e77ea395b74000be65acf700290286d4459c699a6a2ee37b14b7",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 2720
   },
   "lawson-offers--0e880103": {
     "hash": "1cf2e014992b0fe8ecb26e6b36745ebecc71b91415e5f239eacc29b16eed3cee",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 662
   },
   "seven-offers--be571bd5": {
     "hash": "0c173745cb874cc7d9eedafa3b624e175d02607572d6dfd9f8fecb581085715b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 3175
   },
   "tsuruha-offers--fd2188b1": {
     "hash": "7c23614adb3e00aa567019bda016347c8b3d25214856e810f5eb3d753831f88b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1914
   },
   "mcdonalds-offers--88927db6": {
     "hash": "d5dc2cd549cc6c1f75c94c69c3557bbc3e53610da521d69fff7b06278f3f9092",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 1483
   },
   "rakuten-pay-campaign--0775b22d": {
     "hash": "20f04ec0187eac096544392845877613a6cc1536b4dc4c4a66359ccb2eb4008a",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 5387
   },
   "familymart-offers--2449799b": {
     "hash": "876eeb22017c958f058eeb4d1c46581d5f1104900317a84f5c1f566f678a6287",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 4397
   },
   "lawson-offers--70ccba48": {
     "hash": "25380abb1b881f2b5606b8ad206ed705a22b6da1290173c6e58fbc2ed96a371c",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
     "chars": 646
+  },
+  "dpoint-campaign--2aac4c8a": {
+    "hash": "2bc342c2d8ad1112e6344cb41c7261fb3de8c1162bc080ef4dbe513042922857",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1851
+  },
+  "rakuten-pay-campaign--fbf195f7": {
+    "hash": "57075908d69630e4d79ebc84289d0a49aca36dfaa0f690f556fba73fa901086e",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 6209
+  },
+  "ponta-campaign--b94dddb7": {
+    "hash": "c6aa30e1f9738d9bba8b9408b1b2e5fa28a93c1797a6b01e4597d4ce3139b321",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 9441
+  },
+  "familymart-offers--b0fc4e1f": {
+    "hash": "1b20cb207ef71c651adeb2e00d1e006a0433194b614d2860f2b92888ed4d75e6",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2435
+  },
+  "dpoint-campaign--047a162c": {
+    "hash": "bb05e432271779706e3eb5b3b8b85838e109203e0f6d7e829fc2529ceed11d99",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 839
+  },
+  "rakuten-pay-campaign--059196b7": {
+    "hash": "166868e6d5670e120c054103d9c52d732f60a1ead09d440bcda6d1977506ebfe",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4204
+  },
+  "ponta-campaign--38dc2475": {
+    "hash": "f7bdaf53fb7099a8f626d9a8f00e4e62e1264426b78eaf2dc16d608785395b2e",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 5009
+  },
+  "familymart-offers--f6c5150c": {
+    "hash": "19900cd205f0f33d5c194791eb6bdb3afc5862ac70a52cdb12da9c1d40dbbd3a",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4950
+  },
+  "dpoint-campaign--8430689a": {
+    "hash": "b79aa4d72a2890f2d8b8a87ff7a6fd3663d916cd8a705a1cf5adc4ab9320552d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2832
+  },
+  "rakuten-pay-campaign--207cf55e": {
+    "hash": "7ffa5bc323b1ab98b0b2b37971bf1f50d67019a6e30f6aee3e28d17836474702",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 10867
+  },
+  "ponta-campaign--d140e512": {
+    "hash": "1d426fd5dcb87bd1df6a4612364c4b34f03b5b4bb64737135b6e97ee510ba1bd",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 5923
+  },
+  "familymart-offers--18e52d33": {
+    "hash": "dd77a99a27566a0ee3e93f8360067c3d50c54cb0acbd28e84c20057a7f75b979",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1391
+  },
+  "dpoint-campaign--65ca72b6": {
+    "hash": "01ada483999bcbfdfa5630d2c0160fafa5095308ad3a0704e34129b102da4fb9",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3961
+  },
+  "rakuten-pay-campaign--c80a7884": {
+    "hash": "3d469fb1c4966b06f2a639b714db2b2896a54348a4609f021f0208e28a4b732a",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 701
+  },
+  "familymart-offers--498d2e28": {
+    "hash": "99160ee4314b81954bd1076b45e3bf6e2ab8d6527e42ef29fa216540e227e1d0",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2523
+  },
+  "dpoint-campaign--dac70109": {
+    "hash": "13214fcbdc02ef114d9610cfd7b8ed52f37f15f66d70393d80ff90ce0d0f799b",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3812
+  },
+  "rakuten-pay-campaign--da94b256": {
+    "hash": "5eacc4c36072cac33a3cb2921b08067d4c40746ff7276ae52520b4c0e213b5d3",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3287
+  },
+  "familymart-offers--d5aa71fa": {
+    "hash": "c1c2388ef15390835d1f3f340749693cdef3825d964a570b2cf4f0056b11867e",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2476
+  },
+  "vpoint-campaign--265925a9": {
+    "hash": "245a665ea968f21996e2115bcd3216de94d794e6fd3c701d50aaa2aceeb464f3",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2229
+  },
+  "dpoint-campaign--99ea9030": {
+    "hash": "1242fafbd7087095ba0743fae159d00b3fe6032c555100a8a912d3dfa9a2faf8",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1455
+  },
+  "vpoint-campaign--c08c2e8d": {
+    "hash": "ac6585161a86aad3ca7c6ae8d2c463a2665111c43b0463310f899b0e65f27dbe",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1834
+  },
+  "dpoint-campaign--7bf4c12a": {
+    "hash": "19efd748e7088b1defb08ff115e4c8b86b589e0f64393c33601e649e7192327a",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3554
+  },
+  "rakuten-pay-campaign--09d8cc8e": {
+    "hash": "5f967ea213d038d7444918ddda315480fe5dd54d2df7da71a022c9a9506418a0",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3634
+  },
+  "seven-offers--cba95e36": {
+    "hash": "9e0e5f82bcdbf77ec728d388319b399f0435e3c1926e1327488e66a8cd963673",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2007
+  },
+  "tsuruha-offers--8f468591": {
+    "hash": "a1e734dc73ee605aefb84d4d524c6708cfd04eb99510e5a80ec9e8fb1b835afa",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 516
+  },
+  "mcdonalds-offers--4745d74c": {
+    "hash": "db8c99112611933a80cc9ed185caec0fbfd0fe66694f43e0ad2195bd4d3f13c1",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1423
+  },
+  "vpoint-campaign--1e4ab790": {
+    "hash": "482af1537ba6133fc92733e758a06f160090e7f84fe59ccdc0fbc73d360bb8d6",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2712
+  },
+  "dpoint-campaign--deaa7589": {
+    "hash": "ae30b39dc003fe13dc811c9c1f2710275f4f1ca7c828991c406d2ca5f741e492",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4595
+  },
+  "rakuten-pay-campaign--94d37a98": {
+    "hash": "5f967ea213d038d7444918ddda315480fe5dd54d2df7da71a022c9a9506418a0",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3634
+  },
+  "lawson-offers--581c5842": {
+    "hash": "3be617625f264090767a0bb2fbb2f4512ab37daa6dd6a6e0636668ef94906eef",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 782
+  },
+  "seven-offers--6282c2ec": {
+    "hash": "96a032c706b8e3e72bf4ef98b94c507bc504594cb4f1e3c742dc877ec8bb8256",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2163
+  },
+  "tsuruha-offers--188a8145": {
+    "hash": "37f82a9ad34fd9d64be30015b8d2e4845a76ab0a7ca7b38a7b2725f5415e4a4b",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 734
+  },
+  "mcdonalds-offers--a87a62aa": {
+    "hash": "b03a2f4897164cec7980c7a3e3201eb8aad06a44956b0a1124641575b8efe073",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1453
+  },
+  "vpoint-campaign--2f32def1": {
+    "hash": "f717d05827aca54d2d08769d88c00317149a09df9657c9bdc8911b8ad9f67f89",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 265
+  },
+  "dpoint-campaign--4331f9f5": {
+    "hash": "c8b8c6fb98439b1a8549820a2034dc95e905cffbcb573e077f06d645be13b566",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 5839
+  },
+  "rakuten-pay-campaign--4290bb5f": {
+    "hash": "9a94a476163cb14ce8fa63b74135a50b4c79346b36bf4c7c0063d5a076cf0a9c",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3361
+  },
+  "lawson-offers--4556a8b4": {
+    "hash": "14baa97522c9a7a987058043cad0deff7f987e3cdde4fd73896147e2a67f3d02",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 275
+  },
+  "seven-offers--47efa1c6": {
+    "hash": "f025da624ffdee9b377b70db639d0116b4a5ccc67d493b64a4017a92c8ce2385",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2007
+  },
+  "tsuruha-offers--f33bdc64": {
+    "hash": "1c48a39d66bf62336bbcb379ba04d4bc2ab3e9d8463f32d6dcc03cf9e5467ab5",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 952
+  },
+  "mcdonalds-offers--a5e07199": {
+    "hash": "49c1329b091fbe8fe3decf3884d576a6d1fe7be4bef85602551c7f4258cfbaf3",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1624
+  },
+  "vpoint-campaign--43f45058": {
+    "hash": "b2d303427e649a421f428655dc043a3067cec158c9b8909e4ff01285b90721e4",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 265
+  },
+  "dpoint-campaign--b02a9736": {
+    "hash": "d9fd5384b9f5e1b8fa67a57d8a6cfce9f1321b3bc509c982283f8fae7c8bce71",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 7218
+  },
+  "lawson-offers--b7093ffa": {
+    "hash": "9c0c340c6518a9df58f1800a6192cc2429b577e3d5a583d4c29ecc4acaed3b75",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 303
+  },
+  "seven-offers--ca131055": {
+    "hash": "a1e31139b282ff52720820b29637c0415e40830df3383b96c07e316f536a882d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2041
+  },
+  "mcdonalds-offers--b517edc2": {
+    "hash": "45007b1c002455616c6ed39dadb633417077404fe8c0fbf0e7c9ead0bd3c9e15",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3016
+  },
+  "vpoint-campaign--393c0180": {
+    "hash": "28270e8ca4dbd0cf620211f1f1be8b76a5a9630f342875e22a72937ca327a5a1",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1390
+  },
+  "dpoint-campaign--3e056afb": {
+    "hash": "39a8f2e6901eee6b6f01f539d4b3ec4f71306c753b6fad6252441b162089d656",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3835
+  },
+  "lawson-offers--ccf4ec15": {
+    "hash": "cc46a83a7e959d60046ea55fa82b69e2a234b9227da83deab8b2dcf502b36db3",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 590
+  },
+  "seven-offers--c8958cd7": {
+    "hash": "b1f66d9746360da9bccb10fcb61fb125c9130f6f83774946867cd8cb0413bb3d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 769
+  },
+  "mcdonalds-offers--c966f458": {
+    "hash": "85526d2c1b82a512931d8718137b582f93ccc5200e5603596aa4600e7966d4a4",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2966
+  },
+  "dpoint-campaign--40058b3d": {
+    "hash": "5da51256243ae26d75a9b42baf30f241616441e49b70f34985715cc3ded1d470",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1188
+  },
+  "lawson-offers--3f7dbddd": {
+    "hash": "03f3b401dc766828a3b04f70ddd1c92d481d176c734fd631b8aba03012464778",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 763
+  },
+  "seven-offers--b149c5ff": {
+    "hash": "5c589667532bbd400377fc755e71875266227fdbc608497e79ff969ea67856f4",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 643
+  },
+  "dpoint-campaign--f2acfbbe": {
+    "hash": "52764af4b65db3ac0c2057b6b863ababe2be4d96892324f083e963b2b668b563",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 11714
+  },
+  "familymart-offers--932e08f6": {
+    "hash": "470561a472304bfa596bec49e7b3a5963c976666ae760fb56d9f0b114e98acdd",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 576
+  },
+  "lawson-offers--9fc0068e": {
+    "hash": "3ed81282871028d8782f96a48037173ca95d9133337eed19c83f06dfe2e9129d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 363
+  },
+  "seven-offers--0d0f85a8": {
+    "hash": "7782e4fd380002e8d423868e9a90fc021258c8574b134e487c484cfd75590348",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 6181
+  },
+  "familymart-offers--3423a90b": {
+    "hash": "b8238c35b8dac4fa78cb809776f240334a8592047c0a381337a6c0fdf3b77a4b",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 8960
+  },
+  "lawson-offers--31afff08": {
+    "hash": "16149fa74c2d3cfd8b9ab5b1cf43ef401d2b2524c4f707db253bfa8cc8cb0c3a",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 332
+  },
+  "seven-offers--fe55fa10": {
+    "hash": "e8e00074de7bec58c23afcecf68b90b4d9fdc52ec76b45a11813db79bed56506",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 830
+  },
+  "familymart-offers--549368df": {
+    "hash": "30f1bb28c8e7694751f83ceede9e48568e5b82293c97d7e58b9129b1c14b35f8",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3421
+  },
+  "lawson-offers--c66984b2": {
+    "hash": "e25431ef3d058f9d6f3ecedfcc4abcdd4ac7bf655fea9b6d83a2ecbcf74ec6c1",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 362
+  },
+  "seven-offers--9985bb2d": {
+    "hash": "910ca261c60e7a904b7131275a9f5b2276c3cfa0b61dbeb7b21456613b4cc051",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2899
+  },
+  "familymart-offers--213d6ffb": {
+    "hash": "4f3b33edebee8770e50f265a4e81b6ce9b95d8bf36dcbe655c34aacd71bf2a0c",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2811
+  },
+  "lawson-offers--1bc6b40e": {
+    "hash": "06929e743d69beb6c5024aacac0b3c1a277f7a0c9e818bea7732a9dc3fa84218",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 318
+  },
+  "seven-offers--0dfb1247": {
+    "hash": "7bb2612c5da1dd510cee0f664e1d4e66c95443dd0dedb6a29f41859b8ddd7da0",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1216
+  },
+  "familymart-offers--2a824d57": {
+    "hash": "13e8a93cf3172f61e433e9f408095f9c92e1a5f7b618faa5503192694dd1f2e5",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2858
+  },
+  "lawson-offers--1ee69c5c": {
+    "hash": "b796e56d166cb9579af50dd130c900544fc3f78f40cdf70bbc22b9e817ec32b7",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 359
+  },
+  "seven-offers--7561589e": {
+    "hash": "975cdb39faa6408703c507b9ca18e4b09167178bf03ad0ba74161fb4fbb96038",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 728
+  },
+  "familymart-offers--982b34c9": {
+    "hash": "405cf203bfca3274a891af6ab9845f6ca8ca52376847be59d22b76074387b701",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3785
+  },
+  "lawson-offers--694252cf": {
+    "hash": "0da96f403f5b36b1d0253befca777cf77a1e259058117ffe50eb08e1037449e9",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 717
+  },
+  "seven-offers--f2c11c7a": {
+    "hash": "74bed59129c653467f4dc74b2d04f6fa4fb68d31427cd6cf874e299bc653899e",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 636
+  },
+  "familymart-offers--783f30ad": {
+    "hash": "04b842bd1bff3f9a52a251c8a86b45ea5b0a184c1e95789d47190989e25a8573",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 3119
+  },
+  "lawson-offers--a2a90cdb": {
+    "hash": "561ffb57ad481054667a89bb382d56abfe797197598f358d2a2b3fc05a294081",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 633
+  },
+  "seven-offers--148675c1": {
+    "hash": "70ece769cb96ed7ebf7d8e77c3a643bafbb0634fccb75282430a6f431e62cdbd",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 10893
+  },
+  "familymart-offers--e99e2c2d": {
+    "hash": "56699004d578eca4f55a0849c1daa1ad97f8bd8431c77694be62ecb8f2b16005",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2792
+  },
+  "lawson-offers--6a0ce4e0": {
+    "hash": "292e0571693d0568b388e2a3dce8a859297eb99963529039c0cc52a75d73d9cc",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 563
+  },
+  "seven-offers--3f90512e": {
+    "hash": "2c1bbf3eeea289bff4185d04c8878c175e9181de9fc98ea7cab7335735e4ffe3",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1723
+  },
+  "familymart-offers--c861ca1c": {
+    "hash": "07870627d2b067f2b2396c8096f066a8f175882e5cad0395d153957847697737",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1214
+  },
+  "lawson-offers--8e3ce780": {
+    "hash": "bdf9fd42ecdd57b6fc68ce28cb89ef62e3d7d14b69cbcbebae96ff461a5b647f",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 552
+  },
+  "seven-offers--c6c26d33": {
+    "hash": "73b07a11b23dbe1c13b10f229641f450718d157d40eba252a2ef26d1d39d2e2e",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 343
+  },
+  "familymart-offers--3516dc0a": {
+    "hash": "f9a08d76b9c4ab49623c8cb1618c6e2396c01d6497c71783111d774f59c9a5ba",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 10949
+  },
+  "lawson-offers--ddd5b740": {
+    "hash": "21c00cbe0436681d8fe0a3b5b94f7b1e6e998c7254da2147803e53594af5ab73",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 251
+  },
+  "seven-offers--05a3bcd8": {
+    "hash": "ce27a04968be5d64bf219ec0d46ba80ac629cb9db739e7f6e3254757a7e61faf",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1151
+  },
+  "familymart-offers--412bc53f": {
+    "hash": "6aa3126b90ea61a71508dbcada10f8001f64970ae6395b8c7fe0a0218c344f1d",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2650
+  },
+  "seven-offers--dbf5f0dd": {
+    "hash": "6e5a1a9310b98645b6644556d12c092dbd9f42a02f0b50c5cd8e389bf0476efc",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 908
+  },
+  "familymart-offers--eb86457a": {
+    "hash": "7b6c99356b8aa671b396a0cb24dbbfa36ba7fd9822368a08fcfb577285410760",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 1242
+  },
+  "familymart-offers--ae0fb863": {
+    "hash": "2b0aee190d480b0d4d7549578b2ce76b89e1a604826ae2d4e91524745c87fc49",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 5705
+  },
+  "familymart-offers--da911b2c": {
+    "hash": "9af0600fe496cf00a23762520c811ed16c96c57d5ecfaf1858b4842efd9ed07a",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 2373
+  },
+  "familymart-offers--f3eb81c8": {
+    "hash": "64d9443d947e8a9d92487bdb0b2bef82fabc7b5933ba877bb4422ae2cef3a33f",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4377
+  },
+  "familymart-offers--4c658488": {
+    "hash": "a0e6c9bab0d5702e537a615264ee8428c938d5505048d257bb6c0e8f2fbf2747",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 5244
+  },
+  "familymart-offers--01d4669f": {
+    "hash": "a0dc885ab61ac98cb0bac6dcf3b3c587662b7e6b1acb3fd9e0ba7547a9c373a8",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 4016
+  },
+  "familymart-offers--c333d838": {
+    "hash": "22e5ff923ad3c38c33e5f9050eaca450a1fa926a52d0e1f14ff2aab75ec70a5c",
+    "fetched_at": "2026-10-03T14:29:46+09:00",
+    "chars": 6176
   }
 }
