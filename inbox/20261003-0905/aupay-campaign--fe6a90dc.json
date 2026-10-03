@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "オーケー×ドトール・抽選100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名に100pt・落選3pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定6都府県のオーケー・ドトールグループ対象店限定。各200円以上コード支払い。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ok_doutor?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "evidence_quote": "それぞれ1回200円（税込）以上をau PAY（コード支払い）で決済すると、\n抽選で1,000名様に100Pontaポイントプレゼント！\nはずれた方にも3Pontaポイントプレゼント！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "京王線沿いのドトール・30ポイント予告",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "300円以上で30Pontaポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "京王線沿いのドトールグループ対象店限定。コード支払い300円以上。11月ページ開設予定。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ok_doutor?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "evidence_quote": "京王線沿いのドトールグループの対象店舗で、\nau PAY（コード支払い）で300円以上決済すると\nもれなく30Pontaポイント還元！",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "campaigns": [
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "薬王堂・WAON POINT3倍終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT3倍終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "薬王堂限定。終了したキャンペーン。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】薬王堂限定WAON POINT 3倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "すかいらーく・WAON POINT2倍終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT2倍終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "すかいらーく限定。終了したキャンペーン。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】すかいらーく限定 WAON POINT 2倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "全日食チェーン・WAON POINT2倍終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT2倍終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "全日食チェーン限定。終了したキャンペーン。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】全日食チェーン限定 WAON POINT 2倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point",
+        "aeon-pay"
+      ],
+      "title": "四六時中・10％還元終了",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "WAON POINT10％還元終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "四六時中限定。AEON PayまたはスマホのWAON対象。終了。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】四六時中でAEON PayまたはスマホのWAONご利用でWAON POINT10％還元！",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point",
+        "aeon-pay"
+      ],
+      "title": "FC東京公式戦・ポイント5倍終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ポイント5倍終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "FC東京公式戦の対象支払い限定。AEON Pay・WAON対象。終了。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】FC東京公式戦でAEON Pay・WAONのお支払いでポイント5倍",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "change",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "お客さまわくわくデー終了",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "毎月5日・15日・25日の特典終了",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": "2025-06-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "お客さまわくわくデーは2025年6月25日で終了。",
+      "official_url": "https://www.waon.net/campaign/old/",
+      "evidence_quote": "【終了】「毎月5日・15日・25日 お客さまわくわくデー」は2025年6月25日(水)をもって終了いたしました",
+      "confidence": "confirmed"
+    }
+  ]
+}

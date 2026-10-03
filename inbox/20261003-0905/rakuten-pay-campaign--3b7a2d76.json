@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "札幌市・対象宿泊者の楽天ペイ最大20％還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "楽天ポイント最大20％還元",
+        "cap_per_use": 1000,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "01"
+        ],
+        "municipality": "札幌市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天トラベルで札幌の対象施設を税込3万円以上予約・宿泊。同一IDで札幌市内の対象店コード決済。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-sapporo/?scid=wi_pym_cpn_list",
+      "evidence_quote": "楽天ペイのお支払い金額に対して楽天ポイント最大20％還元【期間中の進呈上限】2,000ポイント【1回あたりの進呈上限】1,000ポイント",
+      "confidence": "confirmed"
+    }
+  ]
+}
