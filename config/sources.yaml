@@ -39,7 +39,7 @@
   domains:
   - docomo.ne.jp
   follow:
-    pattern: ^https://dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp_[0-9]+/[^?#]+)(?:\?[^#]*)?$
+    pattern: ^https://(?:dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp_[0-9]+/[^?#]+)|www\.docomo\.ne\.jp/campaign_event/[^?#]+)(?:\?[^#]*)?$
     max_new: 20
     render: static
 - id: dbarai-campaign

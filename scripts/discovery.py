@@ -7,7 +7,7 @@ from __future__ import annotations
 
 import hashlib
 import re
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, parse_qs
 
 from collect import extract_links, html_to_text
 from common import WORK_DIR, domain_allowed, http_session, load_json, now_jst, save_json, canonical_detail_url
@@ -18,6 +18,21 @@ def source_for_detail(parent: dict, url: str) -> dict:
     return {**parent, "id": parent["id"] + "--" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:8],
             "url": url, "name": parent["name"] + "（詳細ページ）", "parent": parent["id"],
             "render": follow.get("render", parent.get("render", "static"))}
+
+
+def unwrap_official_link(url: str, domains: set) -> str:
+    """Resolve the observed d-point redirect wrapper without executing JavaScript.
+    The public URL names its destination; only existing official domains qualify.
+    No arbitrary destination is requested or added to the allowlist.
+    """
+    parsed = urlparse(url)
+    if (parsed.hostname == "dpoint.docomo.ne.jp" and parsed.path in
+            ("/cp_7/dpc_lp_rdt_common/index.html", "/cp_7/dpc_lp_rdt_common/direct.html")):
+        targets = parse_qs(parsed.query).get("redirectID", [])
+        if len(targets) != 1 or not targets[0].startswith("https://") or not domain_allowed(targets[0], domains):
+            raise ValueError("公式転送リンクの転送先は許可された公式ドメイン外")
+        return targets[0]
+    return url
 
 
 def resolve_official_link(url: str, hosts: list, domains: set, fetcher) -> str:
@@ -87,6 +102,11 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
             except Exception as e:
                 failures.append({"source_id": page.source["id"], "url": raw_url, "error": str(e)[:200]})
                 continue
+        try:
+            url = unwrap_official_link(url, domains)
+        except ValueError as e:
+            excluded.append({"url": raw_url, "label": label, "reason": str(e)})
+            continue
         url = canonical_detail_url(url)
         if not pattern.search(url) or not domain_allowed(url, domains):
             excluded.append({"url": raw_url, "label": label, "reason": "詳細パターンまたは公式ドメインの対象外"})
