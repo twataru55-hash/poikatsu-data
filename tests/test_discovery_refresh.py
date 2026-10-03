@@ -109,3 +109,16 @@ def test_tracking_changes_do_not_create_new_detail_identity():
     b = 'https://official.example/cp/a/?campaign=one&dspn=bbb&utm_source=b'
     assert discovery.canonical_detail_url(a) == discovery.canonical_detail_url(b)
     assert discovery.canonical_detail_url(a).endswith('?campaign=one')
+
+
+def test_preexisting_tracking_url_matches_canonical_candidate():
+    from candidates import normalize, match_existing
+    from test_unknown_fields import BASE
+    old = normalize(deepcopy(BASE), SOURCE)
+    old['official_url'] = 'https://official.example/cp/a/?campaign=one&scid=old'
+    new = deepcopy(old)
+    new['official_url'] = 'https://official.example/cp/a/?campaign=one'
+    kind, found = match_existing(new, [old])
+    assert kind in ('same', 'changed') and found is old
+    new['official_url'] = 'https://official.example/cp/a/?campaign=two'
+    assert match_existing(new, [old]) == ('new', None)

@@ -9,6 +9,7 @@ import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 
 import yaml
 
@@ -125,6 +126,14 @@ def campaign_id(c: dict) -> str:
     return "cp-" + hashlib.sha1(key.encode("utf-8")).hexdigest()[:10]
 
 
+def canonical_detail_url(url: str) -> str:
+    """Drop known attribution fields, never campaign-selection parameters."""
+    parts = urlparse(url)
+    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+             if k.lower() not in {'dspn', 'scid'} and not k.lower().startswith('utm_')]
+    return urlunparse(parts._replace(query=urlencode(query), fragment=''))
+
+
 def identity_key(c: dict) -> tuple:
     """同じキャンペーン候補かどうかの粗い判定キー（種類・ブランド・対象・開始日時・公式URL）。
     公式URL（詳細ページ）が違えば別キャンペーン。最終判定はタイトル・根拠文の近さも見る（candidates.match_existing）。"""
@@ -137,7 +146,7 @@ def identity_key(c: dict) -> tuple:
         tuple(sorted(scope.get("prefecture_codes") or [])),
         scope.get("municipality") or None,
         (c.get("period") or {}).get("start"),
-        (c.get("official_url") or "").rstrip("/"),
+        canonical_detail_url(c.get("official_url") or "").rstrip("/"),
     )
 
 

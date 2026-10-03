@@ -7,10 +7,10 @@ from __future__ import annotations
 
 import hashlib
 import re
-from urllib.parse import urljoin, urlparse, parse_qsl, urlencode, urlunparse
+from urllib.parse import urljoin, urlparse
 
 from collect import extract_links, html_to_text
-from common import WORK_DIR, domain_allowed, http_session, load_json, now_jst, save_json
+from common import WORK_DIR, domain_allowed, http_session, load_json, now_jst, save_json, canonical_detail_url
 
 
 def source_for_detail(parent: dict, url: str) -> dict:
@@ -18,14 +18,6 @@ def source_for_detail(parent: dict, url: str) -> dict:
     return {**parent, "id": parent["id"] + "--" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:8],
             "url": url, "name": parent["name"] + "（詳細ページ）", "parent": parent["id"],
             "render": follow.get("render", parent.get("render", "static"))}
-
-
-def canonical_detail_url(url: str) -> str:
-    """Strip known attribution only; preserve unknown campaign parameters."""
-    parts = urlparse(url)
-    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
-             if k.lower() not in {'dspn', 'scid'} and not k.lower().startswith('utm_')]
-    return urlunparse(parts._replace(query=urlencode(query), fragment=''))
 
 
 def resolve_official_link(url: str, hosts: list, domains: set, fetcher) -> str:
