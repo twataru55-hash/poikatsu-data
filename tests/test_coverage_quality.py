@@ -37,6 +37,9 @@ def test_material_changes_cannot_be_same(path, value):
     ('2026/10/1～2026/10/31', '2026-10-31', True),
     ('2026-10-01～2026-10-31', '2026-10-31', True),
     ('10月31日～11月2日', '2026-11-02', True),
+    ('2026/8/3-2026/10/4', '2026-10-04', True),
+    ('2026/7/6-2026/10/4', '2026-10-04', True),
+    ('2025/7/6-2025/10/4', '2026-10-04', False),
 ])
 def test_dates_are_scoped(text, day, expected):
     assert date_present(text, parse_dt(day)) is expected
@@ -102,6 +105,16 @@ def test_same_coupon_title_on_different_official_pages_has_distinct_id():
     a=normalize(dict(RAW,type='coupon',official_url='https://paypay.ne.jp/a/'), SRC)
     b=normalize(dict(RAW,type='coupon',official_url='https://paypay.ne.jp/b/'), SRC)
     assert a['id'] != b['id']
+
+
+def test_request_schema_catches_coupon_scope_before_send():
+    from jsonschema import Draft202012Validator
+    validator=Draft202012Validator(load_json(SCHEMA_DIR/'llm_output.schema.json'))
+    coupon=deepcopy(RAW)
+    coupon.update(type='coupon',scope={'kind':'payment_wide','store_ids':[], 'prefecture_codes':[], 'municipality':None})
+    assert list(validator.iter_errors({'campaigns':[coupon]}))
+    coupon['scope'].update(kind='stores',store_ids=['aeon'])
+    validator.validate({'campaigns':[coupon]})
 
 
 def test_coupon_amount_update_with_stable_product_title():

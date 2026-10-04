@@ -9,7 +9,7 @@ from datetime import date
 from common import normalize_text
 
 DATE = re.compile(
-    r"(?<![\d/.-])(?:(?P<y>20\d{2})(?:年|[/.-]))?"
+    r"(?<![\d/.])(?:(?P<y>20\d{2})(?:年|[/.-]))?"
     r"(?P<m>1[0-2]|0?[1-9])(?:月|[/\.])(?P<d>3[01]|[12]\d|0?[1-9])(?:日|(?!\d))"
     r"|(?<!\d)(?P<iy>20\d{2})-(?P<im>\d{2})-(?P<id>\d{2})(?!\d)"
 )

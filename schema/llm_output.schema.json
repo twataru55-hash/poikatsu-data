@@ -12,6 +12,15 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
+        "allOf": [
+          {
+            "if": {"properties": {"type": {"const": "coupon"}}, "required": ["type"]},
+            "then": {"properties": {"scope": {"properties": {
+              "kind": {"const": "stores"},
+              "store_ids": {"minItems": 1}
+            }}}}
+          }
+        ],
         "required": [
           "type",
           "brand_ids",
