@@ -4513,5 +4513,21 @@
       "V02 開始日時が不明（period.start）",
       "V02 終了日時が不明（period.end）"
     ]
+  },
+  "cp-bc38eb24db": {
+    "issue": 593,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
+  },
+  "cp-80d66a5caa": {
+    "issue": 594,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
   }
 }

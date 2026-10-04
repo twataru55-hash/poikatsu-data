@@ -1938,20 +1938,20 @@
   },
   "welcia-offers--6da8c1a1": {
     "hash": "3d16dd5c0727595525172a90c4280d8741dc86eab6eb7e86e0bda9962e44593a",
-    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "fetched_at": "2026-10-04T16:35:34+09:00",
     "chars": 3492,
-    "extraction_revision": 2
+    "extraction_revision": 3
   },
   "iaeon-campaign--0d0f0699": {
     "hash": "415688b309e65a333f94dc59ca92ccdf4a4c2e56d9f7f62a3f18f492685acd12",
-    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "fetched_at": "2026-10-04T16:35:34+09:00",
     "chars": 5008,
-    "extraction_revision": 2
+    "extraction_revision": 3
   },
   "welcia-offers--f1846436": {
     "hash": "c83604e65f59acca4093ef9647d4a65a6cc48a3ab328d8b18d10c8aa5ac4749d",
-    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "fetched_at": "2026-10-04T16:35:34+09:00",
     "chars": 3369,
-    "extraction_revision": 2
+    "extraction_revision": 3
   }
 }

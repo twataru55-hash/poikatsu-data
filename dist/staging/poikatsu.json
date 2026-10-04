@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-04-1629",
-    "generated_at": "2026-10-04T16:29:53+09:00",
+    "data_version": "2026-10-04-1636",
+    "generated_at": "2026-10-04T16:36:50+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 122,
-      "live_campaigns": 105,
+      "campaigns": 125,
+      "live_campaigns": 108,
       "stores": 80,
       "recurring": 7
     }
@@ -1165,6 +1165,117 @@
     }
   ],
   "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア プロテインWチャンス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10スタンプ以上で抽選5名50,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-06T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店・対象品・アプリ登録カード提示。10スタンプ以上（応募使用分含む）でWチャンス自動参加。",
+      "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+      "id": "cp-25654d5182"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア プロテインスタンプラリー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5スタンプ1,000pt・10で3,000pt",
+        "cap_per_use": null,
+        "cap_total": 6000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-06T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象品1会計税込2,000円毎1スタンプ。アプリ登録カード提示。景品応募10/31まで。対象店限定。",
+      "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+      "id": "cp-702bced97f"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア グミの日スタンプラリー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプ30pt・6スタンプ100pt",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象グミ1点1スタンプ。アプリ登録カード提示・応募要。景品応募10/31まで。対象店限定。",
+      "official_url": "https://m.e-welcia.com/drug/202608_guminohi_st",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "period_evidence_quote": "対象期間\n2026/8/3-2026/10/4",
+      "id": "cp-9a6c982590"
+    },
     {
       "type": "reward",
       "brand_ids": [

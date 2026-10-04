@@ -640,5 +640,56 @@
     ],
     "source": "aeonretail-otoku",
     "title": "イオン ありが10デー イオンカード・WAON"
+  },
+  {
+    "id": "cp-9a6c982590",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシア グミの日スタンプラリー"
+  },
+  {
+    "id": "cp-702bced97f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシア プロテインスタンプラリー"
+  },
+  {
+    "id": "cp-25654d5182",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシア プロテインWチャンス"
+  },
+  {
+    "id": "cp-23b333a249",
+    "result": "same",
+    "source": "iaeon-campaign"
+  },
+  {
+    "id": "cp-bc38eb24db",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "iaeon-campaign",
+    "title": "iAEON 電子レシート3枚・50円引券"
+  },
+  {
+    "id": "cp-80d66a5caa",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "iaeon-campaign",
+    "title": "iAEON 電子レシート5枚・追加100円引券"
   }
 ]
