@@ -1,0 +1,40 @@
+{
+  "run_id": "20261004-1635",
+  "created_at": "2026-10-04T16:35:34+09:00",
+  "items": [
+    {
+      "source_id": "welcia-offers--6da8c1a1",
+      "hash": "3d16dd5c0727595525172a90c4280d8741dc86eab6eb7e86e0bda9962e44593a",
+      "prompt_file": "work/prompts/welcia-offers--6da8c1a1.md",
+      "answer_file": "inbox/20261004-1635/welcia-offers--6da8c1a1.json",
+      "parent": "welcia-offers",
+      "url": "https://m.e-welcia.com/drug/202608_guminohi_st"
+    },
+    {
+      "source_id": "welcia-offers--f1846436",
+      "hash": "c83604e65f59acca4093ef9647d4a65a6cc48a3ab328d8b18d10c8aa5ac4749d",
+      "prompt_file": "work/prompts/welcia-offers--f1846436.md",
+      "answer_file": "inbox/20261004-1635/welcia-offers--f1846436.json",
+      "parent": "welcia-offers",
+      "url": "https://m.e-welcia.com/drug/202607_protein_st"
+    },
+    {
+      "source_id": "iaeon-campaign--0d0f0699",
+      "hash": "415688b309e65a333f94dc59ca92ccdf4a4c2e56d9f7f62a3f18f492685acd12",
+      "prompt_file": "work/prompts/iaeon-campaign--0d0f0699.md",
+      "answer_file": "inbox/20261004-1635/iaeon-campaign--0d0f0699.json",
+      "parent": "iaeon-campaign",
+      "url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+      "assets_file": "work/assets/iaeon-campaign--0d0f0699.json"
+    }
+  ],
+  "unchanged": [],
+  "failed": [],
+  "deferred": [],
+  "detail_failed": [],
+  "gave_up": [],
+  "coverage": [],
+  "extraction_revision": 3,
+  "correction_of_run_id": "20261004-1621",
+  "note": "同日の取得本文に基づく回答形式修正と日付検証修正後の再送。新規巡回ではない。取り込み時に公式本文を再取得して照合する。"
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア グミの日スタンプラリー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプ30pt・6スタンプ100pt",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-08-03T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象グミ1点1スタンプ。アプリ登録カード提示・応募要。景品応募10/31まで。対象店限定。",
+      "official_url": "https://m.e-welcia.com/drug/202608_guminohi_st",
+      "evidence_quote": "3スタンプ：30ポイントもれなくもらえる\n6スタンプ：100ポイントもれなくもらえる",
+      "period_evidence_quote": "対象期間\n2026/8/3-2026/10/4",
+      "confidence": "confirmed"
+    }
+  ]
+}

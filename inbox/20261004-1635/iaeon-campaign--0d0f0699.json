@@ -1,0 +1,109 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "iAEON 初回電子レシート30WAON POINT",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "初回電子レシートで30WAON POINT",
+        "cap_per_use": null,
+        "cap_total": 30,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象企業店舗で初回税抜600円以上電子レシート。会員コード提示・カード登録・設定ON。ポイント充当除く。",
+      "official_url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+      "evidence_quote": "初回電子レシート発行で30WAON POINT！【エントリー不要】",
+      "period_evidence_quote": "キャンペーン参加期間\n2026年10月1日（木）\n～10月31日（土）",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "aeon-pay"
+      ],
+      "title": "iAEON 電子レシート3枚・50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "AEON Pay限定50円引券1枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": "https://iaeon.go.link/8Qf5f"
+      },
+      "conditions": "北海道・東北・九州・琉球の対象イオン店舗限定。10月に税抜600円以上の電子レシート3枚。利用日未定。",
+      "official_url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+      "evidence_quote": "・電子レシート3枚発行：AEON Pay決済限定共通クーポン 1枚進呈（50円引き）",
+      "period_evidence_quote": "・クーポンのご利用期間は2026年11月下旬から12月中旬を予定しております。",
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "aeon-pay"
+      ],
+      "title": "iAEON 電子レシート5枚・追加100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5枚発行で50円引券と100円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": "https://iaeon.go.link/8Qf5f"
+      },
+      "conditions": "北海道・東北・九州・琉球の対象イオン店舗限定。10月に税抜600円以上の電子レシート5枚。利用日未定。",
+      "official_url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+      "evidence_quote": "・電子レシート5枚発行：AEON Pay決済限定共通クーポン 合計2枚進呈（50円引き＋100円引き）",
+      "period_evidence_quote": "・クーポンのご利用期間は2026年11月下旬から12月中旬を予定しております。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}
