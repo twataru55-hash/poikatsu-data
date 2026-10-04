@@ -16,6 +16,7 @@ llm:
   max_output_tokens: 8192
 
 manual:
+  extraction_revision: 2     # 抽出規則変更時の再確認。本文ハッシュ削除をせず上限内で順次再依頼
   max_sources_per_run: 40     # PC側で1回に抽出を頼むページ数の上限
   give_up_after_unanswered: 3 # 同じ内容のページが続けてこの回数回答されなければ、ページが変わるまで依頼しない
 

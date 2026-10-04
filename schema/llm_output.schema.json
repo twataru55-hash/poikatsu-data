@@ -188,6 +188,11 @@
           "evidence_quote": {
             "type": "string"
           },
+          "period_evidence_quote": {
+            "type": ["string", "null"],
+            "maxLength": 400,
+            "description": "同一の主キャンペーンの期間欄から連続した原文引用。還元根拠から期間欄が遠い場合に使用。"
+          },
           "confidence": {
             "type": "string",
             "enum": [

@@ -21,7 +21,7 @@ FIELDS = [("entry", "required"), ("period", "start"), ("period", "end")]
 def raw_candidate(c):
     schema = common.load_json(common.SCHEMA_DIR / "llm_output.schema.json")
     keys = schema["properties"]["campaigns"]["items"]["properties"]
-    return {k: copy.deepcopy(c[k]) for k in keys}
+    return {k: copy.deepcopy(c[k]) for k in keys if k in c}
 
 
 @pytest.mark.parametrize("parent,key", FIELDS)

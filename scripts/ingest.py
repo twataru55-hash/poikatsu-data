@@ -114,7 +114,8 @@ def run() -> dict:
             stats["llm_calls"] += 1
             campaigns = process_items(answer.get("campaigns", []), src, text, campaigns, master, config,
                                       gh, stats, cand_log, checker)
-            snapshots[sid] = {"hash": item["hash"], "fetched_at": at, "chars": len(text)}
+            snapshots[sid] = {"hash": item["hash"], "fetched_at": at, "chars": len(text),
+                              "extraction_revision": queue.get("extraction_revision", 0)}
             requests.pop(sid, None)
 
         DONE.mkdir(parents=True, exist_ok=True)

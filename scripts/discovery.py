@@ -27,7 +27,8 @@ def unwrap_official_link(url: str, domains: set) -> str:
     """
     parsed = urlparse(url)
     if (parsed.hostname == "dpoint.docomo.ne.jp" and parsed.path in
-            ("/cp_7/dpc_lp_rdt_common/index.html", "/cp_7/dpc_lp_rdt_common/direct.html")):
+            ("/cp_7/dpc_lp_rdt_common/index.html", "/cp_7/dpc_lp_rdt_common/direct.html",
+             "/cp_2/dpc_lp_rdt_cp/index.html")):
         targets = parse_qs(parsed.query).get("redirectID", [])
         if len(targets) != 1 or not targets[0].startswith("https://") or not domain_allowed(targets[0], domains):
             raise ValueError("公式転送リンクの転送先は許可された公式ドメイン外")
@@ -74,7 +75,8 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
     failures, excluded, eligible = [], [], {}
     # Explicit pagination has its own bound. Every omitted list URL is reported.
     if pagination:
-        for _label, url in list(links):
+        # Newly discovered next-page links also enter this bounded traversal.
+        for _label, url in links:
             if not re.search(pagination, url) or not domain_allowed(url, domains) or url in listing_urls:
                 continue
             if len(listing_urls) >= int(follow.get("max_list_pages", 3)):
@@ -114,7 +116,8 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
         eligible.setdefault(url, label)
     # Oldest local check first, including previously ingested URLs. New URLs are
     # prioritised but cannot permanently starve older URLs once discoveries settle.
-    ordered = sorted(eligible, key=lambda u: (checked.get(u, {}).get("at", ""), u))
+    listing_order = {u: i for i, u in enumerate(eligible)}
+    ordered = sorted(eligible, key=lambda u: (checked.get(u, {}).get("attempted_at", checked.get(u, {}).get("at", "")), listing_order[u]))
     budget = int(follow.get("max_new", 20))
     got, unchanged, unvisited = [], [], []
     now = now_jst().isoformat(timespec="seconds")
@@ -134,15 +137,20 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
             if len(text) < 50:
                 raise RuntimeError("本文がほぼ空")
             digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
-            checked[url] = {"at": now, "hash": digest, "source_id": src["id"]}
+            checked[url] = {"at": now, "attempted_at": now, "hash": digest, "source_id": src["id"]}
             (WORK_DIR / "pages").mkdir(parents=True, exist_ok=True)
             (WORK_DIR / "pages" / (src["id"] + ".txt")).write_text(text, encoding="utf-8")
             from prepare import link_section
-            if force or snapshots.get(src["id"], {}).get("hash") != digest:
+            from collect import save_page_assets
+            save_page_assets(html, src, final_url)
+            revision = int(config.get("manual", {}).get("extraction_revision", 0))
+            snap = snapshots.get(src["id"], {})
+            if force or snap.get("hash") != digest or snap.get("extraction_revision", 0) != revision:
                 got.append((src, text + link_section(extract_links(html, final_url)), digest))
             else:
                 unchanged.append(src["id"])
         except Exception as e:
+            checked.setdefault(url, {}).update(attempted_at=now, error=str(e)[:200])
             failures.append({"source_id": src["id"], "url": url, "error": str(e)[:200]})
     result = {"source_id": page.source["id"], "at": now, "listing_pages": sorted(listing_urls),
               "discovered": [{"url": u, "label": t} for u, t in eligible.items()],

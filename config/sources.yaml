@@ -1,4 +1,29 @@
 # 公式ポイント一覧＋店舗公式のクーポン・値引き。取得上限・未巡回URLはwork/discoveryに記録。
+- id: iaeon-campaign
+  name: iAEON公式アプリ公開キャンペーン
+  url: https://www.aeon.com/aeonapp/campaign/
+  brand_ids: [waon-point, aeon-pay, aeon-card, waon]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [aeon.com, aeon.co.jp]
+  follow:
+    pattern: ^https://www\.aeon\.com/aeonapp/campaign/[A-Za-z0-9_-]+/(?:\?[^#]*)?$
+    max_new: 12
+    render: static
+- id: welcia-offers
+  name: ウエルシア公式のポイント・クーポン企画
+  url: https://m.e-welcia.com/campaign-lists
+  brand_ids: [waon-point, vpoint, aeon-pay]
+  store_ids: [welcia-group]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [e-welcia.com, welcia-yakkyoku.co.jp, tsuruha-kcp.com]
+  follow:
+    pattern: ^https://(?:m\.e-welcia\.com/drug/[A-Za-z0-9_-]+|www\.tsuruha-kcp\.com/cp/[A-Za-z0-9_-]+/(?:welcia/)?)(?:\?[^#]*)?$
+    max_new: 15
+    render: static
 - id: paypay-event
   name: PayPay キャンペーン一覧
   url: https://paypay.ne.jp/event/
@@ -38,8 +63,10 @@
   frequency: daily
   domains:
   - docomo.ne.jp
+  - poplar-cvs.co.jp
+  - tower.jp
   follow:
-    pattern: ^https://(?:dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp_[0-9]+/[^?#]+)|www\.docomo\.ne\.jp/campaign_event/[^?#]+)(?:\?[^#]*)?$
+    pattern: ^https://(?:dpoint\.docomo\.ne\.jp/(?:static/cp/[^?#]+|cp_[0-9]+/[^?#]+)|www\.docomo\.ne\.jp/campaign_event/[^?#]+|www\.poplar-cvs\.co\.jp/campaign/dpoint\.html|tower\.jp/article/campaign/[0-9/]+)(?:\?[^#]*)?$
     max_new: 20
     render: static
 - id: dbarai-campaign
@@ -160,6 +187,8 @@
   follow:
     pattern: ^https://(?:cpn\.tsite\.jp/(?:detail|page|stamp/detail)/[a-z0-9-]+|web\.tsite\.jp/(?:app/push|cpn)/[^?#]+|lot\.tsite\.jp/)(?:\?[^#]*)?$
     max_new: 20
+    pagination_pattern: ^https://cpn\.tsite\.jp/list/(?:new|before-the-end|all\?page=[0-9]+)$
+    max_list_pages: 4
 - id: smbc-member-campaign
   name: 三井住友カード 会員向けキャンペーン
   url: https://www.smbc-card.com/memfs/campaign/index.jsp
@@ -187,6 +216,8 @@
   follow:
     pattern: ^https://www\.waon\.net/campaign/(?!p_\d+/|old/|list/)[A-Za-z0-9_-]+/$
     max_new: 20
+    pagination_pattern: ^https://www\.waon\.net/campaign/p_[0-9]+/$
+    max_list_pages: 4
 - id: aeonretail-otoku
   name: イオン お得・キャンペーン
   url: https://www.aeonretail.jp/otoku/
@@ -204,7 +235,7 @@
   - aeonretail.jp
   - aeon.co.jp
   follow:
-    pattern: ^https://www\.aeonretail\.jp/campaign/(?:pointC-[A-Za-z0-9-]+|pointback|ariga10)/(?:(?:index\.html))?(?:\?[^#]*)?$
+    pattern: ^https://www\.aeonretail\.jp/campaign/(?:pointC-[A-Za-z0-9-]+|pointX|pointback|ariga10)/(?:(?:index\.html))?(?:\?[^#]*)?$
     max_new: 20
     render: static
 - id: familymart-offers

@@ -73,6 +73,8 @@ def normalize(raw: dict, source: dict) -> dict:
     }
     if source.get("kind") == "secondary":
         c["confidence"] = "unconfirmed"
+    if raw.get("period_evidence_quote"):
+        c["period_evidence_quote"] = _clean_str(raw["period_evidence_quote"])
     c["id"] = campaign_id(c)
     return c
 
@@ -85,6 +87,10 @@ def match_existing(c: dict, existing: list[dict]) -> tuple[str, dict | None]:
     best, best_score = None, 0.0
     for e in existing:
         if identity_key(e) != ik:
+            continue
+        # Coupon products on one page often share nearly identical prose.
+        # A different product/denomination title must not overwrite its neighbour.
+        if c.get("type") == "coupon" and normalize_text(e.get("title")) != normalize_text(c.get("title")):
             continue
         score = max(
             SequenceMatcher(None, normalize_text(e.get("title", "")), normalize_text(c.get("title", ""))).ratio(),

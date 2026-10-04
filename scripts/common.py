@@ -120,7 +120,7 @@ def campaign_id(c: dict) -> str:
             scope.get("municipality"),
             (c.get("period") or {}).get("start"),
             c.get("title"),
-        ],
+        ] + ([canonical_detail_url(c.get("official_url") or "")] if c.get("type") == "coupon" else []),
         ensure_ascii=False,
     )
     return "cp-" + hashlib.sha1(key.encode("utf-8")).hexdigest()[:10]
@@ -151,14 +151,19 @@ def identity_key(c: dict) -> tuple:
 
 
 def content_key(c: dict) -> tuple:
-    """内容が同じかどうか（終了日・還元率・上限）。"""
+    """Detect material changes, including non-percentage coupons and eligibility."""
     b = c.get("benefit") or {}
     return (
         (c.get("period") or {}).get("end"),
         b.get("rate_max"),
+        normalize_text(b.get("rate_text")),
         b.get("cap_per_use"),
         b.get("cap_total"),
+        b.get("cap_unit"),
         (c.get("entry") or {}).get("required"),
+        canonical_detail_url((c.get("entry") or {}).get("url") or ""),
+        normalize_text(c.get("conditions")),
+        c.get("confidence"),
     )
 
 

@@ -64,8 +64,31 @@ def extract_links(html: str, base_url: str) -> list[tuple[str, str]]:
             label = " ".join(a.get_text(" ").split())
             if not label and a.find("img") is not None:
                 label = (a.find("img").get("alt") or "").strip()
-            out.append((label[:60], url))
+            out.append((label[:200], url))
     return out
+
+
+def save_page_assets(html: str, source: dict, base_url: str) -> dict:
+    """Keep evidence gaps visible; image/PDF URLs are not extracted facts."""
+    soup = BeautifulSoup(html, "lxml")
+    root = soup.select_one(source["content_selector"]) if source.get("content_selector") else soup.find("main")
+    root = root or soup.body or soup
+    images, seen = [], set()
+    for img in root.find_all("img"):
+        raw = img.get("data-src") or img.get("src") or ""
+        url = urljoin(base_url, raw)
+        if not raw or not url.startswith("https://") or url in seen:
+            continue
+        seen.add(url)
+        images.append({"url": url, "alt": (img.get("alt") or "").strip()})
+    pdfs = [{"label": label, "url": url} for label, url in extract_links(html, base_url)
+            if urlparse(url).path.lower().endswith(".pdf")]
+    result = {"source_id": source["id"], "official_url": base_url,
+              "fetched_at": now_jst().isoformat(timespec="seconds"), "images": images, "pdfs": pdfs,
+              "images_without_alt": sum(not i["alt"] for i in images),
+              "status": "references_only_not_verified_content"}
+    save_json(WORK_DIR / "assets" / (source["id"] + ".json"), result)
+    return result
 
 
 class Fetcher:
@@ -172,10 +195,14 @@ def collect(sources: list[dict], config: dict, force: bool = False, record_snaps
             if len(text) < 50:
                 raise RuntimeError("本文がほぼ空（JS描画ページの可能性）")
             digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
-            changed = force or snapshots.get(sid, {}).get("hash") != digest
+            revision = int(config.get("manual", {}).get("extraction_revision", 0))
+            changed = (force or snapshots.get(sid, {}).get("hash") != digest
+                       or snapshots.get(sid, {}).get("extraction_revision", 0) != revision)
             if record_snapshots:
-                snapshots[sid] = {"hash": digest, "fetched_at": now.isoformat(timespec="seconds"), "chars": len(text)}
+                snapshots[sid] = {"hash": digest, "fetched_at": now.isoformat(timespec="seconds"), "chars": len(text),
+                                  "extraction_revision": revision}
             (WORK_DIR / "pages" / f"{sid}.txt").write_text(text, encoding="utf-8")
+            save_page_assets(html, src, fetcher.last_url or src["url"])
             st.update(fail_count=0, last_ok=now.isoformat(timespec="seconds"), last_error=None)
             pages.append(Page(src, text, changed, True, digest=digest, links=extract_links(html, fetcher.last_url or src["url"])))
         except Exception as e:  # noqa: BLE001

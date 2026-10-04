@@ -12,6 +12,7 @@ from datetime import timedelta
 from typing import Callable
 
 from campaign_shape import CANDIDATE_VALIDATOR, unknown_required_fields
+from date_evidence import date_present
 
 from common import (
     domain_allowed,
@@ -132,6 +133,10 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
         found = bool(quote_norm) and quote_norm in page_norm
         if ctx.run("V06") and not found:
             reasons.append("V06 根拠文が公式ページ本文に見つからない")
+        period_quote = normalize_text(c.get("period_evidence_quote", ""))
+        period_found = bool(period_quote) and period_quote in page_norm
+        if ctx.run("V06") and period_quote and not period_found:
+            reasons.append("V06 期間の根拠文が公式ページ本文に見つからない")
         if ctx.run("V07") and found:
             near = _window(page_norm, quote_norm, int(cfg_v.get("evidence_window", 600)))
             rate = benefit.get("rate_max")
@@ -140,8 +145,12 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
             try:
                 start = parse_dt(c["period"]["start"])
                 end = parse_dt(c["period"]["end"])
-                if not any(v in near for v in _date_variants(start) + _date_variants(end)):
-                    reasons.append("V07 根拠の近くに開始日・終了日が見つからない")
+                # A separate, literal period quote handles distant terms without
+                # searching every unrelated campaign/date elsewhere on the page.
+                date_text = period_quote if period_quote else near
+                for label, dt in (("開始日", start), ("終了日", end)):
+                    if not date_present(date_text, dt):
+                        reasons.append(f"V07 同一企画の期間根拠に{label}が見つからない")
             except (KeyError, ValueError):
                 pass
 

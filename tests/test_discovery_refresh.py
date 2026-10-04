@@ -51,6 +51,50 @@ def test_force_includes_processed_unchanged_detail(tmp_path,monkeypatch):
     assert len(got)==1
 
 
+def test_revision_change_requeues_without_deleting_snapshot(tmp_path,monkeypatch):
+    monkeypatch.setattr(discovery,'WORK_DIR',tmp_path)
+    url='https://official.example/cp/a/'
+    sid=discovery.source_for_detail(SOURCE,url)['id']
+    snap={sid:{'hash':hashlib.sha256(TEXT.encode()).hexdigest(), 'extraction_revision':1}}
+    original=deepcopy(snap)
+    page=SimpleNamespace(source=SOURCE,links=[('detail',url)])
+    got,failed=discovery.discover_and_refresh(page,{'manual':{'extraction_revision':2}},snap,Fetcher())
+    assert len(got)==1 and not failed and snap==original
+
+
+def test_failed_url_cannot_starve_next_url(tmp_path,monkeypatch):
+    monkeypatch.setattr(discovery,'WORK_DIR',tmp_path)
+    class F(Fetcher):
+        def get_static(self,url):
+            if url.endswith('/a/'):
+                self.urls.append(url)
+                raise RuntimeError('HTTP 404')
+            return super().get_static(url)
+    page=SimpleNamespace(source=SOURCE,links=[('a','https://official.example/cp/a/'),('b','https://official.example/cp/b/')])
+    f=F()
+    discovery.discover_and_refresh(page,{}, {},f)
+    got,failed=discovery.discover_and_refresh(page,{}, {},f)
+    assert len(got)==1 and not failed and f.urls[-1].endswith('/b/')
+
+
+def test_pagination_follows_newly_discovered_next_page(tmp_path,monkeypatch):
+    monkeypatch.setattr(discovery,'WORK_DIR',tmp_path)
+    src=deepcopy(SOURCE);src['follow'].update(max_new=4,pagination_pattern=r'/list/[23]/$',max_list_pages=3)
+    class F(Fetcher):
+        def get_static(self,url):
+            self.urls.append(url)
+            if url.endswith('/list/2/'):
+                return '<main><a href="/list/3/">next</a></main>'
+            if url.endswith('/list/3/'):
+                return '<main><a href="/cp/b/">detail</a></main>'
+            return '<main>'+TEXT+'</main>'
+    page=SimpleNamespace(source=src,links=[('next','https://official.example/list/2/')])
+    f=F();audit={}
+    got,failed=discovery.discover_and_refresh(page,{}, {},f,audit=audit)
+    assert len(got)==1 and not failed
+    assert 'https://official.example/list/3/' in audit['listing_pages']
+
+
 def test_budget_rotates_and_reports_unvisited(tmp_path,monkeypatch):
     urls=['https://official.example/cp/a/','https://official.example/cp/b/']
     _,_,first,audit=run(tmp_path,monkeypatch,urls=urls)

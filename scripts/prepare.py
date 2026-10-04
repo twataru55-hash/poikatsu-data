@@ -108,6 +108,8 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
 
     queue = {"run_id": run_id, "created_at": now.isoformat(timespec="seconds"),
              "items": [], "unchanged": [], "failed": [], "deferred": [], "detail_failed": [], "gave_up": [], "coverage": []}
+    queue["extraction_revision"] = int(config.get("manual", {}).get("extraction_revision", 0))
+    queue["visual_review"] = []
     snapshots = load_json(DATA_DIR / "snapshots.json", {})
     # GitHub 側（ingest）が記録する依頼の状態：後回しにされた日時・回答されなかった回数
     state = load_json(DATA_DIR / "request_state.json", {})
@@ -139,6 +141,14 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
         item = {"source_id": sid, "hash": digest, "prompt_file": f"work/prompts/{sid}.md", "answer_file": answer_file}
         if src.get("parent"):
             item.update(parent=src["parent"], url=src["url"])
+        assets_path = WORK_DIR / "assets" / f"{sid}.json"
+        assets = load_json(assets_path, {})
+        if assets.get("images_without_alt") or assets.get("pdfs"):
+            item["assets_file"] = f"work/assets/{sid}.json"
+            queue["visual_review"].append({"source_id": sid, "assets_file": item["assets_file"],
+                                         "images_without_alt": assets.get("images_without_alt", 0),
+                                         "pdfs": len(assets.get("pdfs", [])),
+                                         "status": "unverified_references"})
         queue["items"].append(item)
 
     selected = with_detail_limit(load_sources(), detail_limit_override)
@@ -170,6 +180,8 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
     for src, text, digest, _group in fair_order(pending, state):
         add_item(src, text, digest)
 
+    from crawl_coverage import record_coverage
+    record_coverage(queue, selected)
     save_json(run_dir / "queue.json", queue)
     save_json(WORK_DIR / "discovery" / "latest-coverage.json", {"run_id": run_id, "sources": queue["coverage"], "deferred": queue["deferred"], "failed": queue["failed"], "detail_failed": queue["detail_failed"]})
     return {"ok": True, "run_id": run_id, "to_answer": [i["prompt_file"] for i in queue["items"]],
