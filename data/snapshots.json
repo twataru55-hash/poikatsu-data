@@ -406,8 +406,9 @@
   },
   "aeonretail-otoku--219279c2": {
     "hash": "87cbc8556d9cd1db73d5d6c72d116684d1cd3dff0be78318d7acea6cf1815c4b",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
-    "chars": 3056
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 3056,
+    "extraction_revision": 2
   },
   "rakuten-pay-campaign--fcf77407": {
     "hash": "63e1897328f0d567af8a13ac1fa020069406a47c0f00c1127b221ce46b9efb2a",
@@ -1736,8 +1737,9 @@
   },
   "aeonretail-otoku--13aca246": {
     "hash": "8a47ecb2f4b4c657adc73b6a553059e570f72319ca6fe619d878c843e4f67cf3",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 1417
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 1417,
+    "extraction_revision": 2
   },
   "seven-offers--f31092d2": {
     "hash": "bbae898a2b31205f560da0de0ceaacd0e5a8705afeca5cb4facc0e7e9efdd507",
@@ -1766,8 +1768,9 @@
   },
   "aeonretail-otoku--f2d3c1bf": {
     "hash": "20aadfd81e341b7be5e908537ae8082b06f6b906e8e469b1966466d80ef21c7e",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 1450
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 1450,
+    "extraction_revision": 2
   },
   "tsuruha-offers--77f49f2a": {
     "hash": "11aef61fd4427c337971e8e03de0691d15c084461a771b3bde82fbe2cdc9941d",
@@ -1908,5 +1911,47 @@
     "hash": "e087541a7fe6b7c036b380c6e1d97947a2f6e9219c927f4f32b805229b04dcf7",
     "fetched_at": "2026-10-04T09:05:09+09:00",
     "chars": 6123
+  },
+  "iaeon-campaign--fa39cb03": {
+    "hash": "2daf5cfbc86be81f7a367d536675da0c162cb6937d8e496dcfe8f2f8dab00810",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 2430,
+    "extraction_revision": 2
+  },
+  "welcia-offers--e5673a6f": {
+    "hash": "0af2ce75ccca232c89f39d91cc9195270f832301954378535fa2e9a877a07dae",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 4504,
+    "extraction_revision": 2
+  },
+  "aeonretail-otoku--823fbd6a": {
+    "hash": "01c73fea3b93e985d3a44098d6ce9d17f33a5589b9d762994423dca2ba1c902c",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 1620,
+    "extraction_revision": 2
+  },
+  "welcia-offers--857b6e46": {
+    "hash": "39a04d4af6e379cccfecd5a5911249e8c8ceab26ef3267aa31eb01ad8efac7e5",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 1732,
+    "extraction_revision": 2
+  },
+  "welcia-offers--6da8c1a1": {
+    "hash": "3d16dd5c0727595525172a90c4280d8741dc86eab6eb7e86e0bda9962e44593a",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 3492,
+    "extraction_revision": 2
+  },
+  "iaeon-campaign--0d0f0699": {
+    "hash": "415688b309e65a333f94dc59ca92ccdf4a4c2e56d9f7f62a3f18f492685acd12",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 5008,
+    "extraction_revision": 2
+  },
+  "welcia-offers--f1846436": {
+    "hash": "c83604e65f59acca4093ef9647d4a65a6cc48a3ab328d8b18d10c8aa5ac4749d",
+    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "chars": 3369,
+    "extraction_revision": 2
   }
 }

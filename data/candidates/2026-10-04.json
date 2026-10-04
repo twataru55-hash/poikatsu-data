@@ -518,5 +518,127 @@
     "reasons": [],
     "source": "rakuten-pointcard-campaign",
     "title": "西友・リヴィン10/31増量日最大7倍"
+  },
+  {
+    "id": "cp-51c1290c50",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン直営売場 WAON POINT基本10倍"
+  },
+  {
+    "id": "cp-a6b5aac4a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア ビオレWAON POINT20%還元"
+  },
+  {
+    "id": "cp-6dbe2cd023",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン お酒WAON POINT基本10倍"
+  },
+  {
+    "id": "cp-9a6c982590",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア グミの日スタンプラリー"
+  },
+  {
+    "id": "cp-9b5f17b239",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン 殺虫剤等WAON POINT基本20倍"
+  },
+  {
+    "id": "cp-23b333a249",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "iaeon-campaign",
+    "title": "iAEON 初回電子レシート30WAON POINT"
+  },
+  {
+    "id": "cp-8f7b5d41c8",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: scope/kind: 'stores' was expected / scope/store_ids: [] should be non-empty"
+    ],
+    "source": "iaeon-campaign",
+    "title": "iAEON 電子レシート3枚・50円引券"
+  },
+  {
+    "id": "cp-76173fc581",
+    "result": "discard",
+    "match": "new",
+    "reasons": [
+      "V01 形式エラー: scope/kind: 'stores' was expected / scope/store_ids: [] should be non-empty"
+    ],
+    "source": "iaeon-campaign",
+    "title": "iAEON 電子レシート5枚・追加100円引券"
+  },
+  {
+    "id": "cp-702bced97f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア プロテインスタンプラリー"
+  },
+  {
+    "id": "cp-25654d5182",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア プロテインWチャンス"
+  },
+  {
+    "id": "cp-6c1560b453",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン ありが10デー AEON Pay"
+  },
+  {
+    "id": "cp-bb43809b16",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン ありが10デー イオンカード・WAON"
   }
 ]

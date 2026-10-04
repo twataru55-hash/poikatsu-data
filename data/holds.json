@@ -4446,5 +4446,72 @@
     "reasons": [
       "V07 根拠の近くに開始日・終了日が見つからない"
     ]
+  },
+  "cp-51c1290c50": {
+    "issue": 584,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-a6b5aac4a3": {
+    "issue": 585,
+    "created": "2026-10-04",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ]
+  },
+  "cp-6dbe2cd023": {
+    "issue": 586,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-9a6c982590": {
+    "issue": 587,
+    "created": "2026-10-04",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ]
+  },
+  "cp-9b5f17b239": {
+    "issue": 588,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-702bced97f": {
+    "issue": 589,
+    "created": "2026-10-04",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ]
+  },
+  "cp-25654d5182": {
+    "issue": 590,
+    "created": "2026-10-04",
+    "reasons": [
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ]
+  },
+  "cp-6c1560b453": {
+    "issue": 591,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
+  },
+  "cp-bb43809b16": {
+    "issue": 592,
+    "created": "2026-10-04",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
   }
 }

@@ -439,7 +439,7 @@
   },
   "aeonretail-otoku--219279c2": {
     "fail_count": 0,
-    "last_ok": "2026-10-04T09:05:09+09:00",
+    "last_ok": "2026-10-04T16:21:37+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -2311,7 +2311,7 @@
   },
   "aeonretail-otoku--13aca246": {
     "fail_count": 0,
-    "last_ok": "2026-10-04T09:05:09+09:00",
+    "last_ok": "2026-10-04T16:21:37+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -2347,7 +2347,7 @@
   },
   "aeonretail-otoku--f2d3c1bf": {
     "fail_count": 0,
-    "last_ok": "2026-10-04T09:05:09+09:00",
+    "last_ok": "2026-10-04T16:21:37+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -2485,7 +2485,7 @@
   },
   "aeonretail-otoku--7066b2f4": {
     "fail_count": 0,
-    "last_ok": "2026-10-04T09:05:09+09:00",
+    "last_ok": "2026-10-04T16:21:37+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -2540,6 +2540,66 @@
   "rakuten-pointcard-campaign--9764f393": {
     "fail_count": 0,
     "last_ok": "2026-10-04T09:05:09+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "iaeon-campaign--fa39cb03": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "welcia-offers--e5673a6f": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "aeonretail-otoku--823fbd6a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "iaeon-campaign--21fa299a": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "welcia-offers--857b6e46": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "iaeon-campaign--3c54a57f": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "welcia-offers--6da8c1a1": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "iaeon-campaign--0d0f0699": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "welcia-offers--f1846436": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
+    "last_error": null,
+    "issue_open": false
+  },
+  "iaeon-campaign--178c71d7": {
+    "fail_count": 0,
+    "last_ok": "2026-10-04T16:21:37+09:00",
     "last_error": null,
     "issue_open": false
   }

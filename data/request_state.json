@@ -132,5 +132,21 @@
     "unanswered": 1,
     "hash": "6495d855ebf96e19d230c116819e95d0963c94706edfb8e49b76cbde60caf555",
     "deferred_since": "2026-10-04T09:05:09+09:00"
+  },
+  "iaeon-campaign--178c71d7": {
+    "deferred_since": "2026-10-04T16:21:37+09:00"
+  },
+  "aeonretail-otoku--7066b2f4": {
+    "deferred_since": "2026-10-04T16:21:37+09:00"
+  },
+  "iaeon-campaign--21fa299a": {
+    "unanswered": 1,
+    "hash": "235bd48510d6b59955899677b40ef43df0331564c851fa01f7ddd05d63eaa97a",
+    "deferred_since": "2026-10-04T16:21:37+09:00"
+  },
+  "iaeon-campaign--3c54a57f": {
+    "unanswered": 1,
+    "hash": "235bd48510d6b59955899677b40ef43df0331564c851fa01f7ddd05d63eaa97a",
+    "deferred_since": "2026-10-04T16:21:37+09:00"
   }
 }
