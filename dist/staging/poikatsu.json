@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-03-1555",
-    "generated_at": "2026-10-03T15:55:53+09:00",
+    "data_version": "2026-10-04-0940",
+    "generated_at": "2026-10-04T09:40:50+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 115,
-      "live_campaigns": 98,
+      "campaigns": 121,
+      "live_campaigns": 104,
       "stores": 80,
       "recurring": 7
     }
@@ -1170,42 +1170,6 @@
       "brand_ids": [
         "dpoint"
       ],
-      "title": "ウェルパーク10/3 ポイント利用10％返還",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "利用dポイントの10％還元",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-03T00:00:00+09:00",
-        "end": "2026-10-03T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-6bc7e69f42"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
       "title": "ウェルパーク10/4 dポイント5倍",
       "benefit": {
         "rate_max": null,
@@ -2084,6 +2048,42 @@
       "brand_ids": [
         "rakuten-point"
       ],
+      "title": "ジョーシン抽選500名1,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選500名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-25T00:00:00+09:00",
+        "end": "2026-10-18T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on"
+      },
+      "conditions": "楽天・ジョーシン両カード提示、単品200円税抜以上。利用登録・メルマガ購読。通販・対象外決済除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-d60360118f"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
       "title": "Joshin 楽天ポイント抽選",
       "benefit": {
         "rate_max": null,
@@ -2637,6 +2637,44 @@
       "id": "cp-8500c42a39"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ビバホーム等ペット対象商品最大300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ペット商品最大300ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "musashi",
+          "nicopet",
+          "vivahome"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天ポイントカード提示・利用登録。対象ペット商品単品ごとに進呈。一部店・商品除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-82b8def06a"
+    },
+    {
       "type": "reward",
       "brand_ids": [
         "rakuten-point"
@@ -2854,7 +2892,7 @@
       "conditions": "楽天連携コーナンプラス会員コード提示、税抜200円以上。利用登録・メルマガ購読",
       "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-04",
       "status_override": null,
       "id": "cp-093a0e69b9"
     },
@@ -2900,6 +2938,78 @@
     {
       "type": "lottery",
       "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ベイシア抽選1,000名に1,000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名に1,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "beisia"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天ポイントカード等提示、1回200円税抜以上。利用登録が必要、対象外店舗・商品あり",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-21861164e1"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "富士薬品グループ抽選10,000名100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選10,000名に100ポイント",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "fujiyakuhin-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/fujiyakuhin/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天ポイント連携セイムスアプリ提示・200円税抜以上、メルマガ購読。対象6ブランド、調剤薬局除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-4adfd84619"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
         "dpoint"
       ],
       "title": "フォーエル dポイント抽選",
@@ -2932,6 +3042,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-52d47836ee"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ファミマエントリー1pt＆SPU抽選10,000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "エントリー1pt・抽選50名10,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/familymart/20261001?ekey=mp_on"
+      },
+      "conditions": "抽選は楽天ポイントカード提示・月3,000円税込以上のSPU達成。利用登録・メルマガ購読、対象外あり",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/familymart/20261001/spu/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-7f35bdd470"
     },
     {
       "type": "reward",
@@ -3117,6 +3263,44 @@
     {
       "type": "lottery",
       "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ビバホーム等抽選5,000名楽天ポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選5,000名に楽天ポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "musashi",
+          "nicopet",
+          "vivahome"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/arclands/20261001?ekey=mp_on"
+      },
+      "conditions": "対象店で楽天ポイントカード提示、1回2,000円税抜以上。利用登録・メルマガ購読が必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-e60e4a5fa1"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
         "ponta"
       ],
       "title": "ローソン Ponta抽選還元 10月",
@@ -3187,42 +3371,6 @@
       "id": "cp-17f86dbf86"
     },
     {
-      "type": "lottery",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "ベイシア 楽天ポイント抽選",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選1,000名に1,000ポイント",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "beisia"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-01T00:00:00+09:00",
-        "end": "2026-10-31T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "登録済みカード提示、1会計200円税抜以上で1ポイント以上獲得。FC10店舗除外",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/beisia/20261001/?scid=wi_pym_cpn_list",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-21861164e1"
-    },
-    {
       "type": "reward",
       "brand_ids": [
         "d-barai",
@@ -3258,6 +3406,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-267726d774"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/31増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-31T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ内ポイントカード提示＋対象楽天決済。日計2,500円税抜以上・同一楽天ID。日上限250pt",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-42adf56b3d"
     },
     {
       "type": "lottery",
@@ -4867,6 +5051,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-39059ee892"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コナカグループ抽選3人に1人500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選3人に1人500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "konaka-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/konaka/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天ポイントカード提示・100円税抜以上。利用登録・メルマガ必要、DIFFERENCE・通販除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-04",
+      "status_override": null,
+      "id": "cp-5fb7182697"
     },
     {
       "type": "reward",

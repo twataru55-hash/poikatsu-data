@@ -110,7 +110,7 @@
     "deferred_since": "2026-10-03T13:37:33+09:00"
   },
   "ministop-waon": {
-    "unanswered": 2,
+    "unanswered": 3,
     "hash": "7f148c8f2d3e6cf082919f2486b3dfd9688b661b163ab6fe2a3f1f9fb0caa9fd",
     "deferred_since": "2026-10-03T13:37:33+09:00"
   },
@@ -118,5 +118,19 @@
     "unanswered": 2,
     "hash": "6495d855ebf96e19d230c116819e95d0963c94706edfb8e49b76cbde60caf555",
     "deferred_since": "2026-10-03T13:37:33+09:00"
+  },
+  "rakuten-pointcard-campaign--9cd3204c": {
+    "deferred_since": "2026-10-04T09:05:09+09:00"
+  },
+  "rakuten-pointcard-campaign--232ac483": {
+    "deferred_since": "2026-10-04T09:05:09+09:00"
+  },
+  "rakuten-pointcard-campaign--9764f393": {
+    "deferred_since": "2026-10-04T09:05:09+09:00"
+  },
+  "tsuruha-offers--2dd8e1a2": {
+    "unanswered": 1,
+    "hash": "6495d855ebf96e19d230c116819e95d0963c94706edfb8e49b76cbde60caf555",
+    "deferred_since": "2026-10-04T09:05:09+09:00"
   }
 }

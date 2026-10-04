@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cp-1466e84fd2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "グーン×スギ薬局グループ最大＋30％"
+  },
+  {
+    "id": "cp-2802cb137e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペングループ抽選100名全額ポイントバック"
+  },
+  {
+    "id": "cp-7c38924aeb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ドトールグループ17時以降Pontaポイント2倍"
+  },
+  {
+    "id": "cp-f0948420de",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン対象売場のお酒WAON POINT10倍"
+  },
+  {
+    "id": "cp-01680f9177",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/7(水)開始・セブンカフェR"
+  },
+  {
+    "id": "cp-2b52c490d0",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/7(水)開始・カフェラテ"
+  },
+  {
+    "id": "cp-37920961c3",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/14(水)開始・セブンカフェR"
+  },
+  {
+    "id": "cp-35fbebfa1c",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/14(水)開始・のむヨーグルト"
+  },
+  {
+    "id": "cp-0cd5496a5a",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/21(水)開始・セブンカフェR"
+  },
+  {
+    "id": "cp-66aaaedb79",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/21(水)開始・果汁100％オレンジ・アップル"
+  },
+  {
+    "id": "cp-d8fa44e127",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/28(水)開始・セブンカフェR"
+  },
+  {
+    "id": "cp-5cff10e4b4",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンV引換券10/28(水)開始・まるで完熟マンゴー・白桃"
+  },
+  {
+    "id": "cp-82b8def06a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ビバホーム等ペット対象商品最大300ポイント"
+  },
+  {
+    "id": "cp-71e11c3e70",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン殺虫剤等WAON POINT20倍"
+  },
+  {
+    "id": "cp-be95a10cea",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（50%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "Coke ON Pay d払い初利用＋50％"
+  },
+  {
+    "id": "cp-e60e4a5fa1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ビバホーム等抽選5,000名楽天ポイント5倍"
+  },
+  {
+    "id": "cp-ce4e7fa32e",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ対象店au PAY1,000円引き期間①"
+  },
+  {
+    "id": "cp-83df418f34",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ対象店au PAY1,000円引き期間②"
+  },
+  {
+    "id": "cp-5f2b5edbbc",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ対象店au PAY1,000円引き期間③"
+  },
+  {
+    "id": "cp-6ce72c8913",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ビックカメラ対象店au PAY1,000円引き期間④"
+  },
+  {
+    "id": "cp-9be3be9127",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10・15・25日ヘアカラー10倍"
+  },
+  {
+    "id": "cp-e54a6fa57f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ダスキンd払い1,500ポイント第二弾"
+  },
+  {
+    "id": "cp-0187a006bb",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ベイシア抽選1,000名に1,000ポイント"
+  },
+  {
+    "id": "cp-4fbe619dba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "オーケー×ドトール抽選100Pontaポイント"
+  },
+  {
+    "id": "cp-aa8407f72a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日オーラルケア10倍"
+  },
+  {
+    "id": "cp-2ab206fb24",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ジョイフル本田等毎月dポイント5倍"
+  },
+  {
+    "id": "cp-3a0ba8a6e3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ENEOS初めて・久しぶり抽選最大10,000pt"
+  },
+  {
+    "id": "cp-c170ad68f2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "UCC対象店17時以降au PAY1.5％"
+  },
+  {
+    "id": "cp-97199d4b66",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオンわんにゃんデー対象ペット商品20倍"
+  },
+  {
+    "id": "cp-812f533b84",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "tsuruha-offers",
+    "title": "ツルハグループ対象商品最大20％還元"
+  },
+  {
+    "id": "cp-50194d2113",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "オータニd払い抽選181名最大20,000pt"
+  },
+  {
+    "id": "cp-7f35bdd470",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ファミマエントリー1pt＆SPU抽選10,000pt"
+  },
+  {
+    "id": "cp-f69e574139",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10・25日シャンプー等10倍"
+  },
+  {
+    "id": "cp-4adfd84619",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "富士薬品グループ抽選10,000名100pt"
+  },
+  {
+    "id": "cp-09c0e0b33f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "aupay-campaign",
+    "title": "丸善・ジュンク堂書店au PAY最大5％"
+  },
+  {
+    "id": "cp-365fd07ab4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月5日WAON POINT20％バック"
+  },
+  {
+    "id": "cp-397af00c34",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "玉光堂等新譜予約購入楽天ポイント2倍"
+  },
+  {
+    "id": "cp-d60360118f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ジョーシン抽選500名1,000ポイント"
+  },
+  {
+    "id": "cp-093a0e69b9",
+    "result": "same",
+    "source": "rakuten-pointcard-campaign"
+  },
+  {
+    "id": "cp-5fb7182697",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コナカグループ抽選3人に1人500ポイント"
+  },
+  {
+    "id": "cp-6b2a238d54",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン×花王対象商品最大20％"
+  },
+  {
+    "id": "cp-1554fbe229",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/5増量日最大7倍"
+  },
+  {
+    "id": "cp-7729cc81d0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/10増量日最大7倍"
+  },
+  {
+    "id": "cp-10ff859ab9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/12増量日最大7倍"
+  },
+  {
+    "id": "cp-e181b225df",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/17増量日最大7倍"
+  },
+  {
+    "id": "cp-ec35d6c887",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/19増量日最大7倍"
+  },
+  {
+    "id": "cp-2a7a896557",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/21増量日最大7倍"
+  },
+  {
+    "id": "cp-fdc352ee5d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/22増量日最大7倍"
+  },
+  {
+    "id": "cp-3cb9d66f32",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/23増量日最大7倍"
+  },
+  {
+    "id": "cp-9b52e988c4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/24増量日最大7倍"
+  },
+  {
+    "id": "cp-a75a4e6c14",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/25増量日最大7倍"
+  },
+  {
+    "id": "cp-7c8669e2d3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 根拠の近くに開始日・終了日が見つからない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/26増量日最大7倍"
+  },
+  {
+    "id": "cp-42adf56b3d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友・リヴィン10/31増量日最大7倍"
+  }
+]
