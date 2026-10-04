@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ビバホーム等ペット対象商品最大300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ペット商品最大300ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "楽天ポイントカード提示・利用登録。対象ペット商品単品ごとに進呈。一部店・商品除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

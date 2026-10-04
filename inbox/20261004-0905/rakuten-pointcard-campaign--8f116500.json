@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン×花王対象商品最大20％",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象花王商品最大20％還元",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kohnan-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-11-09T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/mtu/2026/0908/kao?ekey=mp_on"
+      },
+      "conditions": "コーナン・ビーバートザン対象店限定。楽天ポイントカード提示、花王対象商品1回5,000円税込以上",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/mtu/kao-20260908/",
+      "evidence_quote": "2026年9月8日（火）0:00～2026年11月9日（月）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

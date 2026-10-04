@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon-point",
+        "aeon-card"
+      ],
+      "title": "イオンわんにゃんデー対象ペット商品20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ペットフード・用品基本20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月11・12・21・22日。本州（東北除く）・四国直営売場、指定ペット商品を対象クレジット払い",
+      "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/",
+      "evidence_quote": "毎月 11日、12日、21日、22日はわんにゃんデー ペットフード・用品　ポイント20倍",
+      "confidence": "confirmed"
+    }
+  ]
+}

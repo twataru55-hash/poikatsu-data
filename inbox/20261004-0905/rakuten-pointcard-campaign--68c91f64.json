@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ENEOS初めて・久しぶり抽選最大10,000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大10,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "eneos"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/eneos/20261001?ekey=mp_on"
+      },
+      "conditions": "7～9月にENEOSで楽天ポイントカード提示なし。今回提示・1回600円税抜以上、利用登録・メルマガ必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/eneos/20261001/",
+      "evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

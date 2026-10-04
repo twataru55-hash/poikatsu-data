@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "オーケー×ドトール抽選100Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1,000名100pt、外れた方3pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "okay",
+          "doutor-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "東京・神奈川・千葉・埼玉・大阪・兵庫の対象店で両チェーン各200円税込以上をau PAYコード支払い",
+      "official_url": "https://aupay-cp.auone.jp/202610_ok_doutor",
+      "evidence_quote": "キャンペーン期間\r\n2026年10月1日（木）～10月31日（土）",
+      "confidence": "confirmed"
+    }
+  ]
+}

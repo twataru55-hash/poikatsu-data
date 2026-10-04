@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "グーン×スギ薬局グループ最大＋30％",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "対象商品累計8,000円以上で最大＋30％",
+        "cap_per_use": null,
+        "cap_total": 2500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sugi-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "グーン対象商品をd払いコード提示で購入。6,000円以上は最大＋20％。一部店・商品除外",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/daiouseishi_goon_2609_MI0177/index.html",
+      "evidence_quote": "■キャンペーン期間\r\n2026年9月1日（火）～2026年10月31日（土）",
+      "confidence": "confirmed"
+    }
+  ]
+}

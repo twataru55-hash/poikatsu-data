@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "UCC対象店17時以降au PAY1.5％",
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "17時以降1.5％（通常等のポイント含む）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "UCC対象3ブランドの対象店限定。17～23:59、200円税込以上au PAYコード支払い。対象外店あり",
+      "official_url": "https://aupay-cp.auone.jp/202610_ucc_limited",
+      "evidence_quote": "キャンペーン期間\r\n2026年10月1日（木）～12月31日（木）",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コナカグループ抽選3人に1人500ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選3人に1人500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "konaka-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/konaka/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天ポイントカード提示・100円税抜以上。利用登録・メルマガ必要、DIFFERENCE・通販除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/",
+      "evidence_quote": "2026年10月1日（木）10:00～2026年11月30日（月）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ダスキンd払い1,500ポイント第二弾",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20,000円税込以上で1,500ポイント",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "duskin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象お掃除サービスをd払いコード決済で1回2万円税込以上。第二弾は1人1回、対象外サービス・支払いあり",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_duskin_260401_7263/index.html",
+      "evidence_quote": "第二弾：2026年9月1日（火）午前0：00 ～ 2026年11月30日（月）午後11：59",
+      "confidence": "confirmed"
+    }
+  ]
+}

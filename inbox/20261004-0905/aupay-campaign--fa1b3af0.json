@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "丸善・ジュンク堂書店au PAY最大5％",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "合計2,000円以上で最大5％還元",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "丸善・ジュンク堂の対象店限定。au PAYコード支払いで合計2,000円税込以上、対象外店・商品・売場あり",
+      "official_url": "https://camp.auone.jp/campaign/8620554bd397c9406dae1b0f",
+      "evidence_quote": "2026年10月1日(木) 00:00 〜 2026年10月31日(土) 23:59",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ジョイフル本田等毎月dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "月合計5,000円税込以上で5倍",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joyfulhonda-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2022-07-15T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=CPM27111"
+      },
+      "conditions": "毎月エントリー、対象d払いコード決済。月上限1,000pt、ポイント利用・リフォーム等除外、終了未定",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_joyfulhonda_250401_6223/index.html",
+      "evidence_quote": "■キャンペーン期間\r\n2022年7月15日（金）0：00～終了未定",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

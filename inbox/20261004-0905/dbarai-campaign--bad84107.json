@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "オータニd払い抽選181名最大20,000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選181名に最大20,000ポイント",
+        "cap_per_use": null,
+        "cap_total": 20000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "otani"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://gpcp229.tda.docomo.ne.jp/camsys/campaign.jsp?b=DPAYSC2608&x1=0595"
+      },
+      "conditions": "対象d払いコード支払い1回1,000円税込以上・レシート応募。指定きせかえで当選確率3倍、対象外支払いあり",
+      "official_url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/dpay_sp-otani_260901_7720/index.html",
+      "evidence_quote": "■キャンペーン・エントリー期間\r\n2026年9月1日（火）午前0：00～2026年10月31日（土）午後11：59",
+      "confidence": "confirmed"
+    }
+  ]
+}

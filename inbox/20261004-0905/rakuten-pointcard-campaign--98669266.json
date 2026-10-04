@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "富士薬品グループ抽選10,000名100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選10,000名に100ポイント",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "fujiyakuhin-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/fujiyakuhin/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天ポイント連携セイムスアプリ提示・200円税抜以上、メルマガ購読。対象6ブランド、調剤薬局除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/",
+      "evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

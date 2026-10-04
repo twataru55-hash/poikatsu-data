@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ビバホーム等抽選5,000名楽天ポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選5,000名に楽天ポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/arclands/20261001?ekey=mp_on"
+      },
+      "conditions": "対象店で楽天ポイントカード提示、1回2,000円税抜以上。利用登録・メルマガ購読が必要",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/",
+      "evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}

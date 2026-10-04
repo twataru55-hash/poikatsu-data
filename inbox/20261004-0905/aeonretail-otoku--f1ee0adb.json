@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon-point",
+        "aeon-pay",
+        "aeon-card"
+      ],
+      "title": "イオン毎月10・25日シャンプー等10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象シャンプー・リンス基本10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月10・25日。本州（東北除く）・四国の直営売場、対象決済。WAONタッチ除く、対象外ブランド等あり",
+      "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/",
+      "evidence_quote": "毎月10日・25日はイオン・イオンスタイル直営売場で、シャンプー・リンスをイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍",
+      "confidence": "confirmed"
+    }
+  ]
+}
