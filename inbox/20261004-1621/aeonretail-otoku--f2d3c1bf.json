@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point",
+        "aeon-card",
+        "aeon-pay"
+      ],
+      "title": "イオン 殺虫剤等WAON POINT基本20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "殺虫剤・防虫剤・除湿剤で基本20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本州（東北除く）・四国直営。対象カード・AEON Pay（WAONタッチ除く）。ペット・園芸用除外。",
+      "official_url": "https://www.aeonretail.jp/campaign/pointC-2/",
+      "evidence_quote": "10/10(土)～10/12(月・祝)イオン・イオンスタイル直営売場で、殺虫剤・防虫剤・除湿剤をイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の20倍。",
+      "period_evidence_quote": "10/10(土)～10/12(月・祝)イオン・イオンスタイル直営売場で、殺虫剤・防虫剤・除湿剤をイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の20倍。",
+      "confidence": "confirmed"
+    }
+  ]
+}

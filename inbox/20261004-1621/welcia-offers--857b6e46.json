@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア ビオレWAON POINT20%還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象ビオレ税抜購入額20%還元",
+        "cap_per_use": null,
+        "cap_total": 1200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-07T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店・アプリ登録カード提示。1会計税込1,500円以上（同額を対象外とする注記もあり）。",
+      "official_url": "https://www.tsuruha-kcp.com/cp/biorecp2026/welcia/",
+      "evidence_quote": "エントリー＆1回の買い物でビオレシリーズ1,500円（税込）以上購入でもれなくWAON POINT20%進呈",
+      "period_evidence_quote": "実施期間 2026年9月7日（月）～10月4日（日）",
+      "confidence": "confirmed"
+    }
+  ]
+}

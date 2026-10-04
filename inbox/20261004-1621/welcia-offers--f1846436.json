@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア プロテインスタンプラリー",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5スタンプ1,000pt・10で3,000pt",
+        "cap_per_use": null,
+        "cap_total": 6000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-06T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象品1会計税込2,000円毎1スタンプ。アプリ登録カード提示。景品応募10/31まで。対象店限定。",
+      "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+      "evidence_quote": "5スタンプ：1,000ポイント もれなくもらえる\n10スタンプ：3,000ポイント もれなくもらえる",
+      "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア プロテインWチャンス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10スタンプ以上で抽選5名50,000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-06T00:00:00+09:00",
+        "end": "2026-10-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店・対象品・アプリ登録カード提示。10スタンプ以上（応募使用分含む）でWチャンス自動参加。",
+      "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+      "evidence_quote": "スタンプ10個以上貯まった方に抽選で5名様に50,000ポイント当たる",
+      "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+      "confidence": "confirmed"
+    }
+  ]
+}

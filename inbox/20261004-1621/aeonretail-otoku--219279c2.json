@@ -1,0 +1,77 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point",
+        "aeon-pay"
+      ],
+      "title": "イオン ありが10デー AEON Pay",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "毎月10日AEON Pay基本10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本州（東北除く）・四国の直営売場限定。毎月10日。対象外商品あり。他の倍付企画併用不可。",
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "evidence_quote": "AEON Payのスマホ決済をご利用の場合、各ご利用200円(税込)ごとに、1ポイントのところ毎月10日は10ポイントプレゼント！",
+      "period_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point",
+        "aeon-card",
+        "waon"
+      ],
+      "title": "イオン ありが10デー イオンカード・WAON",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "毎月10日対象カード・WAON基本5倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本州（東北除く）・四国の直営売場限定。毎月10日。対象外商品あり。他の倍付企画併用不可。",
+      "official_url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "evidence_quote": "イオンカード、電子マネーWAONカードご利用の場合、各ご利用200円(税込)ごとに、1ポイントのところ毎月10日は5ポイントプレゼント！",
+      "period_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

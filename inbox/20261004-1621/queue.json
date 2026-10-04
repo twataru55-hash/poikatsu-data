@@ -1,0 +1,1069 @@
+{
+  "run_id": "20261004-1621",
+  "created_at": "2026-10-04T16:21:37+09:00",
+  "items": [
+    {
+      "source_id": "iaeon-campaign--fa39cb03",
+      "hash": "2daf5cfbc86be81f7a367d536675da0c162cb6937d8e496dcfe8f2f8dab00810",
+      "prompt_file": "work/prompts/iaeon-campaign--fa39cb03.md",
+      "answer_file": "inbox/20261004-1621/iaeon-campaign--fa39cb03.json",
+      "parent": "iaeon-campaign",
+      "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_shopentry500/",
+      "assets_file": "work/assets/iaeon-campaign--fa39cb03.json"
+    },
+    {
+      "source_id": "welcia-offers--e5673a6f",
+      "hash": "0af2ce75ccca232c89f39d91cc9195270f832301954378535fa2e9a877a07dae",
+      "prompt_file": "work/prompts/welcia-offers--e5673a6f.md",
+      "answer_file": "inbox/20261004-1621/welcia-offers--e5673a6f.json",
+      "parent": "welcia-offers",
+      "url": "https://www.tsuruha-kcp.com/cp/kracie-wheelchair2026/"
+    },
+    {
+      "source_id": "aeonretail-otoku--823fbd6a",
+      "hash": "01c73fea3b93e985d3a44098d6ce9d17f33a5589b9d762994423dca2ba1c902c",
+      "prompt_file": "work/prompts/aeonretail-otoku--823fbd6a.md",
+      "answer_file": "inbox/20261004-1621/aeonretail-otoku--823fbd6a.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointX/"
+    },
+    {
+      "source_id": "iaeon-campaign--21fa299a",
+      "hash": "235bd48510d6b59955899677b40ef43df0331564c851fa01f7ddd05d63eaa97a",
+      "prompt_file": "work/prompts/iaeon-campaign--21fa299a.md",
+      "answer_file": "inbox/20261004-1621/iaeon-campaign--21fa299a.json",
+      "parent": "iaeon-campaign",
+      "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_present01/",
+      "assets_file": "work/assets/iaeon-campaign--21fa299a.json"
+    },
+    {
+      "source_id": "welcia-offers--857b6e46",
+      "hash": "39a04d4af6e379cccfecd5a5911249e8c8ceab26ef3267aa31eb01ad8efac7e5",
+      "prompt_file": "work/prompts/welcia-offers--857b6e46.md",
+      "answer_file": "inbox/20261004-1621/welcia-offers--857b6e46.json",
+      "parent": "welcia-offers",
+      "url": "https://www.tsuruha-kcp.com/cp/biorecp2026/welcia/"
+    },
+    {
+      "source_id": "aeonretail-otoku--13aca246",
+      "hash": "8a47ecb2f4b4c657adc73b6a553059e570f72319ca6fe619d878c843e4f67cf3",
+      "prompt_file": "work/prompts/aeonretail-otoku--13aca246.md",
+      "answer_file": "inbox/20261004-1621/aeonretail-otoku--13aca246.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointC-1/"
+    },
+    {
+      "source_id": "iaeon-campaign--3c54a57f",
+      "hash": "235bd48510d6b59955899677b40ef43df0331564c851fa01f7ddd05d63eaa97a",
+      "prompt_file": "work/prompts/iaeon-campaign--3c54a57f.md",
+      "answer_file": "inbox/20261004-1621/iaeon-campaign--3c54a57f.json",
+      "parent": "iaeon-campaign",
+      "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_present02/",
+      "assets_file": "work/assets/iaeon-campaign--3c54a57f.json"
+    },
+    {
+      "source_id": "welcia-offers--6da8c1a1",
+      "hash": "3d16dd5c0727595525172a90c4280d8741dc86eab6eb7e86e0bda9962e44593a",
+      "prompt_file": "work/prompts/welcia-offers--6da8c1a1.md",
+      "answer_file": "inbox/20261004-1621/welcia-offers--6da8c1a1.json",
+      "parent": "welcia-offers",
+      "url": "https://m.e-welcia.com/drug/202608_guminohi_st"
+    },
+    {
+      "source_id": "aeonretail-otoku--f2d3c1bf",
+      "hash": "20aadfd81e341b7be5e908537ae8082b06f6b906e8e469b1966466d80ef21c7e",
+      "prompt_file": "work/prompts/aeonretail-otoku--f2d3c1bf.md",
+      "answer_file": "inbox/20261004-1621/aeonretail-otoku--f2d3c1bf.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/pointC-2/"
+    },
+    {
+      "source_id": "iaeon-campaign--0d0f0699",
+      "hash": "415688b309e65a333f94dc59ca92ccdf4a4c2e56d9f7f62a3f18f492685acd12",
+      "prompt_file": "work/prompts/iaeon-campaign--0d0f0699.md",
+      "answer_file": "inbox/20261004-1621/iaeon-campaign--0d0f0699.json",
+      "parent": "iaeon-campaign",
+      "url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+      "assets_file": "work/assets/iaeon-campaign--0d0f0699.json"
+    },
+    {
+      "source_id": "welcia-offers--f1846436",
+      "hash": "c83604e65f59acca4093ef9647d4a65a6cc48a3ab328d8b18d10c8aa5ac4749d",
+      "prompt_file": "work/prompts/welcia-offers--f1846436.md",
+      "answer_file": "inbox/20261004-1621/welcia-offers--f1846436.json",
+      "parent": "welcia-offers",
+      "url": "https://m.e-welcia.com/drug/202607_protein_st"
+    },
+    {
+      "source_id": "aeonretail-otoku--219279c2",
+      "hash": "87cbc8556d9cd1db73d5d6c72d116684d1cd3dff0be78318d7acea6cf1815c4b",
+      "prompt_file": "work/prompts/aeonretail-otoku--219279c2.md",
+      "answer_file": "inbox/20261004-1621/aeonretail-otoku--219279c2.json",
+      "parent": "aeonretail-otoku",
+      "url": "https://www.aeonretail.jp/campaign/ariga10/",
+      "assets_file": "work/assets/aeonretail-otoku--219279c2.json"
+    }
+  ],
+  "unchanged": [],
+  "failed": [],
+  "deferred": [
+    "iaeon-campaign--178c71d7",
+    "aeonretail-otoku--7066b2f4"
+  ],
+  "detail_failed": [
+    {
+      "source_id": "welcia-offers--24f380a6",
+      "url": "https://m.e-welcia.com/drug/202609_vitamin_fair",
+      "error": "本文がほぼ空"
+    }
+  ],
+  "gave_up": [],
+  "coverage": [
+    {
+      "source_id": "iaeon-campaign",
+      "at": "2026-10-04T16:21:47+09:00",
+      "listing_pages": [
+        "https://www.aeon.com/aeonapp/campaign/"
+      ],
+      "discovered": [
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_shopentry500/",
+          "label": "2026/10/1～2026/11/30 【エントリー不要】キャンペーン期間中に、iAEONアプリのお気に入り店舗登録を5店舗以上にされた方の中から、抽選で5,000名さまに500WAON POINTを進呈！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_present01/",
+          "label": "2026/10/1～2026/11/30 すぐに！その場でもらえる！【iAEON5周年×はぴだんぶい】スマホ壁紙プレゼントキャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_present02/",
+          "label": "2026/10/1～2026/11/30 お店を探してプレゼントをゲット♪【iAEON5周年×はぴだんぶい】ぷっくりシールプレゼントキャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt/",
+          "label": "2026/10/1～2026/10/31 エコでおトク！電子レシートはじめようキャンペーン開催中！ 初回発行で30WAON POINT！5枚以上発行でクーポン2枚プレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeon5total/",
+          "label": "2026/9/1～2026/11/30 iAEON 5周年を記念して、スペシャルアイテムを多数ご用意！この機会にぜひiAEONでのお買い物をお楽しみください。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_entry/",
+          "label": "2026/9/1～2026/11/30 期間中、iAEONアプリにてエントリー（応募）すると抽選で合計300名さまに、はぴだんぶいコラボのオリジナルスクエアポーチがあたるチャンス！さらに、新規会員登録された方は当選確率が5倍！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202503_friendprogram/",
+          "label": "毎月最大800WAON POINTもらえる！紹介した方にも、された方にも50WAON POINTプレゼント"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2607_spiderman/",
+          "label": "2026/7/20～2026/8/16 iAEON×スパイダーマンのコラボキャンペーン開催！ARフォトフレームやフォロー＆リポストキャンペーン、デジタルガチャなど、映画の世界を楽しめる限定コンテンツをお楽しもう！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/bookmark2607gogogo/",
+          "label": "2026/7/1～2026/7/31 iAEONお気に入り5店舗登録Go!Go!キャンペーン。 お気に入り店舗登録数が「5店舗」以上の方の中から抽選で100 WAON POINTを10,000名様にプレゼントします。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202606_lawson/",
+          "label": "2026/6/19～2026/7/31 期間中エントリーの上、ローソン店舗でAEON Payを合計1,000円(税込)以上ご利用いただくと、抽選で 2人に1人ご利用金額の15%分のWAON POINTが当たるキャンペーンを実施中！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202606_ereceipt/",
+          "label": "2026/6/8～2026/6/30 エコでおトク！電子レシートキャンペーン開催中！最大10,000WAON POINTが抽選であたるチャンス！！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202606_mustbuy/",
+          "label": "2026/6/1～2026/6/30 iAEONアオハル祭「AEON Payでお買い物キャンペーン」開催中！ 最大10,000WAON POINTがあたるチャンス！！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeonaoharu/",
+          "label": "2026/4/1～2026/6/30 iAEONにエンジェルブルーのナカムラくんがやってきた！ここだけのグッズやワクワクするキャンペーンがいっぱい！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202604_newentry100/",
+          "label": "2026/4/1～2026/6/30 iAEONアプリの新規登録で、もれなく100WAON POINTもらえる！！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202602_lawson_sakurazaka46/",
+          "label": "2026/2/25～2026/3/22 エントリーのうえ、ローソンでAEON Payをご利用いただくと抽選で櫻坂46のブロマイドが当たる!"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202602_ereceipt/",
+          "label": "2026/2/6～2026/2/28 電子レシート1億枚突破キャンペーン開催中♪抽選で最大10,000WAON POINTがあたるチャンス！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202512_newentry50/",
+          "label": "2025/12/5～2026/2/28 キャンペーン期間中、iAEONアプリを新規登録された方にもれなく50WAON POINTを進呈中！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202511_ereceipt/",
+          "label": "2025/11/14～2025/12/14 電子レシートめっちゃ便利キャンペーン開催中！応募条件達成で必ずもらえるWAON POINTの他、抽選で200名さまに1,000WAON POINTのチャンス！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/20250825_jleague/",
+          "label": "2025/8/25～2025/12/6 AEON PayでFC東京を応援しよう！FC東京オリジナルデザインのAEON Payが登場！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2511_blackfridaylottary/",
+          "label": "2025/11/1～2025/11/30 iAEONアプリから毎日チャレンジ！iAEON × ハローキティ ブラックフライデーガチャ"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeon4th_entry/",
+          "label": "2025/9/1～2025/11/30 新規会員登録で合計300名様にオリジナルぬいぐるみチャームプレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeon4th/",
+          "label": "2025/9/1～2025/11/30 【4周年の感謝を記念して】期間中、iAEONからの応募でハローキティの限定オリジナルグッズを抽選でプレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202510_sg_movie4/",
+          "label": "2025/10/15～2025/11/24 映画の公開を記念してコラボキャンペーン開催！すみっコぐらしのグッズがあたる・もらえるキャンペーンに参加しよう！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202510_autmustbuy/",
+          "label": "2025/10/1～2025/10/31 iAEON 秋のお買物キャンペーン！最大10,000WAON POINT♪他にも、iAEONハローキティコラボグッズがあたります！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202508_aut_ereceipt/",
+          "label": "2025/8/25～2025/9/30 iAEON レポート誕生！秋の電子レシートキャンペーン♪選んでもらえるプレゼントキャンペーンを実施中！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202507_summer_newentry/",
+          "label": "2025/7/18～2025/8/17 iAEON(アイイオン)のサマーキャンペーン開催中！ アプリの新規登録で、もれなく100WAON POINT|もらえる！！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202505_ap_ereceipt/",
+          "label": "2025/5/16～2025/6/8 電子レシート×AEON Payらくらく決済キャンペーン開催中！ 1,000WAON POINTが抽選で300名さまに当たるチャンス！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/250516_gacha/",
+          "label": "2025/5/7～2025/5/31 「岸辺露伴は動かない 懺悔室」コラボ開催中！限定グッズが当たるデジタルルーレット開催！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202504_spring_ereceipt/",
+          "label": "2025/4/18～2025/5/6 最大10,000WAON POINTが抽選で当たるチャンス！春の電子レシートキャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202504_newentry/",
+          "label": "2025/4/1～2025/5/6 もれなく50WAON POINTもらえる！新規登録キャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202504_springmustbuy/",
+          "label": "2025/4/1～2025/5/6 ピーターラビット™コラボグッズの他、抽選で合計3,000名さまにあたる！春のお買物キャンペーン開催中！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2503iaeonspringfes/",
+          "label": "2025/3/1～2025/5/6 2025年3月1日～5月6日までiAEON会員限定の春祭りを開催中！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202412_newentry/",
+          "label": "2024/12/16～2025/2/28 もれなく100WAON POINTもらえる！新規登録キャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202407_friendprogram/",
+          "label": "2024/7/1～2025/2/28 もれなく100 WAON POINTもらえる！紹介した方にも、された方にも100 WAON POINTプレゼント。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202411_netsuper_hajimete/",
+          "label": "2024/12/1～2025/2/28 グリーンビーンズ、イオンネットスーパーをキャンペーン期間中に会員登録、はじめてご購入していただいたお客さまに最大600 WAON POINTを進呈いたします。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/kansyadayroulette/",
+          "label": "終了しました 毎月20日・30日 全額ポイントバックのチャンス！毎月20日・30日はAEON Payでお買い物♪"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2501_digitalreceipt/",
+          "label": "2025/1/16～2025/2/20 iAEONの電子レシートご利用で最大1,000万WAON POINT山分け！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2412iaeonfukubukuro/",
+          "label": "2024/12/6～2025/1/5 iAEONアプリからのエントリーで抽選で100名さまに「iAEON ハローキティ ハッピーバッグ」が当たる！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202410_akimaturitohyo/",
+          "label": "2024/10/1~2024/10/31 iAEONアプリで秋祭りキャンペーン実施中！合計100名の方に「厳選デジタルカタログ」をプレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeon3rd/",
+          "label": "2024/9/1~2024/9/30 【iAEON3周年記念】抽選でハローキティのオリジナルグッズプレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/iaeon3rd_aeonpayentry/",
+          "label": "2024/9/1~2024/9/30 【iAEON×AEON Pay3周年記念】iAEONでエントリー&AEON Payでお買い物キャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/digitalreceipt_0621/",
+          "label": "2024/6/21～2024/8/31 期間中に電子レシートを発行いただいた中から、抽選で1,000名様にオリジナルエコバックプレゼント！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/240810roulette/",
+          "label": "2024/8/10～2024/8/15 期間中に対象店舗でAEON Payのご利用で、抽選で最大全額ポイントバック！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/06kansyadayroulette/",
+          "label": "終了しました 6月29日・30日 6月は特別に2日間開催！感謝デー同時開催AEONPayルーレット"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202403_iaeon_spring/",
+          "label": "2024/3/1～2024/5/31 iAEONアプリ新規会員登録でもれなく100 WAON POINTがもらえる！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/gwroulette/",
+          "label": "2024/5/3～2024/5/6 期間中に対象店舗でAEON Payのご利用で、抽選で最大全額ポイントバック！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2023_2024_roulette/",
+          "label": "2023/12/29～2024/1/4 期間中に対象店舗でAEON Payのご利用で、抽選で最大全額ポイントバック！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2304_aeonpaycp0421/",
+          "label": "2023/5/12～2023/5/14 期間中AEON Payでお支払いいただくと、全額ポイントバックのチャンス！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2023_friendprogram/",
+          "label": "2023/3/1～2023/3/31 もれなく200 WAON POINTもらえる！紹介した方にも、された方にも200 WAON POINTプレゼント。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/2023_renewal_travel/",
+          "label": "2023/3/1～2023/3/21 iAEONリニューアル記念！春のエントリーキャンペーン"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202208_aeonpay10x/",
+          "label": "2022/8/23～2022/8/28 イオングループの対象店舗でAEON Pay(スマホ決済)にてお支払いいただくと、WAON POINTを基本の10倍進呈いたします。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202208_godolotterycp/",
+          "label": "2022/8/5～2022/8/7 スマホ決済のAEON Payで支払うと抽選で当たる！お買い上げ金額を1等最大全額ポイントバック"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202202_wpshare/",
+          "label": "2022/3/11〜2022/4/10 iAEONをダウンロードされた方全員で、1,000万WAON POINTを山分け!"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202203_lotterycampaign/",
+          "label": "2022/3/18〜2022/3/21 AEON Pay(コード決済)で抽選で50回に1回の確率で全額ポイントバック！"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202202_friendprogram/",
+          "label": "2022/2/7〜2022/3/31 もれなく200 WAON POINTもらえる！紹介した方にも、された方にも200 WAON POINTプレゼント。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202112_friendprogram/",
+          "label": "2021/12/1〜2022/1/31 もれなく200 WAON POINTもらえる！紹介した方にも、された方にも200 WAON POINTプレゼント。"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202111_aeonpay20/",
+          "label": "2021/11/5〜2021/11/9 【特別企画】AEON Pay(コード決済)で超おトク！！"
+        }
+      ],
+      "fetched": 5,
+      "unchanged": [],
+      "unvisited": [
+        "https://www.aeon.com/aeonapp/campaign/202609_5th_entry/",
+        "https://www.aeon.com/aeonapp/campaign/202503_friendprogram/",
+        "https://www.aeon.com/aeonapp/campaign/2607_spiderman/",
+        "https://www.aeon.com/aeonapp/campaign/bookmark2607gogogo/",
+        "https://www.aeon.com/aeonapp/campaign/202606_lawson/",
+        "https://www.aeon.com/aeonapp/campaign/202606_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/202606_mustbuy/",
+        "https://www.aeon.com/aeonapp/campaign/iaeonaoharu/",
+        "https://www.aeon.com/aeonapp/campaign/202604_newentry100/",
+        "https://www.aeon.com/aeonapp/campaign/202602_lawson_sakurazaka46/",
+        "https://www.aeon.com/aeonapp/campaign/202602_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/202512_newentry50/",
+        "https://www.aeon.com/aeonapp/campaign/202511_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/20250825_jleague/",
+        "https://www.aeon.com/aeonapp/campaign/2511_blackfridaylottary/",
+        "https://www.aeon.com/aeonapp/campaign/iaeon4th_entry/",
+        "https://www.aeon.com/aeonapp/campaign/iaeon4th/",
+        "https://www.aeon.com/aeonapp/campaign/202510_sg_movie4/",
+        "https://www.aeon.com/aeonapp/campaign/202510_autmustbuy/",
+        "https://www.aeon.com/aeonapp/campaign/202508_aut_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/202507_summer_newentry/",
+        "https://www.aeon.com/aeonapp/campaign/202505_ap_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/250516_gacha/",
+        "https://www.aeon.com/aeonapp/campaign/202504_spring_ereceipt/",
+        "https://www.aeon.com/aeonapp/campaign/202504_newentry/",
+        "https://www.aeon.com/aeonapp/campaign/202504_springmustbuy/",
+        "https://www.aeon.com/aeonapp/campaign/2503iaeonspringfes/",
+        "https://www.aeon.com/aeonapp/campaign/202412_newentry/",
+        "https://www.aeon.com/aeonapp/campaign/202407_friendprogram/",
+        "https://www.aeon.com/aeonapp/campaign/202411_netsuper_hajimete/",
+        "https://www.aeon.com/aeonapp/campaign/kansyadayroulette/",
+        "https://www.aeon.com/aeonapp/campaign/2501_digitalreceipt/",
+        "https://www.aeon.com/aeonapp/campaign/2412iaeonfukubukuro/",
+        "https://www.aeon.com/aeonapp/campaign/202410_akimaturitohyo/",
+        "https://www.aeon.com/aeonapp/campaign/iaeon3rd/",
+        "https://www.aeon.com/aeonapp/campaign/iaeon3rd_aeonpayentry/",
+        "https://www.aeon.com/aeonapp/campaign/digitalreceipt_0621/",
+        "https://www.aeon.com/aeonapp/campaign/240810roulette/",
+        "https://www.aeon.com/aeonapp/campaign/06kansyadayroulette/",
+        "https://www.aeon.com/aeonapp/campaign/202403_iaeon_spring/",
+        "https://www.aeon.com/aeonapp/campaign/gwroulette/",
+        "https://www.aeon.com/aeonapp/campaign/2023_2024_roulette/",
+        "https://www.aeon.com/aeonapp/campaign/2304_aeonpaycp0421/",
+        "https://www.aeon.com/aeonapp/campaign/2023_friendprogram/",
+        "https://www.aeon.com/aeonapp/campaign/2023_renewal_travel/",
+        "https://www.aeon.com/aeonapp/campaign/202208_aeonpay10x/",
+        "https://www.aeon.com/aeonapp/campaign/202208_godolotterycp/",
+        "https://www.aeon.com/aeonapp/campaign/202202_wpshare/",
+        "https://www.aeon.com/aeonapp/campaign/202203_lotterycampaign/",
+        "https://www.aeon.com/aeonapp/campaign/202202_friendprogram/",
+        "https://www.aeon.com/aeonapp/campaign/202112_friendprogram/",
+        "https://www.aeon.com/aeonapp/campaign/202111_aeonpay20/"
+      ],
+      "excluded": [
+        {
+          "url": "https://www.aeon.com/aeonapp/content/202508_lawson/",
+          "label": "2025/8/4～2025/8/31 エントリーのうえローソンでAEON Payのコード払いをご利用いただくと、抽選で10,000名さまに最大5,000WAON POINTが当たる",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.co.jp/campaign/member/202506-24/?dpd=1991&cmp=276607&agr=21765220&ad=22766859",
+          "label": "終了しました ＼初めてご利用の方限定／ AEON Pay残高へ、20％還元",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.co.jp/campaign/member/202506-25/?dpd=1991&cmp=276607&agr=21765220&ad=22766858",
+          "label": "終了しました ＼毎週2万名／ 合計10万名に当たる！AEON Payご利用キャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/",
+          "label": "",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        }
+      ],
+      "failed": []
+    },
+    {
+      "source_id": "welcia-offers",
+      "at": "2026-10-04T16:22:02+09:00",
+      "listing_pages": [
+        "https://m.e-welcia.com/campaign-lists"
+      ],
+      "discovered": [
+        {
+          "url": "https://www.tsuruha-kcp.com/cp/kracie-wheelchair2026/",
+          "label": "2026/10/1(木)〜2026/11/30(月) クラシエ車椅子キャンペーンのお知らせ！クラシエ商品ご購入でえらべるデジタルギフトが抽選で1万名様に当たる！"
+        },
+        {
+          "url": "https://www.tsuruha-kcp.com/cp/biorecp2026/welcia/",
+          "label": "2026/9/7(月)〜2026/10/4(日) 【ウエルシアグループアプリからエントリーが必要です】ビオレ全品対象！エントリー＆1回のお買い物でビオレシリーズ1,500円(税込)以上購入でもれなくWAON POINT20％還元！"
+        },
+        {
+          "url": "https://m.e-welcia.com/drug/202609_vitamin_fair",
+          "label": "2026/9/7(月)〜2026/10/4(日) 【エントリーが必要です】対象商品を購入して「夏バテ対策応援！ビタミン・ドリンクWAON POINT10倍フェア」に参加しよう！"
+        },
+        {
+          "url": "https://m.e-welcia.com/drug/202608_guminohi_st",
+          "label": "2026/8/3(月)〜2026/10/4(日) 対象グミ商品を買ってスタンプを貯めよう！最大100WAON POINTがもれなくもらえるスタンプラリー実施中"
+        },
+        {
+          "url": "https://m.e-welcia.com/drug/202607_protein_st",
+          "label": "2026/7/6(月)〜2026/10/4(日) スタンプを貯めてWAON POINTをもらおう！粉末プロテインスタンプラリー"
+        },
+        {
+          "url": "https://m.e-welcia.com/drug/202607_meiji_st",
+          "label": "2026/7/6(月)〜2026/10/4(日) スタンプを貯めてWAON POINTをもらおう！メイバランススタンプラリー"
+        },
+        {
+          "url": "https://m.e-welcia.com/drug/202606_kao_st",
+          "label": "2026/6/1(月)〜2026/11/1(日) アタックZEROとIROKAを買ってスタンプを貯めよう！最大1,000WAON POINTプレゼント"
+        }
+      ],
+      "fetched": 5,
+      "unchanged": [],
+      "unvisited": [
+        "https://m.e-welcia.com/drug/202607_meiji_st",
+        "https://m.e-welcia.com/drug/202606_kao_st"
+      ],
+      "excluded": [
+        {
+          "url": "https://www.welcia-yakkyoku.co.jp/",
+          "label": "ウエルシア薬局株式会社",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://store.welcia.co.jp/welcia/?category=01.02.06.12.18.20",
+          "label": "店舗検索",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://m.e-welcia.com/campaign-lists",
+          "label": "キャンペーン一覧",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://m.e-welcia.com/campaign-lists/closed",
+          "label": "終了したキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.re-style.env.go.jp/3r-campaign/2026/",
+          "label": "2026/10/1(木)〜2026/12/31(木) 大切な資源を未来に繋ぐため、日々のお買い物で３Rを実践しよう",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://bodymainte-theday-campaign-2026.mbr-pg.com/welcia?utm_source=welcia&utm_medium=store&utm_campaign=bodymainte_annual_2610_2612_01",
+          "label": "2026/10/1(木)〜2026/12/25(金) 大塚製薬ボディメンテ×B.LEAGUE THE DAY.キャンペーン実施中！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://e-nepia.com/campaign/cp2026.html?utm_source=appbnr02&utm_medium=app&utm_campaign=necp2026v01&utm_id=necp2026v01",
+          "label": "2026/10/1(木)〜2026/11/30(月) 期間中、対象商品を購入したレシートで応募しよう！ネピアオリジナルグッズが抽選で1,000名様に当たるキャンペーン実施中！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2610ham/?utm_source=welcia&utm_medium=web&utm_campaign=2610ham",
+          "label": "2026/10/2(金)〜2026/10/31(土) 抽選で1,000名さまにNintendo Switch 2 などの賞品が当たる！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2610reishoku/?utm_source=welcia&utm_medium=web&utm_campaign=2610reishoku",
+          "label": "2026/10/2(金)〜2026/10/31(土) 宿泊ペアギフトや3,000円分商品券などが総計2,250名さまに当たる！冷凍食品で食卓を満喫キャンペーン実施中！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.johnsons.jp/speedbeautychargecampaign2026",
+          "label": "2026/9/25(金)〜2026/11/30(月) ジョンソンボディケア購入で齊藤なぎさグッズ＆美容家電が当たる",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://sslcp.jp/haleon-japan-paycp?utm_source=x&utm_medium=sns&utm_campaign=autumncp_w",
+          "label": "2026/9/1(火)〜2026/10/31(土) シュミテクト、カムテクトを買うなら今がチャンス！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www2.iwebms.com/cp/fino2026/",
+          "label": "2026/8/28(金)〜2026/10/4(日) ファイントゥデイfinoブランドご購入レシートでWEB応募いただくと抽選で合計320名様に最大10,000円分のデジタルギフトが当たる！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.info/asiangames/",
+          "label": "2026/7/16(木)〜2026/10/24(土) 愛知・名古屋2026応援メッセージキャンペーン！アジアの頂点を目指す選手にエールを送ろう！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://nskwprintnet.qlear.net/uetan-mojojojo/form/form-unsubmitted",
+          "label": "2026/8/3(月)〜2026/10/4(日) mojojojo限定グッズが当たるキャンペーン実施中！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://m.e-welcia.com/app/applink/app.html",
+          "label": "ウエルシアグループアプリダウンロードはこちら",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://line.me/R/ti/p/@welcia_group",
+          "label": "Line公式アカウント 友だち追加はこちら！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://twitter.com/welcia_jp",
+          "label": "公式X フォローはこちら",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.instagram.com/welcia_official/",
+          "label": "公式Instagram フォローはこちら",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        }
+      ],
+      "failed": [
+        {
+          "source_id": "welcia-offers--24f380a6",
+          "url": "https://m.e-welcia.com/drug/202609_vitamin_fair",
+          "error": "本文がほぼ空"
+        }
+      ]
+    },
+    {
+      "source_id": "aeonretail-otoku",
+      "at": "2026-10-04T16:22:18+09:00",
+      "listing_pages": [
+        "https://www.aeonretail.jp/otoku/"
+      ],
+      "discovered": [
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-1/",
+          "label": "お酒10倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointX/",
+          "label": "【予告】WAONPOINT10倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-2/",
+          "label": "【予告】殺虫剤20倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/ariga10/",
+          "label": "ありが10デー"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointback/",
+          "label": "WAON POINTご利用のお買物でご利用ポイント20％還元！"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-pet/",
+          "label": "ペットフード・用品20倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-oral/",
+          "label": "オーラルケア10倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-hairc/",
+          "label": "ヘアカラー10倍"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/pointC-shampoo/",
+          "label": "シャンプー・リンス10倍"
+        }
+      ],
+      "fetched": 5,
+      "unchanged": [],
+      "unvisited": [
+        "https://www.aeonretail.jp/campaign/pointC-pet/",
+        "https://www.aeonretail.jp/campaign/pointC-oral/",
+        "https://www.aeonretail.jp/campaign/pointC-hairc/",
+        "https://www.aeonretail.jp/campaign/pointC-shampoo/"
+      ],
+      "excluded": [
+        {
+          "url": "https://www.aeonretail.jp/index.html",
+          "label": "AEON",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/",
+          "label": "このページの本文へジャンプします",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/",
+          "label": "トップ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.waon.net/index.html",
+          "label": "WAON[ワオン]",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/shoku/index.html",
+          "label": "Let's食育 [食への取り組み]",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/contact/",
+          "label": "イオンお問い合わせ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/index.html",
+          "label": "お得・キャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/index.html",
+          "label": "商品・サービス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/chirashi/index.html",
+          "label": "チラシ情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/shop/index.html",
+          "label": "店舗検索",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/netshop/index.html",
+          "label": "ネットショップ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/company/",
+          "label": "企業情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/saiyo/index.html",
+          "label": "採用情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/liveshopping/",
+          "label": "ライブで見る！楽しむ！お買物体験！イオンライブショッピング",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2610ham/?utm_source=aeonretail&utm_medium=arjp&utm_campaign=2610ham",
+          "label": "食欲の秋キャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2610reishoku/?utm_source=aeonretail&utm_medium=arjp&utm_campaign=2610reishoku",
+          "label": "冷凍食品で食卓を満喫キャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/regigo/",
+          "label": "レジゴーボーナス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/chirashi/",
+          "label": "アプリでおトク！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://catalog.aeon.co.jp/promotion/DA1-0W/result.html?format=catalog&ids=708&bannerid=om71_XY8EqG1x&exmid=TUP",
+          "label": "イオンカードお支払い限定 Aセレクション 10日間限りの厳選商品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/italiafair/?utm_source=social&utm_medium=referral&utm_campaign=retailjp_top",
+          "label": "【予告】イオン イタリアフェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Page/p-daily-item-pt.aspx?utm_source=aeon_retail&utm_medium=website&utm_campaign=a__202610_1",
+          "label": "イオンスタイルオンライン 日用品がおトク！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Page/p-oktoberfest.aspx?utm_source=aeon_retail&utm_medium=website&utm_campaign=a_aso52_202610_1",
+          "label": "イオンスタイルオンライン オクトーバーフェスト",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202610_ereceipt_first30/?utm_source=iAEON&utm_medium=arweb&utm_campaign=2610_eReceipts",
+          "label": "10月電子レシートキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonbank.co.jp/campaign/account/240301_02/?trcd=g100001237",
+          "label": "【イオン銀行】新規口座開設特典定期預金",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/yogurt260930/",
+          "label": "ヨーグルトフェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://app-api.aeonappli.com/coupon",
+          "label": "お買物アプリ限定！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/aeon_pooh100th/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=retailjp_top",
+          "label": "くまのプーさん原作100周年",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.info/kosodate-fair/?utm_source=aeongroup&utm_medium=banner&utm_term=00&utm_content=website&utm_campaign=kosodate1",
+          "label": "子育てフェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Form/Product/ProductList.aspx?gspscol=400231&psc=5&utm_source=aeon_retail&utm_medium=website&utm_campaign=k_childfea_202609_25",
+          "label": "「共育」子育てフェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Form/Product/ProductList.aspx?gspscol=400819&psc=5&utm_source=aeon_retail&utm_medium=website&utm_campaign=a_childfea_202609_25",
+          "label": "イオンスタイルオンライン 子育てフェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/aeonoktoberfest/",
+          "label": "イオンのオクトーバーフェストは10月1日(木)から12日(月・祝)まで開催！",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://youtu.be/ajOMydcnRZM?list=PLOVl6SYTfg6tr4E3ukxgWu8DcOuymNdBc",
+          "label": "関連ムービー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Form/Product/ProductList.aspx?gspsb=TOMICA(%e3%83%88%e3%83%9f%e3%82%ab)&psc=3&gspss=sell_from%3adesc&gspsp=1&utm_source=aeon_retail&utm_medium=website&utm_campaign=k_roadsafetyfair_202609_18",
+          "label": "秋の交通安全フェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/jleaguecampaign/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=banner",
+          "label": "Jリーグチケットキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Page/k-sale.aspx?utm_source=aeon_retail&utm_medium=website&utm_campaign=k_bss_202609_4",
+          "label": "9月のベビー用品スペシャルセール",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2609yogurt/?utm_source=aeonretail&utm_medium=arjp&utm_campaign=2609yogurt",
+          "label": "ヨーグルトで発酵習慣フェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://campaign.aeonmobile.jp/campaign/10th_september/?utm_source=aeonretailjp&utm_medium=jpbanner&utm_campaign=10th_sep",
+          "label": "【イオンモバイル】家族通信費革命[秋]",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/campaign/202609_5th_entry/?utm_source=iAEON&utm_medium=arweb&utm_campaign=2609_5th_entry",
+          "label": "iAEON×はぴだんぶい",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/2608_kagome/?utm_source=aeonretail&utm_medium=arjp&utm_campaign=2608_kagome",
+          "label": "野菜チャージキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://asiangames-cheer.com",
+          "label": "愛知・名古屋2026応援メッセージキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://iicoto.info/campaign/nissin2026/?utm_source=aeonretail&utm_medium=arjp&utm_campaign=nissin2026",
+          "label": "チキンラーメンバースデーフェス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.info/asiangames/",
+          "label": "つながれ、アジア。イオンは愛知・名古屋2026プレステージパートナー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.co.jp/benefits/bunkatsu0/",
+          "label": "毎月20・30日分割払い手数料0",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.co.jp/campaign/lp/aeoncardwaon/?dpd=1445&cmp=32209&agr=8843690&ad=22001685",
+          "label": "イオンカード",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/aeon_app/",
+          "label": "イオンお買物アプリ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://chirashi.otoku.aeonsquare.net/pc/chirashi/bp/",
+          "label": "お得なボーナスポイント対象商品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonmobile.jp/?utm_source=aeonretailjp&utm_medium=banner&utm_campaign=josetsu",
+          "label": "イオンモバイル",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.waon.net/campaign/20190601_2baipointcp/",
+          "label": "WAONいつでもポイント2倍",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.smartwaon.com/pr/pc/",
+          "label": "smart WAON。たまる、つかえる、わけあえる。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.instagram.com/aeon_japan/",
+          "label": "イオン公式Instagramアカウント",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://twitter.com/AEON_JAPAN",
+          "label": "イオン公式Xアカウント",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/kansyaday.html",
+          "label": "お客さま感謝デー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/ggkansyaday/",
+          "label": "G.G 感謝デー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://youtu.be/dusUnYtpOb8?list=PLOVl6SYTfg6tr4E3ukxgWu8DcOuymNdBc",
+          "label": "関連ムービー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/campaign/yellow_receipt/",
+          "label": "イオン幸せの黄色いレシートキャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://youtu.be/8Bu4AlI0xEA?list=PLOVl6SYTfg6tr4E3ukxgWu8DcOuymNdBc",
+          "label": "関連ムービー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.facebook.com/aeonretail",
+          "label": "イオン公式Facebookページ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonretail.com/Page/k-rand.aspx?utm_source=aeon_retail&utm_medium=website&utm_campaign=k_asb_202602_27",
+          "label": "イオンの新入学 2027",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonshop.com/pages/socialgift?utm_source=aeonretail_jp&utm_medium=referral&utm_campaign=socialgift_aeonretail_jp",
+          "label": "気軽&手軽に！ソーシャルギフト",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeonshop.com/pages/teikibin?utm_source=aeonretail_jp&utm_medium=referral&utm_campaign=teikibin",
+          "label": "イオングルメ定期便",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/otoku/aeon_calendar/",
+          "label": "10月のイベントカレンダー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/gallery/",
+          "label": "映像ギャラリー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.topvalu.net/",
+          "label": "TOPVALUトップバリュ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://aeon-trace.my.salesforce-sites.com/",
+          "label": "国内産牛肉安心確認システム",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.com/aeonapp/",
+          "label": "iAEONアプリ 新規会員募集中!",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/saiyo/",
+          "label": "採用情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeon.info/sustainability/environment/shokuju/",
+          "label": "環境提案",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/spec/",
+          "label": "推奨環境",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/privacy/",
+          "label": "プライバシーポリシー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.aeonretail.jp/terms/",
+          "label": "利用規約",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        }
+      ],
+      "failed": []
+    }
+  ],
+  "extraction_revision": 2,
+  "visual_review": [
+    {
+      "source_id": "iaeon-campaign--fa39cb03",
+      "assets_file": "work/assets/iaeon-campaign--fa39cb03.json",
+      "images_without_alt": 4,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "iaeon-campaign--21fa299a",
+      "assets_file": "work/assets/iaeon-campaign--21fa299a.json",
+      "images_without_alt": 8,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "iaeon-campaign--3c54a57f",
+      "assets_file": "work/assets/iaeon-campaign--3c54a57f.json",
+      "images_without_alt": 5,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "iaeon-campaign--0d0f0699",
+      "assets_file": "work/assets/iaeon-campaign--0d0f0699.json",
+      "images_without_alt": 26,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "aeonretail-otoku--219279c2",
+      "assets_file": "work/assets/aeonretail-otoku--219279c2.json",
+      "images_without_alt": 1,
+      "pdfs": 0,
+      "status": "unverified_references"
+    }
+  ],
+  "source_summary": {
+    "iaeon-campaign": {
+      "run_id": "20261004-1621",
+      "measured_at": "2026-10-04T16:21:37+09:00",
+      "listing_ok": true,
+      "listing_error": null,
+      "discovered": 57,
+      "unvisited": 52,
+      "excluded": 4,
+      "detail_failed": 0,
+      "requested": 4,
+      "deferred": 1,
+      "gave_up": 0,
+      "complete_claim": false
+    },
+    "welcia-offers": {
+      "run_id": "20261004-1621",
+      "measured_at": "2026-10-04T16:21:37+09:00",
+      "listing_ok": true,
+      "listing_error": null,
+      "discovered": 7,
+      "unvisited": 2,
+      "excluded": 18,
+      "detail_failed": 1,
+      "requested": 4,
+      "deferred": 0,
+      "gave_up": 0,
+      "complete_claim": false
+    },
+    "aeonretail-otoku": {
+      "run_id": "20261004-1621",
+      "measured_at": "2026-10-04T16:21:37+09:00",
+      "listing_ok": true,
+      "listing_error": null,
+      "discovered": 9,
+      "unvisited": 4,
+      "excluded": 70,
+      "detail_failed": 0,
+      "requested": 4,
+      "deferred": 1,
+      "gave_up": 0,
+      "complete_claim": false
+    }
+  }
+}
