@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "北海道ツルハ マイヤー商品最大60%OFF",
+      "benefit": {
+        "rate_max": 60,
+        "rate_text": "ポイント券で対象品最大60%OFF",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [
+          "01"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "北海道対象店。税込1000円毎に1券（12/31まで発券）。必要券数・商品別価格は本文不明。除外店あり。",
+      "official_url": "https://www.tsuruha.co.jp/campaign/meyer_20261001/",
+      "evidence_quote": "STEP.4 後日商品を購入\r\n最大60%OFF ※一部の商品を除く",
+      "confidence": "confirmed",
+      "period_evidence_quote": "商品販売期間\r\n2026年10月1日(木)～2027年1月31日(日)"
+    }
+  ]
+}

@@ -1,0 +1,2008 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "遠野市 第2弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "遠野市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "遠野市 第2弾\r\n開催中\r\n2026/10/1 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "野田村 第4弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "野田村"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "野田村 第4弾\r\n開催予定\r\n2026/11/1 〜 11/30",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "奥州市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "奥州市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "奥州市\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "由利本荘市 第5弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "由利本荘市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "由利本荘市 第5弾\r\n開催中\r\n2026/9/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "にかほ市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "05"
+        ],
+        "municipality": "にかほ市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "にかほ市\r\n開催中\r\n2026/9/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "大子町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "08"
+        ],
+        "municipality": "大子町"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "大子町\r\n開催中\r\n2026/10/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "神栖市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "08"
+        ],
+        "municipality": "神栖市"
+      },
+      "period": {
+        "start": "2026-05-15T00:00:00+09:00",
+        "end": "2026-12-18T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "神栖市\r\n開催中\r\n2026/5/15 〜 12/18",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "高根沢町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "高根沢町"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-12-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "高根沢町\r\n開催中\r\n2026/6/1 〜 12/4",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "那須烏山市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "那須烏山市"
+      },
+      "period": {
+        "start": "2026-09-07T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "那須烏山市\r\n開催中\r\n2026/9/7 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "大泉町 第4弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "10"
+        ],
+        "municipality": "大泉町"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "大泉町 第4弾\r\n開催予定\r\n2026/11/1 〜 11/30",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "朝霞市 第2弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "朝霞市"
+      },
+      "period": {
+        "start": "2026-09-28T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "朝霞市 第2弾\r\n開催中\r\n2026/9/28 〜 10/27",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "三郷市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "三郷市"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2026-12-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "三郷市\r\n開催中\r\n2026/7/1 〜 12/25",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "飯能市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "飯能市"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2026-12-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "飯能市\r\n開催中\r\n2026/7/1 〜 12/25",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "坂戸市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "坂戸市"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "坂戸市\r\n開催中\r\n2026/7/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "入間市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "入間市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "入間市\r\n開催中\r\n2026/10/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "荒川区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "荒川区"
+      },
+      "period": {
+        "start": "2026-06-15T00:00:00+09:00",
+        "end": "2027-01-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "荒川区\r\n開催中\r\n2026/6/15 〜 2027/1/10",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "品川区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "品川区"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "品川区\r\n開催中\r\n2026/6/1 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "稲城市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "稲城市"
+      },
+      "period": {
+        "start": "2026-07-03T00:00:00+09:00",
+        "end": "2027-01-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "稲城市\r\n開催中\r\n2026/7/3 〜 2027/1/7",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "墨田区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "墨田区"
+      },
+      "period": {
+        "start": "2026-07-22T00:00:00+09:00",
+        "end": "2027-01-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "墨田区\r\n開催中\r\n2026/7/22 〜 2027/1/17",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "文京区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "文京区"
+      },
+      "period": {
+        "start": "2026-08-17T00:00:00+09:00",
+        "end": "2027-01-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "文京区\r\n開催中\r\n2026/8/17 〜 2027/1/15",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "東久留米市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "東久留米市"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "東久留米市\r\n開催中\r\n2026/9/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "品川区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "品川区"
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2027-02-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "品川区\r\n開催中\r\n2026/9/15 〜 2027/2/28",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "江戸川区 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "江戸川区"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "江戸川区\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "川崎市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "14"
+        ],
+        "municipality": "川崎市"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-12-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "川崎市\r\n開催中\r\n2026/6/1 〜 12/25",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "高岡市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": "高岡市"
+      },
+      "period": {
+        "start": "2026-04-13T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "高岡市\r\n開催中\r\n2026/4/13 〜 10/27",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "上野原市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "19"
+        ],
+        "municipality": "上野原市"
+      },
+      "period": {
+        "start": "2026-05-07T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "上野原市\r\n開催中\r\n2026/5/7 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "甲府市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "19"
+        ],
+        "municipality": "甲府市"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "甲府市\r\n開催中\r\n2026/6/1 〜 11/16",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "松川町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "20"
+        ],
+        "municipality": "松川町"
+      },
+      "period": {
+        "start": "2026-08-03T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "松川町\r\n開催中\r\n2026/8/3 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "北名古屋市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "23"
+        ],
+        "municipality": "北名古屋市"
+      },
+      "period": {
+        "start": "2026-04-06T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "北名古屋市\r\n開催中\r\n2026/4/6 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "半田市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "23"
+        ],
+        "municipality": "半田市"
+      },
+      "period": {
+        "start": "2026-04-20T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "半田市\r\n開催中\r\n2026/4/20 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "東海市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "23"
+        ],
+        "municipality": "東海市"
+      },
+      "period": {
+        "start": "2026-04-20T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "東海市\r\n開催中\r\n2026/4/20 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "南知多町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "23"
+        ],
+        "municipality": "南知多町"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "南知多町\r\n開催中\r\n2026/9/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "菰野町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "24"
+        ],
+        "municipality": "菰野町"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "菰野町\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "精華町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "26"
+        ],
+        "municipality": "精華町"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-12-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "精華町\r\n開催中\r\n2026/9/1 〜 12/15",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "枚方市 第2弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "27"
+        ],
+        "municipality": "枚方市"
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "枚方市 第2弾\r\n開催予定\r\n2026/11/1 〜 11/30",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "門真市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "27"
+        ],
+        "municipality": "門真市"
+      },
+      "period": {
+        "start": "2026-06-29T00:00:00+09:00",
+        "end": "2026-12-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "門真市\r\n開催中\r\n2026/6/29 〜 12/25",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "富田林市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "27"
+        ],
+        "municipality": "富田林市"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "富田林市\r\n開催中\r\n2026/7/1 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "三木市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "28"
+        ],
+        "municipality": "三木市"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "三木市\r\n開催中\r\n2026/6/1 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "西脇市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "28"
+        ],
+        "municipality": "西脇市"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "西脇市\r\n開催中\r\n2026/6/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "紀美野町 第5弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "30"
+        ],
+        "municipality": "紀美野町"
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "紀美野町 第5弾\r\n開催中\r\n2026/9/1 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "紀の川市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "30"
+        ],
+        "municipality": "紀の川市"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "紀の川市\r\n開催中\r\n2026/7/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "倉吉市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "31"
+        ],
+        "municipality": "倉吉市"
+      },
+      "period": {
+        "start": "2026-08-05T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "倉吉市\r\n開催中\r\n2026/8/5 〜 2027/1/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "鳴門市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "36"
+        ],
+        "municipality": "鳴門市"
+      },
+      "period": {
+        "start": "2026-05-07T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "鳴門市\r\n開催中\r\n2026/5/7 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "宇美町 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "宇美町"
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "宇美町\r\n開催中\r\n2026/7/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（VIOROプレミアム商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-08-17T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（VIOROプレミアム商品券）\r\n開催中\r\n2026/8/17 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（福岡市お城まわり電子商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-08-20T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（福岡市お城まわり電子商品券）\r\n開催中\r\n2026/8/20 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（ソラリアステージプレミアム商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-08-28T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（ソラリアステージプレミアム商品券）\r\n開催中\r\n2026/8/28 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（レイリア大橋プレミアム商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-08-28T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（レイリア大橋プレミアム商品券）\r\n開催中\r\n2026/8/28 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "北九州市（サンリブシティ小倉デジタル商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "北九州市"
+      },
+      "period": {
+        "start": "2026-09-16T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "北九州市（サンリブシティ小倉デジタル商品券）\r\n開催中\r\n2026/9/16 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（BiVi福岡モバイル商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-09-18T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（BiVi福岡モバイル商品券）\r\n開催中\r\n2026/9/18 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（ソラリアプラザプレミアム商品券） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（ソラリアプラザプレミアム商品券）\r\n開催中\r\n2026/10/1 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "福岡市（ワンビルプレミアム商品券2026） PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "40"
+        ],
+        "municipality": "福岡市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "福岡市（ワンビルプレミアム商品券2026）\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "唐津市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "41"
+        ],
+        "municipality": "唐津市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民以外も購入可能・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "唐津市\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "島原市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "42"
+        ],
+        "municipality": "島原市"
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "島原市\r\n開催中\r\n2026/6/1 〜 11/30",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "豊後大野市 PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "プレミアム商品券（上乗せ率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "44"
+        ],
+        "municipality": "豊後大野市"
+      },
+      "period": {
+        "start": "2026-08-17T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "住民限定・地域内の対象店舗。商品券の申込・販売期間と詳細条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "豊後大野市\r\n開催中\r\n2026/8/17 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "都城市 第5弾 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "45"
+        ],
+        "municipality": "都城市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "都城市 第5弾\r\n開催中\r\n2026/10/1 〜 10/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "宮古島市 PayPayポイント還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象店でポイント還元（率不明）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "47"
+        ],
+        "municipality": "宮古島市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "地域内の対象店舗でPayPay支払い。還元率・上限・参加条件は未取得。",
+      "official_url": "https://paypay.ne.jp/event/support-local/",
+      "evidence_quote": "宮古島市\r\n開催中\r\n2026/10/1 〜 12/31",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    }
+  ]
+}

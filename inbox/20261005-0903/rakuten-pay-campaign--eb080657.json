@@ -1,0 +1,140 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイようこそ＆おかえり 9月度500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "6～8月に利用なし・9/30まで応募済。コード/QR/セルフ払い計2500円以上。全期間1回限り。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+      "evidence_quote": "楽天ポイントを500ポイント進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年9月1日（火）0:00～2026年10月31日（土）23:59"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイようこそ＆おかえり 10月度500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/welcomeinvitation/20261001"
+      },
+      "conditions": "7～9月に利用なし・10/31まで応募。コード/QR/セルフ払い計2500円以上。全期間1回限り。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+      "evidence_quote": "楽天ポイントを500ポイント進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年11月30日（月）23:59"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイようこそ＆おかえり 11月度500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "8～10月に利用なし・10/30～11/30応募。コード/QR/セルフ払い計2500円以上。全期間1回。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+      "evidence_quote": "楽天ポイントを500ポイント進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年11月1日（日）0:00～2026年12月31日（木）23:59"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイようこそ＆おかえり 12月度500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で500ポイント",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9～11月に利用なし・11/30～12/31応募。コード/QR/セルフ払い計2500円以上。全期間1回。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+      "evidence_quote": "楽天ポイントを500ポイント進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年12月1日（火）0:00～2027年1月31日（日）23:59"
+    }
+  ]
+}

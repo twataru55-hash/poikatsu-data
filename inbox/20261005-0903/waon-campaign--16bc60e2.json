@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "aeon-pay",
+        "waon",
+        "waon-point"
+      ],
+      "title": "毎月10日 AEON Payスマホ決済ポイント10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象スマホ決済で基本10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月10日・対象店舗。AEON Pay/スマホWAON・所有者登録。カード型・JMB・ポイント利用除外。",
+      "official_url": "https://www.waon.net/campaign/aeonpay10/",
+      "evidence_quote": "毎月10日にイオングループの対象店舗でAEON Payのスマホ決済をご利用いただくと、WAON POINTが基本の10倍！(スマホのWAONも対象)",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    }
+  ]
+}

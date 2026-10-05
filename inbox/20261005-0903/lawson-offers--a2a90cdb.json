@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン リポビタンZERO100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "リポビタンZERO100ml1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/29～10/5にリポビタンゼリーc180g購入で発券。1会計発券30枚まで。スマホレジ・一部店除外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532748_3677.html",
+      "evidence_quote": "●下記対象商品を購入すると、無料クーポンがレシートについてきます。\r\nレシート無料券　発券期間　9/29(火)〜10/5(月)\r\n大正製薬　リポビタンゼリーc　180g",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート無料券　引換期間　10/6(火)〜10/12(月)\r\n大正製薬　リポビタンZERO　100ml　＜指定医薬部外品＞"
+    }
+  ]
+}

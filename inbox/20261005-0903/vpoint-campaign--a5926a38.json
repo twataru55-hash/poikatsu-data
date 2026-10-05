@@ -1,0 +1,37 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "VポイントPay 東京ポイント交換で20%還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "通常分込み20%還元・上限1100pt",
+        "cap_per_use": null,
+        "cap_total": 1100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "東京pt100以上交換・ID連携・エントリー。VポイントPayスマホVisaタッチ限定（iD除外）。",
+      "official_url": "https://cpn.tsite.jp/detail/en910040672001",
+      "evidence_quote": "期間中の合計ご利用金額（税込）の20％分のVポイントをプレゼント（上限1,100pt）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）～2026年10月31日（土）"
+    }
+  ]
+}

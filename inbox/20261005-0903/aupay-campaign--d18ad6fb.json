@@ -1,0 +1,214 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 10月10日開始1000円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込2万円以上で1000円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "1回税込2万円以上のコード払い。事前にアプリで券取得。1au ID1回。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "1回20,000円（税込）以上のau PAY（コード支払い）で使える\r\n1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "・期間①：2026年10月10日（土）～10月16日（金）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 10月30日開始1000円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込2万円以上で1000円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "1回税込2万円以上のコード払い。事前にアプリで券取得。1au ID1回。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "1回20,000円（税込）以上のau PAY（コード支払い）で使える\r\n1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "・期間②：2026年10月30日（金）～11月3日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 12月5日開始1000円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込2万円以上で1000円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-05T00:00:00+09:00",
+        "end": "2026-12-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "au/UQスタッフ在籍店限定。税込2万円以上コード払い・アプリ券事前取得・1au ID1回。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "1回20,000円（税込）以上のau PAY（コード支払い）で使える\r\n1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "・期間①：2026年12月5日（土）～6日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 12月19日開始1000円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込2万円以上で1000円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-19T00:00:00+09:00",
+        "end": "2026-12-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "au/UQスタッフ在籍店限定。税込2万円以上コード払い・アプリ券事前取得・1au ID1回。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "1回20,000円（税込）以上のau PAY（コード支払い）で使える\r\n1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "・期間②：2026年12月19日（土）～20日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 指定家電最大60000円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定家電最大60000円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "200円以上コード払い。auひかりプラス新規等・セット割加入と契約店で指定家電同時購入。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "指定家電最大60,000円割引クーポンがその場でもらえる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "【引換可能・利用期間】\r\n・2026年10月10日（土）～10月16日（金）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ 機種変更3300円券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "スマホ機種変更3300円割引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-27T00:00:00+09:00",
+        "end": "2026-12-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/30～11/23に200円以上コード払いで発券。au/UQ指定スマホ機種変更・1au ID1回。",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki",
+      "evidence_quote": "後日使えるスマートフォン機種変更3,300円割引クーポンがもらえる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "【引換可能・利用期間】\r\n・2026年11月27日（金）～12月3日（木）"
+    }
+  ]
+}

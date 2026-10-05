@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "毎月5日 WAON POINT20%ポイントバック",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "WAON POINT利用で20%還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月5日・5pt以上利用。本州（東北除く）・四国の直営売場。電子マネーWAONは対象外。",
+      "official_url": "https://www.aeonretail.jp/campaign/pointback/",
+      "evidence_quote": "たまったポイントをいちばんおトクに使える日 毎月5日は超ポンイト還元デー WAON POINT20%ポイントバック",
+      "confidence": "confirmed",
+      "period_evidence_quote": null
+    }
+  ]
+}

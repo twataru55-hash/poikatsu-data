@@ -1,0 +1,389 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 プリンアラモード 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-23T00:00:00+09:00",
+        "end": "2026-10-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "プリンアラモード\r\nプリンアラモード\r\nメーカー名：ドンレミー\r\n内容量：1個\r\n本体価格 248円\r\n（税込 268円）\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年9月23日～10月6日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 チキン＆うずら玉子串 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。ファストフーズ取扱店限定。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "チキン＆うずら玉子串\r\nチキン＆うずら玉子串\r\n内容量：1本\r\n本体価格 138円\r\n（税込 149円）\r\n※ファストフーズ取扱店限定\r\n※一部店舗除く\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年9月30日～10月6日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 おいしい免疫ケア　睡眠 20P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "おいしい免疫ケア　睡眠\r\nおいしい免疫ケア　睡眠\r\nメーカー名：キリンビバレッジ\r\n内容量：100ml\r\n本体価格 132円\r\n（税込 143円）\r\n20P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月7日～10月20日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 おいしい免疫ケア 20P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "おいしい免疫ケア\r\nおいしい免疫ケア\r\nメーカー名：キリンビバレッジ\r\n内容量：100ml\r\n本体価格 129円\r\n（税込 139円）\r\n20P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月7日～10月20日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 おいしい免疫ケア　カロリーオフ 20P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "おいしい免疫ケア　カロリーオフ\r\nおいしい免疫ケア　カロリーオフ\r\nメーカー名：キリンビバレッジ\r\n内容量：100ml\r\n本体価格 129円\r\n（税込 139円）\r\n20P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月7日～10月20日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 おいしい免疫ケア　＋ダブルビタミン 20P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "おいしい免疫ケア　＋ダブルビタミン\r\nおいしい免疫ケア　＋ダブルビタミン\r\nメーカー名：キリンビバレッジ\r\n内容量：100ml\r\n本体価格 132円\r\n（税込 143円）\r\n20P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月7日～10月20日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 ホワイトロースハム 30P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で30ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ホワイトロースハム\r\nホワイトロースハム\r\nメーカー名：プリマハム\r\n内容量：180g\r\n本体価格 318円\r\n（税込 343円）\r\n30P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月7日～11月3日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 ハッシュドポテト 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。ファストフーズ取扱店限定。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ハッシュドポテト\r\nハッシュドポテト\r\nメーカー名：－\r\n内容量：1個\r\n本体価格 95円\r\n（税込 103円）\r\n※ファストフーズ取扱店限定\r\n※一部店舗除く\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月14日～10月20日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 とろり半熟トッピングたまご 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "とろり半熟トッピングたまご\r\nとろり半熟トッピングたまご\r\nメーカー名：バリューライン\r\n内容量：4個入\r\n本体価格 148円\r\n（税込 160円）\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 温泉たまご 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "温泉たまご\r\n温泉たまご\r\nメーカー名：丸金\r\n内容量：4個入\r\n本体価格 148円\r\n（税込 160円）\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン100 炭火焼鳥ぼんじり串（塩） 10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "レジでPontaカード提示・対象商品購入。一部店舗取扱なし。ファストフーズ取扱店限定。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "炭火焼鳥ぼんじり串（塩）\r\n炭火焼鳥ぼんじり串（塩）\r\nメーカー名：-\r\n内容量：1本\r\n本体価格 120円\r\n（税込 130円）\r\n※ファストフーズ取扱店限定\r\n※一部店舗除く\r\n10P",
+      "confidence": "confirmed",
+      "period_evidence_quote": "展開期間：2026年10月21日～11月3日"
+    }
+  ]
+}

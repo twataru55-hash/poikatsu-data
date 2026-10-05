@@ -1,0 +1,44 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "ザバス PayPay抽選1000名に最大1000円分",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1000名に最大1000円分",
+        "cap_per_use": 1000,
+        "cap_total": 1000,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group",
+          "sugi-group",
+          "tsuruha",
+          "fujiyakuhin-group",
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-16T00:00:00+09:00",
+        "end": "2026-10-15T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で対象ザバス購入額・PayPay額とも1回税込1000円以上。コード提示・10/16購買情報同意。",
+      "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
+      "evidence_quote": "キャンペーン期間中、対象店舗において、1回のお会計でザバス対象商品を合計1,000円（税込）以上購入し、支払いに「PayPay」をご利用いただいた方の中から、抽選で1,000名様に最大1,000円分のPayPayポイントを後日付与。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年9月16日（水）0時00分〜2026年10月15日（木）23時59分"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ローソン10月 Ponta抽選最大4000ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1010名に最大4000pt・落選1pt",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson",
+          "natural-lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "同じPontaカード提示で1pt以上獲得。エントリー月以降・ポイント利用分対象外。ストア100等除外。",
+      "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/?vos=pppjpsspjQ12608040801260605001",
+      "evidence_quote": "2026年10月1日(木)～10月31日(土) 10月は抽選で1,010名様にPontaポイント還元！ お買い物金額が最大実質無料 抽選にはずれても、もれなく1Pontaポイントプレゼント Ponta",
+      "confidence": "confirmed",
+      "period_evidence_quote": "第３弾：2026年10月1日（木）0:00～2026年10月31日（土）23:59"
+    }
+  ]
+}

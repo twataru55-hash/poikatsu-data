@@ -1,0 +1,42 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "伝丸・威風・壱鵠堂・天下一 楽天ポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "denmaru",
+          "ifu",
+          "ikkokudo",
+          "tenkaichi"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店でカード提示し1回税込200円以上・1ポイント以上獲得。終了までに利用登録。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/",
+      "evidence_quote": "楽天ポイントを通常の2倍分進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59"
+    }
+  ]
+}

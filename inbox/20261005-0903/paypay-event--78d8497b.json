@@ -1,0 +1,47 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "エリス ルナフィット PayPay最大30%還元",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "対象品購入で最大30%還元",
+        "cap_per_use": null,
+        "cap_total": 500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group",
+          "sugi-group",
+          "tsuruha",
+          "fujiyakuhin-group",
+          "drug-yutaka",
+          "matsukiyo-cocokara",
+          "okay",
+          "kohnan-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店・対象品（シンプルデザイン除く）。バーコード払い限定。11/2時点で購買情報利用同意。",
+      "official_url": "https://paypay.ne.jp/event/retail-daiopaper-20261005/",
+      "evidence_quote": "キャンペーン期間中、対象店舗において、エリス ルナフィット商品を購入し、支払いに「PayPay」をご利用いただいた方に対して、最大30％のPayPayポイントを後日付与。付与上限は500ポイント／期間。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月5日（月）〜10月31日（土）"
+    }
+  ]
+}

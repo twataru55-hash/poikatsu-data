@@ -1,0 +1,235 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロ黒ラベル缶350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロ黒ラベル缶500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロラガービール350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロラガービール500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロ黒ラベル箱根駅伝缶350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロ黒ラベル箱根駅伝缶500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン サッポロ黒ラベルJRA有馬記念缶350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象ビール50円引き券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/5～10/18に酒購入で1会計1回抽選。次回購入から税抜価格50円引き。併用不可・一部対象外。",
+      "official_url": "https://www.sej.co.jp/cmp/lotsp2610.html",
+      "evidence_quote": "お酒を買うと、次回から使える\r\n対象のサッポロ 黒ラベル缶\r\n50円引きレシートクーポンが\r\n抽選で当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月5日（月）～\r\n10月25日（日）"
+    }
+  ]
+}

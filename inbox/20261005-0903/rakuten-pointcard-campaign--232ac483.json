@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー10月土曜日 カード提示3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント3倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunny"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10月の土曜日限定。1回税抜2500円以上・カード提示・1pt以上獲得・利用登録。テナント等除外。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/",
+      "evidence_quote": "楽天ポイントを通常の3倍分進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "サニー10月土曜日 楽天Edy決済2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sunny"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10月の土曜日限定。楽天Edyで1回税込200円以上・ポイントを貯める利用登録。テナント等除外。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/",
+      "evidence_quote": "楽天ポイントを通常の2倍分進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59"
+    }
+  ]
+}

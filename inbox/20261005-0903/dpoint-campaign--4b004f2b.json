@@ -1,0 +1,433 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ フルーツパウンド dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "フルーツパウンド\r\n本体価格\r\n130\r\n円\r\n(税込\r\n140\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ ビターチョコパウンド dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "ビターチョコパウンド\r\n本体価格\r\n147\r\n円\r\n(税込\r\n158\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ ビッグバウムクーヘン dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "ビッグバウムクーヘン\r\n本体価格\r\n195\r\n円\r\n(税込\r\n210\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ 国産和栗パウンド dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "国産和栗パウンド\r\n本体価格\r\n153\r\n円\r\n(税込\r\n165\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ プレーンワッフル dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "プレーンワッフル\r\n本体価格\r\n175\r\n円\r\n(税込\r\n188\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ クッキー＆クリームワッフル dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "クッキー＆クリームワッフル\r\n本体価格\r\n184\r\n円\r\n(税込\r\n198\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ ココアワッフル dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "ココアワッフル\r\n本体価格\r\n175\r\n円\r\n(税込\r\n188\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ メープルワッフル dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品でdポイント10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "メープルワッフル\r\n本体価格\r\n202\r\n円\r\n(税込\r\n218\r\n円)\r\n10倍\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ 栗入りあずきモナカ dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "栗入りあずきモナカ\r\n120ml\r\n本体価格\r\n193\r\n円\r\n(税込\r\n208\r\n円)\r\n20\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ モウ バニラ dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "モウ バニラ\r\n140ml\r\n本体価格\r\n184\r\n円\r\n(税込\r\n198\r\n円)\r\n20\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ モウ 練乳いちご dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "モウ 練乳いちご\r\n140ml\r\n本体価格\r\n184\r\n円\r\n(税込\r\n198\r\n円)\r\n20\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ おいしいミルクコーヒー dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "おいしいミルクコーヒー\r\n200ml\r\n本体価格\r\n175\r\n円\r\n(税込\r\n188\r\n円)\r\n20\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ポプラ おいしいミルク紅茶 dポイント特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品で20ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ポプラ・生活彩家・くらしハウス・スリーエイトの対象店限定。対象商品と条件を満たすdポイント会員。",
+      "official_url": "https://www.poplar-cvs.co.jp/campaign/dpoint.html",
+      "evidence_quote": "おいしいミルク紅茶\r\n200ml\r\n本体価格\r\n175\r\n円\r\n(税込\r\n188\r\n円)\r\n20\r\n9/29-10/12",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": null
+    }
+  ]
+}

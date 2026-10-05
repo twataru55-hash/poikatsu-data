@@ -1,0 +1,75 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア ブラックフライデー最大20%還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "条件達成で最大20%還元",
+        "cap_per_use": 1000,
+        "cap_total": 20000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-12-06T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象3点以上・税込2500円で250pt、5000円で1000pt。対象カード提示・アプリ応募。",
+      "official_url": "https://m.e-welcia.com/drug/202610_blackfriday_cp",
+      "evidence_quote": "キャンペーン1 条件達成でキャンペーン期間中いつでも！もれなく!! WAON POINT最大20％還元",
+      "confidence": "confirmed",
+      "period_evidence_quote": "購入対象期間：2026年10月5日(月)～12月6日(日)23:59"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "aeon-pay",
+        "waon-point"
+      ],
+      "title": "ウエルシア 金土日AEON Pay最大10%還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "金土日限定で最大10%残高還元",
+        "cap_per_use": 500,
+        "cap_total": 10000,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-12-06T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "企画1エントリー・購入条件達成。金土日のAEON Payコード払い。WAONタッチ・ポイント利用除外。",
+      "official_url": "https://m.e-welcia.com/drug/202610_blackfriday_cp",
+      "evidence_quote": "キャンペーン2 毎週金・土・日限定!! キャンペーン1のお買い物を AEON payで支払うと最大10％還元",
+      "confidence": "confirmed",
+      "period_evidence_quote": "購入対象期間：2026年10月5日(月)～12月6日(日)23:59"
+    }
+  ]
+}

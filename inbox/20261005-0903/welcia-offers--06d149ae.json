@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア サンスターハブラシスタンプ特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1～4スタンプで20～200ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2027-01-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "指定ハブラシ等1点1スタンプ。登録カード提示・対象店限定（ウエルシアプラス等除外）。景品応募1/31まで。",
+      "official_url": "https://m.e-welcia.com/drug/202610_sunstar_st",
+      "evidence_quote": "1スタンプ：20ポイントもれなくもらえる\r\n2スタンプ：60ポイントもれなくもらえる\r\n3スタンプ：120ポイントもれなくもらえる\r\n4スタンプ：200ポイントもれなくもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/10/5-2027/1/3"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "サンスターハブラシ8スタンプWチャンス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "8スタンプ以上で抽選8名に1180pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2027-01-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象店・指定商品・登録カード提示。利用済含む8スタンプで自動応募。ウエルシアプラス等除外。",
+      "official_url": "https://m.e-welcia.com/drug/202610_sunstar_st",
+      "evidence_quote": "■Wチャンス(スタンプ8個以上で自動エントリー)\r\nスタンプ8個以上貯まった方に抽選で8名様に1,180ポイント当たる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/10/5-2027/1/3"
+    }
+  ]
+}
