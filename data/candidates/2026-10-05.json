@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "cp-093ad8eb93",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "エリス ルナフィット PayPay最大30%還元"
+  },
+  {
+    "id": "cp-d5b65bfaf4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "伝丸・威風・壱鵠堂・天下一 楽天ポイント2倍"
+  },
+  {
+    "id": "cp-de070922f1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "毎月5日 WAON POINT20%ポイントバック"
+  },
+  {
+    "id": "cp-ec86e005ca",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア ブラックフライデー最大20%還元"
+  },
+  {
+    "id": "cp-f6c668985c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "welcia-offers",
+    "title": "ウエルシア 金土日AEON Pay最大10%還元"
+  },
+  {
+    "id": "cp-dcfc3313f3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "遠野市 第2弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-f902aaacdb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "野田村 第4弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-2ddaef5077",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "奥州市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-95eaf41b15",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "由利本荘市 第5弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-f14efac78a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "にかほ市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-bc0663e156",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大子町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-e11f28e001",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "神栖市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-ebe3a576a6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "高根沢町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-3ba6510050",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "那須烏山市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-9d62021cb5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大泉町 第4弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-1dd4d39d65",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "朝霞市 第2弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-ac3dac9666",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "三郷市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-f8891c7363",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "飯能市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-adbd8b8f0c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "坂戸市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-d5e9639346",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "入間市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-27f615fa66",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "荒川区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-5b9e3e72bf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "品川区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-a3657c15f6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "稲城市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-a01141b942",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "墨田区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-720342f5d8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "文京区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-6ece9365e5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "東久留米市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-a4afdfdc20",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "品川区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-e473459630",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "江戸川区 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-68aed29653",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "川崎市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-aa5ebb4685",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "高岡市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-b892817881",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "上野原市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-b2f2f0ede5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "甲府市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-608b3cfe7c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "松川町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-9314f40f62",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "北名古屋市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-59742e8ccb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "半田市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-806bc92f63",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "東海市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-c848754720",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "南知多町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-91563fb095",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "菰野町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-0504d1024a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "精華町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-51ce11b88c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "枚方市 第2弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-1bdde0cd16",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "門真市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-d570cf2e74",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "富田林市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-95e5ef237c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "三木市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-742d60613d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "西脇市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-5a0f9fc251",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "紀美野町 第5弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-cc272df97a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "紀の川市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-ee02ad39e0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "倉吉市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-7eecbeeaee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "鳴門市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-47d70568d9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "宇美町 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-f4b8c269f3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（VIOROプレミアム商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-4481c804d1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（福岡市お城まわり電子商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-f40f8938e3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ソラリアステージプレミアム商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-8b117ca274",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（レイリア大橋プレミアム商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-856c4cfe55",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "北九州市（サンリブシティ小倉デジタル商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-0f52c0cbe3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（BiVi福岡モバイル商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-51271321b6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ソラリアプラザプレミアム商品券） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-b0b69feef3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "福岡市（ワンビルプレミアム商品券2026） PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-e363875997",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "唐津市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-8d292e2af3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "島原市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-bc7bbe7835",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "豊後大野市 PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-d0188fd39c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "都城市 第5弾 PayPayポイント還元"
+  },
+  {
+    "id": "cp-56717891d3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "宮古島市 PayPayポイント還元"
+  },
+  {
+    "id": "cp-6d459f17d1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ フルーツパウンド dポイント特典"
+  },
+  {
+    "id": "cp-be8e1e8d8e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ ビターチョコパウンド dポイント特典"
+  },
+  {
+    "id": "cp-34e6bfaaf2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ ビッグバウムクーヘン dポイント特典"
+  },
+  {
+    "id": "cp-d02f786022",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ 国産和栗パウンド dポイント特典"
+  },
+  {
+    "id": "cp-71e2901bda",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ プレーンワッフル dポイント特典"
+  },
+  {
+    "id": "cp-d1cb0a00be",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ クッキー＆クリームワッフル dポイント特典"
+  },
+  {
+    "id": "cp-8bd5f606f2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ ココアワッフル dポイント特典"
+  },
+  {
+    "id": "cp-4341f94fc0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ メープルワッフル dポイント特典"
+  },
+  {
+    "id": "cp-7f36ec9c79",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ 栗入りあずきモナカ dポイント特典"
+  },
+  {
+    "id": "cp-2f5e41224e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ モウ バニラ dポイント特典"
+  },
+  {
+    "id": "cp-f47dedcc70",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ モウ 練乳いちご dポイント特典"
+  },
+  {
+    "id": "cp-ad4443da8c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ おいしいミルクコーヒー dポイント特典"
+  },
+  {
+    "id": "cp-5d9752d44e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ポプラ おいしいミルク紅茶 dポイント特典"
+  },
+  {
+    "id": "cp-225c431b0b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 10月10日開始1000円券"
+  },
+  {
+    "id": "cp-5ba66beac9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 10月30日開始1000円券"
+  },
+  {
+    "id": "cp-2df54c0d1a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 12月5日開始1000円券"
+  },
+  {
+    "id": "cp-54c9b7d6ad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 12月19日開始1000円券"
+  },
+  {
+    "id": "cp-15cc823c15",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 指定家電最大60000円券"
+  },
+  {
+    "id": "cp-b1ecb8a2b2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ケーズデンキ 機種変更3300円券"
+  },
+  {
+    "id": "cp-35ea0d924f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ローソン10月 Ponta抽選最大4000ポイント"
+  },
+  {
+    "id": "cp-435e53a22e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ナイトリカバー 60円引券"
+  },
+  {
+    "id": "cp-677b2b521e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ナイトリカバーi 60円引券"
+  },
+  {
+    "id": "cp-1f7419825e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分のビタミンゼリー グレープフルーツ味 40円引券"
+  },
+  {
+    "id": "cp-a09721fe06",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分のビタミンゼリー マスカット味 40円引券"
+  },
+  {
+    "id": "cp-c2c923e69c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分のビタミンゼリー 食物繊維ピーチ味 40円引券"
+  },
+  {
+    "id": "cp-74890db44e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分のビタミン&Wミネラルゼリー グレープ味 40円引券"
+  },
+  {
+    "id": "cp-9a2cbeabc3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バー プロテインチョコ 30円引券"
+  },
+  {
+    "id": "cp-d5d7446cdd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バー プロテインブラック 30円引券"
+  },
+  {
+    "id": "cp-d1ab9d1b89",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バー プロテインストロベリー 30円引券"
+  },
+  {
+    "id": "cp-705b1ac415",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バー プロテインホワイト 30円引券"
+  },
+  {
+    "id": "cp-462b3b12bf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キレートレモン MUKUMIゼリー 30円引券"
+  },
+  {
+    "id": "cp-0667f4d8ae",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キレートレモン クエン酸2700ゼリー 30円引券"
+  },
+  {
+    "id": "cp-1cc8b835f0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB Feチャージ50ml 100円引券"
+  },
+  {
+    "id": "cp-b5abf58057",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB ナイトウェル50ml 100円引券"
+  },
+  {
+    "id": "cp-d280a65543",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB ローヤル2 50ml 100円引券"
+  },
+  {
+    "id": "cp-2e06b35690",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB ハイパー50ml 100円引券"
+  },
+  {
+    "id": "cp-f479c6eb4f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB ゴールドリッチR 50ml 100円引券"
+  },
+  {
+    "id": "cp-f56c45f594",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン 調製豆乳 25円引券"
+  },
+  {
+    "id": "cp-9a58157dd1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン 無調整豆乳 25円引券"
+  },
+  {
+    "id": "cp-0fa4cc7f85",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン 豆乳飲料ジャスミンティー 25円引券"
+  },
+  {
+    "id": "cp-a387ef2759",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン よりそいアーモンド砂糖不使用 25円引券"
+  },
+  {
+    "id": "cp-50d1b87050",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "マカの元気ドリンク 30円引券"
+  },
+  {
+    "id": "cp-d95c0e4974",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ 野菜一日これ一本トリプルケア 30円引券"
+  },
+  {
+    "id": "cp-ec5f934717",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ 野菜一日これ一本 30円引券"
+  },
+  {
+    "id": "cp-b82e06d355",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ 野菜生活100オリジナル 30円引券"
+  },
+  {
+    "id": "cp-618d73fbf3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ 野菜生活100ベリーサラダ 30円引券"
+  },
+  {
+    "id": "cp-ecbc088187",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ 野菜生活100マンゴーサラダ 30円引券"
+  },
+  {
+    "id": "cp-2f4d3502cd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンD 50円引券"
+  },
+  {
+    "id": "cp-2f025b7b81",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンファイン 50円引券"
+  },
+  {
+    "id": "cp-fb5d8f6870",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "燻製あい鴨ロース串 50円引券"
+  },
+  {
+    "id": "cp-b095b3d756",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードル 50円引券"
+  },
+  {
+    "id": "cp-3dcd345b89",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルシーフードヌードル 50円引券"
+  },
+  {
+    "id": "cp-c69a8ded87",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルカレー 50円引券"
+  },
+  {
+    "id": "cp-dbc25cf4b3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルチリトマトヌードル 50円引券"
+  },
+  {
+    "id": "cp-3fcb9426d9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "新鮮卵のこんがり焼プリン 20円引券"
+  },
+  {
+    "id": "cp-5fb8688bd4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "体脂肪を減らす蒟蒻ゼリー0kcalゴールドキウイ 30円引券"
+  },
+  {
+    "id": "cp-5611ca80cf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "つぶつぶみかん果肉入りゼリー 30円引券"
+  },
+  {
+    "id": "cp-30650b4f87",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "コリッコリナタデココ入りシャインマスカットゼリー 30円引券"
+  },
+  {
+    "id": "cp-bf9d2c1429",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "BifiXヨーグルトα やさしい甘さ低脂肪 50円引券"
+  },
+  {
+    "id": "cp-db6f830a1d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "医食同源 麻辣湯 50円引券"
+  },
+  {
+    "id": "cp-7bb196755f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "医食同源 麻辣湯黄色のトマト味 50円引券"
+  },
+  {
+    "id": "cp-31915f58df",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "医食同源 酸辣湯 50円引券"
+  },
+  {
+    "id": "cp-5d0cd5d15f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キューピーコーワαドリンク 50円引券"
+  },
+  {
+    "id": "cp-0f47a62557",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キューピーコーワiドリンク 50円引券"
+  },
+  {
+    "id": "cp-c1410d9274",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBライト 50円引券"
+  },
+  {
+    "id": "cp-efa760bdfc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBスパークリングマスカット味 50円引券"
+  },
+  {
+    "id": "cp-f1664509be",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBスパークリングGF＆ピーチ味 50円引券"
+  },
+  {
+    "id": "cp-45f1c1af9d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ユンケルローヤルG 100円引券"
+  },
+  {
+    "id": "cp-5509d6271c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン きりっと果実2種のぶどう＆もも無料券"
+  },
+  {
+    "id": "cp-ea1c1b73ba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロ黒ラベル缶350ml50円引券"
+  },
+  {
+    "id": "cp-992f4af05f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロ黒ラベル缶500ml50円引券"
+  },
+  {
+    "id": "cp-dae894d986",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロラガービール350ml50円引券"
+  },
+  {
+    "id": "cp-6967c8f807",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロラガービール500ml50円引券"
+  },
+  {
+    "id": "cp-fdc223ef6a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロ黒ラベル箱根駅伝缶350ml50円引券"
+  },
+  {
+    "id": "cp-803f6202a9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロ黒ラベル箱根駅伝缶500ml50円引券"
+  },
+  {
+    "id": "cp-0e1261b35c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン サッポロ黒ラベルJRA有馬記念缶350ml50円引券"
+  },
+  {
+    "id": "cp-49b97a0c4a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "vpoint-campaign",
+    "title": "VポイントPay 東京ポイント交換で20%還元"
+  },
+  {
+    "id": "cp-f0caca5431",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サニー10月土曜日 カード提示3倍"
+  },
+  {
+    "id": "cp-9b981fc0a6",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "サニー10月土曜日 楽天Edy決済2倍"
+  },
+  {
+    "id": "cp-c9fb8a7f6f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "tsuruha-offers",
+    "title": "北海道ツルハ マイヤー商品最大60%OFF"
+  },
+  {
+    "id": "cp-05de4d9e9b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン わんにゃんデーペット用品20倍"
+  },
+  {
+    "id": "cp-838f14e6b4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシア サンスターハブラシスタンプ特典"
+  },
+  {
+    "id": "cp-4d833cfd49",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "サンスターハブラシ8スタンプWチャンス"
+  },
+  {
+    "id": "cp-2de63da37d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "タワーレコード店頭 dポイント10倍"
+  },
+  {
+    "id": "cp-96613e7bc2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（30%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "スギ薬局グループ グーン最大＋30%還元"
+  },
+  {
+    "id": "cp-67ec8fdeb3",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイようこそ＆おかえり 9月度500pt"
+  },
+  {
+    "id": "cp-3ed58b6ba3",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイようこそ＆おかえり 10月度500pt"
+  },
+  {
+    "id": "cp-6fe4b92fc8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイようこそ＆おかえり 11月度500pt"
+  },
+  {
+    "id": "cp-c72021ed30",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイようこそ＆おかえり 12月度500pt"
+  },
+  {
+    "id": "cp-e7b49a08ff",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 プリンアラモード 10P"
+  },
+  {
+    "id": "cp-2f1ae48bf4",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 チキン＆うずら玉子串 10P"
+  },
+  {
+    "id": "cp-6fd239b534",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 おいしい免疫ケア　睡眠 20P"
+  },
+  {
+    "id": "cp-b71ab72337",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 おいしい免疫ケア 20P"
+  },
+  {
+    "id": "cp-8414c1344b",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 おいしい免疫ケア　カロリーオフ 20P"
+  },
+  {
+    "id": "cp-7451af1625",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 おいしい免疫ケア　＋ダブルビタミン 20P"
+  },
+  {
+    "id": "cp-b455e2efc0",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 ホワイトロースハム 30P"
+  },
+  {
+    "id": "cp-92a16244ed",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 ハッシュドポテト 10P"
+  },
+  {
+    "id": "cp-82f34d895e",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 とろり半熟トッピングたまご 10P"
+  },
+  {
+    "id": "cp-de8d3f434b",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 温泉たまご 10P"
+  },
+  {
+    "id": "cp-2f7332d055",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ローソン100 炭火焼鳥ぼんじり串（塩） 10P"
+  },
+  {
+    "id": "cp-2f1563a317",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "毎月10日 AEON Payスマホ決済ポイント10倍"
+  },
+  {
+    "id": "cp-12a16a993b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "スニッカーズハーフシュガーアーモンド無料券"
+  },
+  {
+    "id": "cp-f46bb3bc16",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン リポビタンZERO100ml無料券"
+  },
+  {
+    "id": "cp-53a176ea29",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブン 伊藤園黒豆茶650ml50円引券"
+  },
+  {
+    "id": "cp-40ed18a256",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "paypay-event",
+    "title": "ザバス PayPay抽選1000名に最大1000円分"
+  },
+  {
+    "id": "cp-cff258a82b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "ENEOSでんき新規契約者 給油Vポイント10倍"
+  }
+]

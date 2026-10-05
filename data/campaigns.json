@@ -5033,5 +5033,410 @@
     "status_override": null,
     "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
     "id": "cp-25654d5182"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "伝丸・威風・壱鵠堂・天下一 楽天ポイント2倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "楽天ポイント2倍",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "denmaru",
+        "ifu",
+        "ikkokudo",
+        "tenkaichi"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "対象店でカード提示し1回税込200円以上・1ポイント以上獲得。終了までに利用登録。",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/zensho/20261001/",
+    "evidence_quote": "楽天ポイントを通常の2倍分進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+    "id": "cp-d5b65bfaf4"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "ponta"
+    ],
+    "title": "ローソン10月 Ponta抽選最大4000ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選1010名に最大4000pt・落選1pt",
+      "cap_per_use": null,
+      "cap_total": 4000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "lawson",
+        "natural-lawson"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "同じPontaカード提示で1pt以上獲得。エントリー月以降・ポイント利用分対象外。ストア100等除外。",
+    "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/?vos=pppjpsspjQ12608040801260605001",
+    "evidence_quote": "2026年10月1日(木)～10月31日(土) 10月は抽選で1,010名様にPontaポイント還元！ お買い物金額が最大実質無料 抽選にはずれても、もれなく1Pontaポイントプレゼント Ponta",
+    "confidence": "confirmed",
+    "source_id": "ponta-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "第３弾：2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+    "id": "cp-35ea0d924f"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "サニー10月土曜日 楽天Edy決済2倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "楽天ポイント2倍",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "sunny"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10月の土曜日限定。楽天Edyで1回税込200円以上・ポイントを貯める利用登録。テナント等除外。",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/sunny/pointupday/20261001/",
+    "evidence_quote": "楽天ポイントを通常の2倍分進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+    "id": "cp-f0caca5431"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシア サンスターハブラシスタンプ特典",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "1～4スタンプで20～200ポイント",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-05T00:00:00+09:00",
+      "end": "2027-01-03T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "指定ハブラシ等1点1スタンプ。登録カード提示・対象店限定（ウエルシアプラス等除外）。景品応募1/31まで。",
+    "official_url": "https://m.e-welcia.com/drug/202610_sunstar_st",
+    "evidence_quote": "1スタンプ：20ポイントもれなくもらえる\r\n2スタンプ：60ポイントもれなくもらえる\r\n3スタンプ：120ポイントもれなくもらえる\r\n4スタンプ：200ポイントもれなくもらえる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\r\n2026/10/5-2027/1/3",
+    "id": "cp-838f14e6b4"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "サンスターハブラシ8スタンプWチャンス",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "8スタンプ以上で抽選8名に1180pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-05T00:00:00+09:00",
+      "end": "2027-01-03T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象店・指定商品・登録カード提示。利用済含む8スタンプで自動応募。ウエルシアプラス等除外。",
+    "official_url": "https://m.e-welcia.com/drug/202610_sunstar_st",
+    "evidence_quote": "■Wチャンス(スタンプ8個以上で自動エントリー)\r\nスタンプ8個以上貯まった方に抽選で8名様に1,180ポイント当たる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\r\n2026/10/5-2027/1/3",
+    "id": "cp-4d833cfd49"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイようこそ＆おかえり 9月度500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で500ポイント",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "6～8月に利用なし・9/30まで応募済。コード/QR/セルフ払い計2500円以上。全期間1回限り。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+    "evidence_quote": "楽天ポイントを500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年9月1日（火）0:00～2026年10月31日（土）23:59",
+    "id": "cp-67ec8fdeb3"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイようこそ＆おかえり 10月度500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で500ポイント",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/pay/welcomeinvitation/20261001"
+    },
+    "conditions": "7～9月に利用なし・10/31まで応募。コード/QR/セルフ払い計2500円以上。全期間1回限り。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+    "evidence_quote": "楽天ポイントを500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）0:00～2026年11月30日（月）23:59",
+    "id": "cp-3ed58b6ba3"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイようこそ＆おかえり 11月度500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で500ポイント",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-11-01T00:00:00+09:00",
+      "end": "2026-12-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "8～10月に利用なし・10/30～11/30応募。コード/QR/セルフ払い計2500円以上。全期間1回。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+    "evidence_quote": "楽天ポイントを500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年11月1日（日）0:00～2026年12月31日（木）23:59",
+    "id": "cp-6fe4b92fc8"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイようこそ＆おかえり 12月度500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で500ポイント",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-12-01T00:00:00+09:00",
+      "end": "2027-01-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "9～11月に利用なし・11/30～12/31応募。コード/QR/セルフ払い計2500円以上。全期間1回。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/welcome-invitation/",
+    "evidence_quote": "楽天ポイントを500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年12月1日（火）0:00～2027年1月31日（日）23:59",
+    "id": "cp-c72021ed30"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "paypay",
+      "paypay-point"
+    ],
+    "title": "ザバス PayPay抽選1000名に最大1000円分",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選1000名に最大1000円分",
+      "cap_per_use": 1000,
+      "cap_total": 1000,
+      "cap_unit": "円相当"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "fujiyakuhin-group",
+        "matsukiyo-cocokara",
+        "sugi-group",
+        "tsuruha",
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-16T00:00:00+09:00",
+      "end": "2026-10-15T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "対象店で対象ザバス購入額・PayPay額とも1回税込1000円以上。コード提示・10/16購買情報同意。",
+    "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
+    "evidence_quote": "キャンペーン期間中、対象店舗において、1回のお会計でザバス対象商品を合計1,000円（税込）以上購入し、支払いに「PayPay」をご利用いただいた方の中から、抽選で1,000名様に最大1,000円分のPayPayポイントを後日付与。",
+    "confidence": "confirmed",
+    "source_id": "paypay-event",
+    "first_seen": "2026-10-05",
+    "last_verified": "2026-10-05",
+    "status_override": null,
+    "period_evidence_quote": "2026年9月16日（水）0時00分〜2026年10月15日（木）23時59分",
+    "id": "cp-40ed18a256"
   }
 ]
