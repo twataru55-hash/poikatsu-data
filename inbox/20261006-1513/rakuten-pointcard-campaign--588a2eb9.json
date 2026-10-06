@@ -1,0 +1,354 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/26増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-26T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/25増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-25T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/24増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-24T00:00:00+09:00",
+        "end": "2026-10-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/23増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-10-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/22増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-10-22T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/21増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-10-21T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/19増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-19T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/17増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-17T00:00:00+09:00",
+        "end": "2026-10-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/12増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-12T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/10増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）"
+    }
+  ]
+}

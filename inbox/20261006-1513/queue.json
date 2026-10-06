@@ -1,0 +1,30 @@
+{
+  "run_id": "20261006-1513",
+  "created_at": "2026-10-06T15:13:36+09:00",
+  "items": [
+    {
+      "source_id": "rakuten-pointcard-campaign--588a2eb9",
+      "hash": "ca72c88fa95227cb657b9372088e581f33285d58c0e66fd573c3c089027b319a",
+      "parent": "rakuten-pointcard-campaign",
+      "url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "answer_file": "inbox/20261006-1513/rakuten-pointcard-campaign--588a2eb9.json",
+      "prompt_file": "work/prompts/rakuten-pointcard-campaign--588a2eb9.md"
+    },
+    {
+      "source_id": "dpoint-campaign--3337e2a9",
+      "hash": "ab43cb1c3e77d7decbbd3836a686e4a5025840f49531f52586ac548f4cbc2bc7",
+      "parent": "dpoint-campaign",
+      "url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "answer_file": "inbox/20261006-1513/dpoint-campaign--3337e2a9.json",
+      "prompt_file": "work/prompts/dpoint-campaign--3337e2a9.md"
+    }
+  ],
+  "unchanged": [],
+  "failed": [],
+  "deferred": [],
+  "detail_failed": [],
+  "gave_up": [],
+  "coverage": [],
+  "visual_review": [],
+  "extraction_revision": 3
+}
