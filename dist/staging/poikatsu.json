@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-05-0948",
-    "generated_at": "2026-10-05T09:48:05+09:00",
+    "data_version": "2026-10-06-1516",
+    "generated_at": "2026-10-06T15:16:01+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 130,
-      "live_campaigns": 112,
+      "campaigns": 144,
+      "live_campaigns": 105,
       "stores": 80,
       "recurring": 7
     }
@@ -1166,250 +1166,6 @@
   ],
   "campaigns": [
     {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ビックカメラ au PAY1000円引き 第1",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "1万円以上で1,000円引き",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "biccamera"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-02T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
-      "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-0af326a997"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ BifiXヨーグルトα値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-22T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-0bf1b18987"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "ファミマ ポケモンGOスタンプ応募ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "応募／交換ごと1円相当",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-15T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリ提示で対象品購入、6スタンプ応募ごと1円相当。応募10/9まで、賞品は別抽選",
-      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_pokemongo_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-12bb8ac785"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "ファミマ おいもスタンプ応募ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "応募／交換ごと1円相当",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-22T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリ提示で対象税込300円ごと1スタンプ。3個交換で1円相当、交換10/12まで",
-      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_oimo_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-45b5887777"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ こんがり焼プリン値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "20円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-22T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-7676ec209d"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ 燻製あい鴨ロース串値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-22T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-f265683fab"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ 日清カップヌードル値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-22T00:00:00+09:00",
-        "end": "2026-10-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-f5e4951606"
-    },
-    {
       "type": "bonus",
       "brand_ids": [
         "ponta"
@@ -1554,6 +1310,154 @@
       "id": "cp-86b4628eb4"
     },
     {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/8 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-08T00:00:00+09:00",
+        "end": "2026-10-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
+      "id": "cp-a2ba4a2da2"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/10増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-7729cc81d0"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/10 ポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
+      "id": "cp-e1c45fa5a3"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/11 dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-11T00:00:00+09:00",
+        "end": "2026-10-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
+      "id": "cp-de890ab9cb"
+    },
+    {
       "type": "coupon",
       "brand_ids": [],
       "title": "セブン ゴンチャ値引券抽選",
@@ -1586,6 +1490,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-2bc9ceb428"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/12増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-12T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-10ff859ab9"
     },
     {
       "type": "coupon",
@@ -1978,6 +1919,43 @@
       "id": "cp-5785968adb"
     },
     {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/15 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
+      "id": "cp-efa045f7c4"
+    },
+    {
       "type": "coupon",
       "brand_ids": [
         "au-pay"
@@ -2048,6 +2026,80 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-d945bee7c5"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/17 ポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-17T00:00:00+09:00",
+        "end": "2026-10-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
+      "id": "cp-b14a965943"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/17増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-17T00:00:00+09:00",
+        "end": "2026-10-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-e181b225df"
     },
     {
       "type": "lottery",
@@ -2154,6 +2206,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-72bf6d03cd"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/18 dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-18T00:00:00+09:00",
+        "end": "2026-10-18T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
+      "id": "cp-95d537e1a2"
     },
     {
       "type": "coupon",
@@ -2292,6 +2381,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-e5778fd06f"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/19増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-19T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-ec35d6c887"
     },
     {
       "type": "coupon",
@@ -2436,6 +2562,43 @@
       "id": "cp-df6bb0b819"
     },
     {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/21増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-10-21T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-2a7a896557"
+    },
+    {
       "type": "coupon",
       "brand_ids": [],
       "title": "セブン 東京限定ベース麺値引券",
@@ -2468,6 +2631,265 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-50dfd55b71"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/22 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-10-22T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
+      "id": "cp-e4797b2866"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/22増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-10-22T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-fdc352ee5d"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/23増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-10-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-3cb9d66f32"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/24増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-24T00:00:00+09:00",
+        "end": "2026-10-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-9b52e988c4"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/24 ポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-24T00:00:00+09:00",
+        "end": "2026-10-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
+      "id": "cp-c23a2831a7"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/25 dポイント5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント5倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-25T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
+      "id": "cp-15e3a2b959"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/25増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-25T00:00:00+09:00",
+        "end": "2026-10-25T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-a75a4e6c14"
     },
     {
       "type": "bonus",
@@ -2607,6 +3029,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-6c53645a37"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友・リヴィン10/26増量日最大7倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "条件達成で楽天ポイント最大7倍",
+        "cap_per_use": null,
+        "cap_total": 250,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-26T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+      "id": "cp-7c8669e2d3"
     },
     {
       "type": "coupon",
@@ -2825,6 +3284,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-83305a1afa"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/29 dポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント3倍",
+        "cap_per_use": null,
+        "cap_total": 800,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-10-29T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+      },
+      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
+      "id": "cp-fbc1307cb9"
     },
     {
       "type": "reward",
@@ -4504,6 +5000,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-e48e408610"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ウェルパーク10/31 ポイント利用10％返還",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "利用dポイントの10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welpark"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-31T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
+      "id": "cp-f350ee443b"
     },
     {
       "type": "lottery",

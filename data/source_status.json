@@ -2209,7 +2209,7 @@
   },
   "dpoint-campaign--3337e2a9": {
     "fail_count": 0,
-    "last_ok": "2026-10-03T15:14:54+09:00",
+    "last_ok": "2026-10-06T15:13:36+09:00",
     "last_error": null,
     "issue_open": false
   },
@@ -2521,7 +2521,7 @@
   },
   "rakuten-pointcard-campaign--588a2eb9": {
     "fail_count": 0,
-    "last_ok": "2026-10-05T09:03:29+09:00",
+    "last_ok": "2026-10-06T15:13:36+09:00",
     "last_error": null,
     "issue_open": false
   },

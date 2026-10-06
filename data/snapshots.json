@@ -1677,8 +1677,9 @@
   },
   "dpoint-campaign--3337e2a9": {
     "hash": "ab43cb1c3e77d7decbbd3836a686e4a5025840f49531f52586ac548f4cbc2bc7",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 5274
+    "fetched_at": "2026-10-06T15:13:36+09:00",
+    "chars": 5274,
+    "extraction_revision": 3
   },
   "dpoint-campaign--25f9e47b": {
     "hash": "71e7c4ba5893e80b4d6fdfd07c552bd635234421bb4abb72fa660dfe31e931fb",
@@ -1932,9 +1933,10 @@
     "chars": 4087
   },
   "rakuten-pointcard-campaign--588a2eb9": {
-    "hash": "e087541a7fe6b7c036b380c6e1d97947a2f6e9219c927f4f32b805229b04dcf7",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 6123
+    "hash": "ca72c88fa95227cb657b9372088e581f33285d58c0e66fd573c3c089027b319a",
+    "fetched_at": "2026-10-06T15:13:36+09:00",
+    "chars": 6123,
+    "extraction_revision": 3
   },
   "iaeon-campaign--fa39cb03": {
     "hash": "2daf5cfbc86be81f7a367d536675da0c162cb6937d8e496dcfe8f2f8dab00810",
