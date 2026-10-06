@@ -166,5 +166,29 @@
     "reasons": [],
     "source": "dpoint-campaign",
     "title": "ウェルパーク10/8 dポイント3倍"
+  },
+  {
+    "id": "cp-17cfbb4cc9",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "スーパーオオジ 第2・第4土曜dポイント2倍"
+  },
+  {
+    "id": "cp-a417802cf5",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "モス14～18時 dポイント最大5倍"
+  },
+  {
+    "id": "cp-b11ecb3316",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ キュキュット泡スプレー購入特典"
   }
 ]

@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-06-1516",
-    "generated_at": "2026-10-06T15:16:01+09:00",
+    "data_version": "2026-10-06-1527",
+    "generated_at": "2026-10-06T15:27:51+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 144,
-      "live_campaigns": 105,
+      "campaigns": 147,
+      "live_campaigns": 108,
       "stores": 80,
       "recurring": 7
     }
@@ -4640,6 +4640,43 @@
       "id": "cp-9e7c1e04ee"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ キュキュット泡スプレー購入特典",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=004439509d210964d4c87a2fda96bdec30c4021c6189a4fa0231d65902c73b9d"
+      },
+      "conditions": "対象JAN品購入・カード提示。ブランド1人1回。関空3店・新生堂・オンライン除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7804/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）～2026年10月31日（土）",
+      "id": "cp-b11ecb3316"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "d-barai",
@@ -5709,6 +5746,43 @@
     {
       "type": "reward",
       "brand_ids": [
+        "dpoint"
+      ],
+      "title": "モス14～18時 dポイント最大5倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント最大5倍",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mos-burger"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-15T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=18ea3002e5659bbdce7be0043a9d05c7dbbf71f36c87701f09901d6f43c8aea3"
+      },
+      "conditions": "14～18時決済・税込100円以上で1pt獲得。1/2/3回以上で2/3/5倍。1日1回カウント",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_261001_7816/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "【キャンペーン期間】\n2026年10月1日（木）午前0：00～2026年11月15日（日）午後11：59",
+      "id": "cp-a417802cf5"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
         "rakuten-pay",
         "rakuten-point"
       ],
@@ -6355,6 +6429,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-73b4d89357"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "スーパーオオジ 第2・第4土曜dポイント2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-ooji"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-04-11T00:00:00+09:00",
+        "end": "2027-03-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "毎月第2・第4土曜、税込100円以上・カード提示・利用登録。月上限1,000pt。現金/dカード/d払い限定",
+      "official_url": "https://www.docomo.ne.jp/campaign_event/kansai/superoog_260401/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-06",
+      "status_override": null,
+      "period_evidence_quote": "2026年4月11日（土）00:00～2027年3月27日（土）23:59",
+      "id": "cp-17cfbb4cc9"
     }
   ],
   "pr_links": [],

@@ -1570,8 +1570,9 @@
   },
   "dpoint-campaign--50d4b56d": {
     "hash": "fe7b6bed352f84a77e1a528299a904fa5ee4bb58ce7810427dd76acc50f34d0c",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 11167
+    "fetched_at": "2026-10-06T15:26:22+09:00",
+    "chars": 11167,
+    "extraction_revision": 3
   },
   "rakuten-pay-campaign--b1cf6007": {
     "hash": "57075908d69630e4d79ebc84289d0a49aca36dfaa0f690f556fba73fa901086e",
@@ -1621,8 +1622,9 @@
   },
   "dpoint-campaign--9bf7d709": {
     "hash": "8973058e5f7dd115c602d9f9c5dd6550bc61b84752f1708567b643e8b91b672e",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 5242
+    "fetched_at": "2026-10-06T15:26:22+09:00",
+    "chars": 5242,
+    "extraction_revision": 3
   },
   "rakuten-pay-campaign--eb080657": {
     "hash": "5423576d42cfcd3bec192c4cbab5beef0eba0259a3c8e076d93964c8fab44860",
@@ -1718,8 +1720,9 @@
   },
   "dpoint-campaign--f8c682f1": {
     "hash": "b59799d308e99628bb473a17f15c8ec5b04144b7406ef81e66135224c7f74aa3",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2201
+    "fetched_at": "2026-10-06T15:26:22+09:00",
+    "chars": 2201,
+    "extraction_revision": 3
   },
   "dpoint-campaign--c8c2f338": {
     "hash": "08217e3b0c6532c561b7e0b58d89623351ba39cddcd75cbce02b105f0bf6724a",
