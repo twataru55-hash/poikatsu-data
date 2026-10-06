@@ -13,7 +13,7 @@ import sys
 
 from jsonschema import Draft202012Validator
 
-from collect import fetch_text
+from collect import Fetcher, fetch_text
 from common import DATA_DIR, ROOT, SCHEMA_DIR, load_config, load_json, load_sources, save_json, setup_utf8_stdout
 from holds import GitHub
 from pipeline import finalize, new_stats, prepare_master, process_items
@@ -54,6 +54,8 @@ def run() -> dict:
     status = load_json(DATA_DIR / "source_status.json", {})
     requests = load_json(DATA_DIR / "request_state.json", {})
     checker = http_url_checker(config)
+    # Preserve the per-host interval and robots cache across reverified pages.
+    refetcher = Fetcher(config)
     cand_log: list[dict] = []
 
     for run_dir in runs:
@@ -107,7 +109,7 @@ def run() -> dict:
                 stats["errors"].append(f"{sid}: 回答の形が違う {errs[0].message[:120]}")
                 continue
             try:
-                text = fetch_text(src, config)
+                text = fetch_text(src, config, fetcher=refetcher)
             except Exception as e:  # noqa: BLE001
                 stats["errors"].append(f"{sid}: 確認用の再取得に失敗 {str(e)[:120]}（次回に再依頼）")
                 continue

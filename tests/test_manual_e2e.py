@@ -97,6 +97,12 @@ def test_manual_flow(tmp_path, unknown):
     shutil.rmtree(repo / "data" / "inbox_done", ignore_errors=True)
 
     sources = yaml.safe_load((repo / "config/sources.yaml").read_text(encoding="utf-8"))
+    # Keep this fixture exercising both plain and followed source paths.
+    # Municipality detail discovery is covered by test_collection_recovery.py.
+    for source in sources:
+        if source['id'] == 'paypay-local':
+            source.pop('follow', None)
+    (repo / 'config/sources.yaml').write_text(yaml.safe_dump(sources, allow_unicode=True), encoding='utf-8')
     enabled = [s for s in sources if s.get("enabled", True)]
     followed = {s["id"] for s in enabled if s.get("follow")}
     listed = {s["id"] for s in enabled if not s.get("follow")}

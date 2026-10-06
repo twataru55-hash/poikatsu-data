@@ -160,13 +160,19 @@ class Fetcher:
         self._wait(domain_of(url))
         with sync_playwright() as p:
             browser = p.chromium.launch()
-            page = browser.new_page(user_agent=self.ua)
-            page.goto(url, timeout=self.timeout * 1000, wait_until="domcontentloaded")
-            page.wait_for_timeout(4000)  # 一覧が描画されるのを待つ
-            html = page.content()
-            self.last_url = page.url
-            browser.close()
-            return html
+            try:
+                page = browser.new_page(user_agent=self.ua)
+                response = page.goto(url, timeout=self.timeout * 1000, wait_until="domcontentloaded")
+                if response is not None and response.status >= 400:
+                    raise RuntimeError(f"HTTP {response.status}")
+                page.wait_for_timeout(4000)  # 一覧が描画されるのを待つ
+                html = page.content()
+                if "Access Denied" in html and "You don't have permission to access" in html:
+                    raise RuntimeError("Access Denied（本文未取得）")
+                self.last_url = page.url
+                return html
+            finally:
+                browser.close()
 
 
 def collect(sources: list[dict], config: dict, force: bool = False, record_snapshots: bool = True,
@@ -217,9 +223,9 @@ def collect(sources: list[dict], config: dict, force: bool = False, record_snaps
     return pages
 
 
-def fetch_text(source: dict, config: dict) -> str:
+def fetch_text(source: dict, config: dict, fetcher: Fetcher | None = None) -> str:
     """1ページだけ取得して本文を返す（スナップショットは触らない）。"""
-    fetcher = Fetcher(config)
+    fetcher = fetcher if fetcher is not None else Fetcher(config)
     if not fetcher.allowed(source["url"]):
         raise RuntimeError("robots.txt で取得禁止")
     html = fetcher.get_js(source["url"]) if source.get("render") == "js" else fetcher.get_static(source["url"])

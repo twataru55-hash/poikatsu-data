@@ -51,6 +51,11 @@
   frequency: daily
   domains:
   - paypay.ne.jp
+  follow:
+    # Only dated official detail URLs linked from the municipality listing.
+    pattern: ^https://paypay\.ne\.jp/event/[a-z0-9-]+-[0-9]{8}/$
+    max_new: 20
+    render: static
 - id: dpoint-campaign
   name: dポイントクラブ キャンペーン一覧
   url: https://dpoint.docomo.ne.jp/campaign/index.html
@@ -328,6 +333,8 @@
 - id: tsuruha-offers
   name: ツルハ公式企画・クーポン
   url: https://www.tsuruha.co.jp/campaign/
+  # Campaign hero conditions can be in a header outside main.
+  content_selector: body
   brand_ids:
   - rakuten-point
   - tsuruha-group-point
