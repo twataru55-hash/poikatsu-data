@@ -334,7 +334,8 @@
   follow:
     pattern: ^https://www\.ministop\.co\.jp/campaign/(?:[^?#]+\.html|[0-9][A-Za-z0-9_-]+/)$
     max_new: 30
-    render: static
+    # Browser retrieval also recovers the weekend detail's static connection failure.
+    render: js
 - id: tsuruha-offers
   name: ツルハ公式企画・クーポン
   url: https://www.tsuruha.co.jp/campaign/

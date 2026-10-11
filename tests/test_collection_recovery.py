@@ -122,4 +122,16 @@ def test_ministop_dynamic_body_changes_hash_and_reaches_details(tmp_path, monkey
     assert 'WAON POINT10倍' in pages[0].text
     import re
     assert re.match(source['follow']['pattern'], pages[0].links[0][1])
-    assert source['follow']['render'] == 'static'
+    assert source['follow']['render'] == 'js'
+    monkeypatch.setattr(discovery, 'WORK_DIR', tmp_path)
+    detail_fetches = []
+    class DetailFetcher:
+        last_url = None
+        def allowed(self, url): return True
+        def get_js(self, url):
+            detail_fetches.append(url)
+            return html
+        def get_static(self, url): raise AssertionError('Detail uses browser retrieval')
+    got, failed = discovery.discover_and_refresh(pages[0], {}, {}, DetailFetcher())
+    assert len(got) == 1 and not failed
+    assert detail_fetches == [pages[0].links[0][1]]
