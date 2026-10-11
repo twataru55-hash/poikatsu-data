@@ -1,0 +1,41 @@
+[
+  {
+    "type": "reward",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "ウェルパーク10/3 ポイント利用10％返還",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "利用dポイントの10％還元",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welpark"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-03T00:00:00+09:00",
+      "end": "2026-10-03T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+    "evidence_quote": "また、毎週土曜日にdポイントを200ポイント以上ご利用いただくと、ご利用ポイント数の10％相当分のdポイントを還元いたします。",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-6bc7e69f42"
+  }
+]

@@ -3,7 +3,7 @@
 enabled: true
 
 # 影武者運用中は false（staging だけ更新）。本番切替で true にする
-publish_to_live: false
+publish_to_live: true
 
 llm:
   # manual    … PCの ChatGPT（デスクトップアプリのスケジュール）が抽出する方式（APIキー不要・現在の方式）
