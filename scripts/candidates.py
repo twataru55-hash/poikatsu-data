@@ -5,7 +5,7 @@ import re
 from datetime import datetime
 from difflib import SequenceMatcher
 
-from common import JST, campaign_id, content_key, identity_key, normalize_text, today_str
+from common import ROOT, JST, campaign_id, content_key, identity_key, load_json, normalize_text, today_str
 
 SIMILARITY = 0.75  # タイトルか根拠文がこれ以上似ていれば同じキャンペーンとみなす（短いタイトルの取り違えを防ぐため高め）
 
@@ -84,6 +84,14 @@ def match_existing(c: dict, existing: list[dict]) -> tuple[str, dict | None]:
     戻り値: ("new", None) / ("same", 既存) / ("changed", 既存)
     """
     ik = identity_key(c)
+    # Explicit, evidence-reviewed aliases only. Never merge merely by URL or date.
+    for alias in load_json(ROOT / "config" / "campaign_aliases.json", []):
+        if c.get("id") != alias.get("duplicate_id"):
+            continue
+        for e in existing:
+            if (e.get("id") == alias.get("canonical_id") and identity_key(e) == ik
+                    and c.get("type") != "coupon"):
+                return ("same" if content_key(e) == content_key(c) else "changed"), e
     best, best_score = None, 0.0
     for e in existing:
         if identity_key(e) != ik:

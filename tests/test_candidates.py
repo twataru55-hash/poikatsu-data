@@ -57,3 +57,35 @@ def test_different_detail_pages_are_different_campaigns():
     a = normalize(dict(RAW, official_url="https://paypay.ne.jp/event/a/"), SRC)
     b = normalize(dict(RAW, official_url="https://paypay.ne.jp/event/b/"), SRC)
     assert match_existing(b, [a])[0] == "new"
+
+
+def test_reviewed_alias_reuses_existing_id_without_lowering_similarity(monkeypatch):
+    import candidates
+    from copy import deepcopy
+    first = normalize(RAW, SRC)
+    first['id'] = 'cp-0000000001'
+    second = deepcopy(first)
+    second.update(id='cp-0000000002', title='別の表記', evidence_quote='別の引用')
+    monkeypatch.setattr(candidates, 'load_json', lambda *a: [])
+    assert match_existing(first, [second]) == ('new', None)
+    monkeypatch.setattr(candidates, 'load_json', lambda *a: [
+        {'duplicate_id': first['id'], 'canonical_id': second['id']}])
+    assert match_existing(first, [second]) == ('same', second)
+    changed = deepcopy(first)
+    changed['benefit']['rate_max'] = 15
+    assert match_existing(changed, [second]) == ('changed', second)
+    assert apply_update(second, changed)['id'] == second['id']
+    assert match_existing(first, []) == ('new', None)
+    for field, value in [('official_url', 'https://paypay.ne.jp/event/another/'),
+                         ('type', 'lottery')]:
+        other = deepcopy(first)
+        other[field] = value
+        assert match_existing(other, [second]) == ('new', None)
+    other = deepcopy(first)
+    other['period']['start'] = '2026-11-01T00:00:00+09:00'
+    assert match_existing(other, [second]) == ('new', None)
+    coupon = deepcopy(first)
+    coupon['type'] = 'coupon'
+    coupon_other = deepcopy(second)
+    coupon_other['type'] = 'coupon'
+    assert match_existing(coupon, [coupon_other]) == ('new', None)
