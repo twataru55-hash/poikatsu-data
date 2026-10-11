@@ -135,3 +135,59 @@ def test_ministop_dynamic_body_changes_hash_and_reaches_details(tmp_path, monkey
     got, failed = discovery.discover_and_refresh(pages[0], {}, {}, DetailFetcher())
     assert len(got) == 1 and not failed
     assert detail_fetches == [pages[0].links[0][1]]
+
+
+def test_listing_connection_failure_keeps_known_detail_checks(tmp_path, monkeypatch):
+    import prepare
+    from collect import Page
+    from common import save_json, load_json
+    source = next(s for s in load_sources() if s['id'] == 'ministop-offers')
+    source = deepcopy(source)
+    source['follow']['max_new'] = 1
+    known = ['https://www.ministop.co.jp/campaign/1get.html',
+             'https://www.ministop.co.jp/campaign/2504aeonpay-cp.html']
+    save_json(tmp_path / 'discovery' / 'ministop-offers.json', {
+        'at': '2026-10-05T09:19:15+09:00',
+        'discovered': [{'url': u, 'label': '公式詳細'} for u in known] + [
+            {'url': 'https://example.com/campaign/not-official.html', 'label': '対象外'}],
+        'checked': {known[0]: {'attempted_at': '2026-10-04'},
+                    known[1]: {'attempted_at': '2026-10-03'}}})
+    for module in (collect, discovery, prepare):
+        monkeypatch.setattr(module, 'WORK_DIR', tmp_path)
+    monkeypatch.setattr(prepare, 'INBOX', tmp_path / 'inbox')
+    monkeypatch.setattr(prepare, 'load_sources', lambda: [source])
+    monkeypatch.setattr(prepare, 'collect', lambda *a, **k: [Page(source, '', False, False, 'ConnectionError')])
+    fetches = []
+    class DetailFetcher:
+        last_url = None
+        def allowed(self, url): return True
+        def get_js(self, url):
+            fetches.append(url)
+            return '<main>公式の詳細条件です。' + '対象購入期間と条件を確認してください。' * 10 + '</main>'
+        def get_static(self, url): raise AssertionError('Details require browser rendering')
+    monkeypatch.setattr(prepare, 'Fetcher', lambda config: DetailFetcher())
+    result = prepare.main()
+    queue = load_json(tmp_path / 'inbox' / result['run_id'] / 'queue.json', {})
+    assert result['ok'] and len(result['to_answer']) == 1
+    assert fetches == [known[1]]  # Oldest attempt first; keep configured budget.
+    assert queue['failed'] == [{'source_id': source['id'], 'error': 'ConnectionError'}]
+    audit = queue['coverage'][0]
+    assert audit['listing_ok'] is False and audit['listing_pages'] == []
+    assert audit['discovery_basis'] == 'previous_listing'
+    assert audit['listing_discovery_at'] == '2026-10-05T09:19:15+09:00'
+    assert audit['unvisited'] == [known[0]]
+    assert audit['excluded'][0]['url'].startswith('https://example.com/')
+    assert queue['source_summary'][source['id']]['listing_ok'] is False
+    assert queue['source_summary'][source['id']]['complete_claim'] is False
+
+
+def test_known_detail_fallback_does_not_bypass_denial_or_missing_permission():
+    from collect import Page
+    source = next(s for s in load_sources() if s['id'] == 'ministop-offers')
+    for error in ('HTTP 403', 'HTTP 404', 'robots.txt で取得禁止', 'Access Denied（本文未取得）'):
+        assert not discovery.can_refresh_known(Page(source, '', False, False, error))
+    assert discovery.can_refresh_known(Page(source, '', False, False, 'ConnectionError'))
+    assert discovery.can_refresh_known(Page(source, '', False, False, 'net::ERR_CONNECTION_RESET'))
+    unconfigured = deepcopy(source)
+    unconfigured['follow'].pop('refresh_known_on_listing_failure')
+    assert not discovery.can_refresh_known(Page(unconfigured, '', False, False, 'ConnectionError'))

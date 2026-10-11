@@ -161,7 +161,9 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
         sid = page.source["id"]
         if not page.ok:
             queue["failed"].append({"source_id": sid, "error": page.error})
-            continue
+            from discovery import can_refresh_known
+            if not can_refresh_known(page):
+                continue
         if page.source.get("follow"):
             # 一覧ページは「詳細ページを見つける」ためだけに使い、詳細ページを1件ずつ依頼する
             audit = {}

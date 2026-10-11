@@ -315,6 +315,9 @@
   follow:
     pattern: ^https://www\.ministop\.co\.jp/campaign/(?:[^?#]+\.html|[0-9][A-Za-z0-9_-]+/)$
     max_new: 30
+    render: js
+    # Keep known details rotating during a connection outage, without claiming new discovery.
+    refresh_known_on_listing_failure: true
 - id: ministop-waon
   name: ミニストップWAON POINT企画
   url: https://www.ministop.co.jp/waon/campaign/

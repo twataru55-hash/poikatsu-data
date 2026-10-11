@@ -17,6 +17,8 @@ def record_coverage(queue, sources):
         measured[sid] = {
             'run_id': queue['run_id'], 'measured_at': queue['created_at'],
             'listing_ok': sid not in failed, 'listing_error': failed.get(sid, {}).get('error'),
+            'discovery_basis': (audit or {}).get('discovery_basis'),
+            'listing_discovery_at': (audit or {}).get('listing_discovery_at'),
             'discovered': len((audit or {}).get('discovered', [])),
             'unvisited': len((audit or {}).get('unvisited', [])),
             'excluded': len((audit or {}).get('excluded', [])),

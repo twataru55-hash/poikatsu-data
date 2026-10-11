@@ -20,6 +20,13 @@ def source_for_detail(parent: dict, url: str) -> dict:
             "render": follow.get("render", parent.get("render", "static"))}
 
 
+def can_refresh_known(page) -> bool:
+    """Only configured connection failures may refresh previously linked details."""
+    follow = page.source.get("follow") or {}
+    return (not getattr(page, "ok", True) and follow.get("refresh_known_on_listing_failure") is True
+            and (page.error == "ConnectionError" or "net::ERR_CONNECTION_RESET" in page.error))
+
+
 def unwrap_official_link(url: str, domains: set) -> str:
     """Resolve the observed d-point redirect wrapper without executing JavaScript.
     The public URL names its destination; only existing official domains qualify.
@@ -70,11 +77,16 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
     previous = load_json(ledger_path, {})
     checked = previous.get("checked", {})
     links = list(page.links or [])
-    listing_urls = {page.source["url"]}
+    known_only = can_refresh_known(page)
+    if not getattr(page, "ok", True) and not known_only:
+        raise RuntimeError("一覧取得失敗: 既知詳細の再確認は許可されていない")
+    if known_only:
+        links = [(x.get("label", ""), x["url"]) for x in previous.get("discovered", [])]
+    listing_urls = set() if known_only else {page.source["url"]}
     pagination = follow.get("pagination_pattern")
     failures, excluded, eligible = [], [], {}
     # Explicit pagination has its own bound. Every omitted list URL is reported.
-    if pagination:
+    if pagination and not known_only:
         # Newly discovered next-page links also enter this bounded traversal.
         for _label, url in links:
             if not re.search(pagination, url) or not domain_allowed(url, domains) or url in listing_urls:
@@ -90,7 +102,8 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
                 links.extend(extract_links(html, url))
             except Exception as e:
                 failures.append({"source_id": page.source["id"], "url": url, "error": str(e)[:200]})
-    links.extend(("設定済みの公式詳細ページ", u) for u in follow.get("seeds", []))
+    if not known_only:
+        links.extend(("設定済みの公式詳細ページ", u) for u in follow.get("seeds", []))
     redirect_hosts = follow.get("redirect_hosts", [])
     redirect_labels = follow.get("redirect_label_pattern", ".*")
     for label, raw_url in links:
@@ -153,6 +166,9 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
             checked.setdefault(url, {}).update(attempted_at=now, error=str(e)[:200])
             failures.append({"source_id": src["id"], "url": url, "error": str(e)[:200]})
     result = {"source_id": page.source["id"], "at": now, "listing_pages": sorted(listing_urls),
+              "listing_ok": not known_only, "listing_error": page.error if known_only else None,
+              "discovery_basis": "previous_listing" if known_only else "current_listing",
+              "listing_discovery_at": (previous.get("listing_discovery_at") or previous.get("at")) if known_only else now,
               "discovered": [{"url": u, "label": t} for u, t in eligible.items()],
               "checked": checked, "fetched": min(len(ordered), budget), "unchanged": unchanged,
               "unvisited": unvisited, "excluded": excluded, "failed": failures}

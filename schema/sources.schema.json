@@ -92,6 +92,10 @@
             "minimum": 1,
             "maximum": 100
           },
+          "refresh_known_on_listing_failure": {
+            "type": "boolean",
+            "description": "接続切断時だけ以前発見した詳細を再取得。一覧取得成功・新規発見とは扱わず、403やrobots禁止には適用しない"
+          },
           "render": {
             "enum": [
               "static",
