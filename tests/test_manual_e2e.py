@@ -98,9 +98,9 @@ def test_manual_flow(tmp_path, unknown):
 
     sources = yaml.safe_load((repo / "config/sources.yaml").read_text(encoding="utf-8"))
     # Keep this fixture exercising both plain and followed source paths.
-    # Municipality detail discovery is covered by test_collection_recovery.py.
+    # Municipality and dynamic WAON discovery are covered by test_collection_recovery.py.
     for source in sources:
-        if source['id'] == 'paypay-local':
+        if source['id'] in ('paypay-local', 'ministop-waon'):
             source.pop('follow', None)
     (repo / 'config/sources.yaml').write_text(yaml.safe_dump(sources, allow_unicode=True), encoding='utf-8')
     enabled = [s for s in sources if s.get("enabled", True)]

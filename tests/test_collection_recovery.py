@@ -96,3 +96,30 @@ def test_js_denial_is_a_fetch_failure_and_closes_browser(monkeypatch):
         with pytest.raises(RuntimeError, match='HTTP 403|Access Denied'):
             Fetcher({}).get_js(page.url)
         assert closed == [True]
+
+
+def test_ministop_dynamic_body_changes_hash_and_reaches_details(tmp_path, monkeypatch):
+    import hashlib
+    source = next(s for s in load_sources() if s['id'] == 'ministop-waon')
+    html = ('<main>毎月10日はAEON Payデー。店頭決済でWAON POINT10倍。'
+            '詳しい条件は公式の詳細をご確認ください。'
+            '<a href="/campaign/10aeon_pay_waon_point10.html">詳細</a></main>')
+    previous = hashlib.sha256('WAON POINT お得情報'.encode()).hexdigest()
+    monkeypatch.setattr(collect, 'WORK_DIR', tmp_path)
+    monkeypatch.setattr(collect, 'load_json', lambda path, default: {
+        source['id']: {'hash': previous, 'extraction_revision': 3}
+    } if path.name == 'snapshots.json' else default)
+    class DynamicFetcher:
+        last_url = source['url']
+        def allowed(self, url): return True
+        def get_js(self, url): return html
+        def get_static(self, url): raise AssertionError('Initial HTML omits campaign conditions')
+    monkeypatch.setattr(collect, 'Fetcher', lambda config: DynamicFetcher())
+    pages = collect.collect([source], {'manual': {'extraction_revision': 3}},
+                            record_snapshots=False, record_status=False)
+    assert len(pages) == 1 and pages[0].ok and pages[0].changed
+    assert pages[0].digest != previous
+    assert 'WAON POINT10倍' in pages[0].text
+    import re
+    assert re.match(source['follow']['pattern'], pages[0].links[0][1])
+    assert source['follow']['render'] == 'static'

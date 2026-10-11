@@ -325,11 +325,16 @@
   store_ids:
   - ministop
   kind: official
-  render: static
+  # The campaign body is loaded after the initial HTML response.
+  render: js
   frequency: daily
   domains:
   - ministop.co.jp
   - aeon.co.jp
+  follow:
+    pattern: ^https://www\.ministop\.co\.jp/campaign/(?:[^?#]+\.html|[0-9][A-Za-z0-9_-]+/)$
+    max_new: 30
+    render: static
 - id: tsuruha-offers
   name: ツルハ公式企画・クーポン
   url: https://www.tsuruha.co.jp/campaign/
