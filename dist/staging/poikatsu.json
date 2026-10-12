@@ -1,11 +1,11 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-11-1808",
-    "generated_at": "2026-10-11T18:08:04+09:00",
+    "data_version": "2026-10-12-0900",
+    "generated_at": "2026-10-12T09:00:29+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 139,
+      "campaigns": 138,
       "live_campaigns": 110,
       "stores": 80,
       "recurring": 7
@@ -1165,43 +1165,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/11 dポイント5倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント5倍",
-        "cap_per_use": null,
-        "cap_total": 800,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-11T00:00:00+09:00",
-        "end": "2026-10-11T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
-      },
-      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
-      "id": "cp-de890ab9cb"
-    },
     {
       "type": "coupon",
       "brand_ids": [],
@@ -4910,7 +4873,10 @@
         "kind": "payment_wide",
         "store_ids": [],
         "prefecture_codes": [],
-        "municipality": null
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
       },
       "period": {
         "start": "2026-10-01T10:00:00+09:00",
@@ -4945,7 +4911,10 @@
         "kind": "payment_wide",
         "store_ids": [],
         "prefecture_codes": [],
-        "municipality": null
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
       },
       "period": {
         "start": "2026-10-01T10:00:00+09:00",
@@ -4980,7 +4949,10 @@
         "kind": "payment_wide",
         "store_ids": [],
         "prefecture_codes": [],
-        "municipality": null
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
       },
       "period": {
         "start": "2026-10-01T10:00:00+09:00",
@@ -5015,7 +4987,10 @@
         "kind": "payment_wide",
         "store_ids": [],
         "prefecture_codes": [],
-        "municipality": null
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
       },
       "period": {
         "start": "2026-10-01T10:00:00+09:00",
@@ -5797,7 +5772,10 @@
         "kind": "payment_wide",
         "store_ids": [],
         "prefecture_codes": [],
-        "municipality": null
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
       },
       "period": {
         "start": "2026-10-01T10:00:00+09:00",

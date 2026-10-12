@@ -108,6 +108,9 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
         for s in scope.get("store_ids") or []:
             if s not in ctx.stores:
                 reasons.append(f"V03 未登録の店: {s}")
+        for s in scope.get("excluded_store_ids") or []:
+            if s not in ctx.stores:
+                reasons.append(f"V03 未登録の対象外店: {s}")
 
     # V04 公式ドメインか
     allowed = allowed_domains(c, ctx)

@@ -164,6 +164,7 @@ def content_key(c: dict) -> tuple:
         canonical_detail_url((c.get("entry") or {}).get("url") or ""),
         normalize_text(c.get("conditions")),
         c.get("confidence"),
+        tuple(sorted((c.get("scope") or {}).get("excluded_store_ids") or [])),
     )
 
 

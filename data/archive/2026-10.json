@@ -37,5 +37,164 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-6bc7e69f42"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "ウェルパーク10/4 dポイント5倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "dポイント5倍",
+      "cap_per_use": null,
+      "cap_total": 800,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welpark"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-04T00:00:00+09:00",
+      "end": "2026-10-04T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+    },
+    "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+    "evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-b31e1426ca"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシア グミの日スタンプラリー",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "3スタンプ30pt・6スタンプ100pt",
+      "cap_per_use": null,
+      "cap_total": 100,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-08-03T00:00:00+09:00",
+      "end": "2026-10-04T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象グミ1点1スタンプ。アプリ登録カード提示・応募要。景品応募10/31まで。対象店限定。",
+    "official_url": "https://m.e-welcia.com/drug/202608_guminohi_st",
+    "evidence_quote": "3スタンプ：30ポイントもれなくもらえる\n6スタンプ：100ポイントもれなくもらえる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-04",
+    "last_verified": "2026-10-04",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\n2026/8/3-2026/10/4",
+    "id": "cp-9a6c982590"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシア プロテインスタンプラリー",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "5スタンプ1,000pt・10で3,000pt",
+      "cap_per_use": null,
+      "cap_total": 6000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-07-06T00:00:00+09:00",
+      "end": "2026-10-04T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象品1会計税込2,000円毎1スタンプ。アプリ登録カード提示。景品応募10/31まで。対象店限定。",
+    "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+    "evidence_quote": "5スタンプ：1,000ポイント もれなくもらえる\n10スタンプ：3,000ポイント もれなくもらえる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-04",
+    "last_verified": "2026-10-04",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+    "id": "cp-702bced97f"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシア プロテインWチャンス",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "10スタンプ以上で抽選5名50,000pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-07-06T00:00:00+09:00",
+      "end": "2026-10-04T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "対象店・対象品・アプリ登録カード提示。10スタンプ以上（応募使用分含む）でWチャンス自動参加。",
+    "official_url": "https://m.e-welcia.com/drug/202607_protein_st",
+    "evidence_quote": "スタンプ10個以上貯まった方に抽選で5名様に50,000ポイント当たる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-04",
+    "last_verified": "2026-10-04",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
+    "id": "cp-25654d5182"
   }
 ]

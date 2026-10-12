@@ -124,6 +124,11 @@
                   "type": "string"
                 }
               },
+              "excluded_store_ids": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": {"type": "string"}
+              },
               "prefecture_codes": {
                 "type": "array",
                 "items": {
