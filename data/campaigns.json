@@ -6540,5 +6540,86 @@
     "status_override": null,
     "period_evidence_quote": "10月の対象期間：2026年10月1日（木）0:00～10月31日（土）23:59",
     "id": "cp-8737a05cc7"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "d-barai",
+      "dpoint"
+    ],
+    "title": "シューマート d払い7000円以上で10%",
+    "benefit": {
+      "rate_max": 10,
+      "rate_text": "dポイント＋10％還元",
+      "cap_per_use": null,
+      "cap_total": 2000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "shoemart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-16T00:00:00+09:00",
+      "end": "2026-10-29T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=a6df5f7c6c8f119cd19211a27dffca2dda18d50c6a8fa9da7b7809607cde3ffe"
+    },
+    "conditions": "税込7000円以上d払いコード。合算・残高・dカード払い限定、iD・タッチ除外。営業時間内。",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899302_PB7828/",
+    "evidence_quote": "【シューマート】7,000円以上のお買物でdポイント＋10％還元",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-12",
+    "last_verified": "2026-10-12",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月16日（金）～2026年10月29日（木）",
+    "id": "cp-93cbf2a0e6"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "チヨダ対象店舗dポイント30倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "もれなく30倍",
+      "cap_per_use": null,
+      "cap_total": 3000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "chiyoda-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-09T00:00:00+09:00",
+      "end": "2026-11-08T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=055ed2c7c81c5f4b64bf12bdf3d4f0e054a6b02d325d6419fa9045ece3896b07"
+    },
+    "conditions": "対象チェーン実店舗、税込7000円以上・35pt獲得・カード提示・利用登録。通販と一部商品除外。",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
+    "evidence_quote": "キャンペーン期間中にエントリーの上、対象店舗にて、1会計につき7,000円（税込）（35ポイント獲得）以上のお買物で、dポイント（期間・用途限定）もれなく30倍（通常ポイント1倍＋キャンペーンポイント29倍）進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-12",
+    "last_verified": "2026-10-12",
+    "status_override": null,
+    "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）",
+    "id": "cp-0673b78dbe"
   }
 ]

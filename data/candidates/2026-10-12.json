@@ -367,5 +367,21 @@
     "reasons": [],
     "source": "nakau-point-campaign",
     "title": "なか卯10月 共通ポイント最大15倍"
+  },
+  {
+    "id": "cp-93cbf2a0e6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "シューマート d払い7000円以上で10%"
+  },
+  {
+    "id": "cp-0673b78dbe",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "チヨダ対象店舗dポイント30倍"
   }
 ]

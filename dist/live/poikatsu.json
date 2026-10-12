@@ -1,13 +1,13 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-12-1643",
-    "generated_at": "2026-10-12T16:43:58+09:00",
+    "data_version": "2026-10-12-1653",
+    "generated_at": "2026-10-12T16:53:34+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 148,
-      "live_campaigns": 118,
-      "stores": 80,
+      "campaigns": 150,
+      "live_campaigns": 119,
+      "stores": 82,
       "recurring": 7
     }
   },
@@ -1010,6 +1010,22 @@
       "name": "ミスタードーナツ",
       "category": "cafe",
       "official_url": "https://dpoint.docomo.ne.jp/cp_7/mos-burger_260917_7751/index.html",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "shoemart",
+      "name": "シューマート（対象実店舗）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899302_PB7828/",
+      "accepted_brand_ids": [],
+      "base_rewards": []
+    },
+    {
+      "id": "chiyoda-group",
+      "name": "チヨダグループ（対象店舗）",
+      "category": "other",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
       "accepted_brand_ids": [],
       "base_rewards": []
     }
@@ -3103,6 +3119,44 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-83305a1afa"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "シューマート d払い7000円以上で10%",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "dポイント＋10％還元",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "shoemart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-29T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=a6df5f7c6c8f119cd19211a27dffca2dda18d50c6a8fa9da7b7809607cde3ffe"
+      },
+      "conditions": "税込7000円以上d払いコード。合算・残高・dカード払い限定、iD・タッチ除外。営業時間内。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899302_PB7828/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月16日（金）～2026年10月29日（木）",
+      "id": "cp-93cbf2a0e6"
     },
     {
       "type": "reward",
@@ -5580,6 +5634,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-7ac2a3f9fc"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "チヨダ対象店舗dポイント30倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "もれなく30倍",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "chiyoda-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-11-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=055ed2c7c81c5f4b64bf12bdf3d4f0e054a6b02d325d6419fa9045ece3896b07"
+      },
+      "conditions": "対象チェーン実店舗、税込7000円以上・35pt獲得・カード提示・利用登録。通販と一部商品除外。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）",
+      "id": "cp-0673b78dbe"
     },
     {
       "type": "coupon",
