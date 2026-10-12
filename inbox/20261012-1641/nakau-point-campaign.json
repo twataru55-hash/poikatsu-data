@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "vpoint",
+        "rakuten-point"
+      ],
+      "title": "なか卯10月 共通ポイント最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "来店回数に応じて最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "nakau"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "税込200円以上・1pt獲得、カード提示。1日1回・ポイント別月次集計。宅配除外、d・楽天利用登録要。",
+      "official_url": "https://point.zensho.co.jp/campaign/20260701_n_dvr/index.html",
+      "evidence_quote": "5回以上の来店で15倍（通常ポイント1倍＋キャンペーンポイント14倍）",
+      "period_evidence_quote": "10月の対象期間：2026年10月1日（木）0:00～10月31日（土）23:59",
+      "confidence": "confirmed"
+    }
+  ]
+}
