@@ -1,0 +1,363 @@
+[
+  {
+    "id": "cp-d6f7aa72db",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "セブン Pasco超熟PayPay最大20%"
+  },
+  {
+    "id": "cp-41c80cb56a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "セブンスター100万ポイント山分け"
+  },
+  {
+    "id": "cp-9bb0809f56",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "tsuruha-offers",
+    "title": "ツルハ P&G20%還元（期間年に矛盾）"
+  },
+  {
+    "id": "cp-5bb067de08",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシア 特茶・特水7スタンプ100pt"
+  },
+  {
+    "id": "cp-7cde05a70a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ジョイフル本田 d払い月5000円で5倍"
+  },
+  {
+    "id": "cp-61eceaff00",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ 毎日スクラッチ全額還元抽選"
+  },
+  {
+    "id": "cp-740fdca7d5",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラau PAY1000円引券10/09"
+  },
+  {
+    "id": "cp-305b8fb477",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラau PAY1000円引券10/16"
+  },
+  {
+    "id": "cp-26d4848010",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "aupay-campaign",
+    "title": "ビックカメラau PAY1000円引券10/23"
+  },
+  {
+    "id": "cp-31c65518e7",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ドトール 3スタンプごと30Ponta"
+  },
+  {
+    "id": "cp-df86a305ea",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "会員登録WAON イオングループ基本2倍"
+  },
+  {
+    "id": "cp-2e6d6f1961",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン直営10/10～12 WAON POINT10倍"
+  },
+  {
+    "id": "cp-4afab798b3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン ラミー3本50円引券"
+  },
+  {
+    "id": "cp-42e4e6fe3b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン バッカス10粒50円引券"
+  },
+  {
+    "id": "cp-025b98879c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "遠野市PayPay第2弾 最大20%還元"
+  },
+  {
+    "id": "cp-deba36f9ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "シューマート d払い7000円以上で10%"
+  },
+  {
+    "id": "cp-28be1a7a75",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 金土日AEON Pay10倍"
+  },
+  {
+    "id": "cp-ef15f1993b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ モバイル注文金土日20倍"
+  },
+  {
+    "id": "cp-813941b17f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "paypay-event",
+    "title": "ペイトク2 ゴールド支払い特典+10%"
+  },
+  {
+    "id": "cp-445a89da31",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "paypay-event",
+    "title": "ペイトク2 通常支払い特典+5%"
+  },
+  {
+    "id": "cp-2150495743",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アルペン 抽選100名に全額ポイントバック"
+  },
+  {
+    "id": "cp-98150da900",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（50%）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "Coke ON Pay d払い初利用＋50%還元"
+  },
+  {
+    "id": "cp-825805f4b0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "オーケーとドトールの利用でPontaポイント"
+  },
+  {
+    "id": "cp-b9f2fc5f56",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ジョーシン3スタンプで合計250Pontaポイント"
+  },
+  {
+    "id": "cp-cb90237b29",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ジョーシンのスタンプで抽選2000Pontaポイント"
+  },
+  {
+    "id": "cp-06ebe39266",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "なか卯Vポイント最大15倍"
+  },
+  {
+    "id": "cp-897d241725",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "waon-campaign",
+    "title": "お客さま感謝デーWAON払い5%OFF"
+  },
+  {
+    "id": "cp-6bf6794976",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン殺虫剤・防虫剤・除湿剤ポイント20倍"
+  },
+  {
+    "id": "cp-71d0edd4e0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ジョージア恵比寿ブラック購入分カフェウォーター無料券"
+  },
+  {
+    "id": "cp-2d5636f3bf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ジョージア恵比寿ラテ購入分カフェウォーター無料券"
+  },
+  {
+    "id": "cp-fb2dca6189",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "mcdonalds-offers",
+    "title": "夜マック 食べくらべポテナゲ大セット割引"
+  },
+  {
+    "id": "cp-bc4023193e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "mcdonalds-offers",
+    "title": "夜マック 食べくらべポテナゲ特大セット割引"
+  },
+  {
+    "id": "cp-db8bfc0f29",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "mcdonalds-offers",
+    "title": "夜マック ポテナゲ大セット割引"
+  },
+  {
+    "id": "cp-908926b49f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "mcdonalds-offers",
+    "title": "夜マック ポテナゲ特大セット割引"
+  },
+  {
+    "id": "cp-0e92ba38a9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "チヨダ対象店舗dポイント30倍"
+  },
+  {
+    "id": "cp-c8102c15de",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "富士薬品セイムスアプリ提示で抽選100ポイント"
+  }
+]

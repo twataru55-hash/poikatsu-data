@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-12-0900",
-    "generated_at": "2026-10-12T09:00:29+09:00",
+    "data_version": "2026-10-12-0942",
+    "generated_at": "2026-10-12T09:42:39+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 138,
-      "live_campaigns": 110,
+      "campaigns": 147,
+      "live_campaigns": 117,
       "stores": 80,
       "recurring": 7
     }
@@ -1411,6 +1411,43 @@
       "brand_ids": [
         "au-pay"
       ],
+      "title": "ビックカメラau PAY1000円引券10/09",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間②の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "期間②：2026年10月9日（金）\r\n～10月13日（火）",
+      "id": "cp-740fdca7d5"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
       "title": "ビックカメラ au PAY1000円引き 第2",
       "benefit": {
         "rate_max": null,
@@ -1985,6 +2022,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-2fbf466a7d"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラau PAY1000円引券10/16",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間③の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "期間③：2026年10月16日（金）\r\n～10月19日（月）",
+      "id": "cp-305b8fb477"
     },
     {
       "type": "coupon",
@@ -2598,6 +2672,43 @@
       "status_override": null,
       "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
       "id": "cp-a75a4e6c14"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラau PAY1000円引券10/23",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間④の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "期間④：2026年10月23日（金）\r\n～10月26日（月）",
+      "id": "cp-26d4848010"
     },
     {
       "type": "bonus",
@@ -3220,6 +3331,43 @@
       "id": "cp-35ea0d924f"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "セブンスター100万ポイント山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "楽天ポイント100万ポイント山分け",
+        "cap_per_use": null,
+        "cap_total": 4000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sevenstar"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-24T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "導入済対象店でカード提示・税抜200円以上かつ1pt以上獲得。10/31まで利用登録。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/sevenstar/20260924/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年9月24日（木）0:00～2026年10月31日（土）23:59",
+      "id": "cp-41c80cb56a"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "rakuten-point"
@@ -3435,6 +3583,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-aec687c48b"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "富士薬品セイムスアプリ提示で抽選100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選10000名100pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "fujiyakuhin-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/fujiyakuhin/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天連携セイムス会員証提示、税抜200円以上かつ1pt獲得、メルマガ購読。調剤除外、抽選1回。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "id": "cp-c8102c15de"
     },
     {
       "type": "lottery",
@@ -5502,6 +5687,43 @@
       "id": "cp-2c5e876cf8"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ドトール 3スタンプごと30Ponta",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプで30pt・最大210pt",
+        "cap_per_use": null,
+        "cap_total": 210,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "doutor-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象6ブランドでカード提示、1回税込200円以上・1pt以上獲得。ID連携・スタンプ応募必要。",
+      "official_url": "https://www.ponta.jp/c/campaign/doutor_2609/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59",
+      "id": "cp-31c65518e7"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "rakuten-point"
@@ -5644,6 +5866,80 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-87e4ad2de8"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ジョーシン3スタンプで合計250Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプ合計250pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "先にエントリー。実店舗で税込1100円以上、ジョーシンとPontaカード併用。3個で合計250pt。",
+      "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59",
+      "id": "cp-b9f2fc5f56"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ジョーシンのスタンプで抽選2000Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選50名2000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "先にエントリー。実店舗で税込1100円以上、カード併用で1～10個獲得。獲得数で当選確率増。",
+      "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59",
+      "id": "cp-cb90237b29"
     },
     {
       "type": "reward",
@@ -5791,6 +6087,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-b2a6640ea8"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア 特茶・特水7スタンプ100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "7スタンプで100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-12-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象11ブランド。アプリ登録・提示・応募必要。iAEON等除外。購入12/6、応募12/31迄。",
+      "official_url": "https://m.e-welcia.com/drug/202610_suntory_st",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-12",
+      "status_override": null,
+      "period_evidence_quote": "対象期間\r\n2026/10/5-2026/12/6",
+      "id": "cp-5bb067de08"
     },
     {
       "type": "lottery",
