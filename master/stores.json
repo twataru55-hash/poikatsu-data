@@ -1008,5 +1008,23 @@
     ],
     "accepted_brand_ids": [],
     "base_rewards": []
+  },
+  {
+    "id": "shoemart",
+    "name": "シューマート（対象実店舗）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899302_PB7828/",
+    "domains": ["dpoint.docomo.ne.jp"],
+    "accepted_brand_ids": [],
+    "base_rewards": []
+  },
+  {
+    "id": "chiyoda-group",
+    "name": "チヨダグループ（対象店舗）",
+    "category": "other",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
+    "domains": ["dpoint.docomo.ne.jp"],
+    "accepted_brand_ids": [],
+    "base_rewards": []
   }
 ]
