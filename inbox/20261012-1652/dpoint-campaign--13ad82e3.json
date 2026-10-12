@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "チヨダ対象店舗dポイント30倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "もれなく30倍",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "chiyoda-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-11-08T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=055ed2c7c81c5f4b64bf12bdf3d4f0e054a6b02d325d6419fa9045ece3896b07"
+      },
+      "conditions": "対象チェーン実店舗、税込7000円以上・35pt獲得・カード提示・利用登録。通販と一部商品除外。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
+      "evidence_quote": "キャンペーン期間中にエントリーの上、対象店舗にて、1会計につき7,000円（税込）（35ポイント獲得）以上のお買物で、dポイント（期間・用途限定）もれなく30倍（通常ポイント1倍＋キャンペーンポイント29倍）進呈いたします。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）"
+    }
+  ]
+}
