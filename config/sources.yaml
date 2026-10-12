@@ -194,6 +194,16 @@
     max_new: 20
     pagination_pattern: ^https://cpn\.tsite\.jp/list/(?:new|before-the-end|all\?page=[0-9]+)$
     max_list_pages: 4
+- id: nakau-point-campaign
+  name: なか卯 共通ポイント倍率アップ公式詳細
+  url: https://point.zensho.co.jp/campaign/20260701_n_dvr/index.html
+  brand_ids: [dpoint, vpoint, rakuten-point]
+  store_ids: [nakau]
+  kind: official
+  render: static
+  frequency: daily
+  domains: [point.zensho.co.jp]
+  note: Vポイント公式案内のキャンペーン詳細リンクで確認した主催者公式本文。月別対象期間とエントリー不要を確認し、全体終了未定と混同しない。
 - id: smbc-member-campaign
   name: 三井住友カード 会員向けキャンペーン
   url: https://www.smbc-card.com/memfs/campaign/index.jsp
