@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ 毎日スクラッチ全額還元抽選",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選100%・5%還元または1pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
+      },
+      "period": {
+        "start": "2026-08-03T10:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "1回200円以上、翌日8～23:59スクラッチ。日上限1万pt。ファミマ系・請求書等除外。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-scratch/",
+      "evidence_quote": "1等：楽天ポイント100%還元\r\n2等：楽天ポイント5%還元\r\n3等：楽天ポイント1ポイント",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年8月3日（月）10:00～常時開催"
+    }
+  ]
+}

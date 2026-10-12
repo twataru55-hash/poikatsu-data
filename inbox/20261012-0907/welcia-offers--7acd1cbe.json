@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシア 特茶・特水7スタンプ100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "7スタンプで100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-12-06T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象11ブランド。アプリ登録・提示・応募必要。iAEON等除外。購入12/6、応募12/31迄。",
+      "official_url": "https://m.e-welcia.com/drug/202610_suntory_st",
+      "evidence_quote": "7スタンプ：100ポイントもれなくもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/10/5-2026/12/6"
+    }
+  ]
+}

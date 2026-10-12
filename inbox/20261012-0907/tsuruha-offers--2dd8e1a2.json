@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "tsuruha-group-point"
+      ],
+      "title": "ツルハ P&G20%還元（期間年に矛盾）",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "ツルハグループポイント20%還元",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "tsuruha"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "会員限定、1会計税込3000円以上。SK-II等除外。購入期間2025年と応募2026年が不整合。",
+      "official_url": "https://www.tsuruha-kcp.com/cp/pgcampaign202609/",
+      "evidence_quote": "ツルハグループポイント20%還元 もれなくもらえる！ 付与上限は期間中お一人様2,000ポイント",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

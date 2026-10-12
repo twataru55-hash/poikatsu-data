@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "富士薬品セイムスアプリ提示で抽選100ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選10000名100pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "fujiyakuhin-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/fujiyakuhin/20261001?ekey=mp_on"
+      },
+      "conditions": "楽天連携セイムス会員証提示、税抜200円以上かつ1pt獲得、メルマガ購読。調剤除外、抽選1回。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/fujiyakuhin/20261001/",
+      "evidence_quote": "楽天ポイントカードと連携したセイムスアプリ会員証を提示して200円（税抜）以上お会計すると抽選で10,000名さまに楽天ポイント100ポイント当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59"
+    }
+  ]
+}

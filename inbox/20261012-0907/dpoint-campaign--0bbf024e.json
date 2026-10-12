@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "シューマート d払い7000円以上で10%",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "dポイント＋10％還元",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-29T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=a6df5f7c6c8f119cd19211a27dffca2dda18d50c6a8fa9da7b7809607cde3ffe"
+      },
+      "conditions": "シューマート全店限定（店舗ID未登録）。1決済税込7000円以上・指定d払いコード決済、営業時間内。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899302_PB7828/",
+      "evidence_quote": "【シューマート】7,000円以上のお買物でdポイント＋10％還元",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": "2026年10月16日（金）～2026年10月29日（木）"
+    }
+  ]
+}

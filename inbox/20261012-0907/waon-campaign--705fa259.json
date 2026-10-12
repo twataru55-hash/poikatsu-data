@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon"
+      ],
+      "title": "会員登録WAON イオングループ基本2倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAONポイント基本の2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon",
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "登録済WAONで対象店支払。JMB・専門店・通販・対象外商品除外。他倍付け併用不可。",
+      "official_url": "https://www.waon.net/campaign/20190601_2baipointcp/",
+      "evidence_quote": "電子マネーWAONのお支払いで200円(税込)ごとに1ポイントのところ、イオングループの対象店舗にて、あらかじめ会員登録が完了された電子マネーWAONでのお支払いで200円(税込)ごとに2ポイント付与！",
+      "confidence": "confirmed"
+    }
+  ]
+}

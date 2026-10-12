@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point",
+        "paypay-card"
+      ],
+      "title": "ペイトク2 ゴールド支払い特典+10%",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "PayPayポイント＋10％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ペイトク2・ゴールド年会費11000円。回線/アプリ連携、月上限4000円相当。医療等除外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20260602/",
+      "evidence_quote": "アプリとカードを連携※1した翌月から＋10％ずーっともらえる！※2上限4,000円相当／月お支払いはPayPayカード ゴールドもOK！PayPayカード ゴールドがなくても、PayPayカード・PayPayアプリでの買い物でも＋5％※2もらえる！上限3,000円相当／月",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point",
+        "paypay-card"
+      ],
+      "title": "ペイトク2 通常支払い特典+5%",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "PayPayポイント＋5％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ペイトク2・回線/PayPay連携、対象決済。月上限3000円相当。医療・通信料等除外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20260602/",
+      "evidence_quote": "アプリとカードを連携※1した翌月から＋10％ずーっともらえる！※2上限4,000円相当／月お支払いはPayPayカード ゴールドもOK！PayPayカード ゴールドがなくても、PayPayカード・PayPayアプリでの買い物でも＋5％※2もらえる！上限3,000円相当／月",
+      "confidence": "confirmed"
+    }
+  ]
+}

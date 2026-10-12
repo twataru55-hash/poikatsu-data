@@ -1,0 +1,109 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラau PAY1000円引券10/09",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-09T00:00:00+09:00",
+        "end": "2026-10-13T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間②の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "期間②：2026年10月9日（金）\r\n～10月13日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラau PAY1000円引券10/16",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間③の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "期間③：2026年10月16日（金）\r\n～10月19日（月）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ビックカメラau PAY1000円引券10/23",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円以上で1000円割引",
+        "cap_per_use": 1000,
+        "cap_total": null,
+        "cap_unit": "円相当"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "biccamera"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "期間④の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
+      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
+      "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "期間④：2026年10月23日（金）\r\n～10月26日（月）"
+    }
+  ]
+}

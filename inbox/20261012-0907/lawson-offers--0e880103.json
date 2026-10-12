@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ジョージア恵比寿ブラック購入分カフェウォーター無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "カフェウォーターブラック1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/22～28に恵比寿ブラック500ml購入のレシート券。持帰り限定、スマホレジ除外、1会計30枚まで。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532242_3677.html",
+      "evidence_quote": "●下記対象商品を購入すると、無料クーポンがレシートについてきます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート無料券　引換期間　9/29(火)〜10/12(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ジョージア恵比寿ラテ購入分カフェウォーター無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "カフェウォーターブラック1本無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "9/22～28に恵比寿ラテ500ml購入のレシート券。持帰り限定、スマホレジ除外、1会計30枚まで。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532242_3677.html",
+      "evidence_quote": "●下記対象商品を購入すると、無料クーポンがレシートについてきます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート無料券　引換期間　9/29(火)〜10/12(月)"
+    }
+  ]
+}

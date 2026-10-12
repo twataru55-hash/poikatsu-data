@@ -1,0 +1,74 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ジョーシン3スタンプで合計250Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3スタンプ合計250pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "先にエントリー。実店舗で税込1100円以上、ジョーシンとPontaカード併用。3個で合計250pt。",
+      "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
+      "evidence_quote": "期間中のスタンプ獲得数に応じて、もれなく合計250Pontaポイントプレゼント",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ジョーシンのスタンプで抽選2000Pontaポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選50名2000pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "先にエントリー。実店舗で税込1100円以上、カード併用で1～10個獲得。獲得数で当選確率増。",
+      "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
+      "evidence_quote": "さらに、スタンプを獲得した方の中から、抽選で50名様に2,000Pontaポイントプレゼント",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59"
+    }
+  ]
+}

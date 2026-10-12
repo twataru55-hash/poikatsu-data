@@ -1,0 +1,132 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "夜マック 食べくらべポテナゲ大セット割引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "350円以上おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "単品の割引期間外合計との比較。24時間店舗17:00～翌4:59。一部店舗・デリバリー価格異なる。",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/yorumac/",
+      "evidence_quote": "350円以上おトク！「プリプリエビプリオ」が入った「食べくらべポテナゲ大・特大」が9/16(水)から夜マック®に期間限定で登場！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "夜マック 食べくらべポテナゲ特大セット割引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "350円以上おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "単品の割引期間外合計との比較。24時間店舗17:00～翌4:59。一部店舗・デリバリー価格異なる。",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/yorumac/",
+      "evidence_quote": "350円以上おトク！「プリプリエビプリオ」が入った「食べくらべポテナゲ大・特大」が9/16(水)から夜マック®に期間限定で登場！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "夜マック ポテナゲ大セット割引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "380円以上おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "単品の割引期間外合計との比較。24時間店舗17:00～翌4:59。一部店舗・デリバリー価格異なる。",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/yorumac/",
+      "evidence_quote": "マックフライポテト®(L)×1個とチキンマックナゲット® 10ピースがセットで￥380以上おトク！夜マック®だけのサイドセットです。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "夜マック ポテナゲ特大セット割引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "560円以上おトク",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "単品の割引期間外合計との比較。24時間店舗17:00～翌4:59。一部店舗・デリバリー価格異なる。",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/yorumac/",
+      "evidence_quote": "マックフライポテト®(L)×2個とチキンマックナゲット® 15ピースがセットで￥560以上おトク！夜マック®だけのサイドセットです。",
+      "confidence": "confirmed"
+    }
+  ]
+}

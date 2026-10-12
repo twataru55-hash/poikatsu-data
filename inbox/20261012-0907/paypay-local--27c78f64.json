@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "遠野市PayPay第2弾 最大20%還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "PayPayポイント最大20％",
+        "cap_per_use": 2000,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "03"
+        ],
+        "municipality": "遠野市"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "市内対象店・指定PayPay決済、月上限5000pt。タバコ含む購入・通販等除外。早期終了あり。",
+      "official_url": "https://paypay.ne.jp/event/iwate-tono-city-20261001/",
+      "evidence_quote": "PayPayで遠野市を応援しよう！第2弾 対象店舗ならPayPayでお支払いすると最大20％戻ってくる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00〜2026年11月30日（月）23:59"
+    }
+  ]
+}

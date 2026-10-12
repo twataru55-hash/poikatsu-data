@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "セブン Pasco超熟PayPay最大20%",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "PayPayポイント最大20％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "セブンアプリPayPay、超熟対象品。購買情報同意・バーコード払い、一部店舗除外。",
+      "official_url": "https://paypay.ne.jp/event/retail-pasco-20261006/",
+      "evidence_quote": "セブンーイレブン限定！Pasco超熟をセブンーイレブンアプリのPayPayで支払うとPayPayポイント最大20％戻ってくる！キャンペーン",
+      "period_evidence_quote": "2026年10月6日（火）〜10月26日（月）",
+      "confidence": "confirmed"
+    }
+  ]
+}

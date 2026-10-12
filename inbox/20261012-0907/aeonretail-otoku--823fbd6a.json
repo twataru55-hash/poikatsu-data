@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "aeon-card",
+        "aeon-pay",
+        "waon-point"
+      ],
+      "title": "イオン直営10/10～12 WAON POINT10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本州（東北除く）・四国直営。カードクレジット・AEON Payスマホ限定、WAONタッチ除外。",
+      "official_url": "https://www.aeonretail.jp/campaign/pointX/",
+      "evidence_quote": "10/10(土)～10/12(月・祝)本州(東北地区を除く)・四国のイオン・イオンスタイル直営売場で、イオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の10倍",
+      "confidence": "confirmed"
+    }
+  ]
+}
