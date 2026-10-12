@@ -359,5 +359,13 @@
     "reasons": [],
     "source": "rakuten-pointcard-campaign",
     "title": "富士薬品セイムスアプリ提示で抽選100ポイント"
+  },
+  {
+    "id": "cp-8737a05cc7",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "nakau-point-campaign",
+    "title": "なか卯10月 共通ポイント最大15倍"
   }
 ]
