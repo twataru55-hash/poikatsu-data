@@ -196,5 +196,270 @@
     "status_override": null,
     "period_evidence_quote": "対象期間\n2026/7/6-2026/10/4",
     "id": "cp-25654d5182"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [
+      "au-pay"
+    ],
+    "title": "ビックカメラ au PAY1000円引き 第1",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "1万円以上で1,000円引き",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "biccamera"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-02T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
+    "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+    "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
+    "confidence": "confirmed",
+    "source_id": "aupay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-0af326a997"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 燻製あい鴨ロース串値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\n燻製あい鴨ロース串",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-f265683fab"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 日清カップヌードル値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\nいずれか1個\n50\n円引き\n日清\nカップヌードル\nカップヌードル\nシーフードヌードル\nカップヌードル カレー\nカップヌードル\nチリトマトヌードル",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-f5e4951606"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ こんがり焼プリン値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "20円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n20\n円引き\nオハヨー\n新鮮卵のこんがり焼プリン",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-7676ec209d"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ BifiXヨーグルトα値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\nグリコ\nBifiXヨーグルトα\nやさしい甘さ 低脂肪",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-0bf1b18987"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ おいもスタンプ応募ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "応募／交換ごと1円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で対象税込300円ごと1スタンプ。3個交換で1円相当、交換10/12まで",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_oimo_cp.html",
+    "evidence_quote": "※交換毎にファミマポイント1円相当を進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-45b5887777"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "famima-point"
+    ],
+    "title": "ファミマ ポケモンGOスタンプ応募ポイント",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "応募／交換ごと1円相当",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-15T00:00:00+09:00",
+      "end": "2026-10-05T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で対象品購入、6スタンプ応募ごと1円相当。応募10/9まで、賞品は別抽選",
+    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_pokemongo_cp.html",
+    "evidence_quote": "※スタンプ6個コースへの応募毎にファミマポイント1円相当を進呈いたします。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-12bb8ac785"
   }
 ]

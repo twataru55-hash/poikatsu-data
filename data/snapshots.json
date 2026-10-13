@@ -83,19 +83,22 @@
     "chars": 9340
   },
   "paypay-event--b0cb953a": {
-    "hash": "44abeb5d66098c86d440e450acdd4797b48741ad2e656d665ad507332b090037",
-    "fetched_at": "2026-09-26T22:19:31+09:00",
-    "chars": 7473
+    "hash": "56580b34292c27d284d4a1b922f7da4d6515f5b24ca40d530e85d8c497ddbec2",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 6430,
+    "extraction_revision": 3
   },
   "paypay-event--32a4be5b": {
     "hash": "1f046151fe561bae6e4e59bca35261e732dfbaf5af5dd9655d963ee0f569fcb7",
-    "fetched_at": "2026-09-26T22:19:31+09:00",
-    "chars": 15009
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 15009,
+    "extraction_revision": 3
   },
   "paypay-event--5cdd6981": {
     "hash": "901ac7263188f621027565b13bdab06cf8d39b16a7bfc7f1ef1095b74f8857c2",
-    "fetched_at": "2026-09-26T22:19:31+09:00",
-    "chars": 22415
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 22415,
+    "extraction_revision": 3
   },
   "paypay-event--2238d6a6": {
     "hash": "9bc250ea81e9a718c57cba7e24fa37d52a94f6f877709357f031213138b9da48",
@@ -415,9 +418,9 @@
   },
   "aeonretail-otoku--219279c2": {
     "hash": "87cbc8556d9cd1db73d5d6c72d116684d1cd3dff0be78318d7acea6cf1815c4b",
-    "fetched_at": "2026-10-04T16:21:37+09:00",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
     "chars": 3056,
-    "extraction_revision": 2
+    "extraction_revision": 3
   },
   "rakuten-pay-campaign--fcf77407": {
     "hash": "63e1897328f0d567af8a13ac1fa020069406a47c0f00c1127b221ce46b9efb2a",
@@ -494,8 +497,9 @@
   },
   "waon-campaign--c9dec637": {
     "hash": "158d46fbb0042973a340d869afb3cb015d9772f1daef455c10ab90f817184fb7",
-    "fetched_at": "2026-10-03T13:37:33+09:00",
-    "chars": 542
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 542,
+    "extraction_revision": 3
   },
   "aeonretail-otoku--3e00c3cf": {
     "hash": "e7870e287d70bb17e3e6a30b1807b2e4a687ff6128171da7e1a78eacdf1f1dd1",
@@ -656,8 +660,9 @@
   },
   "ponta-campaign--708e5ca4": {
     "hash": "1d426fd5dcb87bd1df6a4612364c4b34f03b5b4bb64737135b6e97ee510ba1bd",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 5923
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 5923,
+    "extraction_revision": 3
   },
   "familymart-offers--a4a82c90": {
     "hash": "af468c13803fe21a71881b775c44b5867a86dcb24b9b06580290591e2c17f11d",
@@ -711,8 +716,9 @@
   },
   "lawson-offers--abf8667b": {
     "hash": "45e40348646525a359ba3956eb5fc722e3d84b65d55604a432e309293ecec9ae",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 286
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 286,
+    "extraction_revision": 3
   },
   "seven-offers--8a28e3f1": {
     "hash": "39a5b06659f42c1be1e52626859d12722c27e39339445ef737c0f38e57a2f328",
@@ -751,8 +757,9 @@
   },
   "lawson-offers--0680669b": {
     "hash": "3979dbbc3c9809f0d7aa3ac5162f263d6e0eef502f37b53bdd4c18fea0634737",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 241
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 241,
+    "extraction_revision": 3
   },
   "seven-offers--cdca31ff": {
     "hash": "0144090b37f2b3d1355a5468de31612014d606c651c578e603303e306012fd38",
@@ -822,9 +829,10 @@
     "chars": 4206
   },
   "familymart-offers--0d2abe98": {
-    "hash": "61ed97d780b689925b25c72864f296d7d9b01e8d9620228fe3b37af49d1961b0",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 15785
+    "hash": "ce40e47a395972bb8dfa28abc797897897114d242e337481a502a24a4f28efa8",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 16915,
+    "extraction_revision": 3
   },
   "lawson-offers--c774fa32": {
     "hash": "5723360048d0983dd77817807528c46e9d8cd3a3b7022a02c8238387db334dbf",
@@ -833,8 +841,9 @@
   },
   "seven-offers--42c3f7af": {
     "hash": "0cbcb0cb7266aedb01c820434cd11062faeeb104edaf355a37e0453f6cc5f340",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 2240
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 2240,
+    "extraction_revision": 3
   },
   "tsuruha-offers--04c44861": {
     "hash": "657b05b5322f1a8390fe8b69b2d0b31abb0ba85f6b635ea4d7ae2d4bc1da73a3",
@@ -859,8 +868,9 @@
   },
   "seven-offers--be571bd5": {
     "hash": "0c173745cb874cc7d9eedafa3b624e175d02607572d6dfd9f8fecb581085715b",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 3175
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3175,
+    "extraction_revision": 3
   },
   "tsuruha-offers--fd2188b1": {
     "hash": "7c23614adb3e00aa567019bda016347c8b3d25214856e810f5eb3d753831f88b",
@@ -991,8 +1001,9 @@
   },
   "vpoint-campaign--c08c2e8d": {
     "hash": "ac6585161a86aad3ca7c6ae8d2c463a2665111c43b0463310f899b0e65f27dbe",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 1834
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1834,
+    "extraction_revision": 3
   },
   "dpoint-campaign--7bf4c12a": {
     "hash": "19efd748e7088b1defb08ff115e4c8b86b589e0f64393c33601e649e7192327a",
@@ -1016,8 +1027,9 @@
   },
   "mcdonalds-offers--4745d74c": {
     "hash": "db8c99112611933a80cc9ed185caec0fbfd0fe66694f43e0ad2195bd4d3f13c1",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 1423
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1423,
+    "extraction_revision": 3
   },
   "vpoint-campaign--1e4ab790": {
     "hash": "482af1537ba6133fc92733e758a06f160090e7f84fe59ccdc0fbc73d360bb8d6",
@@ -1089,13 +1101,15 @@
   },
   "mcdonalds-offers--a5e07199": {
     "hash": "49c1329b091fbe8fe3decf3884d576a6d1fe7be4bef85602551c7f4258cfbaf3",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 1624
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1624,
+    "extraction_revision": 3
   },
   "vpoint-campaign--43f45058": {
     "hash": "b2d303427e649a421f428655dc043a3067cec158c9b8909e4ff01285b90721e4",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 265
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 265,
+    "extraction_revision": 3
   },
   "dpoint-campaign--b02a9736": {
     "hash": "d9fd5384b9f5e1b8fa67a57d8a6cfce9f1321b3bc509c982283f8fae7c8bce71",
@@ -1274,8 +1288,9 @@
   },
   "familymart-offers--e99e2c2d": {
     "hash": "56699004d578eca4f55a0849c1daa1ad97f8bd8431c77694be62ecb8f2b16005",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2792
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 2792,
+    "extraction_revision": 3
   },
   "lawson-offers--6a0ce4e0": {
     "hash": "292e0571693d0568b388e2a3dce8a859297eb99963529039c0cc52a75d73d9cc",
@@ -1377,13 +1392,14 @@
   },
   "rakuten-pay-campaign--fbed1d5c": {
     "hash": "c7255c67ce91cd18b7e29bf784811b59e44130e24dae6e94abdea44cefcfbeaf",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 1996
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1996,
+    "extraction_revision": 3
   },
   "ponta-campaign--a2f39ed2": {
-    "hash": "a99ea6d9305e3c569fae7c1efbaa1615b4b38799da15748a05b9fb73af296ec6",
-    "fetched_at": "2026-10-05T09:03:29+09:00",
-    "chars": 1278,
+    "hash": "6367e512e90d3e24204b8a57817a4f7c055312185bbad81cc25e6af0b646ae12",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1098,
     "extraction_revision": 3
   },
   "familymart-offers--24693ba0": {
@@ -1398,8 +1414,9 @@
   },
   "rakuten-pay-campaign--d1323052": {
     "hash": "fdf92716dda0a28dbb6e6609601f01ab556abf6af747414a8a01e75057b7df58",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2460
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 2460,
+    "extraction_revision": 3
   },
   "ponta-campaign--5f00bd1b": {
     "hash": "c6aa30e1f9738d9bba8b9408b1b2e5fa28a93c1797a6b01e4597d4ce3139b321",
@@ -1558,8 +1575,9 @@
   },
   "dpoint-campaign--2bfb6a96": {
     "hash": "6144cb123a752e256d24c173e505e1ba68db273827c44bf215d2172b2de9b13a",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 6314
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 6314,
+    "extraction_revision": 3
   },
   "rakuten-pay-campaign--83e731fe": {
     "hash": "4fd16138438792dd3cac860595a96eeb8d032ec594f2565885cac190629c57c9",
@@ -1625,8 +1643,9 @@
   },
   "rakuten-pay-campaign--36294393": {
     "hash": "3d469fb1c4966b06f2a639b714db2b2896a54348a4609f021f0208e28a4b732a",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 701
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 701,
+    "extraction_revision": 3
   },
   "dpoint-campaign--41cbb9bc": {
     "hash": "af3ba2526334574098059fd3ed7afa25e7ca83caf8f5745837d490eb279b2878",
@@ -1673,8 +1692,9 @@
   },
   "dpoint-campaign--1315656b": {
     "hash": "77fe05bd447b6c91c086ea1f0f0a9ce8191d7423c129608c513ffd20bab91fb4",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 4040
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 4040,
+    "extraction_revision": 3
   },
   "dpoint-campaign--74289942": {
     "hash": "311e2efb2f10e71b9dae47a0f54b43e66fbd9009a2b0bec99cc838d40b7d96c3",
@@ -1709,8 +1729,9 @@
   },
   "dpoint-campaign--e7c38c83": {
     "hash": "9e6fd64d1d10b02a30f4f9d01374845ef9203ee8afb10ebe78a0023268dc0c72",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 4890
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 4890,
+    "extraction_revision": 3
   },
   "dpoint-campaign--37eec0eb": {
     "hash": "4a1c5e284753a839ca0dcf51ca9ab46bffa2ff0dfd8bf46c7a2251de3e5443b3",
@@ -1831,8 +1852,9 @@
   },
   "rakuten-pointcard-campaign--99c2bd76": {
     "hash": "6f88cc629d1e14496bab3843bb86aa4cdf0113e00edad4a5963bdd5ea60924d6",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 3497
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3497,
+    "extraction_revision": 3
   },
   "aupay-campaign--15bc5a64": {
     "hash": "e7ebc85e606bbb299c2848bc6912e8389aa6d3a0fdb5d2fb189adf8cdac75dde",
@@ -1847,8 +1869,9 @@
   },
   "dbarai-campaign--2b778e9c": {
     "hash": "29be905def84036e521b060705f90bc8c619b25e94eea68aaa750f952aa503ed",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 3628
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3628,
+    "extraction_revision": 3
   },
   "rakuten-pointcard-campaign--8fbb5cfa": {
     "hash": "f26ad1a2c9dede1dbd79feaccc0217ff214309e85ed60c7c0170ea816a08b195",
@@ -1863,8 +1886,9 @@
   },
   "aeonretail-otoku--fd26643b": {
     "hash": "e7870e287d70bb17e3e6a30b1807b2e4a687ff6128171da7e1a78eacdf1f1dd1",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 1428
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1428,
+    "extraction_revision": 3
   },
   "tsuruha-offers--79844d46": {
     "hash": "657b05b5322f1a8390fe8b69b2d0b31abb0ba85f6b635ea4d7ae2d4bc1da73a3",
@@ -1879,13 +1903,15 @@
   },
   "rakuten-pointcard-campaign--68c91f64": {
     "hash": "b8ba8df0f2eb8f3ed12452e565300c4e20734dacdd85f3d4c71c6b886aaeee00",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 4733
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 4733,
+    "extraction_revision": 3
   },
   "aupay-campaign--9f755af2": {
     "hash": "f672eb9514bad1f8d4f59f00dbe7e2b82c6702e98441e9e5f135e2f837c5772e",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 2429
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 2429,
+    "extraction_revision": 3
   },
   "aeonretail-otoku--22a8e8dd": {
     "hash": "260e134e38702accfd71ae56a46788084ac416dfe9bfd2de2b181f4b5c69fbcf",
@@ -1895,13 +1921,15 @@
   },
   "tsuruha-offers--e0bfe48a": {
     "hash": "7c23614adb3e00aa567019bda016347c8b3d25214856e810f5eb3d753831f88b",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 1914
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 1914,
+    "extraction_revision": 3
   },
   "dbarai-campaign--bad84107": {
     "hash": "f13360c76b9569b5fc8091a9dd00ffd42b83e090ae530f4819027533f30e12fc",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 4242
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 4242,
+    "extraction_revision": 3
   },
   "rakuten-pointcard-campaign--7278e8c7": {
     "hash": "d0a2346b7b6937222a0de940a6a975242a3448a20b6b0c8233809ac0db57a171",
@@ -1926,8 +1954,9 @@
   },
   "aupay-campaign--fa1b3af0": {
     "hash": "7419c17f3032bb67f7c11aff8e7eca2bcdf143e05522c308ab4917a045be853a",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 2267
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 2267,
+    "extraction_revision": 3
   },
   "aeonretail-otoku--7066b2f4": {
     "hash": "8b62a6e055e4a85751e13f36780cbb2187afed9c8a529afe28daf62b94762b8d",
@@ -1952,8 +1981,9 @@
   },
   "rakuten-pointcard-campaign--a79949c9": {
     "hash": "ae578729128d88ff00986e3edfaeebc905781860444ec2574b7f15987f1a0aa5",
-    "fetched_at": "2026-10-04T09:05:09+09:00",
-    "chars": 3286
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3286,
+    "extraction_revision": 3
   },
   "rakuten-pointcard-campaign--8f116500": {
     "hash": "0718caef5040c958a8aebdef7420544c26ad67954af04ebd376a0f89be8510fc",
@@ -2132,6 +2162,48 @@
     "hash": "93954993df0e25bef3af850236302cafe92e07540278318a629b3e87e5acd2ba",
     "fetched_at": "2026-10-12T16:41:44+09:00",
     "chars": 2669,
+    "extraction_revision": 3
+  },
+  "welcia-offers--3607edcc": {
+    "hash": "87ca57357ee504970630e967ede9c1a1bf2a069458858284d40f96323fbf7f6e",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3152,
+    "extraction_revision": 3
+  },
+  "iaeon-campaign--ee0b9c13": {
+    "hash": "5f7292b1aa2a4ee5735f7bd13deb1f2373555cf407bde56f1a0b1380832d4ef2",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3069,
+    "extraction_revision": 3
+  },
+  "paypay-local--2dbbf890": {
+    "hash": "8d858a3cbf287afae162afc23423b728e8a53280339c66f7e3ad3f8cf9f22db3",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 7979,
+    "extraction_revision": 3
+  },
+  "ministop-waon--7a8dcd46": {
+    "hash": "e2f471d086278e5f646ce6c053195a5bcfc2752cc8859dd97fe710b07cbdc588",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 784,
+    "extraction_revision": 3
+  },
+  "welcia-offers--0c300623": {
+    "hash": "b4b04e5f2baf075bc277128e45ea222f926be3757ae44e2b137b241a49a73690",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3656,
+    "extraction_revision": 3
+  },
+  "iaeon-campaign--82f9daf0": {
+    "hash": "bcaec450e990bea9a535ad280676f7f61899e713ce5d3dadb78e1ab0e3fcbd7e",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 3523,
+    "extraction_revision": 3
+  },
+  "paypay-local--79c7d187": {
+    "hash": "1bacdff251aa8db8b02591e4976c3628863011c6447235a99626338d3701e3cf",
+    "fetched_at": "2026-10-13T09:00:35+09:00",
+    "chars": 7683,
     "extraction_revision": 3
   }
 }

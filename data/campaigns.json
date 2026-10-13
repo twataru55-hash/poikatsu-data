@@ -480,7 +480,7 @@
     "title": "由利本荘市 楽天ペイ大型店舗5%",
     "benefit": {
       "rate_max": 5,
-      "rate_text": "最大5%還元",
+      "rate_text": "対象大型店舗最大5％還元",
       "cap_per_use": 1000,
       "cap_total": 5000,
       "cap_unit": "pt"
@@ -495,20 +495,21 @@
     },
     "period": {
       "start": "2026-09-01T00:00:00+09:00",
-      "end": "2026-12-31T23:59:59+09:00"
+      "end": "2026-12-31T23:59:00+09:00"
     },
     "entry": {
       "required": false,
       "url": null
     },
-    "conditions": "市内対象大型店舗で楽天ペイコード・QR・セルフ払い。1回上限1000pt、オンライン対象外",
-    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/?scid=wi_pym_cpn_list",
-    "evidence_quote": "2026年9月1日（火）0:00～2026年12月31日（木）23:59",
+    "conditions": "市内対象大型店舗限定、コード・QR・セルフ払い。1回千pt・共通期間上限五千pt、通販等除外。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-yurihonjo/",
+    "evidence_quote": "楽天ポイントを期間中のお支払い金額に対して最大5％分進呈",
     "confidence": "confirmed",
     "source_id": "rakuten-pay-campaign",
     "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-13",
     "status_override": null,
+    "period_evidence_quote": "2026年9月1日（火）0:00～2026年12月31日（木）23:59",
     "id": "cp-bbb9497cc6"
   },
   {
@@ -823,45 +824,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-210be6cff0"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "au-pay"
-    ],
-    "title": "ビックカメラ au PAY1000円引き 第1",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "1万円以上で1,000円引き",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "biccamera"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-02T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
-    "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-    "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
-    "confidence": "confirmed",
-    "source_id": "aupay-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-0af326a997"
   },
   {
     "type": "coupon",
@@ -1447,10 +1409,10 @@
     "brand_ids": [
       "rakuten-point"
     ],
-    "title": "アークランズ 楽天ポイント抽選5倍",
+    "title": "アークランズ抽選5000名楽天ポイント5倍",
     "benefit": {
       "rate_max": null,
-      "rate_text": "抽選5,000名 楽天ポイント5倍",
+      "rate_text": "抽選5000名に通常5倍",
       "cap_per_use": null,
       "cap_total": 100,
       "cap_unit": "pt"
@@ -1467,20 +1429,21 @@
     },
     "period": {
       "start": "2026-10-01T00:00:00+09:00",
-      "end": "2026-10-31T23:59:59+09:00"
+      "end": "2026-10-31T23:59:00+09:00"
     },
     "entry": {
       "required": true,
-      "url": null
+      "url": "https://oubo.rakuten.co.jp/apply/pp/arclands/20261001?ekey=mp_on"
     },
-    "conditions": "対象店で税込2000円以上、カード1pt以上獲得、要メルマガ。追加分上限100pt",
-    "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/?scid=wi_pym_cpn_list",
-    "evidence_quote": "抽選で5,000名さまに楽天ポイント5倍",
+    "conditions": "対象3店種、税抜2000円以上・1pt獲得、カード提示・登録・メルマガ購読。通常1倍分除く上限100pt。",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands/20261001/",
+    "evidence_quote": "抽選で5,000名さまに楽天ポイントを通常の5倍分進呈",
     "confidence": "confirmed",
     "source_id": "rakuten-pointcard-campaign",
     "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-13",
     "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
     "id": "cp-600c6d4707"
   },
   {
@@ -2131,117 +2094,6 @@
   {
     "type": "coupon",
     "brand_ids": [],
-    "title": "ファミマ 燻製あい鴨ロース串値引券",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "50円引きクーポン",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-22T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\n燻製あい鴨ロース串",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-f265683fab"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "ファミマ 日清カップヌードル値引券",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "50円引きクーポン",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-22T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-    "evidence_quote": "9月22日（火）～ 10月5日（月）\nいずれか1個\n50\n円引き\n日清\nカップヌードル\nカップヌードル\nシーフードヌードル\nカップヌードル カレー\nカップヌードル\nチリトマトヌードル",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-f5e4951606"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "ファミマ こんがり焼プリン値引券",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "20円引きクーポン",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-22T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-    "evidence_quote": "9月22日（火）～ 10月5日（月）\n20\n円引き\nオハヨー\n新鮮卵のこんがり焼プリン",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-7676ec209d"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
     "title": "ファミマ たらみゼリー値引券",
     "benefit": {
       "rate_max": null,
@@ -2275,43 +2127,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-e5778fd06f"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "ファミマ BifiXヨーグルトα値引券",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "50円引きクーポン",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-22T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-    "evidence_quote": "9月22日（火）～ 10月5日（月）\n50\n円引き\nグリコ\nBifiXヨーグルトα\nやさしい甘さ 低脂肪",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-0bf1b18987"
   },
   {
     "type": "coupon",
@@ -3012,10 +2827,10 @@
     "brand_ids": [
       "rakuten-point"
     ],
-    "title": "コナカグループ 楽天ポイント抽選",
+    "title": "コナカグループ抽選3人に1人500ポイント",
     "benefit": {
       "rate_max": null,
-      "rate_text": "抽選で3人に1人500pt",
+      "rate_text": "抽選3人に1人500pt",
       "cap_per_use": null,
       "cap_total": 500,
       "cap_unit": "pt"
@@ -3034,16 +2849,17 @@
     },
     "entry": {
       "required": true,
-      "url": "https://oubo.rakuten.co.jp/apply/konaka/20261001?ekey=mp_on_wi_pym_cpn_list"
+      "url": "https://oubo.rakuten.co.jp/apply/konaka/20261001?ekey=mp_on"
     },
-    "conditions": "カード提示税抜100円以上。DIFFERENCE・通販除外。利用登録・メルマガ購読",
-    "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/?scid=wi_pym_cpn_list",
+    "conditions": "税抜100円以上・1pt獲得、カード提示・利用登録・メルマガ購読。DIFFERENCE・通販除外。",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/konaka/20261001/",
     "evidence_quote": "抽選で3人に1人に楽天ポイントを500ポイント進呈",
     "confidence": "confirmed",
     "source_id": "rakuten-pointcard-campaign",
     "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-13",
     "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月30日（月）23:59",
     "id": "cp-39059ee892"
   },
   {
@@ -3349,84 +3165,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-8500c42a39"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "famima-point"
-    ],
-    "title": "ファミマ おいもスタンプ応募ポイント",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "応募／交換ごと1円相当",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-22T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリ提示で対象税込300円ごと1スタンプ。3個交換で1円相当、交換10/12まで",
-    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_oimo_cp.html",
-    "evidence_quote": "※交換毎にファミマポイント1円相当を進呈いたします。",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-45b5887777"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "famima-point"
-    ],
-    "title": "ファミマ ポケモンGOスタンプ応募ポイント",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "応募／交換ごと1円相当",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-15T00:00:00+09:00",
-      "end": "2026-10-05T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "アプリ提示で対象品購入、6スタンプ応募ごと1円相当。応募10/9まで、賞品は別抽選",
-    "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_pokemongo_cp.html",
-    "evidence_quote": "※スタンプ6個コースへの応募毎にファミマポイント1円相当を進呈いたします。",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-12bb8ac785"
   },
   {
     "type": "bonus",
@@ -6621,5 +6359,246 @@
     "status_override": null,
     "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）",
     "id": "cp-0673b78dbe"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "ダスキン対象清掃楽天ペイ2万円で1500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "1人1回1500ポイント",
+      "cap_per_use": null,
+      "cap_total": 1500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "duskin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-01T00:00:00+09:00",
+      "end": "2026-11-30T23:59:00+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "サービスマスター・メリーメイド対象店舗。1回税込2万円以上QR払い、セルフ・請求書等除外。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0901-duskin/",
+    "evidence_quote": "楽天ポイントを1,500ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "2026年9月1日（火）0:00～2026年11月30日（月）23:59",
+    "id": "cp-88e8ae9b89"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "ponta"
+    ],
+    "title": "ローソン10月抽選1010名に最大全額Ponta",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選最大全額・落選者1pt",
+      "cap_per_use": null,
+      "cap_total": 4000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "lawson",
+        "natural-lawson"
+      ],
+      "prefecture_codes": [],
+      "municipality": null,
+      "excluded_store_ids": [
+        "lawson-store100"
+      ]
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-10-31T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "応募月以降のカード提示・1pt以上獲得。ポイント利用分除外、ストア100・Lミニマート除外。",
+    "official_url": "https://www.ponta.jp/c/campaign/lawson_2608/",
+    "evidence_quote": "各キャンペーン期間中に本キャンペーンページよりエントリーの上、ローソン・ナチュラルローソン店頭でPontaカードまたはPontaアプリなどのデジタルPontaカードを提示して1Pontaポイント以上ためるお買い物をした方の中から、毎月抽選で期間中購入金額(税抜)の最大全額分相当をPontaポイントで還元いたします（加算上限4,000Pontaポイント/月）。",
+    "confidence": "confirmed",
+    "source_id": "ponta-campaign",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "第３弾：2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+    "id": "cp-914016f5e2"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブンおにぎり・寿司抽選100円引クーポン",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選おにぎり・寿司100円引",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で10/27までに税込432円以下を計3個購入、10/30まで抽選。冷凍除外・併用不可。",
+    "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+    "evidence_quote": "税抜400円以下のおにぎり・寿司\r\n100円引きクーポン",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "クーポン利用期間\r\n10月1日（木）～\r\n11月2日（月）",
+    "id": "cp-83e2885a6a"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブンおにぎり・寿司抽選30円引クーポン",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選おにぎり・寿司30円引",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-01T00:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリ提示で10/27までに税込432円以下を計3個購入、10/30まで抽選。冷凍除外・併用不可。",
+    "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+    "evidence_quote": "税抜400円以下のおにぎり・寿司\r\n30円引きクーポン",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "クーポン利用期間\r\n10月1日（木）～\r\n11月2日（月）",
+    "id": "cp-2d0d390e59"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシアアタックZERO・IROKA10スタンプ1000pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "10スタンプで1000ポイント",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-06-01T00:00:00+09:00",
+      "end": "2026-11-01T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "指定11ブランド、アプリ登録・提示・応募。対象商品限定、iAEON等除外。応募11/30、共通上限千pt。",
+    "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+    "evidence_quote": "10スタンプ：1,000ポイントもれなくもらえる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1",
+    "id": "cp-120349a06f"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "waon-point"
+    ],
+    "title": "ウエルシアアタックZERO・IROKA抽選500pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "5スタンプ以上で抽選100名500pt",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welcia-group"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-06-01T00:00:00+09:00",
+      "end": "2026-11-01T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "指定11ブランド、アプリ登録・提示で対象商品購入。5スタンプ以上で自動応募、iAEON等除外。",
+    "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+    "evidence_quote": "スタンプ5個以上貯まった方に抽選で100名さまに500ポイント当たる",
+    "confidence": "confirmed",
+    "source_id": "welcia-offers",
+    "first_seen": "2026-10-13",
+    "last_verified": "2026-10-13",
+    "status_override": null,
+    "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1",
+    "id": "cp-c4780d892e"
   }
 ]

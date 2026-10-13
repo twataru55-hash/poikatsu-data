@@ -1,0 +1,506 @@
+[
+  {
+    "id": "cp-423b4b52c8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "コスモ給油で毎月抽選最大10000ポイント"
+  },
+  {
+    "id": "cp-53aef50044",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "ダスキンd払い20000円以上で1500pt第2弾"
+  },
+  {
+    "id": "cp-88e8ae9b89",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "ダスキン対象清掃楽天ペイ2万円で1500pt"
+  },
+  {
+    "id": "cp-5fb7182697",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コナカグループ抽選3人に1人500ポイント"
+  },
+  {
+    "id": "cp-7e52e13b05",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "UCCグループ17時以降au PAY1.5%還元"
+  },
+  {
+    "id": "cp-914016f5e2",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ローソン10月抽選1010名に最大全額Ponta"
+  },
+  {
+    "id": "cp-21f586dc34",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "すき家10月Vポイント最大15倍"
+  },
+  {
+    "id": "cp-aff104ba13",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日AEON Pay基本10倍"
+  },
+  {
+    "id": "cp-ede2f4df68",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日イオンカード基本5倍"
+  },
+  {
+    "id": "cp-378880fb55",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日電子マネーWAON基本5倍"
+  },
+  {
+    "id": "cp-4b23512d9f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日JMB WAONマイル5倍"
+  },
+  {
+    "id": "cp-e9c979fb83",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ金曜限定対象POSA10%還元"
+  },
+  {
+    "id": "cp-c5d84ade82",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ウコンの力超MAX2本同時購入180円引"
+  },
+  {
+    "id": "cp-1d340c4340",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ウコンの力超MAX3本同時購入360円引"
+  },
+  {
+    "id": "cp-83e2885a6a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブンおにぎり・寿司抽選100円引クーポン"
+  },
+  {
+    "id": "cp-2d0d390e59",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブンおにぎり・寿司抽選30円引クーポン"
+  },
+  {
+    "id": "cp-56344867de",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "江戸川えどPay2026プレミアム商品券"
+  },
+  {
+    "id": "cp-1fc3b08c59",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-waon",
+    "title": "ミニストップ毎月10日AEON Pay等10倍"
+  },
+  {
+    "id": "cp-125017cdec",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-waon",
+    "title": "ミニストップ毎月10日未登録WAON9倍"
+  },
+  {
+    "id": "cp-120349a06f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシアアタックZERO・IROKA5スタンプ300pt"
+  },
+  {
+    "id": "cp-44eb7913e7",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシアアタックZERO・IROKA7スタンプ500pt"
+  },
+  {
+    "id": "cp-2f12deba8f",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシアアタックZERO・IROKA10スタンプ1000pt"
+  },
+  {
+    "id": "cp-c4780d892e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "welcia-offers",
+    "title": "ウエルシアアタックZERO・IROKA抽選500pt"
+  },
+  {
+    "id": "cp-d0a8128008",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ローソン3ブランド抽選dポイント最大777倍"
+  },
+  {
+    "id": "cp-f2a5161b8e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "dbarai-campaign",
+    "title": "オータニd払い抽選最大20000ポイント"
+  },
+  {
+    "id": "cp-471799160c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ一般店20%"
+  },
+  {
+    "id": "cp-bbb9497cc6",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "由利本荘市 楽天ペイ大型店舗5%"
+  },
+  {
+    "id": "cp-43b8ceb0ae",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ抽選5000名楽天ポイント5倍"
+  },
+  {
+    "id": "cp-7073c825ed",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "aupay-campaign",
+    "title": "丸善・ジュンク堂au PAY最大5%還元"
+  },
+  {
+    "id": "cp-1e4cb2a82b",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 おいしい免疫ケア　睡眠100ml 20pt"
+  },
+  {
+    "id": "cp-41cbbf8a34",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 おいしい免疫ケア100ml 20pt"
+  },
+  {
+    "id": "cp-9795467222",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 おいしい免疫ケア　カロリーオフ100ml 20pt"
+  },
+  {
+    "id": "cp-40e927c514",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 おいしい免疫ケア　＋ダブルビタミン100ml 20pt"
+  },
+  {
+    "id": "cp-0b394285a0",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 ホワイトロースハム180g 30pt"
+  },
+  {
+    "id": "cp-7722c5fb8c",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 ハッシュドポテト1個 10pt"
+  },
+  {
+    "id": "cp-8cc2ee75f4",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 とろり半熟トッピングたまご4個入 10pt"
+  },
+  {
+    "id": "cp-83c686aa50",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 温泉たまご4個入 10pt"
+  },
+  {
+    "id": "cp-9c90ba2aef",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ponta-campaign",
+    "title": "ストア100 炭火焼鳥ぼんじり串（塩）1本 10pt"
+  },
+  {
+    "id": "cp-0b5cc3f661",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "KFC店頭カード提示でVポイント2倍"
+  },
+  {
+    "id": "cp-714bb372b8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "aeonretail-otoku",
+    "title": "イオン毎月10日オーラルケア基本10倍"
+  },
+  {
+    "id": "cp-274706fd62",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン メガシャキ2本同時購入100円引"
+  },
+  {
+    "id": "cp-9807f96b56",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "オイコスブルーベリー113g30円引券"
+  },
+  {
+    "id": "cp-c409c2848c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "オイコスストロベリー113g30円引券"
+  },
+  {
+    "id": "cp-9e3ca07f53",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "オイコスプレーン加糖123g30円引券"
+  },
+  {
+    "id": "cp-ab6a380895",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "オイコスマスカット＆グレープ113g30円引券"
+  },
+  {
+    "id": "cp-86b773345c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "オイコスライチ＆ピーチ113g30円引券"
+  },
+  {
+    "id": "cp-d114e45181",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V10 期間上限が大きい（20000）ため確認が必要"
+    ],
+    "source": "tsuruha-offers",
+    "title": "ツルハブラックフライデー2026最大20%還元"
+  },
+  {
+    "id": "cp-011ed97592",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "川崎市プレミアムデジタル商品券2026"
+  },
+  {
+    "id": "cp-5e1e200010",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "paypay-event",
+    "title": "PayPay友だち紹介・紹介された人300ポイント"
+  },
+  {
+    "id": "cp-10ef2494bc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "すき家dポイント来店回数で最大15倍"
+  },
+  {
+    "id": "cp-1509e7235c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ENEOSはじめて・ひさしぶり抽選最大10000pt"
+  }
+]
