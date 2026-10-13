@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "ローソン3ブランド抽選dポイント最大777倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選5万名に最大777倍",
+        "cap_per_use": null,
+        "cap_total": 10000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson",
+          "natural-lawson",
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=1f6638ecd65bc7e3734cb9cd189dec54431b8acc9e983af5c4bbf7b74a99a18a"
+      },
+      "conditions": "カード提示・税抜200円以上・1pt獲得・利用登録。1等上限1万pt、2・3等3000pt、当選1回。",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/lawson_261001_7814/index.html",
+      "evidence_quote": "1等：777倍（通常ポイント1倍分＋キャンペーンポイント776倍分） 100名さま",
+      "confidence": "confirmed",
+      "period_evidence_quote": "【キャンペーン期間】\r\n2026年10月1日（木）～2026年10月31日（土）"
+    }
+  ]
+}

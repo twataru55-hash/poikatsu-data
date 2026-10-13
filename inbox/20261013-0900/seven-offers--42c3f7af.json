@@ -1,0 +1,169 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "オイコスブルーベリー113g30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象オイコス30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で9/30～10/13対象品購入。7iDログイン、他クーポン併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\n対象のオイコス ヨーグルトを\r\n1個買うたびに、\r\n次回使える\r\n30円引きクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n9月30日（水）～\r\n10月20日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "オイコスストロベリー113g30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象オイコス30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で9/30～10/13対象品購入。7iDログイン、他クーポン併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\n対象のオイコス ヨーグルトを\r\n1個買うたびに、\r\n次回使える\r\n30円引きクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n9月30日（水）～\r\n10月20日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "オイコスプレーン加糖123g30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象オイコス30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で9/30～10/13対象品購入。7iDログイン、他クーポン併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\n対象のオイコス ヨーグルトを\r\n1個買うたびに、\r\n次回使える\r\n30円引きクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n9月30日（水）～\r\n10月20日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "オイコスマスカット＆グレープ113g30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象オイコス30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で9/30～10/13対象品購入。7iDログイン、他クーポン併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\n対象のオイコス ヨーグルトを\r\n1個買うたびに、\r\n次回使える\r\n30円引きクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n9月30日（水）～\r\n10月20日（火）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "オイコスライチ＆ピーチ113g30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象オイコス30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示で9/30～10/13対象品購入。7iDログイン、他クーポン併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_oikosyg2609.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\n対象のオイコス ヨーグルトを\r\n1個買うたびに、\r\n次回使える\r\n30円引きクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n9月30日（水）～\r\n10月20日（火）"
+    }
+  ]
+}

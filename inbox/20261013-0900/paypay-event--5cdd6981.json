@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "PayPay友だち紹介・紹介された人300ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "紹介コード登録と決済で300ポイント",
+        "cap_per_use": null,
+        "cap_total": 300,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2024-06-05T09:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "新規登録60日以内に紹介コード登録・1回1000円以上決済。一部加盟店・対象外支払いを除く。",
+      "official_url": "https://paypay.ne.jp/event/referral/",
+      "evidence_quote": "紹介された人 紹介コードを登録＆1000円以上の決済で300ポイントもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "特典期間\r\n2024年6月5日（水）9:00～終了日未定"
+    }
+  ]
+}

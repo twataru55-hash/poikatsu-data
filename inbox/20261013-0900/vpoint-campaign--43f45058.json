@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "すき家10月Vポイント最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "来店回数に応じて最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "sukiya"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象すき家で来店回数に応じて倍率アップ。エントリー要否の記載なし。",
+      "official_url": "https://web.tsite.jp/app/push/zensho261001_sukiya_cp/",
+      "evidence_quote": "すき家でVポイント最大15倍♪",
+      "confidence": "confirmed",
+      "period_evidence_quote": "【キャンペーン期間】\r\n10/1（木）～10/31（土）"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "aeon-pay",
+        "waon",
+        "waon-point"
+      ],
+      "title": "ミニストップ毎月10日AEON Pay等10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "毎月10日基本10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-10T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象スマホ決済、未登録WAONは9倍。プラスチックWAON・POSA・MINISOF等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+      "evidence_quote": "毎月10日はAEON Pay のスマホ決済ご利用で WAON POINT基本の10倍！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "期間\r\n2025/7/10～"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "ミニストップ毎月10日未登録WAON9倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "会員未登録WAON基本9倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-10T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象スマホWAON決済のみ。プラスチックWAON・POSA・ポイント利用・MINISOF等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+      "evidence_quote": "※会員登録をしていないWAONは基本の９倍進呈となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "期間\r\n2025/7/10～"
+    }
+  ]
+}

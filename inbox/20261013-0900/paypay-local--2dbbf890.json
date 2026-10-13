@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "江戸川えどPay2026プレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円で6000円分（2券セット）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "江戸川区"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "区内在住16歳以上・本人確認、10/25まで申込。2券セット、大型店等除外。利用は購入後。",
+      "official_url": "https://paypay.ne.jp/event/tokyo-edogawa-city-gift-vouchers-20261001/",
+      "evidence_quote": "申し込みのうえ購入権を取得した東京都江戸川区に在住の16歳以上の方は、PayPayアプリから1,000円分のプレミアムが付いた6,000円分の江戸川区「えどPay2026」（PayPay商品券）を5,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月31日（木）23:59"
+    }
+  ]
+}

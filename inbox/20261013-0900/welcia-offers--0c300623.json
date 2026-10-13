@@ -1,0 +1,144 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシアアタックZERO・IROKA5スタンプ300pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5スタンプで300ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "指定11ブランド、アプリ登録・提示・応募。対象商品限定、iAEON等除外。応募11/30、共通上限千pt。",
+      "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+      "evidence_quote": "5スタンプ：300ポイントもれなくもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシアアタックZERO・IROKA7スタンプ500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "7スタンプで500ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "指定11ブランド、アプリ登録・提示・応募。対象商品限定、iAEON等除外。応募11/30、共通上限千pt。",
+      "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+      "evidence_quote": "7スタンプ：500ポイントもれなくもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシアアタックZERO・IROKA10スタンプ1000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10スタンプで1000ポイント",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "指定11ブランド、アプリ登録・提示・応募。対象商品限定、iAEON等除外。応募11/30、共通上限千pt。",
+      "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+      "evidence_quote": "10スタンプ：1,000ポイントもれなくもらえる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "waon-point"
+      ],
+      "title": "ウエルシアアタックZERO・IROKA抽選500pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5スタンプ以上で抽選100名500pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "指定11ブランド、アプリ登録・提示で対象商品購入。5スタンプ以上で自動応募、iAEON等除外。",
+      "official_url": "https://m.e-welcia.com/drug/202606_kao_st",
+      "evidence_quote": "スタンプ5個以上貯まった方に抽選で100名さまに500ポイント当たる",
+      "confidence": "confirmed",
+      "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1"
+    }
+  ]
+}

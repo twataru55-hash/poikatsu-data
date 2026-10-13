@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンおにぎり・寿司抽選100円引クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選おにぎり・寿司100円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/27までに税込432円以下を計3個購入、10/30まで抽選。冷凍除外・併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+      "evidence_quote": "税抜400円以下のおにぎり・寿司\r\n100円引きクーポン",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月1日（木）～\r\n11月2日（月）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンおにぎり・寿司抽選30円引クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選おにぎり・寿司30円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/27までに税込432円以下を計3個購入、10/30まで抽選。冷凍除外・併用不可。",
+      "official_url": "https://www.sej.co.jp/cmp/app_ong2610.html",
+      "evidence_quote": "税抜400円以下のおにぎり・寿司\r\n30円引きクーポン",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月1日（木）～\r\n11月2日（月）"
+    }
+  ]
+}

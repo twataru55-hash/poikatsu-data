@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "川崎市プレミアムデジタル商品券2026",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2000円で2600円分・最大20口",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "14"
+        ],
+        "municipality": "川崎市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-25T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://kawasaki-premium.com"
+      },
+      "conditions": "市内在住・申込済当選者。購入後利用、共通券と中小店専用券のセット。大手コンビニ等対象外。",
+      "official_url": "https://paypay.ne.jp/event/kanagawa-kawasaki-city-gift-vouchers-20260601/",
+      "evidence_quote": "申し込みのうえ商品券コードを取得した川崎市在住の方は、PayPayアプリから600円分のプレミアムが付いた2,600円分の川崎市プレミアムデジタル商品券（PayPay商品券）を2,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月25日（金）23:59"
+    }
+  ]
+}
