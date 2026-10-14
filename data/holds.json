@@ -362,20 +362,6 @@
       "V10 還元率が大きい（30%）ため確認が必要"
     ]
   },
-  "cp-0689ab586b": {
-    "issue": 48,
-    "created": "2026-09-30",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-a7a094ff91": {
-    "issue": 49,
-    "created": "2026-09-30",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-6fae8b5d21": {
     "issue": 50,
     "created": "2026-09-30",
@@ -3142,21 +3128,6 @@
       "V10 期間上限が大きい（10000）ため確認が必要"
     ]
   },
-  "cp-8b9707cef8": {
-    "issue": 405,
-    "created": "2026-10-03",
-    "reasons": [
-      "V10 還元率が大きい（100%）ため確認が必要",
-      "V10 期間上限が大きい（100000）ため確認が必要"
-    ]
-  },
-  "cp-cfdd553f84": {
-    "issue": 406,
-    "created": "2026-10-03",
-    "reasons": [
-      "V10 還元率が大きい（20%）ため確認が必要"
-    ]
-  },
   "cp-a0dd8f7c5a": {
     "issue": 407,
     "created": "2026-10-03",
@@ -3653,20 +3624,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-196813a338": {
-    "issue": 473,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-1fdb83d52b": {
-    "issue": 474,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-2e7644b612": {
     "issue": 475,
     "created": "2026-10-03",
@@ -3780,13 +3737,6 @@
   },
   "cp-c79a248553": {
     "issue": 490,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-e4f8746bd0": {
-    "issue": 491,
     "created": "2026-10-03",
     "reasons": [
       "V02 エントリー要否が不明（entry.required）"
@@ -4088,13 +4038,6 @@
   },
   "cp-590ebbff33": {
     "issue": 533,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-5cb48d3aad": {
-    "issue": 534,
     "created": "2026-10-03",
     "reasons": [
       "V02 エントリー要否が不明（entry.required）"
