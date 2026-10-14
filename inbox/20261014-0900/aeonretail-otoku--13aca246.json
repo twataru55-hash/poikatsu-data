@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "aeon-card",
+        "aeon-pay",
+        "waon-point"
+      ],
+      "title": "イオン台所・住居洗剤基本20倍10月16～18日",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象洗剤基本20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "aeon"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-10-18T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本州東北除く・四国直営、指定カード・AEON Pay（タッチ除く）。衣料用洗剤除外、高倍率優先。",
+      "official_url": "https://www.aeonretail.jp/campaign/pointC-1/",
+      "evidence_quote": "10/16(金)～ 10/18(日)イオン・イオンスタイル直営売場で、台所洗剤・住居用洗剤をイオンマークのついたカードのクレジット払い・AEON Payのスマホ決済(WAONタッチ除く)のお買物でWAON POINTが基本の20倍。",
+      "confidence": "confirmed"
+    }
+  ]
+}

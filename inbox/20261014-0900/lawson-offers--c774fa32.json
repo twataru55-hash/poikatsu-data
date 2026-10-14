@@ -1,0 +1,400 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ ストライプ ホワイト M",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　ストライプ　ホワイト　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ ストライプ ホワイト L",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　ストライプ　ホワイト　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ ストライプ ホワイト LL",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　ストライプ　ホワイト　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ デリシャス ブラック M",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　デリシャス　ブラック　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ デリシャス ブラック L",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　デリシャス　ブラック　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ デリシャス ブラック LL",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1880円→1380円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　デリシャス　ブラック　M／L／LL\r\n各1,880円\r\n→\r\n各1,380円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン 黒 M",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　黒　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン 黒 L",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　黒　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン 黒 LL",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　黒　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン オールスター 白 M",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　オールスター　白　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン オールスター 白 L",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　オールスター　白　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンTシャツ からあげクン オールスター 白 LL",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込1780円→1280円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象デザイン・サイズ。ナチュラルローソン・ストア100・Lミニマート除く、スマホレジ対象外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532096_3677.html",
+      "evidence_quote": "ローソンオリジナルTシャツ　からあげクン　オールスター　白　M／L／LL\r\n各1,780円\r\n→\r\n各1,280円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026.09.15 - 2026.11.02"
+    }
+  ]
+}

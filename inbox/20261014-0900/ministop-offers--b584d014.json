@@ -1,0 +1,565 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ガセリ菌ヨーグルトドリンク100g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に雪印の指定ドリンク100gを1本購入。いずれか1本のレシート無料券。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "雪印メグミルク ガセリ菌ヨーグルトドリンクまたはMBPドリンク(各100g)を1本購入で、雪印メグミルク ガセリ菌ヨーグルトドリンクまたはMBPドリンク(各100g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ MBPドリンク100g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に雪印の指定ドリンク100gを1本購入。いずれか1本のレシート無料券。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "雪印メグミルク ガセリ菌ヨーグルトドリンクまたはMBPドリンク(各100g)を1本購入で、雪印メグミルク ガセリ菌ヨーグルトドリンクまたはMBPドリンク(各100g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ 三ツ矢特濃ピーチスカッシュ500ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19にドデカミンBIG600mlを1本購入、レシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "アサヒ飲料 ドデカミンBIG(600ml)を1本購入で、アサヒ飲料 三ツ矢特濃 ピーチスカッシュ(500ml)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ キレートレモンMUKUMI無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に指定キレートレモンゼリー1個購入。いずれか1本と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "ポッカサッポロ キレートレモンMUKUMIゼリーまたはキレートレモンクエン酸ゼリーを1個購入で、ポッカサッポロ キレートレモンMUKUMIまたはキレートレモンクエン酸2700無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ キレートレモンクエン酸2700無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に指定キレートレモンゼリー1個購入。いずれか1本と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "ポッカサッポロ キレートレモンMUKUMIゼリーまたはキレートレモンクエン酸ゼリーを1個購入で、ポッカサッポロ キレートレモンMUKUMIまたはキレートレモンクエン酸2700無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ 爽いちご＆練乳ミルク無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に雪見だいふくPREMIUM贅沢きなこ1個購入。いずれか1個と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "ロッテ 雪見だいふく PREMIUM贅沢きなこを1個購入で、ロッテ 爽 いちご＆練乳ミルクまたは生チョコinバニラ無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ 爽生チョコinバニラ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に雪見だいふくPREMIUM贅沢きなこ1個購入。いずれか1個と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "ロッテ 雪見だいふく PREMIUM贅沢きなこを1個購入で、ロッテ 爽 いちご＆練乳ミルクまたは生チョコinバニラ無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ヘモグロビンA1c対策ヨーグルト112g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券終了。R-1低糖・低カロリー購入で取得済みのレシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 R-1ドリンク 低糖・低カロリー(112g)を1本購入で、明治 ヘモグロビンA1c 対策ヨーグルトドリンク(112g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/6(火)~10/19(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ スキットルズサワー40g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券終了。スキットルズオリジナル40g購入で取得済みのレシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "マース スキットルズ オリジナル(40g)を1個購入で、マース スキットルズ サワー(40g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/6(火)~10/19(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ウィルキンソンタンサンエクストラ490ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "発券終了。指定ウィルキンソン500ml購入で取得済みのレシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "アサヒ飲料 ウィルキンソン タンサン レモンまたはオレンジ＆カシス(各500ml)を1本購入で、アサヒ飲料 ウィルキンソン タンサン エクストラ(490ml)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/13(火)~10/26(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ブルガリア低糖180g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26にブルガリアアロエ70g×4パック1個購入、いずれか1個と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 ブルガリアヨーグルト アロエ(70g×4パック)を1個購入で、明治 ブルガリアヨーグルト 低糖またはジューシー果実 ブルーベリーまたはジューシー果実 苺(各180g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ブルガリア果実ブルーベリー180g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26にブルガリアアロエ70g×4パック1個購入、いずれか1個と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 ブルガリアヨーグルト アロエ(70g×4パック)を1個購入で、明治 ブルガリアヨーグルト 低糖またはジューシー果実 ブルーベリーまたはジューシー果実 苺(各180g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ブルガリア果実苺180g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26にブルガリアアロエ70g×4パック1個購入、いずれか1個と交換。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "明治 ブルガリアヨーグルト アロエ(70g×4パック)を1個購入で、明治 ブルガリアヨーグルト 低糖またはジューシー果実 ブルーベリーまたはジューシー果実 苺(各180g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ アーモンドブリーズプロテインラテ200ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26に野菜生活100オリジナルかベリーサラダ200mlを1本購入。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "カゴメ 野菜生活100 オリジナルまたはベリーサラダ(各200ml)を1本購入で、カゴメ アーモンド・ブリーズ プロテイン アーモンドミルクラテ(200ml)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ カントリーマアムチビまみれ54g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26に不二家指定品1個購入。いずれか1個と交換、レシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "不二家 カントリーマアム チビまみれパウチ(54g)またはホームパイ チビだらけ(55g)を1個購入で、不二家 カントリーマアム チビまみれパウチ(54g)またはホームパイ チビだらけ(55g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ ホームパイチビだらけ55g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26に不二家指定品1個購入。いずれか1個と交換、レシート券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "不二家 カントリーマアム チビまみれパウチ(54g)またはホームパイ チビだらけ(55g)を1個購入で、不二家 カントリーマアム チビまみれパウチ(54g)またはホームパイ チビだらけ(55g)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ミニストップ CALPIS濃いめ490ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1個・1本無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/20～26にカルピスソーダ500ml1本購入、レシート無料券提示。",
+      "official_url": "https://www.ministop.co.jp/campaign/1get.html",
+      "evidence_quote": "アサヒ飲料 カルピスソーダ(500ml)を1本購入で、アサヒ飲料 CALPIS濃いめ(490ml)無料引換券プレゼント！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "引換期間\r\n10/20(火)~11/2(月)"
+    }
+  ]
+}

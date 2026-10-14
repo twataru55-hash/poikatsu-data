@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソンブルガリア冷凍ヨーグルト85ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象冷凍ヨーグルト85ml無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/6～12にスーパーカップ指定品購入で取得済み券。持帰り、指定他チェーン・スマホレジ除外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532992_3677.html",
+      "evidence_quote": "●引換券対象商品\r\nレシート無料券　引換期間　10/13(火)〜10/19(月)\r\n明治　ブルガリア　フローズンヨーグルトデザート　85ml\r\n194円",
+      "confidence": "confirmed"
+    }
+  ]
+}

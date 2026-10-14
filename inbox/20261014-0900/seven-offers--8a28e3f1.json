@@ -1,0 +1,70 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン10月ブロンズ抽選人気商品無料券1枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で選べる無料クーポン1枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "10月アプリ提示で税抜累計2000円。11/5まで抽選、当選者情報入力・12月の商品一覧から選択。",
+      "official_url": "https://www.sej.co.jp/cmp/app_campaign.html",
+      "evidence_quote": "ブロンズ 達成条件 お買い物金額累計2,000円（税抜）を達成すると 当月特典 特典1 選べる！人気商品無料クーポン1枚 ※商品は一例です。 抽選で10万名様 ※クーポン利用期限：12月31日（木）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "※引き換え期限は12月31日（木）23：59までとなります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン10月シルバー抽選人気商品無料券3枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で選べる無料クーポン3枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "10月アプリ提示で税抜累計5000円。11/5まで抽選、当選者情報入力・12月の商品一覧から選択。",
+      "official_url": "https://www.sej.co.jp/cmp/app_campaign.html",
+      "evidence_quote": "シルバー 達成条件 お買い物金額累計5,000円（税抜）を達成すると 当月特典 特典1 選べる！人気商品無料クーポン3枚 ※商品は一例です。 抽選で1万名様 ※クーポン利用期限：12月31日（木）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "※引き換え期限は12月31日（木）23：59までとなります。"
+    }
+  ]
+}

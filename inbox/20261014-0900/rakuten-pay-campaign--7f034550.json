@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富山県対象店楽天ペイ最大10%還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "対象店最大10％還元",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "富山県の指定店コード・QR/セルフ払い。たばこ等除外、他の指定企画との重複は対象外の場合あり。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/",
+      "evidence_quote": "富山県の対象店舗限定！楽天ペイのコード・QR払いで楽天ポイント最大10％還元 さらに楽天モバイルご契約者は最大＋10％還元",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年12月31日（木）23:59"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富山県楽天モバイル契約者楽天ペイ追加還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "契約者限定さらに最大＋10％",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "12/31時点で指定プラン契約、同一楽天ID、富山県指定店コード・QR払い。両特典合計上限1500pt。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/",
+      "evidence_quote": "【楽天モバイルご契約者限定特典】\r\n楽天ポイントを期間中のお支払い合計金額に対してさらに最大＋10％分進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年12月31日（木）23:59"
+    }
+  ]
+}

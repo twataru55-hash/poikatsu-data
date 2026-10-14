@@ -1,0 +1,36 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン カルピスソーダマスカット450ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象飲料450ml無料引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/6～12に指定ウィルキンソン等購入で発券済みの券。持帰り限定、スマホレジ除外。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532991_3677.html",
+      "evidence_quote": "●引換券対象商品\r\nレシート無料券　引換期間　10/13(火)〜10/26(月)\r\nアサヒ　カルピスソーダ　エメラルドマスカット　450ml\r\n183円",
+      "confidence": "confirmed"
+    }
+  ]
+}

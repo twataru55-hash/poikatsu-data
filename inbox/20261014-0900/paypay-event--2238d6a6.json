@@ -1,0 +1,103 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "ペイトク無制限通常特典＋5%",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "通常時＋5％・月上限4000円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象プラン既存契約・携帯番号連携・本人確認。月上限、通信料・医療等除外。残高カード対象外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20240214/",
+      "evidence_quote": "ペイトク無制限 基本付与0.5％（※2）→ペイトク特典通常時 ＋5％ 付与上限4,000円相当/月",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "ペイトク50通常特典＋3%",
+      "benefit": {
+        "rate_max": 3,
+        "rate_text": "通常時＋3％・月上限2500円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象プラン既存契約・携帯番号連携・本人確認。月上限、通信料・医療等除外。残高カード対象外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20240214/",
+      "evidence_quote": "ペイトク50 基本付与0.5％（※2）→ペイトク特典通常時 ＋3％ 付与上限2,500円相当/月",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "ペイトク30通常特典＋1%",
+      "benefit": {
+        "rate_max": 1,
+        "rate_text": "通常時＋1％・月上限1000円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象プラン既存契約・携帯番号連携・本人確認。月上限、通信料・医療等除外。残高カード対象外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20240214/",
+      "evidence_quote": "ペイトク30 基本付与0.5％（※2）→ペイトク特典通常時 ＋1％ 付与上限1,000円相当/月",
+      "confidence": "confirmed"
+    }
+  ]
+}

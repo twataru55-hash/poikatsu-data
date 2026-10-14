@@ -1,0 +1,301 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ生ジョッキ缶340ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ生ジョッキ缶485ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライドライクリスタル350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライドライクリスタル500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ冷涼辛口350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ冷涼辛口500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ爽快辛口350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "evidence_quote": "当選すると対象のアサヒスーパードライ\r\nいずれか1本50円引きクーポンを\r\nプレゼント。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "Joshin Vポイント抽選最大100%還元",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選最大100％ポイントバック",
+        "cap_per_use": null,
+        "cap_total": 100000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "joshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "両会員カード提示、1会計税抜10000円・50pt以上。期間最高額の1会計対象、ギフトカード等除く。",
+      "official_url": "https://cpn.tsite.jp/page/pg910040101002",
+      "evidence_quote": "以下の条件を満たした方を対象に、会計相当額の最大100％分のポイント（上限100,000pt）が当たる抽選キャンペーンを実施いたします。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）～10月31日（土）"
+    }
+  ]
+}

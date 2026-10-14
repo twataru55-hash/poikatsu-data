@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "ミニストップWAONでAmazonギフト1%還元",
+      "benefit": {
+        "rate_max": 1,
+        "rate_text": "対象Amazonギフト購入額1％",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "電子マネーWAON（タッチ含む）限定、1500～50000円のAmazonギフト。JMBWAON等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/amazonwaon.html",
+      "evidence_quote": "電子マネーWAONでAmazonギフトカードをご購入いただくと購入金額の１％分のWAON POINTを進呈します。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026/10/13～2026/10/19"
+    }
+  ]
+}
