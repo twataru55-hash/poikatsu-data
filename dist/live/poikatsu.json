@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-15-2031",
-    "generated_at": "2026-10-15T20:31:46+09:00",
+    "data_version": "2026-10-16-0202",
+    "generated_at": "2026-10-16T02:02:53+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 144,
-      "live_campaigns": 118,
+      "campaigns": 141,
+      "live_campaigns": 119,
       "stores": 82,
       "recurring": 7
     }
@@ -1181,122 +1181,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "paypay",
-        "paypay-point"
-      ],
-      "title": "ザバス PayPay抽選1000名に最大1000円分",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選1000名に最大1000円分",
-        "cap_per_use": 1000,
-        "cap_total": 1000,
-        "cap_unit": "円相当"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "fujiyakuhin-group",
-          "matsukiyo-cocokara",
-          "sugi-group",
-          "tsuruha",
-          "welcia-group"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-16T00:00:00+09:00",
-        "end": "2026-10-15T23:59:00+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象店で対象ザバス購入額・PayPay額とも1回税込1000円以上。コード提示・10/16購買情報同意。",
-      "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-05",
-      "status_override": null,
-      "period_evidence_quote": "2026年9月16日（水）0時00分〜2026年10月15日（木）23時59分",
-      "id": "cp-40ed18a256"
-    },
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "paypay",
-        "paypay-point"
-      ],
-      "title": "ザバス購入で1,000円分が1,000名に当たる",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選で1,000円分",
-        "cap_per_use": 1000,
-        "cap_total": 1000,
-        "cap_unit": "円相当"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "tsuruha"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-16T00:00:00+09:00",
-        "end": "2026-10-15T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象ザバス1会計1,000円以上。購買情報利用への同意が必要。当選は1人1回。",
-      "official_url": "https://paypay.ne.jp/event/retail-meiji-20260916/",
-      "confidence": "confirmed",
-      "last_verified": "2026-09-26",
-      "status_override": null,
-      "id": "cp-5785968adb"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/15 dポイント3倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント3倍",
-        "cap_per_use": null,
-        "cap_total": 800,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-15T00:00:00+09:00",
-        "end": "2026-10-15T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
-      },
-      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
-      "id": "cp-efa045f7c4"
-    },
     {
       "type": "coupon",
       "brand_ids": [
