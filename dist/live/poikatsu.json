@@ -1,11 +1,11 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-16-2026",
-    "generated_at": "2026-10-16T20:26:24+09:00",
+    "data_version": "2026-10-17-0141",
+    "generated_at": "2026-10-17T01:41:15+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 141,
+      "campaigns": 139,
       "live_campaigns": 119,
       "stores": 82,
       "recurring": 7
@@ -1049,7 +1049,7 @@
       },
       "benefit_text": "WAON POINTが基本の10倍",
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-waon-thanks",
@@ -1069,7 +1069,7 @@
       },
       "benefit_text": "対象品5%OFF、一部店・商品除外",
       "official_url": "https://www.waon.net/campaign/thanks_day/",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-oral10",
@@ -1090,7 +1090,7 @@
       },
       "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-oral/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-pet-days",
@@ -1113,7 +1113,7 @@
       },
       "benefit_text": "対象カード払い、本州(東北除く)四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-hair-days",
@@ -1135,7 +1135,7 @@
       },
       "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-ministop-weekend",
@@ -1157,7 +1157,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-ministop10",
@@ -1177,82 +1177,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ケーズ auひかり契約＆対象家電割引",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "指定家電 最大60,000円引き",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ksdenki"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-10T00:00:00+09:00",
-        "end": "2026-10-16T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "au PAY200円以上、auひかりプラス＋セット割新規契約、同店舗同時購入。既契約除外",
-      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-224d69f37b"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ケーズデンキ au PAY1000円引き 第1",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "2万円以上で1,000円引き",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ksdenki"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-10T00:00:00+09:00",
-        "end": "2026-10-16T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。",
-      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-d945bee7c5"
-    },
     {
       "type": "reward",
       "brand_ids": [
