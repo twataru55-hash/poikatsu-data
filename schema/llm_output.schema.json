@@ -207,6 +207,11 @@
             "maxLength": 400,
             "description": "同一の主キャンペーンの期間欄から連続した原文引用。還元根拠から期間欄が遠い場合に使用。"
           },
+          "entry_evidence_quote": {
+            "type": ["string", "null"],
+            "maxLength": 400,
+            "description": "entry.required を false にするときだけ必須。①「エントリー不要」等の明記、または②特典を受け取る手順を「〜すると〜がたまります／〜すれば対象となります」と言い切った文を、本文から連続してそのまま引用する。"
+          },
           "confidence": {
             "type": "string",
             "enum": [

@@ -79,6 +79,8 @@ def normalize(raw: dict, source: dict) -> dict:
             if isinstance(excluded, list) and all(isinstance(s, str) for s in excluded) else excluded)
     if raw.get("period_evidence_quote"):
         c["period_evidence_quote"] = _clean_str(raw["period_evidence_quote"])
+    if raw.get("entry_evidence_quote"):
+        c["entry_evidence_quote"] = _clean_str(raw["entry_evidence_quote"])
     c["id"] = campaign_id(c)
     return c
 

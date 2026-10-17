@@ -2,6 +2,7 @@
 
 python scripts/prepare.py          … 通常
 python scripts/prepare.py --force  … 変更がなくても全ページを依頼する
+python scripts/prepare.py --sources <取得元> --reask <取得元>--<8桁> …  指定した詳細ページだけを再依頼する（オーナー承認時のみ）
 
 作るもの:
   inbox/<run_id>/queue.json   … 今回の依頼一覧（GitHub に送る）
@@ -52,11 +53,12 @@ def detail_source(parent: dict, url: str) -> dict:
             "render": follow.get("render", parent.get("render", "static")), "parent": parent["id"]}
 
 
-def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher, force=False, audit=None) -> tuple[list, list]:
+def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher, force=False, audit=None,
+                   reask=frozenset()) -> tuple[list, list]:
     """一覧ページのリンクから、まだ処理していない詳細ページを取得する。
     戻り値：(取得できた [(src, text, digest)], 失敗 [{source_id, url, error}])"""
     from discovery import discover_and_refresh
-    return discover_and_refresh(page, config, snapshots, fetcher, force, audit)
+    return discover_and_refresh(page, config, snapshots, fetcher, force, audit, reask)
 
 
 def fair_order(pending: list, state: dict) -> list:
@@ -90,7 +92,9 @@ def with_detail_limit(sources: list[dict], limit: int | None) -> list[dict]:
 
 
 def main(force: bool = False, limit_override: int | None = None, source_ids: list[str] | None = None,
-         detail_limit_override: int | None = None) -> dict:
+         detail_limit_override: int | None = None, reask: list[str] | None = None) -> dict:
+    """reask：オーナーが指定した詳細ページだけを、内容が変わっていなくても再依頼する（--force の全件再依頼を避ける）。"""
+    reask_ids = frozenset(reask or [])
     config = load_config()
     if not config.get("enabled", True):
         return {"ok": True, "message": "停止スイッチ（enabled: false）のため何もしない"}
@@ -120,7 +124,7 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
     def queue_up(src: dict, text: str, digest: str) -> None:
         sid = src["id"]
         st = state.get(sid) or {}
-        if not force and st.get("unanswered", 0) >= give_up and st.get("hash") == digest:
+        if not force and sid not in reask_ids and st.get("unanswered", 0) >= give_up and st.get("hash") == digest:
             # 同じ内容のページが続けて回答されていない。ページが変わるまで依頼しない（報告には出す）
             queue["gave_up"].append(sid)
             return
@@ -157,6 +161,11 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
         if unknown:
             return {"ok": False, "errors": [f"取得元が未登録: {sorted(unknown)}"]}
         selected = [s for s in selected if s["id"] in source_ids]
+    if reask_ids:
+        parents = {r.split("--")[0] for r in reask_ids}
+        if any("--" not in r for r in reask_ids) or not parents <= {s["id"] for s in selected if s.get("follow")}:
+            return {"ok": False, "errors": ["--reask は follow 対象の詳細ページID（<取得元>--<8桁>）だけ。親の取得元を --sources に含める"]}
+    queue["reask"] = sorted(reask_ids)
     for page in collect(selected, config, force=force, record_snapshots=False, record_status=False):
         sid = page.source["id"]
         if not page.ok:
@@ -167,7 +176,7 @@ def main(force: bool = False, limit_override: int | None = None, source_ids: lis
         if page.source.get("follow"):
             # 一覧ページは「詳細ページを見つける」ためだけに使い、詳細ページを1件ずつ依頼する
             audit = {}
-            got, failed = follow_details(page, config, snapshots, fetcher, force, audit)
+            got, failed = follow_details(page, config, snapshots, fetcher, force, audit, reask_ids)
             queue["coverage"].append(audit)
             queue["unchanged"].extend(audit.get("unchanged", []))
             queue["detail_failed"] += failed
@@ -198,12 +207,13 @@ if __name__ == "__main__":
     parser.add_argument("--limit", type=int)
     parser.add_argument("--sources", nargs="+")
     parser.add_argument("--detail-limit", type=int)
+    parser.add_argument("--reask", nargs="+", help="オーナー承認済みの詳細ページIDだけを再依頼する")
     args = parser.parse_args()
     if args.limit is not None and not 1 <= args.limit <= 300:
         parser.error("--limit は1〜300")
     if args.detail_limit is not None and not 1 <= args.detail_limit <= 300:
         parser.error("--detail-limit は1〜300")
     res = main(force=args.force, limit_override=args.limit, source_ids=args.sources,
-               detail_limit_override=args.detail_limit)
+               detail_limit_override=args.detail_limit, reask=args.reask)
     print(json.dumps(res, ensure_ascii=False, indent=2))
     sys.exit(0 if res["ok"] else 1)

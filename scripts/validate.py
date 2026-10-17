@@ -213,7 +213,48 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
             if re.search(r"(私|わたし)(は|が|も)", c.get(key) or ""):
                 reasons.append(f"V13 一人称の表現が {key} に含まれる")
 
+    # V14 エントリー不要（entry.required=false）の根拠
+    # 「記載がない」ことは根拠にしない。明記、または特典を受け取る手順を言い切った文の引用を求め、
+    # その文がページに実在し、ページ内にエントリー・応募の案内が無いことを機械で確かめる。
+    if ctx.run("V14") and entry.get("required") is False and cfg_v.get("require_entry_evidence", True):
+        reasons.extend(entry_evidence_problems(c, ctx.page_text))
+
     return ("hold" if reasons else "accept"), reasons
+
+
+# エントリー不要の明記（否定形）。ページ内の「エントリー」検索からは除外して扱う
+_ENTRY_NEGATIONS = re.compile(
+    r"(エントリー|応募|申し?込み?|事前登録)(は|の)?(不要|必要(は|が)?(ありません|ございません|ない))"
+    r"|(エントリー|応募|申し?込み?)(なし|無し)")
+# ページ内にあれば「人が見る」とする、参加手続きの語
+_ENTRY_WORDS = re.compile(r"エントリー|応募|申し?込|事前登録|参加登録")
+# 手順を言い切った文：条件の形 ＋ 特典が得られる結果
+_CONDITION = re.compile(r"すると|いただくと|いただければ|すれば|と、|の際に|際に|のうえ|の上")
+_RESULT = re.compile(r"たまり|貯まり|付与|進呈|還元|戻って|戻る|対象とな|対象にな|もらえ|プレゼント|適用")
+
+
+def entry_evidence_problems(c: dict, page_text: str | None) -> list[str]:
+    """entry.required=false の根拠を確かめ、問題を保留理由として返す。本文が無い経路（承認時）は確かめない。"""
+    quote = c.get("entry_evidence_quote") or ""
+    if not quote.strip():
+        return ["V14 エントリー不要の根拠文（entry_evidence_quote）がない"]
+    if page_text is None:
+        return []
+    page_norm = normalize_text(page_text)
+    quote_norm = normalize_text(quote)
+    if quote_norm not in page_norm:
+        return ["V14 エントリー不要の根拠文が公式ページ本文に見つからない"]
+    if _ENTRY_NEGATIONS.search(quote_norm):
+        explicit = True
+    else:
+        explicit = False
+        if len(quote_norm) < 15 or not _CONDITION.search(quote_norm) or not _RESULT.search(quote_norm):
+            return ["V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"]
+    remaining = _ENTRY_NEGATIONS.sub("", page_norm)
+    if _ENTRY_WORDS.search(remaining):
+        kind = "明記はあるが" if explicit else ""
+        return [f"V14 {kind}ページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"]
+    return []
 
 
 def http_url_checker(config: dict):

@@ -165,6 +165,7 @@ def _field_table(c: dict) -> str:
         ("対象", f"{s.get('kind')} {', '.join(s.get('store_ids', []) + s.get('prefecture_codes', []))} {s.get('municipality') or ''}"),
         ("期間", f"{p.get('start') or '不明'} 〜 {p.get('end') or '不明'}"),
         ("エントリー", f"{entry_label} {e.get('url') or ''}"),
+        ("エントリー不要の根拠", c.get("entry_evidence_quote")),
         ("条件", c.get("conditions")), ("公式URL", c.get("official_url")), ("確度", c.get("confidence")),
     ]
     return "\n".join(["| 項目 | 内容 |", "|---|---|"] + [f"| {k} | {str(v or '').replace('|', '／')} |" for k, v in rows])

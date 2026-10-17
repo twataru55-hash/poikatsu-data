@@ -69,7 +69,7 @@ def resolve_official_link(url: str, hosts: list, domains: set, fetcher) -> str:
     raise RuntimeError("転送回数が上限")
 
 
-def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=None):
+def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=None, reask=frozenset()):
     follow = page.source.get("follow") or {}
     pattern = re.compile(follow["pattern"])
     domains = set(page.source.get("domains") or [])
@@ -130,7 +130,10 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
     # Oldest local check first, including previously ingested URLs. New URLs are
     # prioritised but cannot permanently starve older URLs once discoveries settle.
     listing_order = {u: i for i, u in enumerate(eligible)}
-    ordered = sorted(eligible, key=lambda u: (checked.get(u, {}).get("attempted_at", checked.get(u, {}).get("at", "")), listing_order[u]))
+    # オーナーが指定した再依頼（reask）の詳細ページは、取得枠の先頭に置く
+    ordered = sorted(eligible, key=lambda u: (source_for_detail(page.source, u)["id"] not in reask,
+                                              checked.get(u, {}).get("attempted_at", checked.get(u, {}).get("at", "")),
+                                              listing_order[u]))
     budget = int(follow.get("max_new", 20))
     got, unchanged, unvisited = [], [], []
     now = now_jst().isoformat(timespec="seconds")
@@ -158,7 +161,7 @@ def discover_and_refresh(page, config, snapshots, fetcher, force=False, audit=No
             save_page_assets(html, src, final_url)
             revision = int(config.get("manual", {}).get("extraction_revision", 0))
             snap = snapshots.get(src["id"], {})
-            if force or snap.get("hash") != digest or snap.get("extraction_revision", 0) != revision:
+            if force or src["id"] in reask or snap.get("hash") != digest or snap.get("extraction_revision", 0) != revision:
                 got.append((src, text + link_section(extract_links(html, final_url)), digest))
             else:
                 unchanged.append(src["id"])

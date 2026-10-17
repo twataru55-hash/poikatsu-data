@@ -50,7 +50,7 @@ for item in q["items"]:
         ans = {"campaigns": [dict(base, type="reward", title="対象のお店で最大5%戻ってくる",
             benefit={"rate_max": 5, "rate_text": "最大5%還元", "cap_per_use": None, "cap_total": None, "cap_unit": None},
             period={"start": "2026-10-01T00:00:00+09:00", "end": "2026-10-31T23:59:59+09:00"},
-            entry={"required": False, "url": None},
+            entry={"required": False, "url": None}, entry_evidence_quote="対象のお店でPayPay払いすると最大5%戻ってくる",
             official_url="https://paypay.ne.jp/event/support-local/", evidence_quote="対象のお店でPayPay払いすると最大5%戻ってくる")]}
     elif item.get("parent") == "paypay-event":
         ans = {"campaigns": [dict(base, type="reward", title="コンビニで最大10%戻ってくる",
@@ -124,7 +124,7 @@ def test_manual_flow(tmp_path, unknown):
     # 2) PC：ChatGPT の代わりに3件だけ回答を書く → 形チェック
     answer_code = ANSWER
     if unknown:
-        answer_code = answer_code.replace('entry={"required": False, "url": None}', 'entry={"required": None, "url": None}')
+        answer_code = answer_code.replace('entry={"required": False, "url": None}, entry_evidence_quote="対象のお店でPayPay払いすると最大5%戻ってくる"', 'entry={"required": None, "url": None}')
         answer_code = answer_code.replace('"end": "2026-10-31T23:59:59+09:00"', '"end": None')
     (repo / "_ans.py").write_text(answer_code, encoding="utf-8")
     subprocess.run([sys.executable, "_ans.py", f"inbox/{prep['run_id']}/queue.json"], cwd=repo, check=True, env=ENV)

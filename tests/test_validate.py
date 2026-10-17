@@ -27,6 +27,7 @@ BASE = {
     "conditions": "1回300ポイントまで",
     "official_url": "https://paypay.ne.jp/event/sample/",
     "evidence_quote": "対象店舗でPayPay払いすると最大10%戻ってくる",
+    "entry_evidence_quote": "対象店舗でPayPay払いすると最大10%戻ってくる",
     "confidence": "confirmed",
     "source_id": "paypay-cp",
     "first_seen": "2026-10-01",

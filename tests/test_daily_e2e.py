@@ -15,7 +15,7 @@ import json, sys
 sys.path.insert(0, "scripts")
 import collect, daily, validate
 
-PAGE = "対象のお店でPayPay払いすると最大5%戻ってくる\n期間：2026年10月1日～2026年10月31日\n" \
+PAGE = "エントリー不要\n対象のお店でPayPay払いすると最大5%戻ってくる\n期間：2026年10月1日～2026年10月31日\n" \
        "抽選で最大全額戻ってくる 期間：2026年10月1日～2026年10月20日\n" \
        "【ご注意】2026年11月1日からチャージでのポイント付与を終了します"
 
@@ -30,7 +30,7 @@ def fake_extract(source, text, stores, config):
         return []
     base = {"brand_ids": ["paypay"], "scope": {"kind": "payment_wide", "store_ids": [], "prefecture_codes": [], "municipality": None},
             "entry": {"required": False, "url": None}, "conditions": None, "official_url": "https://paypay.ne.jp/event/",
-            "confidence": "confirmed"}
+            "entry_evidence_quote": "エントリー不要", "confidence": "confirmed"}
     return [
         dict(base, type="reward", title="対象のお店で最大5%戻ってくる",
              benefit={"rate_max": 5, "rate_text": "最大5%還元", "cap_per_use": None, "cap_total": None, "cap_unit": None},
