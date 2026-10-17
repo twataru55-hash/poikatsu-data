@@ -137,3 +137,57 @@ def test_same_candidate_cannot_bypass_unknown_gate(monkeypatch):
     assert stats["same"] == 0 and stats["held"] == 1
     assert existing["last_verified"] == "2026-09-01"
     assert seen[0][0]["entry"]["required"] is None
+
+
+@pytest.mark.parametrize("changes,expected", [
+    ({"evidence_quote": "本文にない根拠"}, "V06"),
+    ({"confidence": "unconfirmed"}, "V12"),
+    ({"type": "change"}, "V11"),
+    ({"scope": {"kind": "stores", "store_ids": ["unknown"],
+                "prefecture_codes": [], "municipality": None}}, "V03"),
+    ({"benefit": {"rate_max": 25, "rate_text": "最大25%", "cap_per_use": None,
+                  "cap_total": None, "cap_unit": None}}, "V10"),
+])
+def test_unknown_entry_reports_other_blockers_without_mutating(changes, expected):
+    candidate = copy.deepcopy(BASE)
+    candidate.update(changes)
+    candidate["entry"]["required"] = None
+    before = copy.deepcopy(candidate)
+    decision, reasons = validate_candidate(candidate, ctx())
+    assert decision == "hold"
+    assert any("entry.required" in r for r in reasons)
+    assert any(r.startswith(expected) for r in reasons)
+    assert candidate == before
+
+
+@pytest.mark.parametrize("unknown_start,unknown_end", [(True, False), (False, True), (True, True)])
+def test_unknown_period_only_skips_unknown_date_checks(unknown_start, unknown_end):
+    candidate = copy.deepcopy(BASE)
+    if unknown_start:
+        candidate["period"]["start"] = None
+    if unknown_end:
+        candidate["period"]["end"] = None
+    decision, reasons = validate_candidate(candidate, ctx(page_text=BASE["evidence_quote"]))
+    assert decision == "hold"
+    for key, missing in (("start", unknown_start), ("end", unknown_end)):
+        assert any(f"period.{key}" in r for r in reasons) == missing
+    assert sum(r.startswith("V07") for r in reasons) == 2 - unknown_start - unknown_end
+    assert not any(r.startswith("V08") for r in reasons)
+
+
+def test_unknown_start_still_reports_expired_known_end():
+    candidate = copy.deepcopy(BASE)
+    candidate["period"] = {"start": None, "end": "2026-09-01T23:59:59+09:00"}
+    decision, reasons = validate_candidate(candidate, ctx(page_text=None))
+    assert decision == "hold"
+    assert any("period.start" in r for r in reasons)
+    assert any("V08 すでに終了" in r for r in reasons)
+
+
+def test_unknown_gate_still_applies_with_only_filter():
+    candidate = copy.deepcopy(BASE)
+    candidate["entry"]["required"] = None
+    candidate["evidence_quote"] = "本文にない根拠"
+    decision, reasons = validate_candidate(candidate, ctx(only={"V06"}))
+    assert decision == "hold"
+    assert {r[:3] for r in reasons} == {"V02", "V06"}

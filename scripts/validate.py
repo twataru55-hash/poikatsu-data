@@ -81,9 +81,9 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
         msgs = [f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message}" for e in errors[:5]]
         return "discard", ["V01 形式エラー: " + " / ".join(msgs)]
     missing = unknown_required_fields(c)
-    if missing:
-        # 不明な日付をparse_dtへ渡さず、falseや仮の日付を補わず保留する。
-        return "hold", missing
+    # 不明値は常に保留理由へ残す。他の検査も続け、追加の課題を隠さない。
+    # falseや仮の日付で埋めず、不明な日付だけはparse_dtへ渡さない。
+    reasons.extend(missing)
 
     scope = c.get("scope") or {}
     entry = c.get("entry") or {}
@@ -145,28 +145,30 @@ def validate_candidate(c: dict, ctx: Context) -> tuple[str, list[str]]:
             rate = benefit.get("rate_max")
             if rate is not None and not any(v in near for v in _num_variants(rate)):
                 reasons.append(f"V07 根拠の近くに還元率 {rate} が見つからない")
-            try:
-                start = parse_dt(c["period"]["start"])
-                end = parse_dt(c["period"]["end"])
-                # A separate, literal period quote handles distant terms without
-                # searching every unrelated campaign/date elsewhere on the page.
-                date_text = period_quote if period_quote else near
-                for label, dt in (("開始日", start), ("終了日", end)):
+            # A separate, literal period quote handles distant terms without
+            # searching every unrelated campaign/date elsewhere on the page.
+            date_text = period_quote if period_quote else near
+            for key, label in (("start", "開始日"), ("end", "終了日")):
+                value = c["period"][key]
+                if value is None:
+                    continue
+                try:
+                    dt = parse_dt(value)
                     if not date_present(date_text, dt):
                         reasons.append(f"V07 同一企画の期間根拠に{label}が見つからない")
-            except (KeyError, ValueError):
-                pass
+                except (KeyError, ValueError):
+                    pass
 
     # V08 期間
     if ctx.run("V08"):
         try:
-            start = parse_dt(c["period"]["start"])
-            end = parse_dt(c["period"]["end"])
-            if start > end:
+            start = parse_dt(c["period"]["start"]) if c["period"]["start"] is not None else None
+            end = parse_dt(c["period"]["end"]) if c["period"]["end"] is not None else None
+            if start is not None and end is not None and start > end:
                 reasons.append("V08 開始が終了より後")
-            if end < now - timedelta(days=1):
+            if end is not None and end < now - timedelta(days=1):
                 reasons.append("V08 すでに終了している")
-            if end > now + timedelta(days=int(cfg_v.get("max_days_ahead", 400))):
+            if end is not None and end > now + timedelta(days=int(cfg_v.get("max_days_ahead", 400))):
                 reasons.append("V08 終了日が先すぎる")
         except (KeyError, ValueError) as e:
             reasons.append(f"V08 日時が読めない: {e}")
