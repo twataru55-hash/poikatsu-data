@@ -1,0 +1,3416 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "もーっちり食感ホイップあんぱん値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "九州：宮崎県・鹿児島県では実施しておりません。指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nもーっちり食感ホイップあんぱん\nファミリーマート\n通常価格(税込)：158円\n特別価格(税込)：\n148円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "もーっちり食感ホイップあんぱんアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "九州：宮崎県・鹿児島県では実施しておりません。レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nもーっちり食感ホイップあんぱん\nファミリーマート\n通常価格(税込)：158円\n特別価格(税込)：\n148円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チーズ塩パン（淡路島の藻塩使用）値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "東北は指定福島県・新潟県のみ、山口県指定3市除外。指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nチーズ塩パン（淡路島の藻塩使用）\nファミリーマート\n通常価格(税込)：150円\n特別価格(税込)：\n140円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "チーズ塩パン（淡路島の藻塩使用）アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ提示。東北は福島（相馬市・南相馬市・相馬郡除く）・新潟のみ。下関・宇部・山陽小野田除外。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nチーズ塩パン（淡路島の藻塩使用）\nファミリーマート\n通常価格(税込)：150円\n特別価格(税込)：\n140円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クルーラーリングドーナツ8個入値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nクルーラーリングドーナツ8個入\nファミリーマート\n通常価格(税込)：220円\n特別価格(税込)：\n210円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "クルーラーリングドーナツ8個入アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nクルーラーリングドーナツ8個入\nファミリーマート\n通常価格(税込)：220円\n特別価格(税込)：\n210円\n10円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ザバス脂肪0 ｷｬﾗﾒﾙ風味 200ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nｻﾞﾊﾞｽ MILK PROTEIN 脂肪0 ｷｬﾗﾒﾙ風味\n200ML\nファミリーマート\n通常価格(税込)：239円\n特別価格(税込)：\n209円\n30円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ザバス脂肪0 ﾁｮｺﾚｰﾄ風味 200ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nｻﾞﾊﾞｽ MILK PROTEIN 脂肪0 ﾁｮｺﾚｰﾄ風味\n200ML\nファミリーマート\n通常価格(税込)：239円\n特別価格(税込)：\n209円\n30円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ザバス脂肪0 ｱｰﾓﾝﾄﾞ風味 200ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nｻﾞﾊﾞｽ MILK PROTEIN 脂肪0 ｱｰﾓﾝﾄﾞ風味\n200ML\nファミリーマート\n通常価格(税込)：239円\n特別価格(税込)：\n209円\n30円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ザバス脂肪0 ﾊﾞﾅﾅ風味 200ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nｻﾞﾊﾞｽ MILK PROTEIN 脂肪0 ﾊﾞﾅﾅ風味\n200ML\nファミリーマート\n通常価格(税込)：195円\n特別価格(税込)：\n175円\n20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ザバス脂肪0 ｺｺｱ風味 200ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nｻﾞﾊﾞｽ MILK PROTEIN 脂肪0 ｺｺｱ風味\n200ML\nファミリーマート\n通常価格(税込)：195円\n特別価格(税込)：\n175円\n20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ブルガリア脂肪0果実　ブルーベリー＆3種のベリー 180g値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "21円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nブルガリアヨーグルト脂肪0ジューシー果実　ブルーベリー＆3種のベリー\n180g\nファミリーマート\n通常価格(税込)：181円\n特別価格(税込)：\n160円\n21円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ブルガリア脂肪0果実　苺 180g値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "21円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\n明治\nブルガリアヨーグルト脂肪0ジューシー果実　苺\n180g\nファミリーマート\n通常価格(税込)：181円\n特別価格(税込)：\n160円\n21円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ドライゼロ 350ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nアサヒビール\nドライゼロ\n350ML\nファミリーマート\n通常価格(税込)：177円\n特別価格(税込)：\n167円\n10円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アサヒゼロ 350ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nアサヒビール\nアサヒゼロ\n350ML\nファミリーマート\n通常価格(税込)：181円\n特別価格(税込)：\n171円\n10円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "亜鉛×マルチビタミン　7日分 21粒値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nマルマン\n亜鉛×マルチビタミン　7日分\n21粒\nファミリーマート\n通常価格(税込)：540円\n特別価格(税込)：\n490円\n50円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "亜鉛×マルチビタミン　7日分 21粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nマルマン\n亜鉛×マルチビタミン　7日分\n21粒\nファミリーマート\n通常価格(税込)：540円\n特別価格(税込)：\n490円\n50円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ジョージア　香る微糖 370ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "22円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nコカ・コーラ\nジョージア　香る微糖\n370ML\nファミリーマート\n通常価格(税込)：199円\n特別価格(税込)：\n177円\n22円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ジョージア　香るブラック 400ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "22円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nコカ・コーラ\nジョージア　香るブラック\n400ML\nファミリーマート\n通常価格(税込)：199円\n特別価格(税込)：\n177円\n22円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOYストロベリー 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYストロベリー\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOYストロベリー 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYストロベリー\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOYブルーベリー 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYブルーベリー\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOYブルーベリー 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYブルーベリー\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOY　アーモンド＆チョコレート 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　アーモンド＆チョコレート\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOY　アーモンド＆チョコレート 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　アーモンド＆チョコレート\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOY 黒ゴマ 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY 黒ゴマ\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOY 黒ゴマ 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY 黒ゴマ\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOYあずき＆ほうじ茶 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYあずき＆ほうじ茶\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOYあずき＆ほうじ茶 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOYあずき＆ほうじ茶\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOY　抹茶＆ゆず 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　抹茶＆ゆず\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOY　抹茶＆ゆず 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　抹茶＆ゆず\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOY　イチジク＆レーズン 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　イチジク＆レーズン\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOY　イチジク＆レーズン 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　イチジク＆レーズン\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "SOYJOY　フルーツ＆ベイクドチーズ 30G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のSOYJOY2個購入で30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　フルーツ＆ベイクドチーズ\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "SOYJOY　フルーツ＆ベイクドチーズ 30Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nSOYJOY　フルーツ＆ベイクドチーズ\n30G\nファミリーマート\n通常価格(税込)：135円\n対象のSOYJOY2個購入で30円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "恵庭庵 黒糖まんじゅう 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n恵庭庵 黒糖まんじゅう\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "恵庭庵 吹雪まんじゅう 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n恵庭庵 吹雪まんじゅう\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "恵庭庵 豆大福 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n恵庭庵 豆大福\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "恵庭庵 草大福 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n恵庭庵 草大福\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "黒糖まんじゅう（こしあん） 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n黒糖まんじゅう（こしあん）\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "吹雪まんじゅう（つぶあん） 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n吹雪まんじゅう（つぶあん）\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "よもぎ大福（つぶあん） 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\nよもぎ大福（つぶあん）\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "豆大福（つぶあん） 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\n豆大福（つぶあん）\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ごま大福（つぶあん） 1個値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の和菓子2個購入で20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "NEW\nヤマザキ\nごま大福（つぶあん）\n1個\nファミリーマート\n通常価格(税込)：127円\n対象の和菓子2個購入で20円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ブルガリアヨーグルトLB81低糖 180g値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "17円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nブルガリアヨーグルトLB81低糖\n180g\nファミリーマート\n通常価格(税込)：152円\n特別価格(税込)：\n135円\n17円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カッシェロ　デル・ディアブロ　シャルドネ 750ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "メルシャン\nカッシェロ　デル・ディアブロ　シャルドネ\n750ML\nファミリーマート\n通常価格(税込)：1,650円\n特別価格(税込)：\n1,550円\n100円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カッシェロ　デル・ディアブロ　カベルネ 750ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "メルシャン\nカッシェロ　デル・ディアブロ　カベルネ\n750ML\nファミリーマート\n通常価格(税込)：1,650円\n特別価格(税込)：\n1,550円\n100円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スターバックス　ブラック無糖 380g値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "19円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "サントリー\nスターバックス　ブラック無糖\n380g\nファミリーマート\n通常価格(税込)：199円\n特別価格(税込)：\n180円\n19円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "スターバックス　ブラック無糖 380gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "サントリー\nスターバックス　ブラック無糖\n380g\nファミリーマート\n通常価格(税込)：199円\n特別価格(税込)：\n180円\n19円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファイア　挽きたて微糖 185g値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "15円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "キリン\nファイア　挽きたて微糖\n185g\nファミリーマート\n通常価格(税込)：143円\n特別価格(税込)：\n128円\n15円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/30(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ファイア　挽きたて微糖 185gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "キリン\nファイア　挽きたて微糖\n185g\nファミリーマート\n通常価格(税込)：143円\n特別価格(税込)：\n128円\n15円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/30(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ガーナポップジョイ 37G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nガーナポップジョイ\n37G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カリッと香ばしアーモンドポップジョイ 43G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nアーモンドチョコレートカリッと香ばしアーモンドポップジョイ\n43G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リッチアーモンドチョコレートポップジョイ 35G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nリッチアーモンドチョコレートポップジョイ\n35G\nファミリーマート\n通常価格(税込)：201円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マカダミアポップジョイカラメリゼ 34G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nマカダミアポップジョイカラメリゼ\n34G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クランキーポップジョイクランチチョコレート 44G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nクランキーポップジョイクランチチョコレート\n44G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クランキーポップジョイストロベリー 32G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nクランキーポップジョイストロベリー\n32G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クランキーボールポップジョイクッキー＆クリーム 37G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "ロッテ\nクランキーボールポップジョイクッキー＆クリーム\n37G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アーモンドチョコレートポケットパック 42G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nアーモンドチョコレートポケットパック\n42G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ロカボナッツアーモンドポケットパック 32G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nロカボナッツアーモンドポケットパック\n32G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ガルボポケットパック 38G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nガルボポケットパック\n38G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ガルボつぶ練り苺ポケットパック 37G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nガルボつぶ練り苺ポケットパック\n37G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ガルボほろにがブラックポケットパック 38G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nガルボほろにがブラックポケットパック\n38G\nファミリーマート\n通常価格(税込)：189円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "きのこの山ポケットパック 32G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nきのこの山ポケットパック\n32G\nファミリーマート\n通常価格(税込)：173円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "たけのこの里ポケットパック 32G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のロッテ・明治お菓子2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "明治\nたけのこの里ポケットパック\n32G\nファミリーマート\n通常価格(税込)：173円\n対象のロッテ・明治お菓子2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスファミチキ味 62G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスファミチキ味\n62G\nファミリーマート\n通常価格(税込)：213円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスファミチキレッド味 62G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスファミチキレッド味\n62G\nファミリーマート\n通常価格(税込)：213円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスのりしおW 60G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスのりしおW\n60G\nファミリーマート\n通常価格(税込)：192円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスしあわせバターＷ 62G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスしあわせバターＷ\n62G\nファミリーマート\n通常価格(税込)：192円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスしょうゆＷマヨ 55G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスしょうゆＷマヨ\n55G\nファミリーマート\n通常価格(税込)：192円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスコンソメWパンチ 61G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスコンソメWパンチ\n61G\nファミリーマート\n通常価格(税込)：192円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ポテトチップスうすしお味 70G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のカルビー ポテトチップス2個購入で40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "カルビー\nポテトチップスうすしお味\n70G\nファミリーマート\n通常価格(税込)：192円\n対象のカルビー ポテトチップス2個購入で40円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "緑のたぬき天そば　小えび三昧天ぷら 101G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のマルちゃん カップ麺 2個購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n緑のたぬき天そば　小えび三昧天ぷら\n101G\nファミリーマート\n通常価格(税込)：267円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "緑のたぬき天そば　小えび三昧天ぷら 101Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n緑のたぬき天そば　小えび三昧天ぷら\n101G\nファミリーマート\n通常価格(税込)：267円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "赤いきつねうどん　2枚入りお揚げ 101G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のマルちゃん カップ麺 2個購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n赤いきつねうどん　2枚入りお揚げ\n101G\nファミリーマート\n通常価格(税込)：267円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "赤いきつねうどん　2枚入りお揚げ 101Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n赤いきつねうどん　2枚入りお揚げ\n101G\nファミリーマート\n通常価格(税込)：267円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "緑のたぬき天そば でか盛 146G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のマルちゃん カップ麺 2個購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n緑のたぬき天そば でか盛\n146G\nファミリーマート\n通常価格(税込)：321円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "緑のたぬき天そば でか盛 146Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n緑のたぬき天そば でか盛\n146G\nファミリーマート\n通常価格(税込)：321円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "赤いきつねうどんでか盛 136G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象のマルちゃん カップ麺 2個購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n赤いきつねうどんでか盛\n136G\nファミリーマート\n通常価格(税込)：321円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "赤いきつねうどんでか盛 136Gアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "マルちゃん\n赤いきつねうどんでか盛\n136G\nファミリーマート\n通常価格(税込)：321円\n対象のマルちゃん カップ麺 2個購入で100円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードルBIG 103G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nカップヌードルBIG\n103G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードルBIG　シーフード 105G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nカップヌードルBIG　シーフード\n105G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードルBIG　カレー 121G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nカップヌードルBIG　カレー\n121G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードルBIG　チリトマト 109G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nカップヌードルBIG　チリトマト\n109G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードルBIG　トムヤムクン 100G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nカップヌードルBIG　トムヤムクン\n100G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ味ヌードル 95G値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象の日清 カップヌードル 2個購入で50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象品2個同時購入。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "日清\nファミチキ味ヌードル\n95G\nファミリーマート\n通常価格(税込)：321円\n対象の日清 カップヌードル 2個購入で50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "三ツ矢500ml＋アイスボックス135mlセット値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定2商品セット購入で100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "三ツ矢500mlとアイスボックス135mlのセット。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "アサヒ\n三ツ矢サイダー\n500ML\nファミリーマート\n通常価格(税込)：183円\n対象のアサヒ三ツ矢サイダー・森永製菓アイスボックス グレープフルーツをセット購入で100円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "白鶴まるパック 2000ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "35円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "白鶴まるパック\n2000ML\nファミリーマート\n通常価格(税込)：1,207円\n特別価格(税込)：\n1,172円\n35円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n15円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "白鶴まるパック 2000MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品15円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "白鶴まるパック\n2000ML\nファミリーマート\n通常価格(税込)：1,207円\n特別価格(税込)：\n1,172円\n35円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n15円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "信長鬼ころしパック 2000ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "関東は静岡東部のみ、三重県伊賀・名張除外。指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "清洲桜\n信長鬼ころしパック\n2000ML\nファミリーマート\n通常価格(税込)：1,062円\n特別価格(税込)：\n1,002円\n60円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n40円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "信長鬼ころしパック 2000MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品40円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ提示。関東は静岡県東部のみ。三重県伊賀市・名張市除外。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "清洲桜\n信長鬼ころしパック\n2000ML\nファミリーマート\n通常価格(税込)：1,062円\n特別価格(税込)：\n1,002円\n60円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n40円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "信長鬼ころしパック 1000ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "関東は静岡東部のみ、三重県伊賀・名張除外。指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "清洲桜\n信長鬼ころしパック\n1000ML\nファミリーマート\n通常価格(税込)：687円\n特別価格(税込)：\n647円\n40円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "信長鬼ころしパック 1000MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品20円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ提示。関東は静岡県東部のみ。三重県伊賀市・名張市除外。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "清洲桜\n信長鬼ころしパック\n1000ML\nファミリーマート\n通常価格(税込)：687円\n特別価格(税込)：\n647円\n40円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n20円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ヴイックスレモン風味 20個入値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "大正製薬\nヴイックスレモン風味\n20個入\nファミリーマート\n通常価格(税込)：438円\n特別価格(税込)：\n388円\n50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ヴイックスオレンジ風味 20個入値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "大正製薬\nヴイックスオレンジ風味\n20個入\nファミリーマート\n通常価格(税込)：438円\n特別価格(税込)：\n388円\n50円引き",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ライフガード 500ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "チェリオ\nライフガード\n500ML\nファミリーマート\n通常価格(税込)：162円\n特別価格(税込)：\n148円\n14円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/15(火)～10/19(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ライフガード 500MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "チェリオ\nライフガード\n500ML\nファミリーマート\n通常価格(税込)：162円\n特別価格(税込)：\n148円\n14円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/15(火)～10/19(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マッチ 500ML値引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-28T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "指定品・規格。一部地域・店舗取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "大塚食品\nマッチ\n500ML\nファミリーマート\n通常価格(税込)：162円\n特別価格(税込)：\n148円\n14円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：7/28(火)～10/26(月)",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "マッチ 500MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-28T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "evidence_quote": "大塚食品\nマッチ\n500ML\nファミリーマート\n通常価格(税込)：162円\n特別価格(税込)：\n148円\n14円引き\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：7/28(火)～10/26(月)",
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。"
+    }
+  ]
+}

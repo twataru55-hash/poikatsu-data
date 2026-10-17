@@ -1,0 +1,52 @@
+{
+  "run_id": "20261017-2107",
+  "created_at": "2026-10-17T17:20:54+09:00",
+  "extraction_revision": 3,
+  "items": [
+    {
+      "source_id": "familymart-offers--a4a82c90",
+      "hash": "847c4f9e7788bdcc606780b6937e805a87b274ab423d825906aeff3771b17a49",
+      "prompt_file": "work/prompts/familymart-offers--a4a82c90.md",
+      "answer_file": "inbox/20261017-2107/familymart-offers--a4a82c90.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/otoku.html",
+      "assets_file": "work/assets/familymart-offers--a4a82c90.json"
+    },
+    {
+      "source_id": "familymart-offers--5e399350",
+      "hash": "1b046350bde2067865b907c053c48359c204bde8fe3b890f26363aeb60705e5e",
+      "prompt_file": "work/prompts/familymart-offers--5e399350.md",
+      "answer_file": "inbox/20261017-2107/familymart-offers--5e399350.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/pointplus.html",
+      "assets_file": "work/assets/familymart-offers--5e399350.json"
+    }
+  ],
+  "unchanged": [],
+  "failed": [],
+  "detail_failed": [],
+  "deferred": [],
+  "gave_up": [],
+  "coverage": [],
+  "source_summary": {},
+  "reask": [],
+  "visual_review": [
+    {
+      "source_id": "familymart-offers--a4a82c90",
+      "assets_file": "work/assets/familymart-offers--a4a82c90.json",
+      "images_without_alt": 128,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--5e399350",
+      "assets_file": "work/assets/familymart-offers--5e399350.json",
+      "images_without_alt": 82,
+      "pdfs": 0,
+      "status": "unverified_references"
+    }
+  ],
+  "reingest_of": "20261017-1720",
+  "submitted_at": "2026-10-17T21:07:11+09:00",
+  "reingest_reason": "Owner-approved one-time ratio threshold change after staging accepted the reviewed candidates; no new crawl"
+}
