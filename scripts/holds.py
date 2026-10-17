@@ -7,10 +7,13 @@ GITHUB_TOKEN と GITHUB_REPOSITORY が無いときは、Issue の代わりに re
 from __future__ import annotations
 
 import json
+import math
 import os
 import re
 import sys
+import time
 from datetime import timedelta
+from email.utils import parsedate_to_datetime
 
 import requests
 
@@ -27,6 +30,45 @@ LABELS = {
     "fetch-fail": ("5319e7", "取得元の連続失敗"),
 }
 JSON_BLOCK = re.compile(r"```json\s*(\{.*?\})\s*```", re.S)
+WRITE_INTERVAL_SECONDS = 8.0
+MAX_RATE_RETRIES = 3
+MAX_RATE_WAIT_SECONDS = 600.0
+
+
+def rate_limit_delay(response, attempt: int) -> float | None:
+    """Only retry an explicit rate-limit rejection, never an ambiguous write."""
+    message = response.text.lower()
+    headers = response.headers
+    limited = response.status_code == 429 or (
+        response.status_code == 403 and (
+            "secondary rate limit" in message or "api rate limit exceeded" in message
+            or headers.get("x-ratelimit-remaining") == "0"
+        )
+    )
+    if not limited:
+        return None
+    delay = 60.0 * (2 ** attempt)
+    retry_after = headers.get("retry-after")
+    if retry_after:
+        try:
+            seconds = float(retry_after)
+        except ValueError:
+            try:
+                seconds = parsedate_to_datetime(retry_after).timestamp() - time.time()
+            except (ValueError, TypeError, OverflowError):
+                return math.inf  # Cannot honor the server's instruction: stop.
+        if not math.isfinite(seconds):
+            return math.inf
+        delay = max(delay, seconds)
+    if headers.get("x-ratelimit-remaining") == "0":
+        try:
+            reset = float(headers["x-ratelimit-reset"]) - time.time() + 1
+        except (KeyError, ValueError, OverflowError):
+            return math.inf
+        if not math.isfinite(reset):
+            return math.inf
+        delay = max(delay, reset)
+    return delay
 
 
 class GitHub:
@@ -34,18 +76,34 @@ class GitHub:
         self.token = os.environ.get("GITHUB_TOKEN")
         self.repo = os.environ.get("GITHUB_REPOSITORY")
         self.enabled = bool(self.token and self.repo)
+        self._last_write_attempt = None
 
     def _req(self, method: str, path: str, **kw):
-        r = requests.request(
-            method,
-            f"{API}/repos/{self.repo}{path}",
-            headers={"Authorization": f"Bearer {self.token}", "Accept": "application/vnd.github+json"},
-            timeout=30,
-            **kw,
-        )
-        if r.status_code >= 300:
-            raise RuntimeError(f"GitHub API {method} {path}: {r.status_code} {r.text[:200]}")
-        return r.json() if r.text else {}
+        waited = 0.0
+        for attempt in range(MAX_RATE_RETRIES + 1):
+            if method.upper() in {"POST", "PATCH", "PUT", "DELETE"}:
+                if self._last_write_attempt is not None:
+                    remaining = WRITE_INTERVAL_SECONDS - (time.monotonic() - self._last_write_attempt)
+                    if remaining > 0:
+                        time.sleep(remaining)
+                self._last_write_attempt = time.monotonic()
+            # Do not retry timeouts/connection errors: a write may already exist.
+            r = requests.request(
+                method,
+                f"{API}/repos/{self.repo}{path}",
+                headers={"Authorization": f"Bearer {self.token}", "Accept": "application/vnd.github+json"},
+                timeout=30,
+                **kw,
+            )
+            if r.status_code < 300:
+                return r.json() if r.text else {}
+            delay = rate_limit_delay(r, attempt)
+            if delay is None or attempt == MAX_RATE_RETRIES or waited + delay > MAX_RATE_WAIT_SECONDS:
+                raise RuntimeError(f"GitHub API {method} {path}: {r.status_code} {r.text[:200]}")
+            print(f"GitHub rate limit: waiting {delay:.0f}s before retry {attempt + 1}/{MAX_RATE_RETRIES}",
+                  file=sys.stderr, flush=True)
+            time.sleep(delay)
+            waited += delay
 
     def ensure_labels(self) -> None:
         if not self.enabled:
