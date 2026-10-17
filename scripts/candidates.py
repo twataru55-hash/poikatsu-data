@@ -9,6 +9,13 @@ from common import ROOT, JST, campaign_id, content_key, identity_key, load_json,
 
 SIMILARITY = 0.75  # タイトルか根拠文がこれ以上似ていれば同じキャンペーンとみなす（短いタイトルの取り違えを防ぐため高め）
 
+# These official tables contain distinct products with almost identical bonus prose.
+# Keep their stable product/pack-size titles separate, as for coupon tables.
+_PRODUCT_BONUS_URLS = {
+    "https://www.family.co.jp/campaign/otoku.html",
+    "https://www.family.co.jp/campaign/pointplus.html",
+}
+
 _DATE_ONLY = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
@@ -90,6 +97,9 @@ def match_existing(c: dict, existing: list[dict]) -> tuple[str, dict | None]:
     戻り値: ("new", None) / ("same", 既存) / ("changed", 既存)
     """
     ik = identity_key(c)
+    separate_titles = c.get("type") == "coupon" or (
+        c.get("type") == "bonus" and ik[-1] in _PRODUCT_BONUS_URLS
+    )
     # Explicit, evidence-reviewed aliases only. Never merge merely by URL or date.
     for alias in load_json(ROOT / "config" / "campaign_aliases.json", []):
         if c.get("id") != alias.get("duplicate_id"):
@@ -102,9 +112,9 @@ def match_existing(c: dict, existing: list[dict]) -> tuple[str, dict | None]:
     for e in existing:
         if identity_key(e) != ik:
             continue
-        # Coupon products on one page often share nearly identical prose.
+        # Products on these tables often share nearly identical prose.
         # A different product/denomination title must not overwrite its neighbour.
-        if c.get("type") == "coupon" and normalize_text(e.get("title")) != normalize_text(c.get("title")):
+        if separate_titles and normalize_text(e.get("title")) != normalize_text(c.get("title")):
             continue
         score = max(
             SequenceMatcher(None, normalize_text(e.get("title", "")), normalize_text(c.get("title", ""))).ratio(),
