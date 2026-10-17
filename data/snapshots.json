@@ -669,7 +669,7 @@
   },
   "familymart-offers--a4a82c90": {
     "hash": "847c4f9e7788bdcc606780b6937e805a87b274ab423d825906aeff3771b17a49",
-    "fetched_at": "2026-10-14T09:00:33+09:00",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
     "chars": 23251,
     "extraction_revision": 3
   },
@@ -715,7 +715,7 @@
   },
   "familymart-offers--5e399350": {
     "hash": "1b046350bde2067865b907c053c48359c204bde8fe3b890f26363aeb60705e5e",
-    "fetched_at": "2026-10-14T09:00:33+09:00",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
     "chars": 12794,
     "extraction_revision": 3
   },
@@ -760,8 +760,9 @@
   },
   "familymart-offers--d657e204": {
     "hash": "04471da8ba93f9015be2a08df4c626be078cfd07dce9479527654dd742a5d995",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 2441
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2441,
+    "extraction_revision": 3
   },
   "lawson-offers--0680669b": {
     "hash": "3979dbbc3c9809f0d7aa3ac5162f263d6e0eef502f37b53bdd4c18fea0634737",
@@ -867,9 +868,10 @@
     "chars": 1705
   },
   "familymart-offers--754872ec": {
-    "hash": "2fea3c709036e77ea395b74000be65acf700290286d4459c699a6a2ee37b14b7",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 2720
+    "hash": "82ffecf5ad1a293c71197282f87a7c644f2aa88621f84321e57d59f3041f0ea9",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2720,
+    "extraction_revision": 3
   },
   "lawson-offers--0e880103": {
     "hash": "1cf2e014992b0fe8ecb26e6b36745ebecc71b91415e5f239eacc29b16eed3cee",
@@ -900,8 +902,9 @@
   },
   "familymart-offers--2449799b": {
     "hash": "876eeb22017c958f058eeb4d1c46581d5f1104900317a84f5c1f566f678a6287",
-    "fetched_at": "2026-10-03T14:29:46+09:00",
-    "chars": 4397
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 4397,
+    "extraction_revision": 3
   },
   "lawson-offers--70ccba48": {
     "hash": "25380abb1b881f2b5606b8ad206ed705a22b6da1290173c6e58fbc2ed96a371c",
@@ -925,8 +928,9 @@
   },
   "familymart-offers--b0fc4e1f": {
     "hash": "1b20cb207ef71c651adeb2e00d1e006a0433194b614d2860f2b92888ed4d75e6",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2435
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2435,
+    "extraction_revision": 3
   },
   "dpoint-campaign--047a162c": {
     "hash": "bb05e432271779706e3eb5b3b8b85838e109203e0f6d7e829fc2529ceed11d99",
@@ -945,8 +949,9 @@
   },
   "familymart-offers--f6c5150c": {
     "hash": "19900cd205f0f33d5c194791eb6bdb3afc5862ac70a52cdb12da9c1d40dbbd3a",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 4950
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 4950,
+    "extraction_revision": 3
   },
   "dpoint-campaign--8430689a": {
     "hash": "b79aa4d72a2890f2d8b8a87ff7a6fd3663d916cd8a705a1cf5adc4ab9320552d",
@@ -964,9 +969,9 @@
     "chars": 5923
   },
   "familymart-offers--18e52d33": {
-    "hash": "dd77a99a27566a0ee3e93f8360067c3d50c54cb0acbd28e84c20057a7f75b979",
-    "fetched_at": "2026-10-05T09:03:29+09:00",
-    "chars": 1391,
+    "hash": "e74a9e4476e490089831cab6eac2b701938be90671eb22cdd4b1709d723954c9",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 1963,
     "extraction_revision": 3
   },
   "dpoint-campaign--65ca72b6": {
@@ -980,9 +985,9 @@
     "chars": 701
   },
   "familymart-offers--498d2e28": {
-    "hash": "99160ee4314b81954bd1076b45e3bf6e2ab8d6527e42ef29fa216540e227e1d0",
-    "fetched_at": "2026-10-05T09:03:29+09:00",
-    "chars": 2523,
+    "hash": "23683d529111fd7831f4a3f6678e8d33c10d496e66a12d58a69b560a14d6bd56",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2815,
     "extraction_revision": 3
   },
   "dpoint-campaign--dac70109": {
@@ -997,8 +1002,9 @@
   },
   "familymart-offers--d5aa71fa": {
     "hash": "c1c2388ef15390835d1f3f340749693cdef3825d964a570b2cf4f0056b11867e",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2476
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2476,
+    "extraction_revision": 3
   },
   "vpoint-campaign--265925a9": {
     "hash": "245a665ea968f21996e2115bcd3216de94d794e6fd3c701d50aaa2aceeb464f3",
@@ -1237,9 +1243,10 @@
     "chars": 2899
   },
   "familymart-offers--213d6ffb": {
-    "hash": "4f3b33edebee8770e50f265a4e81b6ce9b95d8bf36dcbe655c34aacd71bf2a0c",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2811
+    "hash": "aeda587bc0b377babac88c3a7544b00970e8d30a866031134e8b46b98160f51b",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2759,
+    "extraction_revision": 3
   },
   "lawson-offers--1bc6b40e": {
     "hash": "06929e743d69beb6c5024aacac0b3c1a277f7a0c9e818bea7732a9dc3fa84218",
@@ -1334,8 +1341,9 @@
   },
   "familymart-offers--3516dc0a": {
     "hash": "f9a08d76b9c4ab49623c8cb1618c6e2396c01d6497c71783111d774f59c9a5ba",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 10949
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 10949,
+    "extraction_revision": 3
   },
   "lawson-offers--ddd5b740": {
     "hash": "21c00cbe0436681d8fe0a3b5b94f7b1e6e998c7254da2147803e53594af5ab73",
@@ -1348,9 +1356,10 @@
     "chars": 1151
   },
   "familymart-offers--412bc53f": {
-    "hash": "6aa3126b90ea61a71508dbcada10f8001f64970ae6395b8c7fe0a0218c344f1d",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2650
+    "hash": "d8fac4ed86225575ef3761e61232d8962f81c8f3d06af3518866a778c6bebc81",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2386,
+    "extraction_revision": 3
   },
   "seven-offers--dbf5f0dd": {
     "hash": "6e5a1a9310b98645b6644556d12c092dbd9f42a02f0b50c5cd8e389bf0476efc",
@@ -1358,29 +1367,34 @@
     "chars": 908
   },
   "familymart-offers--eb86457a": {
-    "hash": "7b6c99356b8aa671b396a0cb24dbbfa36ba7fd9822368a08fcfb577285410760",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 1242
+    "hash": "2e0f93357d6bf94ab5395e64b4911d605454ebdcaecbc0f7bc3929369fcc1305",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 1685,
+    "extraction_revision": 3
   },
   "familymart-offers--ae0fb863": {
     "hash": "2b0aee190d480b0d4d7549578b2ce76b89e1a604826ae2d4e91524745c87fc49",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 5705
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 5705,
+    "extraction_revision": 3
   },
   "familymart-offers--da911b2c": {
     "hash": "9af0600fe496cf00a23762520c811ed16c96c57d5ecfaf1858b4842efd9ed07a",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 2373
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2373,
+    "extraction_revision": 3
   },
   "familymart-offers--f3eb81c8": {
     "hash": "64d9443d947e8a9d92487bdb0b2bef82fabc7b5933ba877bb4422ae2cef3a33f",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 4377
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 4377,
+    "extraction_revision": 3
   },
   "familymart-offers--4c658488": {
-    "hash": "a0e6c9bab0d5702e537a615264ee8428c938d5505048d257bb6c0e8f2fbf2747",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 5244
+    "hash": "d21c3d1170ab8c7ba2e5a0d68d05bc14a54444a395c123f1762208d90dacf942",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 5265,
+    "extraction_revision": 3
   },
   "familymart-offers--01d4669f": {
     "hash": "a0dc885ab61ac98cb0bac6dcf3b3c587662b7e6b1acb3fd9e0ba7547a9c373a8",
@@ -1438,8 +1452,9 @@
   },
   "familymart-offers--e615d259": {
     "hash": "dceb765462d3f4cef368123440c6495a59f1551e2c921388c82db0152e56d207",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 3101
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 3101,
+    "extraction_revision": 3
   },
   "dpoint-campaign--f5887520": {
     "hash": "b79aa4d72a2890f2d8b8a87ff7a6fd3663d916cd8a705a1cf5adc4ab9320552d",
@@ -1481,8 +1496,9 @@
   },
   "familymart-offers--a1e36b74": {
     "hash": "e80fe2ab03484504623b34e91971ee81ed409c1313de8e8cab81941053d9b330",
-    "fetched_at": "2026-10-03T15:14:54+09:00",
-    "chars": 1476
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 1476,
+    "extraction_revision": 3
   },
   "dpoint-campaign--54d22bcf": {
     "hash": "13214fcbdc02ef114d9610cfd7b8ed52f37f15f66d70393d80ff90ce0d0f799b",
@@ -2284,6 +2300,48 @@
     "hash": "3efaffa394fc714748208ef4bbc47e910bbf0e383573737933c171acae35c2bd",
     "fetched_at": "2026-10-14T09:00:33+09:00",
     "chars": 700,
+    "extraction_revision": 3
+  },
+  "familymart-offers--cc8ab239": {
+    "hash": "a3e3daf45f260e8ca41b9b82e80e498b08cb2f309ae59284000e416926c00caf",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 801,
+    "extraction_revision": 3
+  },
+  "familymart-offers--59ee6c1d": {
+    "hash": "df0b309095a36f90a4035cd180973eea1e396326f2082b5b02ebeb557bd0ad7d",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 1782,
+    "extraction_revision": 3
+  },
+  "familymart-offers--cb13380a": {
+    "hash": "4b34fac0cc24ea3cb6e26069bc344fa0cd81e92f4ee1e858a65bf3a8ea185539",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 631,
+    "extraction_revision": 3
+  },
+  "familymart-offers--d9e8e897": {
+    "hash": "38dcd1376abcfe5a74406eee29d621c91d4463a55c2e3cd176589b941a092d7e",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 3311,
+    "extraction_revision": 3
+  },
+  "familymart-offers--5157131e": {
+    "hash": "981fb21b4c17ea707e1818841796d32fb39a1a0a515158be97b3abba90b29ded",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 2016,
+    "extraction_revision": 3
+  },
+  "familymart-offers--095dae59": {
+    "hash": "da2797baadd5d3fb8eb43311e737ac3bb189b68b2e991c2564a2c09b152bbc16",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 4528,
+    "extraction_revision": 3
+  },
+  "familymart-offers--9b23a069": {
+    "hash": "c2efad26c04e6f9dedf67bced4eb61ba0614e4668a7a6b474fd7726573fd603e",
+    "fetched_at": "2026-10-17T17:20:54+09:00",
+    "chars": 4197,
     "extraction_revision": 3
   }
 }

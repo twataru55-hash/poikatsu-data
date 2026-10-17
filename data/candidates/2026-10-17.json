@@ -2204,5 +2204,2338 @@
     ],
     "source": "seven-offers",
     "title": "セブン10月シルバー抽選人気商品無料券3枚"
+  },
+  {
+    "id": "cp-d39b4f04f7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイ新規登録の対象茶1点無料券"
+  },
+  {
+    "id": "cp-531c271553",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "アプリ提示購入の11月無料引換券抽選"
+  },
+  {
+    "id": "cp-f9c1f8962f",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "楽天ポイント初連携ファミペイ提示100円相当"
+  },
+  {
+    "id": "cp-e1de948c1a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王1位無料券365枚"
+  },
+  {
+    "id": "cp-9edf05cd8f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王2位無料券182枚"
+  },
+  {
+    "id": "cp-1ba26fb714",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王3位無料券90枚"
+  },
+  {
+    "id": "cp-3779986d23",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王4～10位無料券31枚"
+  },
+  {
+    "id": "cp-3370e4f06b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王11～19位無料券7枚"
+  },
+  {
+    "id": "cp-b25bcc8b60",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王20位無料券20枚"
+  },
+  {
+    "id": "cp-fa5cc91cca",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王21～50位無料券5枚"
+  },
+  {
+    "id": "cp-fa5d0298a4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王51～100位無料券1枚"
+  },
+  {
+    "id": "cp-85e610317d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ王参加賞20円引きクーポン"
+  },
+  {
+    "id": "cp-f9a43244ec",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "毎月25日～翌3日POSAファミペイ1.5％"
+  },
+  {
+    "id": "cp-db9736f8c6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "店頭予約の対象クリスマスケーキ5品400円引"
+  },
+  {
+    "id": "cp-22f09407fe",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "店頭チキン等予約の対象2Lドリンク無料券"
+  },
+  {
+    "id": "cp-66c0de938f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "対象おむすび・パンと飲料セット250円"
+  },
+  {
+    "id": "cp-a2ea16ece1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "familymart-offers",
+    "title": "鹿児島一部店舗の対象2品セット265円"
+  },
+  {
+    "id": "cp-bf5c19fea6",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ファミマ 47都道府県ソックス応募ポイント"
+  },
+  {
+    "id": "cp-d8a455f323",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ファミマ 友達紹介・店頭購入特典"
+  },
+  {
+    "id": "cp-708221ea04",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "X抽選ダブルシュー無料クーポン"
+  },
+  {
+    "id": "cp-c12ae4d94d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "小岩井 Theカフェオレ500ml30円引券"
+  },
+  {
+    "id": "cp-ea09b8b2a5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クノール完熟トマトスープパスタ30円引券"
+  },
+  {
+    "id": "cp-7345ad6989",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クノールきのこクリームスープパスタ30円引券"
+  },
+  {
+    "id": "cp-1bffe67bc1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クノールたらこクリームスープパスタ30円引券"
+  },
+  {
+    "id": "cp-97fa37e936",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クノールサーモンとほうれん草スープパスタ30円引券"
+  },
+  {
+    "id": "cp-eb35475ef4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クノールクリーミーカルボナーラ30円引券"
+  },
+  {
+    "id": "cp-3201db62c0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "明治チョコ&ミント40ml×5本100円引券"
+  },
+  {
+    "id": "cp-15d7b530d5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛きつねうどん50円引券"
+  },
+  {
+    "id": "cp-5793c51a34",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛天ぷらそば50円引券"
+  },
+  {
+    "id": "cp-84481ad2bb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛特盛きつねうどん50円引券"
+  },
+  {
+    "id": "cp-d071218dfe",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛特盛天ぷらそば50円引券"
+  },
+  {
+    "id": "cp-26f47db7b2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛鬼かき揚げうどん50円引券"
+  },
+  {
+    "id": "cp-e68dca19b6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "どん兵衛特盛鬼かき揚げうどん50円引券"
+  },
+  {
+    "id": "cp-1f1990ea5f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ダノンBIO脂肪燃焼ヨーグルトドリンクアップル20円引券"
+  },
+  {
+    "id": "cp-698b695029",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "集中タイプ蒟蒻畑ピーチ30円引券"
+  },
+  {
+    "id": "cp-f9cc041fda",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クラッシュ蒟蒻畑温州みかん30円引券"
+  },
+  {
+    "id": "cp-290800b8ef",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クラッシュ蒟蒻畑大粒アロエりんご30円引券"
+  },
+  {
+    "id": "cp-447d990eb7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クラッシュ蒟蒻畑ライトぶどう30円引券"
+  },
+  {
+    "id": "cp-c7276242b1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "伊藤園充実野菜理想のトマト30円引券"
+  },
+  {
+    "id": "cp-847819608b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "伊藤園栄養強化型1日分の野菜30円引券"
+  },
+  {
+    "id": "cp-b0d4cb2c5a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "伊藤園1日分の野菜30円引券"
+  },
+  {
+    "id": "cp-30f2920dc3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンゼリーパフォーマンスラムネ60円引券"
+  },
+  {
+    "id": "cp-2dbd539a05",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンゼリーパフォーマンスエナジー60円引券"
+  },
+  {
+    "id": "cp-3325de1bab",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "アリナミンナイトリカバー60円引券"
+  },
+  {
+    "id": "cp-384c9f54a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "アリナミンナイトリカバーi60円引券"
+  },
+  {
+    "id": "cp-9c0bc1e93e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分ビタミンゼリーグレープフルーツ40円引券"
+  },
+  {
+    "id": "cp-81093f40e8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分ビタミンゼリーマスカット40円引券"
+  },
+  {
+    "id": "cp-078623bbc5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分ビタミンゼリー食物繊維ピーチ40円引券"
+  },
+  {
+    "id": "cp-866825d59d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1日分ビタミン&Wミネラルゼリーグレープ40円引券"
+  },
+  {
+    "id": "cp-89db3cba57",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バープロテインチョコ30円引券"
+  },
+  {
+    "id": "cp-18ede63c0a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バープロテインブラック30円引券"
+  },
+  {
+    "id": "cp-2869af2c57",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バープロテインストロベリー30円引券"
+  },
+  {
+    "id": "cp-3fe1892417",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "1本満足バープロテインホワイト30円引券"
+  },
+  {
+    "id": "cp-c623ac823b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キレートレモンMUKUMIゼリー30円引券"
+  },
+  {
+    "id": "cp-a8f2a6eb7b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キレートレモンクエン酸2700ゼリー30円引券"
+  },
+  {
+    "id": "cp-92acf3ce8b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBB Feチャージ50ml100円引券"
+  },
+  {
+    "id": "cp-3f91ecc202",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBナイトウェル50ml100円引券"
+  },
+  {
+    "id": "cp-f5224460d1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBローヤル2 50ml100円引券"
+  },
+  {
+    "id": "cp-1af64f5a75",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBハイパー50ml100円引券"
+  },
+  {
+    "id": "cp-6e29c81f19",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チョコラBBゴールドリッチR50ml100円引券"
+  },
+  {
+    "id": "cp-7728846e43",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン調製豆乳25円引券"
+  },
+  {
+    "id": "cp-27c13d0764",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン無調整豆乳25円引券"
+  },
+  {
+    "id": "cp-c2d66e698d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマン豆乳飲料ジャスミンティー25円引券"
+  },
+  {
+    "id": "cp-fa104f60e3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キッコーマンよりそいアーモンド砂糖不使用25円引券"
+  },
+  {
+    "id": "cp-47cdf51f5f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "マカの元気ドリンク30円引券"
+  },
+  {
+    "id": "cp-6550592f5a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ野菜一日これ一本トリプルケア30円引券"
+  },
+  {
+    "id": "cp-4158389c4b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ野菜一日これ一本30円引券"
+  },
+  {
+    "id": "cp-4b7912c40e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ野菜生活100オリジナル30円引券"
+  },
+  {
+    "id": "cp-2a9d1cfdd1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ野菜生活100ベリーサラダ30円引券"
+  },
+  {
+    "id": "cp-189b8e64f5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カゴメ野菜生活100マンゴーサラダ30円引券"
+  },
+  {
+    "id": "cp-ae2c922424",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンD50円引券"
+  },
+  {
+    "id": "cp-6f2e1b6932",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リポビタンファイン50円引券"
+  },
+  {
+    "id": "cp-61cf3fd1ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "たらみ体脂肪を減らす蒟蒻ゼリー0kcalゴールドキウイ30円引券"
+  },
+  {
+    "id": "cp-3a87de66d0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "たらみつぶつぶみかん果肉入りゼリー30円引券"
+  },
+  {
+    "id": "cp-077de4eb1f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "たらみコリッコリナタデココ入りシャインマスカットゼリー30円引券"
+  },
+  {
+    "id": "cp-eba118a430",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キューピーコーワαドリンク50円引券"
+  },
+  {
+    "id": "cp-fd37d5ce26",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "キューピーコーワiドリンク50円引券"
+  },
+  {
+    "id": "cp-ae3b373503",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "アイスの実とろけるカフェオレ無料券"
+  },
+  {
+    "id": "cp-39a0bf971d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キシリトールガムライムミント無料券"
+  },
+  {
+    "id": "cp-aa372c79de",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キシリトールガムフレッシュミント無料券"
+  },
+  {
+    "id": "cp-f2d557c0a6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キシリトールガムブラックミント無料券"
+  },
+  {
+    "id": "cp-469105ce6d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ロングミントオリジナルミント無料券"
+  },
+  {
+    "id": "cp-68de790910",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "コアラのマーチチョコ無料券"
+  },
+  {
+    "id": "cp-96b33908a3",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "コアラのマーチいちご無料券"
+  },
+  {
+    "id": "cp-e5a3d5aa2b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "宮崎県霧島の天然水600ml無料券"
+  },
+  {
+    "id": "cp-c7c8ff7936",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "新潟県津南の天然水600ml無料券"
+  },
+  {
+    "id": "cp-1cbafc339f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ワンダコクのカフェオレ370g無料券"
+  },
+  {
+    "id": "cp-820e9b4557",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ファミペイ払い毎ゲーム抽選最大1500円相当"
+  },
+  {
+    "id": "cp-ef4cd582d9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "もーっちり食感ホイップあんぱん値引き"
+  },
+  {
+    "id": "cp-a527e52b67",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "もーっちり食感ホイップあんぱんアプリ還元"
+  },
+  {
+    "id": "cp-fef173500d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "チーズ塩パン（淡路島の藻塩使用）値引き"
+  },
+  {
+    "id": "cp-428e35a413",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "チーズ塩パン（淡路島の藻塩使用）アプリ還元"
+  },
+  {
+    "id": "cp-89bf76c6f6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クルーラーリングドーナツ8個入値引き"
+  },
+  {
+    "id": "cp-d40af97069",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "クルーラーリングドーナツ8個入アプリ還元"
+  },
+  {
+    "id": "cp-4312a5c99d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ザバス脂肪0 ｷｬﾗﾒﾙ風味 200ML値引き"
+  },
+  {
+    "id": "cp-8cdf813c88",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ザバス脂肪0 ﾁｮｺﾚｰﾄ風味 200ML値引き"
+  },
+  {
+    "id": "cp-dd5143446f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ザバス脂肪0 ｱｰﾓﾝﾄﾞ風味 200ML値引き"
+  },
+  {
+    "id": "cp-bd4de5bb80",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ザバス脂肪0 ﾊﾞﾅﾅ風味 200ML値引き"
+  },
+  {
+    "id": "cp-04b372a8ba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ザバス脂肪0 ｺｺｱ風味 200ML値引き"
+  },
+  {
+    "id": "cp-32836d0f39",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ブルガリア脂肪0果実　ブルーベリー＆3種のベリー 180g値引き"
+  },
+  {
+    "id": "cp-9a9dca6729",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ブルガリア脂肪0果実　苺 180g値引き"
+  },
+  {
+    "id": "cp-8633ba09c6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ドライゼロ 350ML値引き"
+  },
+  {
+    "id": "cp-d00c608c12",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "アサヒゼロ 350ML値引き"
+  },
+  {
+    "id": "cp-796fc61463",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "亜鉛×マルチビタミン　7日分 21粒値引き"
+  },
+  {
+    "id": "cp-53a6796f31",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "亜鉛×マルチビタミン　7日分 21粒アプリ還元"
+  },
+  {
+    "id": "cp-a05bf6a5d6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ジョージア　香る微糖 370ML値引き"
+  },
+  {
+    "id": "cp-151ab3f25e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ジョージア　香るブラック 400ML値引き"
+  },
+  {
+    "id": "cp-6bcdaa8039",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOYストロベリー 30G値引き"
+  },
+  {
+    "id": "cp-7b80e9f3af",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOYストロベリー 30Gアプリ還元"
+  },
+  {
+    "id": "cp-247ecfee25",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOYブルーベリー 30G値引き"
+  },
+  {
+    "id": "cp-bd67fab344",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOYブルーベリー 30Gアプリ還元"
+  },
+  {
+    "id": "cp-a4d496d468",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOY　アーモンド＆チョコレート 30G値引き"
+  },
+  {
+    "id": "cp-6455d8c154",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOY　アーモンド＆チョコレート 30Gアプリ還元"
+  },
+  {
+    "id": "cp-c3e2c79494",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOY 黒ゴマ 30G値引き"
+  },
+  {
+    "id": "cp-7d68a355fa",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOY 黒ゴマ 30Gアプリ還元"
+  },
+  {
+    "id": "cp-57a4a98af7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOYあずき＆ほうじ茶 30G値引き"
+  },
+  {
+    "id": "cp-fff8235a14",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOYあずき＆ほうじ茶 30Gアプリ還元"
+  },
+  {
+    "id": "cp-685660305a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOY　抹茶＆ゆず 30G値引き"
+  },
+  {
+    "id": "cp-c3a5b18c7d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOY　抹茶＆ゆず 30Gアプリ還元"
+  },
+  {
+    "id": "cp-f987c9ad79",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOY　イチジク＆レーズン 30G値引き"
+  },
+  {
+    "id": "cp-ac4d45ecf0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOY　イチジク＆レーズン 30Gアプリ還元"
+  },
+  {
+    "id": "cp-ff8c68b111",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "SOYJOY　フルーツ＆ベイクドチーズ 30G値引き"
+  },
+  {
+    "id": "cp-066757bc49",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "SOYJOY　フルーツ＆ベイクドチーズ 30Gアプリ還元"
+  },
+  {
+    "id": "cp-3e8d9b75af",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "恵庭庵 黒糖まんじゅう 1個値引き"
+  },
+  {
+    "id": "cp-4440c7b17b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "恵庭庵 吹雪まんじゅう 1個値引き"
+  },
+  {
+    "id": "cp-143efb01d2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "恵庭庵 豆大福 1個値引き"
+  },
+  {
+    "id": "cp-d24468ddde",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "恵庭庵 草大福 1個値引き"
+  },
+  {
+    "id": "cp-90bbbafcaa",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "黒糖まんじゅう（こしあん） 1個値引き"
+  },
+  {
+    "id": "cp-c6bc625dbc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "吹雪まんじゅう（つぶあん） 1個値引き"
+  },
+  {
+    "id": "cp-ae4b06e0f5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "よもぎ大福（つぶあん） 1個値引き"
+  },
+  {
+    "id": "cp-da122c655c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "豆大福（つぶあん） 1個値引き"
+  },
+  {
+    "id": "cp-8328a7ddd2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ごま大福（つぶあん） 1個値引き"
+  },
+  {
+    "id": "cp-62647ce517",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ブルガリアヨーグルトLB81低糖 180g値引き"
+  },
+  {
+    "id": "cp-9a5a900069",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カッシェロ　デル・ディアブロ　シャルドネ 750ML値引き"
+  },
+  {
+    "id": "cp-c27e720717",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カッシェロ　デル・ディアブロ　カベルネ 750ML値引き"
+  },
+  {
+    "id": "cp-e4975260bf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "スターバックス　ブラック無糖 380g値引き"
+  },
+  {
+    "id": "cp-77052729a8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "スターバックス　ブラック無糖 380gアプリ還元"
+  },
+  {
+    "id": "cp-e60d89cca4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファイア　挽きたて微糖 185g値引き"
+  },
+  {
+    "id": "cp-6bbfe58d6c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ファイア　挽きたて微糖 185gアプリ還元"
+  },
+  {
+    "id": "cp-c1065a5322",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ガーナポップジョイ 37G値引き"
+  },
+  {
+    "id": "cp-4d217fa89a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カリッと香ばしアーモンドポップジョイ 43G値引き"
+  },
+  {
+    "id": "cp-02470fb62d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "リッチアーモンドチョコレートポップジョイ 35G値引き"
+  },
+  {
+    "id": "cp-2a608c434d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "マカダミアポップジョイカラメリゼ 34G値引き"
+  },
+  {
+    "id": "cp-3237b30d12",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クランキーポップジョイクランチチョコレート 44G値引き"
+  },
+  {
+    "id": "cp-0a6861f4f3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クランキーポップジョイストロベリー 32G値引き"
+  },
+  {
+    "id": "cp-b3f488620c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "クランキーボールポップジョイクッキー＆クリーム 37G値引き"
+  },
+  {
+    "id": "cp-37e0bda126",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "アーモンドチョコレートポケットパック 42G値引き"
+  },
+  {
+    "id": "cp-236095c01f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ロカボナッツアーモンドポケットパック 32G値引き"
+  },
+  {
+    "id": "cp-28fc5823b8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ガルボポケットパック 38G値引き"
+  },
+  {
+    "id": "cp-0bcee86491",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ガルボつぶ練り苺ポケットパック 37G値引き"
+  },
+  {
+    "id": "cp-322bfcc327",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ガルボほろにがブラックポケットパック 38G値引き"
+  },
+  {
+    "id": "cp-79c368b9a8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "きのこの山ポケットパック 32G値引き"
+  },
+  {
+    "id": "cp-490ed66461",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "たけのこの里ポケットパック 32G値引き"
+  },
+  {
+    "id": "cp-413d52a078",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスファミチキ味 62G値引き"
+  },
+  {
+    "id": "cp-cc073d53fc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスファミチキレッド味 62G値引き"
+  },
+  {
+    "id": "cp-2470639ad7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスのりしおW 60G値引き"
+  },
+  {
+    "id": "cp-53879b607a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスしあわせバターＷ 62G値引き"
+  },
+  {
+    "id": "cp-caf19030a1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスしょうゆＷマヨ 55G値引き"
+  },
+  {
+    "id": "cp-1030541fb8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスコンソメWパンチ 61G値引き"
+  },
+  {
+    "id": "cp-d4736ee887",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ポテトチップスうすしお味 70G値引き"
+  },
+  {
+    "id": "cp-c90549539c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "緑のたぬき天そば　小えび三昧天ぷら 101G値引き"
+  },
+  {
+    "id": "cp-488439ece9",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "緑のたぬき天そば　小えび三昧天ぷら 101Gアプリ還元"
+  },
+  {
+    "id": "cp-084b532cb8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "赤いきつねうどん　2枚入りお揚げ 101G値引き"
+  },
+  {
+    "id": "cp-a248d0744f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "赤いきつねうどん　2枚入りお揚げ 101Gアプリ還元"
+  },
+  {
+    "id": "cp-8ad645ae24",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "緑のたぬき天そば でか盛 146G値引き"
+  },
+  {
+    "id": "cp-a5adb9dec6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "緑のたぬき天そば でか盛 146Gアプリ還元"
+  },
+  {
+    "id": "cp-aa04c22c5e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "赤いきつねうどんでか盛 136G値引き"
+  },
+  {
+    "id": "cp-04b8c68f72",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "赤いきつねうどんでか盛 136Gアプリ還元"
+  },
+  {
+    "id": "cp-856c3ee01f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルBIG 103G値引き"
+  },
+  {
+    "id": "cp-c6a025a8f1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルBIG　シーフード 105G値引き"
+  },
+  {
+    "id": "cp-b3c996f0f3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルBIG　カレー 121G値引き"
+  },
+  {
+    "id": "cp-b88b83c94c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルBIG　チリトマト 109G値引き"
+  },
+  {
+    "id": "cp-e724d50031",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "カップヌードルBIG　トムヤムクン 100G値引き"
+  },
+  {
+    "id": "cp-b88e297cc6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミチキ味ヌードル 95G値引き"
+  },
+  {
+    "id": "cp-5325c9b128",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "三ツ矢500ml＋アイスボックス135mlセット値引き"
+  },
+  {
+    "id": "cp-a27908c6a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "白鶴まるパック 2000ML値引き"
+  },
+  {
+    "id": "cp-b2901e0e69",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "白鶴まるパック 2000MLアプリ還元"
+  },
+  {
+    "id": "cp-6e5b97f726",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "信長鬼ころしパック 2000ML値引き"
+  },
+  {
+    "id": "cp-ccaf92b79f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "信長鬼ころしパック 2000MLアプリ還元"
+  },
+  {
+    "id": "cp-06f661672d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "信長鬼ころしパック 1000ML値引き"
+  },
+  {
+    "id": "cp-1bf5a6bc52",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "信長鬼ころしパック 1000MLアプリ還元"
+  },
+  {
+    "id": "cp-56b8d5df19",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ヴイックスレモン風味 20個入値引き"
+  },
+  {
+    "id": "cp-baaf99527c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ヴイックスオレンジ風味 20個入値引き"
+  },
+  {
+    "id": "cp-d24002f33e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ライフガード 500ML値引き"
+  },
+  {
+    "id": "cp-4fc5077111",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ライフガード 500MLアプリ還元"
+  },
+  {
+    "id": "cp-a345637f50",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "マッチ 500ML値引き"
+  },
+  {
+    "id": "cp-be16c4fb57",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "マッチ 500MLアプリ還元"
+  },
+  {
+    "id": "cp-102f10a3b8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "大人のカロリミット　15回分 45粒ポイントプラス"
+  },
+  {
+    "id": "cp-f7974373e2",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "大人のカロリミット　15回分 45粒アプリ還元"
+  },
+  {
+    "id": "cp-9e4c6096b6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "プレミアムカロリミット　7日分 28粒ポイントプラス"
+  },
+  {
+    "id": "cp-6f365bfb6e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "プレミアムカロリミット　7日分 28粒アプリ還元"
+  },
+  {
+    "id": "cp-5ab0a31ce7",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "カロリミット　30回分 90粒ポイントプラス"
+  },
+  {
+    "id": "cp-cf3592a060",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "カロリミット　30回分 90粒アプリ還元"
+  },
+  {
+    "id": "cp-b0bf6fb970",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "爽健美茶 300MLポイントプラス"
+  },
+  {
+    "id": "cp-be1cba61f2",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "爽健美茶 300MLアプリ還元"
+  },
+  {
+    "id": "cp-8b3c0f5c6c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "綾鷹 300MLポイントプラス"
+  },
+  {
+    "id": "cp-d4cde07373",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "綾鷹 300MLアプリ還元"
+  },
+  {
+    "id": "cp-f52db69565",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "からだすこやか茶W＋ 350MLポイントプラス"
+  },
+  {
+    "id": "cp-4797f7acb7",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "からだすこやか茶W＋ 350MLアプリ還元"
+  },
+  {
+    "id": "cp-063e2a3e29",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "アボカドボウル スムージー 240MLポイントプラス"
+  },
+  {
+    "id": "cp-3980825ec9",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "+SHEET． 5枚ポイントプラス"
+  },
+  {
+    "id": "cp-d1229e42fe",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "+SHEET． 5枚アプリ還元"
+  },
+  {
+    "id": "cp-465a9065a1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ ビタミンC　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-322fac44c0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ ビタミンC　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-606df37f29",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ マルチビタミン　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-e9a8648d2a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ マルチビタミン　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-6b1dca10fe",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ ビタミンD３　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-ec7aa41b23",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ ビタミンD３　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-97fa5870ec",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 鉄　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-681834df4a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 鉄　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-d3f7b5814c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 鉄＆葉酸　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-d8ccfef52f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 鉄＆葉酸　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-b12327b5a1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 亜鉛＆マカ　10日分 20粒ポイントプラス"
+  },
+  {
+    "id": "cp-fda49c9a77",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "グミサプリ 亜鉛＆マカ　10日分 20粒アプリ還元"
+  },
+  {
+    "id": "cp-0247377001",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力ドリンク 100MLポイントプラス"
+  },
+  {
+    "id": "cp-4ae02704be",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力ドリンク 100MLアプリ還元"
+  },
+  {
+    "id": "cp-f835468039",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力スーパー 120MLポイントプラス"
+  },
+  {
+    "id": "cp-61cd8cc41e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力スーパー 120MLアプリ還元"
+  },
+  {
+    "id": "cp-cac3447834",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力超MAX 120MLポイントプラス"
+  },
+  {
+    "id": "cp-07844f36e2",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ウコンの力超MAX 120MLアプリ還元"
+  },
+  {
+    "id": "cp-0760617abb",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン 155MLポイントプラス"
+  },
+  {
+    "id": "cp-9e05f97686",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン 155MLアプリ還元"
+  },
+  {
+    "id": "cp-0f252645f3",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン　クエン酸2700 155MLポイントプラス"
+  },
+  {
+    "id": "cp-bb6e415e64",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン　クエン酸2700 155MLアプリ還元"
+  },
+  {
+    "id": "cp-cd95c0616a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン　MUKUMI 155MLポイントプラス"
+  },
+  {
+    "id": "cp-ec324dba57",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "キレートレモン　MUKUMI 155MLアプリ還元"
+  },
+  {
+    "id": "cp-f762dfb5f6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "眠眠打破 50MLポイントプラス"
+  },
+  {
+    "id": "cp-2ec445e3cc",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "眠眠打破 50MLアプリ還元"
+  },
+  {
+    "id": "cp-99024e7123",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "強強打破 50MLポイントプラス"
+  },
+  {
+    "id": "cp-f51df301ce",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "強強打破 50MLアプリ還元"
+  },
+  {
+    "id": "cp-ae4b0bc1a1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ソルマック5　サキノミ 50MLポイントプラス"
+  },
+  {
+    "id": "cp-08d63ce37c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ソルマック5　サキノミ 50MLアプリ還元"
+  },
+  {
+    "id": "cp-8a6c27461e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "エスカップ 100MLポイントプラス"
+  },
+  {
+    "id": "cp-f370f9153f",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "エスカップ 100MLアプリ還元"
+  },
+  {
+    "id": "cp-c47b2af513",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "液キャベコーワA 45MLポイントプラス"
+  },
+  {
+    "id": "cp-b1b580a8c8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "液キャベコーワA 45MLアプリ還元"
+  },
+  {
+    "id": "cp-a4315056a5",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "カンゾコーワドリンク1000 100MLポイントプラス"
+  },
+  {
+    "id": "cp-e2025af437",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "カンゾコーワドリンク1000 100MLアプリ還元"
+  },
+  {
+    "id": "cp-77af4ad200",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "Q&PコーワゴールドZEROドリンク 50MLポイントプラス"
+  },
+  {
+    "id": "cp-45e5e5b4c4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "Q&PコーワゴールドZEROドリンク 50MLアプリ還元"
+  },
+  {
+    "id": "cp-09fdca7a22",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ネルノダ　睡眠＋疲労感ケア 100MLポイントプラス"
+  },
+  {
+    "id": "cp-9fd29221c6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ネルノダ　睡眠＋疲労感ケア 100MLアプリ還元"
+  },
+  {
+    "id": "cp-7b6d94d213",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ユンケル滋養液ゴールド 50MLポイントプラス"
+  },
+  {
+    "id": "cp-b32250cc5d",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ユンケル滋養液ゴールド 50MLアプリ還元"
+  },
+  {
+    "id": "cp-edf3f5f58b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ルル滋養内服液ゴールド 30MLポイントプラス"
+  },
+  {
+    "id": "cp-75f8494650",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "ルル滋養内服液ゴールド 30MLアプリ還元"
+  },
+  {
+    "id": "cp-5fad9a6d30",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "スヌーピー菓子・加工食品抽選500円相当"
+  },
+  {
+    "id": "cp-9a044f93e8",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "スヌーピー菓子・加工食品応募毎1円相当"
+  },
+  {
+    "id": "cp-23fa8206df",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "スヌーピーコラボ商品抽選500円相当"
+  },
+  {
+    "id": "cp-54c94b27dc",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "スヌーピーコラボ商品応募毎1円相当"
   }
 ]
