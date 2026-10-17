@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "対象おむすび・パンと飲料セット250円",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2品セット250円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象おむすび/パン＋対象飲料。沖縄等除外、鹿児島一部は265円。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_asafamima_cp_mxSa28FC.html",
+      "evidence_quote": "対象の商品がセットで\n250円(税込)",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "鹿児島一部店舗の対象2品セット265円",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2品セット265円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "鹿児島県の一部店舗限定。対象商品の名称・規格は一部異なる。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_asafamima_cp_mxSa28FC.html",
+      "evidence_quote": "鹿児島県の一部地域・店舗ではセット価格が265円（税込）となり、対象商品の名称・規格・パッケージも一部異なります。",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

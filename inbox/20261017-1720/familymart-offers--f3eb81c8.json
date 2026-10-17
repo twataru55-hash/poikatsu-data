@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famipay",
+        "famima-point"
+      ],
+      "title": "47都道府県ソックス応募毎1円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "応募毎ファミマポイント1円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-04T00:00:00+09:00",
+        "end": "2027-02-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象ソックスをファミペイ払いで10足購入し応募。アプリ提示、応募2/28まで。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_cw-47socks.html",
+      "evidence_quote": "※応募毎にファミマポイント1円相当を進呈いたします。",
+      "period_evidence_quote": "開催期間\n2026年9月4日（金）0:00～2027年2月26日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

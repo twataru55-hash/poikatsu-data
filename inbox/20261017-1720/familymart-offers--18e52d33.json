@@ -1,0 +1,344 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アイスの実とろけるカフェオレ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でアイスの実ぶどうマスカット購入。対象品1点に無料券1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nグリコ\nアイスの実\nぶどうマスカット\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nグリコ\nアイスの実\nとろけるカフェオレ",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キシリトールガムライムミント無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nキシリトール\nオーラテクトガム\nクリアミント\nシトラスミント\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nキシリトールガム\nライムミント\nフレッシュミント\nブラックミント\nロングミント オリジナルミント",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キシリトールガムフレッシュミント無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nキシリトール\nオーラテクトガム\nクリアミント\nシトラスミント\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nキシリトールガム\nライムミント\nフレッシュミント\nブラックミント\nロングミント オリジナルミント",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キシリトールガムブラックミント無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nキシリトール\nオーラテクトガム\nクリアミント\nシトラスミント\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nキシリトールガム\nライムミント\nフレッシュミント\nブラックミント\nロングミント オリジナルミント",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ロングミントオリジナルミント無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nキシリトール\nオーラテクトガム\nクリアミント\nシトラスミント\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nキシリトールガム\nライムミント\nフレッシュミント\nブラックミント\nロングミント オリジナルミント",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "コアラのマーチチョコ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示で対象プレミアムガーナ2種いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nプレミアムガーナ\nティーショコラ\n芳醇アールグレイ\nフルーツショコラ\n濃熟ブラッドオレンジ\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nコアラのマーチ\nチョコ\nいちご",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "コアラのマーチいちご無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示で対象プレミアムガーナ2種いずれか購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nロッテ\nプレミアムガーナ\nティーショコラ\n芳醇アールグレイ\nフルーツショコラ\n濃熟ブラッドオレンジ\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nロッテ\nコアラのマーチ\nチョコ\nいちご",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "宮崎県霧島の天然水600ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でヘパリーゼWハイパー/胃腸ドリンク購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nヘパリーゼ\nWハイパー\n＜清涼飲料水＞\n胃腸ドリンク\n〈指定医薬部外品〉\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nファミマル\n宮崎県霧島の天然水\n新潟県津南の天然水\n各600ml",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "新潟県津南の天然水600ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示でヘパリーゼWハイパー/胃腸ドリンク購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nヘパリーゼ\nWハイパー\n＜清涼飲料水＞\n胃腸ドリンク\n〈指定医薬部外品〉\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nいずれか1個\nファミマル\n宮崎県霧島の天然水\n新潟県津南の天然水\n各600ml",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ワンダコクのカフェオレ370g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1点無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19にアプリ提示で対象ライオンコーヒー480ml/ワンダ370g購入。1点に1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "10月13日（火）～ 10月19日（月）\nいずれか1個\nアサヒ\nライオンコーヒー\n香るバニラキャラメル\nブラック\nカフェオレ\n各480ml\nワンダ\nコクのカフェオレ 370g\nクーポン利用期間\n10月20日（火）～ 10月26日（月）\nアサヒ\nワンダ\nコクのカフェオレ 370g",
+      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed"
+    }
+  ]
+}

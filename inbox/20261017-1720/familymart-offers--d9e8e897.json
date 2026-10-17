@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "famipay",
+        "famima-point"
+      ],
+      "title": "ファミペイ払い毎ゲーム抽選最大1500円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大1500円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "店頭バーコード払い毎1回。POSA・たばこ・公共料金等除外。ゲーム11/4迄。Apple/GooglePay不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-kessai-game_cp.html",
+      "evidence_quote": "ゲームに挑戦して当選すると、最大1,500円相当の期間限定ファミマポイントを即時に進呈します。",
+      "period_evidence_quote": "10月開催期間：2026年10月6日（火）0:00～2026年11月3日（火）23:59",
+      "entry_evidence_quote": "エントリーは不要！",
+      "confidence": "confirmed"
+    }
+  ]
+}

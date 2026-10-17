@@ -1,0 +1,310 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王1位無料券365枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1位入賞で無料引換券365枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。19個以上で365枚、月別配信。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "1位\nファミチキ1年分（無料引換クーポン365枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王2位無料券182枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2位入賞で無料引換券182枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "2位\nファミチキ6か月分（無料引換クーポン182枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王3位無料券90枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3位入賞で無料引換券90枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "3位\nファミチキ3か月分（無料引換クーポン90枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王4～10位無料券31枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "4～10位入賞で無料引換券31枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "4～10位\nファミチキ1か月分（無料引換クーポン31枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王11～19位無料券7枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11～19位入賞で無料引換券7枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "11～19位\nファミチキ1週間分（無料引換クーポン7枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王20位無料券20枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20位入賞で無料引換券20枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "20位\nファミチキ20日分（無料引換クーポン20枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王21～50位無料券5枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "21～50位入賞で無料引換券5枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "21～50位\nファミチキ5日分（無料引換クーポン5枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王51～100位無料券1枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "51～100位入賞で無料引換券1枚",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "9/29～10/19の購入数で順位、アプリ提示・エントリー必要。配信後の指定期限に使用。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "51～100位\nファミチキ1日分（無料引換クーポン1枚）",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミチキ王参加賞20円引きクーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "ファミチキ20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "アプリ提示対象品購入9/29～10/19。1スタンプ消費、1人1回。交換10/23まで。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "evidence_quote": "参加賞について\n特典\nファミチキ20円引きクーポン\n※参加賞は、ためたスタンプ1個を消費して1ユーザー1回まで交換が可能です。",
+      "period_evidence_quote": "特典使用期間\n2026年9月29日（火）0:00～10月26日（月）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

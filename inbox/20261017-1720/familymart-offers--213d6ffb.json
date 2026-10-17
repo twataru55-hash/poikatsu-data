@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ新規登録の対象茶1点無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象茶いずれか1点無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "3/3～2/28の新規会員登録者。券面の対象品・期限に従う。一部地域店舗除外。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2503_famipay-welcome_cp.html",
+      "evidence_quote": "★初回登録特典★\n会員登録完了後、対象商品のうちいずれか1点に使用できる無料クーポンをお届けします。",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

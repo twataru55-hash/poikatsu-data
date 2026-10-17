@@ -1,0 +1,1227 @@
+{
+  "run_id": "20261017-1720",
+  "created_at": "2026-10-17T17:20:54+09:00",
+  "items": [
+    {
+      "source_id": "familymart-offers--754872ec",
+      "hash": "82ffecf5ad1a293c71197282f87a7c644f2aa88621f84321e57d59f3041f0ea9",
+      "prompt_file": "work/prompts/familymart-offers--754872ec.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--754872ec.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2211_daily_necessities-chosenkakaku_cp.html",
+      "assets_file": "work/assets/familymart-offers--754872ec.json"
+    },
+    {
+      "source_id": "familymart-offers--b0fc4e1f",
+      "hash": "1b20cb207ef71c651adeb2e00d1e006a0433194b614d2860f2b92888ed4d75e6",
+      "prompt_file": "work/prompts/familymart-offers--b0fc4e1f.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--b0fc4e1f.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/famimacafe.html",
+      "assets_file": "work/assets/familymart-offers--b0fc4e1f.json"
+    },
+    {
+      "source_id": "familymart-offers--f6c5150c",
+      "hash": "19900cd205f0f33d5c194791eb6bdb3afc5862ac70a52cdb12da9c1d40dbbd3a",
+      "prompt_file": "work/prompts/familymart-offers--f6c5150c.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--f6c5150c.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/famimaruhiranking.html",
+      "assets_file": "work/assets/familymart-offers--f6c5150c.json"
+    },
+    {
+      "source_id": "familymart-offers--213d6ffb",
+      "hash": "aeda587bc0b377babac88c3a7544b00970e8d30a866031134e8b46b98160f51b",
+      "prompt_file": "work/prompts/familymart-offers--213d6ffb.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--213d6ffb.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2503_famipay-welcome_cp.html",
+      "assets_file": "work/assets/familymart-offers--213d6ffb.json"
+    },
+    {
+      "source_id": "familymart-offers--2decfaad",
+      "hash": "ace9c4de425010de2c262fed754957381f78639764549420802804606bc214a4",
+      "prompt_file": "work/prompts/familymart-offers--2decfaad.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--2decfaad.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "assets_file": "work/assets/familymart-offers--2decfaad.json"
+    },
+    {
+      "source_id": "familymart-offers--eb86457a",
+      "hash": "2e0f93357d6bf94ab5395e64b4911d605454ebdcaecbc0f7bc3929369fcc1305",
+      "prompt_file": "work/prompts/familymart-offers--eb86457a.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--eb86457a.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_famichiki20.html",
+      "assets_file": "work/assets/familymart-offers--eb86457a.json"
+    },
+    {
+      "source_id": "familymart-offers--d657e204",
+      "hash": "04471da8ba93f9015be2a08df4c626be078cfd07dce9479527654dd742a5d995",
+      "prompt_file": "work/prompts/familymart-offers--d657e204.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--d657e204.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2022_famipay-yokoku.html",
+      "assets_file": "work/assets/familymart-offers--d657e204.json"
+    },
+    {
+      "source_id": "familymart-offers--e615d259",
+      "hash": "dceb765462d3f4cef368123440c6495a59f1551e2c921388c82db0152e56d207",
+      "prompt_file": "work/prompts/familymart-offers--e615d259.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--e615d259.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_famipay-rakutenpoint_cp.html",
+      "assets_file": "work/assets/familymart-offers--e615d259.json"
+    },
+    {
+      "source_id": "familymart-offers--da911b2c",
+      "hash": "9af0600fe496cf00a23762520c811ed16c96c57d5ecfaf1858b4842efd9ed07a",
+      "prompt_file": "work/prompts/familymart-offers--da911b2c.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--da911b2c.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_famipay-game_famichiki_cp.html",
+      "assets_file": "work/assets/familymart-offers--da911b2c.json"
+    },
+    {
+      "source_id": "familymart-offers--4c658488",
+      "hash": "d21c3d1170ab8c7ba2e5a0d68d05bc14a54444a395c123f1762208d90dacf942",
+      "prompt_file": "work/prompts/familymart-offers--4c658488.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--4c658488.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+      "assets_file": "work/assets/familymart-offers--4c658488.json"
+    },
+    {
+      "source_id": "familymart-offers--d5aa71fa",
+      "hash": "c1c2388ef15390835d1f3f340749693cdef3825d964a570b2cf4f0056b11867e",
+      "prompt_file": "work/prompts/familymart-offers--d5aa71fa.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--d5aa71fa.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/posa-gmgs-cp.html",
+      "assets_file": "work/assets/familymart-offers--d5aa71fa.json"
+    },
+    {
+      "source_id": "familymart-offers--a1e36b74",
+      "hash": "e80fe2ab03484504623b34e91971ee81ed409c1313de8e8cab81941053d9b330",
+      "prompt_file": "work/prompts/familymart-offers--a1e36b74.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--a1e36b74.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/famima-xmas2026_ifpb5w3.html",
+      "assets_file": "work/assets/familymart-offers--a1e36b74.json"
+    },
+    {
+      "source_id": "familymart-offers--412bc53f",
+      "hash": "d8fac4ed86225575ef3761e61232d8962f81c8f3d06af3518866a778c6bebc81",
+      "prompt_file": "work/prompts/familymart-offers--412bc53f.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--412bc53f.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_asafamima_cp_mxSa28FC.html",
+      "assets_file": "work/assets/familymart-offers--412bc53f.json"
+    },
+    {
+      "source_id": "familymart-offers--f3eb81c8",
+      "hash": "64d9443d947e8a9d92487bdb0b2bef82fabc7b5933ba877bb4422ae2cef3a33f",
+      "prompt_file": "work/prompts/familymart-offers--f3eb81c8.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--f3eb81c8.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_cw-47socks.html",
+      "assets_file": "work/assets/familymart-offers--f3eb81c8.json"
+    },
+    {
+      "source_id": "familymart-offers--ae0fb863",
+      "hash": "2b0aee190d480b0d4d7549578b2ce76b89e1a604826ae2d4e91524745c87fc49",
+      "prompt_file": "work/prompts/familymart-offers--ae0fb863.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--ae0fb863.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2609_famipay-friend_cp.html",
+      "assets_file": "work/assets/familymart-offers--ae0fb863.json"
+    },
+    {
+      "source_id": "familymart-offers--3516dc0a",
+      "hash": "f9a08d76b9c4ab49623c8cb1618c6e2396c01d6497c71783111d774f59c9a5ba",
+      "prompt_file": "work/prompts/familymart-offers--3516dc0a.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--3516dc0a.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2607_takarazuka_ticket_cp.html",
+      "assets_file": "work/assets/familymart-offers--3516dc0a.json"
+    },
+    {
+      "source_id": "familymart-offers--2449799b",
+      "hash": "876eeb22017c958f058eeb4d1c46581d5f1104900317a84f5c1f566f678a6287",
+      "prompt_file": "work/prompts/familymart-offers--2449799b.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--2449799b.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2309_fp-tennimu_cp.html",
+      "assets_file": "work/assets/familymart-offers--2449799b.json"
+    },
+    {
+      "source_id": "familymart-offers--cc8ab239",
+      "hash": "a3e3daf45f260e8ca41b9b82e80e498b08cb2f309ae59284000e416926c00caf",
+      "prompt_file": "work/prompts/familymart-offers--cc8ab239.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--cc8ab239.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_famichikiagetate.html",
+      "assets_file": "work/assets/familymart-offers--cc8ab239.json"
+    },
+    {
+      "source_id": "familymart-offers--59ee6c1d",
+      "hash": "df0b309095a36f90a4035cd180973eea1e396326f2082b5b02ebeb557bd0ad7d",
+      "prompt_file": "work/prompts/familymart-offers--59ee6c1d.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--59ee6c1d.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_cream_cp_VTQUfU4K.html",
+      "assets_file": "work/assets/familymart-offers--59ee6c1d.json"
+    },
+    {
+      "source_id": "familymart-offers--498d2e28",
+      "hash": "23683d529111fd7831f4a3f6678e8d33c10d496e66a12d58a69b560a14d6bd56",
+      "prompt_file": "work/prompts/familymart-offers--498d2e28.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--498d2e28.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "assets_file": "work/assets/familymart-offers--498d2e28.json"
+    },
+    {
+      "source_id": "familymart-offers--cb13380a",
+      "hash": "4b34fac0cc24ea3cb6e26069bc344fa0cd81e92f4ee1e858a65bf3a8ea185539",
+      "prompt_file": "work/prompts/familymart-offers--cb13380a.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--cb13380a.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_sailormoon_cp.html",
+      "assets_file": "work/assets/familymart-offers--cb13380a.json"
+    },
+    {
+      "source_id": "familymart-offers--18e52d33",
+      "hash": "e74a9e4476e490089831cab6eac2b701938be90671eb22cdd4b1709d723954c9",
+      "prompt_file": "work/prompts/familymart-offers--18e52d33.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--18e52d33.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "assets_file": "work/assets/familymart-offers--18e52d33.json"
+    },
+    {
+      "source_id": "familymart-offers--d9e8e897",
+      "hash": "38dcd1376abcfe5a74406eee29d621c91d4463a55c2e3cd176589b941a092d7e",
+      "prompt_file": "work/prompts/familymart-offers--d9e8e897.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--d9e8e897.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_famipay-kessai-game_cp.html",
+      "assets_file": "work/assets/familymart-offers--d9e8e897.json"
+    },
+    {
+      "source_id": "familymart-offers--a4a82c90",
+      "hash": "847c4f9e7788bdcc606780b6937e805a87b274ab423d825906aeff3771b17a49",
+      "prompt_file": "work/prompts/familymart-offers--a4a82c90.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--a4a82c90.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/otoku.html",
+      "assets_file": "work/assets/familymart-offers--a4a82c90.json"
+    },
+    {
+      "source_id": "familymart-offers--5e399350",
+      "hash": "1b046350bde2067865b907c053c48359c204bde8fe3b890f26363aeb60705e5e",
+      "prompt_file": "work/prompts/familymart-offers--5e399350.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--5e399350.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/pointplus.html",
+      "assets_file": "work/assets/familymart-offers--5e399350.json"
+    },
+    {
+      "source_id": "familymart-offers--5157131e",
+      "hash": "981fb21b4c17ea707e1818841796d32fb39a1a0a515158be97b3abba90b29ded",
+      "prompt_file": "work/prompts/familymart-offers--5157131e.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--5157131e.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_snoopy_cp.html",
+      "assets_file": "work/assets/familymart-offers--5157131e.json"
+    },
+    {
+      "source_id": "familymart-offers--095dae59",
+      "hash": "da2797baadd5d3fb8eb43311e737ac3bb189b68b2e991c2564a2c09b152bbc16",
+      "prompt_file": "work/prompts/familymart-offers--095dae59.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--095dae59.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_kashi_cp.html",
+      "assets_file": "work/assets/familymart-offers--095dae59.json"
+    },
+    {
+      "source_id": "familymart-offers--9b23a069",
+      "hash": "c2efad26c04e6f9dedf67bced4eb61ba0614e4668a7a6b474fd7726573fd603e",
+      "prompt_file": "work/prompts/familymart-offers--9b23a069.md",
+      "answer_file": "inbox/20261017-1720/familymart-offers--9b23a069.json",
+      "parent": "familymart-offers",
+      "url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_collabo_cp.html",
+      "assets_file": "work/assets/familymart-offers--9b23a069.json"
+    }
+  ],
+  "unchanged": [
+    "familymart-offers--0d2abe98",
+    "familymart-offers--04563631"
+  ],
+  "failed": [],
+  "deferred": [],
+  "detail_failed": [],
+  "gave_up": [],
+  "coverage": [
+    {
+      "source_id": "familymart-offers",
+      "at": "2026-10-17T17:20:58+09:00",
+      "listing_pages": [
+        "https://www.family.co.jp/campaign.html"
+      ],
+      "listing_ok": true,
+      "listing_error": null,
+      "discovery_basis": "current_listing",
+      "listing_discovery_at": "2026-10-17T17:20:58+09:00",
+      "discovered": [
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_snoopy_cp.html",
+          "label": "予告 一般 【予告】スヌーピーと楽しむ、ファミマの秋 10月20日（火） ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_kashi_cp.html",
+          "label": "予告 ファミペイ 【予告】『スヌーピー』スタンプ（菓子・加工食品コース） スタンプ開催期間中に、ファミマのアプリのバーコードをスキャンして対象商品1個ご購入につきスタンプが1個たまり、スタンプ交換で特典に応募できます。 10月20日（火） ～ 11月9日（月） ※特典応募期間：11月13日（金）まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_collabo_cp.html",
+          "label": "予告 ファミペイ 【予告】『スヌーピー』スタンプ（コラボ商品コース） スタンプ開催期間中に、ファミマのアプリのバーコードをスキャンして対象商品1個ご購入につきスタンプが1個たまり、スタンプ交換で特典に応募できます。 10月20日（火） ～ 11月9日（月） ※特典応募期間：11月13日（金）まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_famichikiagetate.html",
+          "label": "一般 【対象店舗限定】できたてファミチキ販売実施！ 10月16日（金）・10月17日（土）の11時～12時、17時～18時"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_cream_cp_VTQUfU4K.html",
+          "label": "NEW 一般 ファミマの無限クリーム、誕生！ リッチで濃厚な味わいと、ふわっとなめらかなくちどけを両立した、まさに無限に食べられるおいしさに仕上げました。 10月13日（火） ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+          "label": "NEW 一般 ファミマのおトクが止まらない!? 1個買うと、1個もらえる 期間中に対象商品を1個買うと、対象商品の無料引換券がもらえる！ 10月13日（火） ～ 10月19日（月）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+          "label": "ファミペイ ファミペイで期間中何度でも使えるクーポン"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/otoku.html",
+          "label": "一般 お買い得 いつでも何かがおトク！ファミマのアプリファミペイをレジでスキャンするとさらにおトクな商品も！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/pointplus.html",
+          "label": "dポイント・楽天ポイント・Vポイント いずれかひとつにポイントプラス 「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、または各ポイント連携済みのファミペイをご提示で、対象商品をご購入いただくとキャンペーンポイントがたまる！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_sailormoon_cp.html",
+          "label": "NEW 一般 『美少女戦士セーラームーン』キャンペーン 対象の菓子2個同時に買うごとに『美少女戦士セーラームーン』A4サイズオリジナルクリアファイル（全5種）1枚もらえる！ 10月13日（火）10:00 ～ 10月26日（月） ※景品なくなり次第終了"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+          "label": "ファミペイ ファミペイを提示して1個買うと、1個もらえる！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_famipay-kessai-game_cp.html",
+          "label": "ファミペイ ファミペイ払いするたびに最大1,500円相当のファミマポイントが当たるゲーム 10月6日（火） ～ 11月3日（火）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_tetsudo_cp.html",
+          "label": "一般 【対象の店舗限定】鉄道の日キャンペーン 対象のペットボトル飲料を買うと、鉄道会社9社の人気鉄道車両をデザインした「オリジナルパズルキーホルダー」がもらえる！ 10月6日（火） ～ ※景品なくなり次第終了※鉄道会社の運営する約310店限定"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_famichiki20.html",
+          "label": "一般 祝！ファミチキ20周年 オトナ★ファミチキ3種登場 ファミチキ生誕20周年を祝し、ファミチキの新フレーバー「オトナ★ファミチキ」が3週連続で計3種類が登場！ 9月29日（火） ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2022_famipay-yokoku.html",
+          "label": "ファミペイ ファミマのアプリを提示してお買い物すると無料引換クーポンが抽選でもらえる！ ファミマのアプリのバーコードをスキャンしてお買い物された方に飲料、ドリンク剤、20歳以上の方にお酒の無料引換クーポンプレゼント！ 10月1日（木） ～ 10月31日（土） ※クーポン配信予定日：2026年11月予定"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2610_famipay-rakutenpoint_cp.html",
+          "label": "ファミペイ 今ならはじめて楽天ポイント連携するとおトク！ 期間中にはじめて楽天ポイント連携したファミペイを提示してお買い物すると100円相当のファミマポイントもらえる！ 10月1日（木） ～ 10月26日（月）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_famipay-game_famichiki_cp.html",
+          "label": "ファミペイ 祝！ファミチキ20周年！1日1回挑戦できる！毎日挑戦ゲーム 期間中、1日1回ゲームに挑戦でき、当たりが出たら、最大200円相当のファミマポイントがもらえる！ファミマのアプリのチャレンジから参加してください。 9月29日（火） ～ 10月19日（月）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
+          "label": "ファミペイ 祝！ファミチキ20周年 ファミチキ王決定戦 キャンペーン開催期間中に、ファミマのアプリのバーコードをスキャンして対象商品1個ご購入につきスタンプが1個たまり、たまったスタンプでファミチキ王決定戦に参加できます。 9月29日（火） ～ 10月19日（月） ※特典交換期間：10月23日（金）まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/posa-gmgs-cp.html",
+          "label": "ファミペイ 【ファミリーマート限定】毎月25日～翌月3日にPOSAカードをファミペイ払いで購入すると、1.5％還元されるお得なキャンペーン開催中！！ 通常のファミぺイ決済ボーナス0.5％（200円につき1円相当）も還元されます。ただし付与日は異なります。 ※期間限定ファミマポイント進呈日：各対象期間終了月（3日が含まれる月）末日まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/famima-xmas2026_ifpb5w3.html",
+          "label": "一般 おいしいのがいちばん！ファミマのクリスマス 9月16日（水）10:01 ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_asafamima_cp_mxSa28FC.html",
+          "label": "一般 朝ファミマのコンビ割 午前5時〜11時限定！対象の“おむすびまたはパン”と“お茶・紅茶またはコーヒー”がコンビで250円（税込）に 9月15日（火） ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_cw-47socks.html",
+          "label": "ファミペイ 47都道府県別ラインソックススタンプ スタンプ開催期間中に、ファミペイ払いで対象商品を1足ご購入につきスタンプが1個たまり、スタンプ交換で特典に応募できます。 2026年9月4日（金） ～ 2027年2月26日（金） ※特典応募期間：2027年2月28日（日）まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2609_famipay-friend_cp.html",
+          "label": "ファミペイ お友達にファミマのアプリを紹介してファミマポイントをGETしよう！ 条件達成でお友達紹介で1人につき必ず100円相当もらえる 9月1日（火） ～ 11月30日（月）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2607_takarazuka_ticket_cp.html",
+          "label": "ファミペイ 抽選で東京宝塚劇場ペアチケットが当たる！キャンペーン 2026年7月28日（火） ～ 2027年1月11日（月）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2309_fp-tennimu_cp.html",
+          "label": "一般 ミュージカル『新テニスの王子様』・『テニスの王子様』ファミマプリント ファミマプリント第10弾ミュージカル『テニスの王子様』4thシーズン 青学（せいがく） vs 四天宝寺限定ブロマイド販売中！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2403_fmshizuku_cp.html",
+          "label": "一般 ファミリーマートワイン feat. 神の雫 人気漫画『神の雫』（かみのしずく）とコラボしたファミリーマート限定ワインを多数ラインナップ！ ※お酒は酒類取扱店のみとなります。"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2603_seikatsu-ouen_cp.html",
+          "label": "一般 毎週火・金はファミマの「カッキーン！生活応援割」 ※毎週火曜日限定セールは、沖縄県では実施しておりません。"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2603_posa_famipay_cp.html",
+          "label": "ファミペイ 【ファミリーマート限定】金曜日限定10％還元キャンペーン開催中！ 3月6日（金） ～ ※期間限定ファミマポイント付与日：翌月末日まで"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2026_45th.html",
+          "label": "一般 ファミリーマート 45周年 3月3日（火） ～"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2211_daily_necessities-chosenkakaku_cp.html",
+          "label": "一般 生活を応援！挑戦価格！ 日用品をもっとお手ごろに！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/famimacafe.html",
+          "label": "一般 新FAMIMA CAFÉ 2026年6月に新型コーヒーマシンを全店舗で導入完了！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/famimaruhiranking.html",
+          "label": "一般 ファミマル㊙︎ランキング ファミリーマートのプライベートブランド『ファミマル』をランキング形式でご紹介。第19回はファミリーマート新入社員に聞いた！疲れたときに欲しくなるファミマルチャージグルメ商品ランキング。"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2503_famipay-welcome_cp.html",
+          "label": "ファミペイ ファミペイ新規会員登録で無料クーポンプレゼント！ ファミペイアプリをダウンロードし、新規会員登録いただいた方に、ファミペイアプリでご利用いただける対象商品の無料クーポンをもれなく1枚プレゼントします。 2026年3月3日（火） ～ 2027年2月28日（日）"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+          "label": "ファミペイ 【ファミマのアプリ ファミペイ限定】サントリー 伊右衛門 特茶／特茶 ジャスミン 各500ml ボトルキープ"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+          "label": "ファミペイ 【ファミマのアプリ ファミペイ限定】ファミマカフェ回数券 ファミマカフェが10杯分の値段で11杯飲めるおトクな回数券です。"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2504_famipay-yakult1000_cp.html",
+          "label": "ファミペイ 【ファミマのアプリ ファミペイ限定】ヤクルトY1000／Y1000 糖質オフ 各110ml 回数券 13本分の価格で1本分おトク！な回数券を販売します。"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2503_famipay-bottlekeep_cp.html",
+          "label": "ファミペイ 【ファミマのアプリ ファミペイ限定】ファミマル天然水・お茶・紅茶・ティーボトルキープ ボトルキープならファミマル天然水、お茶がおトクに！"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/2401_sakananohi.html",
+          "label": "一般 水産庁制定「さかなの日」に賛同！毎月3～7日は、さかなを食べよう 水産庁制定「さかなの日」に賛同！簡単・便利・選べるおいしさの「ファミマのおさかな商品」を展開しています。"
+        }
+      ],
+      "fetched": 30,
+      "unchanged": [
+        "familymart-offers--0d2abe98",
+        "familymart-offers--04563631"
+      ],
+      "unvisited": [
+        "https://www.family.co.jp/campaign/spot/2403_fmshizuku_cp.html",
+        "https://www.family.co.jp/campaign/spot/2603_seikatsu-ouen_cp.html",
+        "https://www.family.co.jp/campaign/spot/2603_posa_famipay_cp.html",
+        "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+        "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+        "https://www.family.co.jp/campaign/spot/2504_famipay-yakult1000_cp.html",
+        "https://www.family.co.jp/campaign/spot/2503_famipay-bottlekeep_cp.html",
+        "https://www.family.co.jp/campaign/spot/2401_sakananohi.html"
+      ],
+      "excluded": [
+        {
+          "url": "https://www.family.co.jp/campaign.html",
+          "label": "本文へ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp",
+          "label": "あなたと、コンビに、FamilyMart",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/fc.html",
+          "label": "加盟店募集",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/nm01.html",
+          "label": "物件募集",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/recruit.html",
+          "label": "採用情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/recruit/staff.html",
+          "label": "アルバイト募集",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/other/faq.html",
+          "label": "お問い合わせ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/store.html",
+          "label": "店舗検索",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/english.html",
+          "label": "English",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/for_tourist/cn.html",
+          "label": "中文(簡体字)",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/for_tourist/tw.html",
+          "label": "中文(繁体字)",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/for_tourist/kr.html",
+          "label": "한국어",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sitemap.html",
+          "label": "サイトマップ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods.html",
+          "label": "商品情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/newgoods.html",
+          "label": "今週の新商品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.mfamily.co.jp/products/feature/",
+          "label": "今週の新商品 （鹿児島・宮崎）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.okinawa-familymart.jp/goods",
+          "label": "今週の新商品 （沖縄）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/newgoods/nextweek.html",
+          "label": "来週の新商品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/disc.html",
+          "label": "ファミマオンライン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/famimaru.html",
+          "label": "ファミマル",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/famima/product.html?tags=%E5%85%A8%E5%BA%97",
+          "label": "FAMIMA",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/omusubi.html",
+          "label": "おむすび",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/obento.html",
+          "label": "お弁当",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/sushi.html",
+          "label": "お寿司",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/sandwich.html",
+          "label": "サンドイッチ・ロールパン・バーガー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/bread.html",
+          "label": "パン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/noodle.html",
+          "label": "そば・うどん・中華めん",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/pasta.html",
+          "label": "パスタ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/salad.html",
+          "label": "サラダ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/sidedishes.html",
+          "label": "チルド惣菜",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/deli.html",
+          "label": "スープ・グラタン・お好み焼き",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/chilleddaily.html",
+          "label": "日配品 加工肉 たまご カット野菜 漬物など",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/friedfoods.html",
+          "label": "ホットスナック・惣菜",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/chukaman.html",
+          "label": "中華まん",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/oden.html",
+          "label": "おでん",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/dessert.html",
+          "label": "デザート",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/baked_sweets.html",
+          "label": "焼き菓子・和菓子",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/cafe.html",
+          "label": "コーヒー・フラッペ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/processed_foods.html",
+          "label": "加工食品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/snack.html",
+          "label": "お菓子",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/drink.html",
+          "label": "飲料",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/alcohol.html",
+          "label": "お酒",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/frozen_foods.html",
+          "label": "冷凍食品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/ice.html",
+          "label": "アイス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/daily_necessities.html",
+          "label": "日用品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/cw.html",
+          "label": "コンビニエンスウェア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/charakuji.html",
+          "label": "キャラクターくじ・エンタメ雑貨など",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/cosmetics.html",
+          "label": "スキンケア・コスメ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/safety.html",
+          "label": "アレルゲン、栄養成分、主要原料原産地、原産国・地域",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/goods/goyoyakubento.html",
+          "label": "ファミリーマートのご予約弁当",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign.html?q=%7B%22C%5DcampaignCategory%22%3A%5B%225%22%5D%7D",
+          "label": "おすすめ商品",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign.html?q=%7B%22C%5DcampaignCategory%22%3A%5B%221%22%5D%7D",
+          "label": "お得・セール",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign.html?q=%7B%22C%5DcampaignCategory%22%3A%5B%223%22%5D%7D",
+          "label": "当たる・もらえる",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign.html?q=%7B%22C%5DcampaignCategory%22%3A%5B%224%22%5D%7D",
+          "label": "その他",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/services.html",
+          "label": "サービス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/services/payment.html",
+          "label": "ご利用可能な決済サービス",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/famipay/app.html",
+          "label": "ファミペイ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/services/fcard.html",
+          "label": "ファミマカード",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/famipay.html",
+          "label": "ファミペイ・ポイント",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/famipay/point-campaign.html",
+          "label": "キャンペーン",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://qa.family.co.jp/famipay/s/",
+          "label": "よくある質問",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company.html",
+          "label": "企業情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/greeting.html",
+          "label": "ごあいさつ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/outline.html",
+          "label": "会社概要",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/news_releases.html",
+          "label": "ニュースリリース",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/saiyou.html",
+          "label": "採用情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart.html",
+          "label": "会社案内",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/cashlesscv.html",
+          "label": "ファミマの無人決済コンビニ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/asd01.html",
+          "label": "ファミマの自販機コンビニ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/ad.html",
+          "label": "店内メディア",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/monthly_sales.html",
+          "label": "月次営業報告",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/overview.html",
+          "label": "決算関連情報",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability.html",
+          "label": "サステナビリティ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/top_message.html",
+          "label": "トップメッセージ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/management.html",
+          "label": "サステナビリティマネジメント",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/material_issues.html",
+          "label": "重要課題への取り組み",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/management_foundation.html",
+          "label": "サステナビリティを支える基盤",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/sustainability0.html",
+          "label": "ファミリーマートが考えるサステナビリティ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/topics.html",
+          "label": "ファミマのサステナ最新ニュース",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/sustainability/library.html",
+          "label": "サステナビリティライブラリー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://dpoint.docomo.ne.jp/cp_7/list_261101_7820/index.html",
+          "label": "予告 一般 【dポイント11周年】総額1億円分山分けキャンペーン 期間中エントリーの上、対象のお店でdポイントカードを提示して1ポイント以上ためると、総額1億円分のdポイントを山分け※条件・上限あり 11月1日（日） ～ 12月31日（木） ※事前エントリー：10月15日（木）10:00より開始",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://famimatv.gate-one.co.jp",
+          "label": "一般 ファミマTV 2026年4月「FamilyMartVision」は「ファミマTV」へ。1日1,500万人の暮らしに溶け込む、日本最大級のリテールサイネージネットワーク。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/2024_cw_redirect.html",
+          "label": "一般 コンビニエンスウェア ブランドページ ファッションデザイナー落合宏理氏との共同開発のもと、「いい素材、いい技術、いいデザイン。」がコンセプトのファミリーマートオリジナルブランドです。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/brand_famichiki.html",
+          "label": "一般 ファミチキブランドページ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.famima-ohtani-omusubi.com/",
+          "label": "一般 野球の次に、おむすびが好きです。 おむすびアンバサダー大谷翔平選手特設サイト",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://pointcard.rakuten.co.jp/campaign/familymart/20261001/spu/?scid=we_part_ichiran",
+          "label": "一般 楽天SPU！「抽選で楽天ポイント10,000ポイントが当たる！」 要エントリー。ファミマでSPU達成すると、抽選で50名さまに楽天ポイント10,000ポイントが当たる！ 10月1日（木） ～ 10月31日（土）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://famipay.famidigi.jp/cp/cp242/261001/",
+          "label": "ファミペイ ファミペイ翌月払い ファミマ利用で最大2,000円相当進呈！ 新規ご登録者限定！ファミマで1,000円以上利用した方が対象！ 10月1日（木） ～ 11月30日（月） ※要エントリー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://network.mobile.rakuten.co.jp/campaign/rpoint-familymart/?scid=wi_rpa_campaign-shop-point_familymart_pp_FM_campaign_app&ekey=FM_campaign_app",
+          "label": "一般 楽天SPU！「楽天モバイル契約者なら、お買い物時のポイントが20倍」 要エントリー。ファミマで楽天ポイントカードを提示して3,000円以上購入すると楽天モバイル契約者は、お買い物時のポイントが20倍。 10月1日（木） ～ 10月31日（土）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://hataraku.family.co.jp/",
+          "label": "一般 「ファミマではたらく？」",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://famima-online.family.co.jp/feature/osechi?utm_source=corporatesite-cp&utm_medium=referral&utm_campaign=osechi",
+          "label": "一般 ファミマのおせち 承り中 9月24日（木）10:01 ～ 12月22日（火） ※早期予約割引期間：11月30日（月） AM9:00まで",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/47socks_redirect.html",
+          "label": "一般 コンビニエンスウェア 47都道府県別ソックス 45周年の感謝を込めて、各47都道府県を代表する花をモチーフにデザインしたラインソックスを発売。 9月4日（金） ～",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://famipay.famidigi.jp/cp/cp235/260901/?utm_source=web&utm_medium=fm_hp&utm_campaign=cp235",
+          "label": "ファミペイ ファミペイローン 新規契約でもれなく1,500円相当＋さらに初回借入で最大10,000円相当進呈！ 9月1日（火）10:00 ～ 11月30日（月）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://famipay.famidigi.jp/cp/cp117/230901/",
+          "label": "ファミペイ ファミペイ翌月払いステップボーナス いつでも最大10％還元！さらにご利用金額に応じて最大1,000円相当も追加進呈！ 7月1日（水） ～",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://pointcard.rakuten.co.jp/campaign/spu/familymart/?scid=we_part_hp_cp",
+          "label": "一般 ファミリーマートが「楽天市場」の「SPU」対象サービスに参加 ファミリーマートにて、「楽天ポイントカード」を提示し3,000円（税込）/月以上お買い物すると、「楽天市場」でのお買い物が+0.5倍 7月1日（水） ～",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/radio.html",
+          "label": "一般 ファミリーマートの店内放送",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/2603_seikatsu-ouen_cp_ka.html",
+          "label": "一般 毎週火曜日限定セール 毎週火曜日は生たまご・ハム・納豆などの商品が20円引き！ ※沖縄県では実施しておりません。「緑豆もやし」は対象外となります。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/2603_seikatsu-ouen_cp_kin.html",
+          "label": "一般 毎週金曜日限定セール 毎週金曜日は冷凍食品が2個購入ごとに50円引き！ ※フラッペ、氷、冷凍飲料、アイスクリーム類は対象外となります。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/goyoyakubento_redirect.html",
+          "label": "一般 ファミリーマートのご予約弁当 行楽のお供やお祝い事、普段の食卓も華やかに彩る「ご予約弁当」1個からネット・店舗にてご予約承り中！ ※地域により、ファミマオンライン・店舗でのお取り扱いがない場合や商品が異なる場合がございます。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/250217_hanabyhince.html",
+          "label": "一般 ファミリーマート限定 メイクアップブランド 「hana by hince」",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.mentoro.jp/",
+          "label": "一般 合宿免許WAOのX(旧Twitter)キャンペーン 合宿免許WAO!!でX(旧Twitter)キャンペーン実施中。毎月抽選で20名様にAmazonギフト券500円分をプレゼント！ 2026年1月1日（木） ～ 2026年12月31日（木）",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/spot/redirect/cw_stationery.html",
+          "label": "一般 コンビニエンスウェア 文具 デザイナー落合宏理氏、文具メーカー「コクヨ」と共同開発した「コンビニエンスウェア」の 文具ラインを発売。",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/campaign/archive.html",
+          "label": "過去のキャンペーン一覧へ",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/list.html",
+          "label": "各種方針",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/company/familymart/financial_info/koukoku.html",
+          "label": "電子公告",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/other/sns.html",
+          "label": "公式アカウント一覧",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://twitter.com/famima_now",
+          "label": "X 新しいタブが開きます",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.instagram.com/familymart.japan/?hl=ja",
+          "label": "Instagram 新しいタブが開きます",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.tiktok.com/@familymart_official",
+          "label": "TikTok 新しいタブが開きます",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/other/privacy_policy.html",
+          "label": "ファミリーマート 個人情報保護方針",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/other/socialmedia_policy.html",
+          "label": "ソーシャルメディアポリシー",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        },
+        {
+          "url": "https://www.family.co.jp/other/how_to_use.html",
+          "label": "ホームページのご利用について",
+          "reason": "詳細パターンまたは公式ドメインの対象外"
+        }
+      ],
+      "failed": []
+    }
+  ],
+  "extraction_revision": 3,
+  "visual_review": [
+    {
+      "source_id": "familymart-offers--754872ec",
+      "assets_file": "work/assets/familymart-offers--754872ec.json",
+      "images_without_alt": 56,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--b0fc4e1f",
+      "assets_file": "work/assets/familymart-offers--b0fc4e1f.json",
+      "images_without_alt": 16,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--f6c5150c",
+      "assets_file": "work/assets/familymart-offers--f6c5150c.json",
+      "images_without_alt": 89,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--213d6ffb",
+      "assets_file": "work/assets/familymart-offers--213d6ffb.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--2decfaad",
+      "assets_file": "work/assets/familymart-offers--2decfaad.json",
+      "images_without_alt": 6,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--eb86457a",
+      "assets_file": "work/assets/familymart-offers--eb86457a.json",
+      "images_without_alt": 8,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--d657e204",
+      "assets_file": "work/assets/familymart-offers--d657e204.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--e615d259",
+      "assets_file": "work/assets/familymart-offers--e615d259.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--da911b2c",
+      "assets_file": "work/assets/familymart-offers--da911b2c.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--4c658488",
+      "assets_file": "work/assets/familymart-offers--4c658488.json",
+      "images_without_alt": 59,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--d5aa71fa",
+      "assets_file": "work/assets/familymart-offers--d5aa71fa.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--a1e36b74",
+      "assets_file": "work/assets/familymart-offers--a1e36b74.json",
+      "images_without_alt": 5,
+      "pdfs": 2,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--412bc53f",
+      "assets_file": "work/assets/familymart-offers--412bc53f.json",
+      "images_without_alt": 22,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--f3eb81c8",
+      "assets_file": "work/assets/familymart-offers--f3eb81c8.json",
+      "images_without_alt": 52,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--ae0fb863",
+      "assets_file": "work/assets/familymart-offers--ae0fb863.json",
+      "images_without_alt": 65,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--3516dc0a",
+      "assets_file": "work/assets/familymart-offers--3516dc0a.json",
+      "images_without_alt": 52,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--2449799b",
+      "assets_file": "work/assets/familymart-offers--2449799b.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--cc8ab239",
+      "assets_file": "work/assets/familymart-offers--cc8ab239.json",
+      "images_without_alt": 0,
+      "pdfs": 9,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--59ee6c1d",
+      "assets_file": "work/assets/familymart-offers--59ee6c1d.json",
+      "images_without_alt": 9,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--498d2e28",
+      "assets_file": "work/assets/familymart-offers--498d2e28.json",
+      "images_without_alt": 23,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--cb13380a",
+      "assets_file": "work/assets/familymart-offers--cb13380a.json",
+      "images_without_alt": 10,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--18e52d33",
+      "assets_file": "work/assets/familymart-offers--18e52d33.json",
+      "images_without_alt": 14,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--d9e8e897",
+      "assets_file": "work/assets/familymart-offers--d9e8e897.json",
+      "images_without_alt": 4,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--a4a82c90",
+      "assets_file": "work/assets/familymart-offers--a4a82c90.json",
+      "images_without_alt": 128,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--5e399350",
+      "assets_file": "work/assets/familymart-offers--5e399350.json",
+      "images_without_alt": 82,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--5157131e",
+      "assets_file": "work/assets/familymart-offers--5157131e.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--095dae59",
+      "assets_file": "work/assets/familymart-offers--095dae59.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    },
+    {
+      "source_id": "familymart-offers--9b23a069",
+      "assets_file": "work/assets/familymart-offers--9b23a069.json",
+      "images_without_alt": 51,
+      "pdfs": 0,
+      "status": "unverified_references"
+    }
+  ],
+  "reask": [
+    "familymart-offers--5e399350",
+    "familymart-offers--a4a82c90"
+  ],
+  "source_summary": {
+    "familymart-offers": {
+      "run_id": "20261017-1720",
+      "measured_at": "2026-10-17T17:20:54+09:00",
+      "listing_ok": true,
+      "listing_error": null,
+      "discovery_basis": "current_listing",
+      "listing_discovery_at": "2026-10-17T17:20:58+09:00",
+      "discovered": 38,
+      "unvisited": 8,
+      "excluded": 111,
+      "detail_failed": 0,
+      "requested": 28,
+      "deferred": 0,
+      "gave_up": 0,
+      "complete_claim": false
+    }
+  }
+}

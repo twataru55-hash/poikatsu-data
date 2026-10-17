@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "スヌーピーコラボ商品抽選500円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選100名に500円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象コラボ品をアプリ提示。2個で応募11/13迄。ドーナツは北海道・沖縄・TOMONY取扱なし。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_collabo_cp.html",
+      "evidence_quote": "スタンプ2個（抽選で100名様）\nファミマポイント500円相当",
+      "period_evidence_quote": "開催期間\n2026年10月20日（火）0:00～11月9日（月）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "スヌーピーコラボ商品応募毎1円相当",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "応募毎ファミマポイント1円相当",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示対象品2個/4個で応募。ドーナツは北海道・沖縄・TOMONY取扱なし。応募11/13迄。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-stamp_snoopy_collabo_cp.html",
+      "evidence_quote": "※応募毎にファミマポイント1円相当を進呈いたします。",
+      "period_evidence_quote": "開催期間\n2026年10月20日（火）0:00～11月9日（月）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,2188 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "大人のカロリミット　15回分 45粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋150ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\n大人のカロリミット　15回分\n45粒\nファミリーマート\n通常価格(税込)：1,450円\nキャンペーンポイント：1点につき\n＋150ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "大人のカロリミット　15回分 45粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\n大人のカロリミット　15回分\n45粒\nファミリーマート\n通常価格(税込)：1,450円\nキャンペーンポイント：1点につき\n＋150ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "プレミアムカロリミット　7日分 28粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋140ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\nプレミアムカロリミット　7日分\n28粒\nファミリーマート\n通常価格(税込)：1,350円\nキャンペーンポイント：1点につき\n＋140ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "プレミアムカロリミット　7日分 28粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\nプレミアムカロリミット　7日分\n28粒\nファミリーマート\n通常価格(税込)：1,350円\nキャンペーンポイント：1点につき\n＋140ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "カロリミット　30回分 90粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋160ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\nカロリミット　30回分\n90粒\nファミリーマート\n通常価格(税込)：1,563円\nキャンペーンポイント：1点につき\n＋160ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "カロリミット　30回分 90粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nファンケル\nカロリミット　30回分\n90粒\nファミリーマート\n通常価格(税込)：1,563円\nキャンペーンポイント：1点につき\n＋160ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "爽健美茶 300MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\n爽健美茶\n300ML\nファミリーマート\n通常価格(税込)：129円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "爽健美茶 300MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\n爽健美茶\n300ML\nファミリーマート\n通常価格(税込)：129円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "綾鷹 300MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\n綾鷹\n300ML\nファミリーマート\n通常価格(税込)：129円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "綾鷹 300MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\n綾鷹\n300ML\nファミリーマート\n通常価格(税込)：129円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "からだすこやか茶W＋ 350MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\nからだすこやか茶W＋\n350ML\nファミリーマート\n通常価格(税込)：179円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "からだすこやか茶W＋ 350MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\nコカ・コーラ\nからだすこやか茶W＋\n350ML\nファミリーマート\n通常価格(税込)：179円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "アボカドボウル スムージー 240MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "NEW\n伊藤園\nアボカドボウル スムージー\n240ML\nファミリーマート\n通常価格(税込)：213円\nキャンペーンポイント：1点につき\n＋50ポイント",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "+SHEET． 5枚ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "UHA味覚糖\n+SHEET．\n5枚\nファミリーマート\n通常価格(税込)：486円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "+SHEET． 5枚アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "UHA味覚糖\n+SHEET．\n5枚\nファミリーマート\n通常価格(税込)：486円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ ビタミンC　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nビタミンC　10日分\n20粒\nファミリーマート\n通常価格(税込)：324円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ ビタミンC　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nビタミンC　10日分\n20粒\nファミリーマート\n通常価格(税込)：324円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ マルチビタミン　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nマルチビタミン　10日分\n20粒\nファミリーマート\n通常価格(税込)：421円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ マルチビタミン　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nマルチビタミン　10日分\n20粒\nファミリーマート\n通常価格(税込)：421円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ ビタミンD３　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nビタミンD３　10日分\n20粒\nファミリーマート\n通常価格(税込)：378円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ ビタミンD３　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\nビタミンD３　10日分\n20粒\nファミリーマート\n通常価格(税込)：378円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ 鉄　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n鉄　10日分\n20粒\nファミリーマート\n通常価格(税込)：421円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ 鉄　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n鉄　10日分\n20粒\nファミリーマート\n通常価格(税込)：421円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ 鉄＆葉酸　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n鉄＆葉酸　10日分\n20粒\nファミリーマート\n通常価格(税込)：356円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ 鉄＆葉酸　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n鉄＆葉酸　10日分\n20粒\nファミリーマート\n通常価格(税込)：356円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "グミサプリ 亜鉛＆マカ　10日分 20粒ポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n亜鉛＆マカ　10日分\n20粒\nファミリーマート\n通常価格(税込)：453円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "グミサプリ 亜鉛＆マカ　10日分 20粒アプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "グミサプリ\n亜鉛＆マカ　10日分\n20粒\nファミリーマート\n通常価格(税込)：453円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ウコンの力ドリンク 100MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋20ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力ドリンク\n100ML\nファミリーマート\n通常価格(税込)：247円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ウコンの力ドリンク 100MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力ドリンク\n100ML\nファミリーマート\n通常価格(税込)：247円\nキャンペーンポイント：1点につき\n＋20ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ウコンの力スーパー 120MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力スーパー\n120ML\nファミリーマート\n通常価格(税込)：365円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ウコンの力スーパー 120MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力スーパー\n120ML\nファミリーマート\n通常価格(税込)：365円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ウコンの力超MAX 120MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力超MAX\n120ML\nファミリーマート\n通常価格(税込)：581円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ウコンの力超MAX 120MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nウコンの力超MAX\n120ML\nファミリーマート\n通常価格(税込)：581円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "キレートレモン 155MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン\n155ML\nファミリーマート\n通常価格(税込)：172円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "キレートレモン 155MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン\n155ML\nファミリーマート\n通常価格(税込)：172円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "キレートレモン　クエン酸2700 155MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン　クエン酸2700\n155ML\nファミリーマート\n通常価格(税込)：189円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "キレートレモン　クエン酸2700 155MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン　クエン酸2700\n155ML\nファミリーマート\n通常価格(税込)：189円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "キレートレモン　MUKUMI 155MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン　MUKUMI\n155ML\nファミリーマート\n通常価格(税込)：189円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "キレートレモン　MUKUMI 155MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ポッカサッポロ\nキレートレモン　MUKUMI\n155ML\nファミリーマート\n通常価格(税込)：189円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "眠眠打破 50MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "常盤薬品工業\n眠眠打破\n50ML\nファミリーマート\n通常価格(税込)：324円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "眠眠打破 50MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "常盤薬品工業\n眠眠打破\n50ML\nファミリーマート\n通常価格(税込)：324円\nキャンペーンポイント：1点につき\n＋30ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "強強打破 50MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋40ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "常盤薬品工業\n強強打破\n50ML\nファミリーマート\n通常価格(税込)：410円\nキャンペーンポイント：1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "強強打破 50MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "常盤薬品工業\n強強打破\n50ML\nファミリーマート\n通常価格(税込)：410円\nキャンペーンポイント：1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ソルマック5　サキノミ 50MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋40ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "大鵬薬品工業\nソルマック5　サキノミ\n50ML\nファミリーマート\n通常価格(税込)：386円\nキャンペーンポイント：1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ソルマック5　サキノミ 50MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "大鵬薬品工業\nソルマック5　サキノミ\n50ML\nファミリーマート\n通常価格(税込)：386円\nキャンペーンポイント：1点につき\n＋40ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "エスカップ 100MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "久光製薬\nエスカップ\n100ML\nファミリーマート\n通常価格(税込)：151円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "エスカップ 100MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "久光製薬\nエスカップ\n100ML\nファミリーマート\n通常価格(税込)：151円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "液キャベコーワA 45MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋50ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\n液キャベコーワA\n45ML\nファミリーマート\n通常価格(税込)：437円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "液キャベコーワA 45MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\n液キャベコーワA\n45ML\nファミリーマート\n通常価格(税込)：437円\nキャンペーンポイント：1点につき\n＋50ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "カンゾコーワドリンク1000 100MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋70ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\nカンゾコーワドリンク1000\n100ML\nファミリーマート\n通常価格(税込)：378円\nキャンペーンポイント：1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "カンゾコーワドリンク1000 100MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\nカンゾコーワドリンク1000\n100ML\nファミリーマート\n通常価格(税込)：378円\nキャンペーンポイント：1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "Q&PコーワゴールドZEROドリンク 50MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\nQ&PコーワゴールドZEROドリンク\n50ML\nファミリーマート\n通常価格(税込)：308円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "Q&PコーワゴールドZEROドリンク 50MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "コーワ\nQ&PコーワゴールドZEROドリンク\n50ML\nファミリーマート\n通常価格(税込)：308円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ネルノダ　睡眠＋疲労感ケア 100MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nネルノダ　睡眠＋疲労感ケア\n100ML\nファミリーマート\n通常価格(税込)：289円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ネルノダ　睡眠＋疲労感ケア 100MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "ハウスウェルネスフーズ\nネルノダ　睡眠＋疲労感ケア\n100ML\nファミリーマート\n通常価格(税込)：289円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ユンケル滋養液ゴールド 50MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋100ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "佐藤製薬\nユンケル滋養液ゴールド\n50ML\nファミリーマート\n通常価格(税込)：838円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/16(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ユンケル滋養液ゴールド 50MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "佐藤製薬\nユンケル滋養液ゴールド\n50ML\nファミリーマート\n通常価格(税込)：838円\nキャンペーンポイント：1点につき\n＋100ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～11/16(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint",
+        "rakuten-point",
+        "vpoint"
+      ],
+      "title": "ルル滋養内服液ゴールド 30MLポイントプラス",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋70ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2027-01-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "第一三共\nルル滋養内服液ゴールド\n30ML\nファミリーマート\n通常価格(税込)：748円\nキャンペーンポイント：1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～1/11(月)",
+      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ルル滋養内服液ゴールド 30MLアプリ還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定品10円相当ファミマポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2027-01-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品規格購入時にファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
+      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
+      "evidence_quote": "第一三共\nルル滋養内服液ゴールド\n30ML\nファミリーマート\n通常価格(税込)：748円\nキャンペーンポイント：1点につき\n＋70ポイント\nファミマのアプリファミペイを\nレジでスキャンするとさらに\n10円相当\nファミマポイント還元！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "実施期間：9/29(火)～1/11(月)",
+      "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。"
+    }
+  ]
+}

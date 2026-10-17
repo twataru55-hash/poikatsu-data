@@ -1,0 +1,1942 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "小岩井 Theカフェオレ500ml30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ提示、ホット除外。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\n30\n円引き\nキリン\n小岩井 Theカフェオレ　500ml\n※ホットは対象外です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クノール完熟トマトスープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nクノール\nスープDELI\nまるごと1個分 完熟トマトの\nスープパスタ\nポルチーニ香る きのこの\nクリームスープパスタ\nたらこクリームスープパスタ\n豆乳仕立て\nサーモンとほうれん草の\nクリームスープパスタ\nクリーミーカルボナーラ\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クノールきのこクリームスープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nクノール\nスープDELI\nまるごと1個分 完熟トマトの\nスープパスタ\nポルチーニ香る きのこの\nクリームスープパスタ\nたらこクリームスープパスタ\n豆乳仕立て\nサーモンとほうれん草の\nクリームスープパスタ\nクリーミーカルボナーラ\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クノールたらこクリームスープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nクノール\nスープDELI\nまるごと1個分 完熟トマトの\nスープパスタ\nポルチーニ香る きのこの\nクリームスープパスタ\nたらこクリームスープパスタ\n豆乳仕立て\nサーモンとほうれん草の\nクリームスープパスタ\nクリーミーカルボナーラ\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クノールサーモンとほうれん草スープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nクノール\nスープDELI\nまるごと1個分 完熟トマトの\nスープパスタ\nポルチーニ香る きのこの\nクリームスープパスタ\nたらこクリームスープパスタ\n豆乳仕立て\nサーモンとほうれん草の\nクリームスープパスタ\nクリーミーカルボナーラ\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クノールクリーミーカルボナーラ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nクノール\nスープDELI\nまるごと1個分 完熟トマトの\nスープパスタ\nポルチーニ香る きのこの\nクリームスープパスタ\nたらこクリームスープパスタ\n豆乳仕立て\nサーモンとほうれん草の\nクリームスープパスタ\nクリーミーカルボナーラ\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "明治チョコ&ミント40ml×5本100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ提示。宮崎・鹿児島・沖縄除外。1点1枚・1会計5枚。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月30日（月）\n100\n円引き\n明治\nチョコ&ミント\n40ml×5本入り\n※宮崎県・鹿児島県・沖縄県では実施しておりません。",
+      "period_evidence_quote": "10月13日（火）～ 11月30日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛きつねうどん50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛天ぷらそば50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛特盛きつねうどん50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛特盛天ぷらそば50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛鬼かき揚げうどん50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "どん兵衛特盛鬼かき揚げうどん50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 10月26日（月）\nいずれか1個\n50\n円引き\n日清のどん兵衛\nきつねうどん\n天ぷらそば\n特盛きつねうどん\n特盛天ぷらそば\nきつねうどん\n鬼かき揚げうどん\n特盛鬼かき揚げうどん\n※地域により仕様が異なります。\n※掲載画像は一例です。",
+      "period_evidence_quote": "10月13日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ダノンBIO脂肪燃焼ヨーグルトドリンクアップル20円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月13日（火）～ 11月9日（月）\n20\n円引き\nダノン\nBIO 脂肪燃焼ヨーグルト\nドリンク アップル風味",
+      "period_evidence_quote": "10月13日（火）～ 11月9日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "集中タイプ蒟蒻畑ピーチ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\n集中タイプの蒟蒻畑\nピーチ味\nクラッシュタイプの蒟蒻畑\n温州みかん味\n大粒アロエin りんご味\nライト ぶどう味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クラッシュ蒟蒻畑温州みかん30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\n集中タイプの蒟蒻畑\nピーチ味\nクラッシュタイプの蒟蒻畑\n温州みかん味\n大粒アロエin りんご味\nライト ぶどう味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クラッシュ蒟蒻畑大粒アロエりんご30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\n集中タイプの蒟蒻畑\nピーチ味\nクラッシュタイプの蒟蒻畑\n温州みかん味\n大粒アロエin りんご味\nライト ぶどう味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "クラッシュ蒟蒻畑ライトぶどう30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\n集中タイプの蒟蒻畑\nピーチ味\nクラッシュタイプの蒟蒻畑\n温州みかん味\n大粒アロエin りんご味\nライト ぶどう味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園充実野菜理想のトマト30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\n伊藤園\n充実野菜 理想のトマト\n栄養強化型1日分の野菜\n1日分の野菜",
+      "period_evidence_quote": "10月6日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園栄養強化型1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\n伊藤園\n充実野菜 理想のトマト\n栄養強化型1日分の野菜\n1日分の野菜",
+      "period_evidence_quote": "10月6日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\n伊藤園\n充実野菜 理想のトマト\n栄養強化型1日分の野菜\n1日分の野菜",
+      "period_evidence_quote": "10月6日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンゼリーパフォーマンスラムネ60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n60\n円引き\nリポビタンゼリー\nパフォーマンス\nラムネ風味\nエナジー風味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンゼリーパフォーマンスエナジー60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "10月6日（火）～ 10月26日（月）\nいずれか1個\n60\n円引き\nリポビタンゼリー\nパフォーマンス\nラムネ風味\nエナジー風味",
+      "period_evidence_quote": "10月6日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバー60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n60\n円引き\nアリナミン\nナイトリカバー\n＜指定医薬部外品＞\nナイトリカバーi\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバーi60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n60\n円引き\nアリナミン\nナイトリカバー\n＜指定医薬部外品＞\nナイトリカバーi\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分ビタミンゼリーグレープフルーツ40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き\n1日分のビタミンゼリー\nグレープフルーツ味\nマスカット味\n食物繊維 ピーチ味\n1日分のビタミン&Wミネラルゼリー\nグレープ味",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分ビタミンゼリーマスカット40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き\n1日分のビタミンゼリー\nグレープフルーツ味\nマスカット味\n食物繊維 ピーチ味\n1日分のビタミン&Wミネラルゼリー\nグレープ味",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分ビタミンゼリー食物繊維ピーチ40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き\n1日分のビタミンゼリー\nグレープフルーツ味\nマスカット味\n食物繊維 ピーチ味\n1日分のビタミン&Wミネラルゼリー\nグレープ味",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分ビタミン&Wミネラルゼリーグレープ40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き\n1日分のビタミンゼリー\nグレープフルーツ味\nマスカット味\n食物繊維 ピーチ味\n1日分のビタミン&Wミネラルゼリー\nグレープ味",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1本満足バープロテインチョコ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nアサヒ\n1本満足バー\nプロテインチョコ\nプロテインブラック\nプロテインストロベリー\nプロテインホワイト",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1本満足バープロテインブラック30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nアサヒ\n1本満足バー\nプロテインチョコ\nプロテインブラック\nプロテインストロベリー\nプロテインホワイト",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1本満足バープロテインストロベリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nアサヒ\n1本満足バー\nプロテインチョコ\nプロテインブラック\nプロテインストロベリー\nプロテインホワイト",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1本満足バープロテインホワイト30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nアサヒ\n1本満足バー\nプロテインチョコ\nプロテインブラック\nプロテインストロベリー\nプロテインホワイト",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キレートレモンMUKUMIゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nキレートレモン\nMUKUMIゼリー\nクエン酸2700ゼリー",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キレートレモンクエン酸2700ゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き\nキレートレモン\nMUKUMIゼリー\nクエン酸2700ゼリー",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラBB Feチャージ50ml100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラBBナイトウェル50ml100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラBBローヤル2 50ml100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラBBハイパー50ml100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラBBゴールドリッチR50ml100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n100\n円引き\nチョコラＢＢ\nFeチャージ 50ml\nナイトウェル 50ml\n＜指定医薬部外品＞\nローヤル2 50ml\n＜指定医薬部外品＞\nハイパー 50ml\n＜指定医薬部外品＞\nゴールドリッチR 50ml\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キッコーマン調製豆乳25円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "25円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n25\n円引き\nキッコーマン\n調製豆乳\n無調整豆乳\n豆乳飲料\nジャスミンティー\nよりそいアーモンド\n砂糖不使用",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キッコーマン無調整豆乳25円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "25円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n25\n円引き\nキッコーマン\n調製豆乳\n無調整豆乳\n豆乳飲料\nジャスミンティー\nよりそいアーモンド\n砂糖不使用",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キッコーマン豆乳飲料ジャスミンティー25円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "25円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n25\n円引き\nキッコーマン\n調製豆乳\n無調整豆乳\n豆乳飲料\nジャスミンティー\nよりそいアーモンド\n砂糖不使用",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キッコーマンよりそいアーモンド砂糖不使用25円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "25円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n25\n円引き\nキッコーマン\n調製豆乳\n無調整豆乳\n豆乳飲料\nジャスミンティー\nよりそいアーモンド\n砂糖不使用",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マカの元気ドリンク30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 11月2日（月）\n30\n円引き\nマカの元気ドリンク",
+      "period_evidence_quote": "9月29日（火）～ 11月2日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カゴメ野菜一日これ一本トリプルケア30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カゴメ野菜一日これ一本30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カゴメ野菜生活100オリジナル30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カゴメ野菜生活100ベリーサラダ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カゴメ野菜生活100マンゴーサラダ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月26日（月）\nいずれか1個\n30\n円引き\nカゴメ\n野菜一日これ一本\nトリプルケア\n野菜一日これ一本\n野菜生活100 オリジナル\n野菜生活100 ベリーサラダ\n野菜生活100 マンゴーサラダ",
+      "period_evidence_quote": "9月29日（火）～ 10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンD50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nリポビタンD\n＜指定医薬部外品＞\nリポビタンファイン\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンファイン50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月29日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nリポビタンD\n＜指定医薬部外品＞\nリポビタンファイン\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月29日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "たらみ体脂肪を減らす蒟蒻ゼリー0kcalゴールドキウイ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月22日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nたらみ\n体脂肪を減らす蒟蒻ゼリー 0kcalゴールドキウイ\nつぶつぶみかん果肉入りゼリー\nコリッコリナタデココ入り\nシャインマスカットゼリー",
+      "period_evidence_quote": "9月22日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "たらみつぶつぶみかん果肉入りゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月22日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nたらみ\n体脂肪を減らす蒟蒻ゼリー 0kcalゴールドキウイ\nつぶつぶみかん果肉入りゼリー\nコリッコリナタデココ入り\nシャインマスカットゼリー",
+      "period_evidence_quote": "9月22日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "たらみコリッコリナタデココ入りシャインマスカットゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-22T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月22日（火）～ 10月19日（月）\nいずれか1個\n30\n円引き\nたらみ\n体脂肪を減らす蒟蒻ゼリー 0kcalゴールドキウイ\nつぶつぶみかん果肉入りゼリー\nコリッコリナタデココ入り\nシャインマスカットゼリー",
+      "period_evidence_quote": "9月22日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キューピーコーワαドリンク50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月15日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nキューピーコーワ\nαドリンク\n＜指定医薬部外品＞\niドリンク\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月15日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キューピーコーワiドリンク50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-15T00:00:00+09:00",
+        "end": "2026-10-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセットしレジ提示。1点1枚・1会計5枚、期間内繰返可。他割引併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "9月15日（火）～ 10月19日（月）\nいずれか1個\n50\n円引き\nキューピーコーワ\nαドリンク\n＜指定医薬部外品＞\niドリンク\n＜指定医薬部外品＞",
+      "period_evidence_quote": "9月15日（火）～ 10月19日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

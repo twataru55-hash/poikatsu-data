@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "X抽選ダブルシュー無料クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選1万名にダブルシュー無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T09:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Xフォロー・対象投稿へ指定コメント付き引用ポスト。抽選1万名、応募10/19まで。",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_cream_cp_VTQUfU4K.html",
+      "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象の投稿に指定のコメントを付けて引用ポストをすると、期間中に抽選で1万名さまに「クリームたっぷり！ダブルシュー」の無料クーポンが当たります。",
+      "period_evidence_quote": "使用期間\n10月13日（火）9時〜10月26日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}
