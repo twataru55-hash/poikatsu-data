@@ -3,10 +3,9 @@
     {
       "type": "bonus",
       "brand_ids": [
-        "famipay",
         "famima-point"
       ],
-      "title": "47都道府県ソックス応募毎1円相当",
+      "title": "ファミマ 47都道府県ソックス応募ポイント",
       "benefit": {
         "rate_max": null,
         "rate_text": "応募毎ファミマポイント1円相当",
