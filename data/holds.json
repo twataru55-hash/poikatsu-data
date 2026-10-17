@@ -7500,5 +7500,142 @@
     "reasons": [
       "V02 開始日時が不明（period.start）"
     ]
+  },
+  "cp-d39b4f04f7": {
+    "issue": 1027,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-531c271553": {
+    "issue": 1028,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-e1de948c1a": {
+    "issue": 1029,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-9edf05cd8f": {
+    "issue": 1030,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-1ba26fb714": {
+    "issue": 1031,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-3779986d23": {
+    "issue": 1032,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-3370e4f06b": {
+    "issue": 1033,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-b25bcc8b60": {
+    "issue": 1034,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-fa5cc91cca": {
+    "issue": 1035,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-fa5d0298a4": {
+    "issue": 1036,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-85e610317d": {
+    "issue": 1037,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-f9a43244ec": {
+    "issue": 1038,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-db9736f8c6": {
+    "issue": 1039,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-22f09407fe": {
+    "issue": 1040,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-66c0de938f": {
+    "issue": 1041,
+    "created": "2026-10-17",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
   }
 }
