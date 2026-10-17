@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-16-0202",
-    "generated_at": "2026-10-16T02:02:53+09:00",
+    "data_version": "2026-10-17-1038",
+    "generated_at": "2026-10-17T10:38:15+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 141,
-      "live_campaigns": 119,
+      "campaigns": 150,
+      "live_campaigns": 130,
       "stores": 82,
       "recurring": 7
     }
@@ -1049,7 +1049,7 @@
       },
       "benefit_text": "WAON POINTが基本の10倍",
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-waon-thanks",
@@ -1069,7 +1069,7 @@
       },
       "benefit_text": "対象品5%OFF、一部店・商品除外",
       "official_url": "https://www.waon.net/campaign/thanks_day/",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-oral10",
@@ -1090,7 +1090,7 @@
       },
       "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-oral/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-pet-days",
@@ -1113,7 +1113,7 @@
       },
       "benefit_text": "対象カード払い、本州(東北除く)四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-aeon-hair-days",
@@ -1135,7 +1135,7 @@
       },
       "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
       "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-ministop-weekend",
@@ -1157,7 +1157,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     },
     {
       "id": "rc-ministop10",
@@ -1177,82 +1177,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-03"
+      "last_verified": "2026-10-16"
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ケーズ auひかり契約＆対象家電割引",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "指定家電 最大60,000円引き",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ksdenki"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-10T00:00:00+09:00",
-        "end": "2026-10-16T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "au PAY200円以上、auひかりプラス＋セット割新規契約、同店舗同時購入。既契約除外",
-      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-224d69f37b"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ケーズデンキ au PAY1000円引き 第1",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "2万円以上で1,000円引き",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ksdenki"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-10T00:00:00+09:00",
-        "end": "2026-10-16T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。",
-      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-d945bee7c5"
-    },
     {
       "type": "reward",
       "brand_ids": [
@@ -1368,13 +1296,13 @@
       "brand_ids": [
         "rakuten-point"
       ],
-      "title": "Joshin 楽天ポイント抽選",
+      "title": "Joshin楽天カード提示抽選1000ポイント",
       "benefit": {
         "rate_max": null,
-        "rate_text": "抽選500名に1,000pt",
+        "rate_text": "抽選500名に1000ポイント",
         "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
+        "cap_total": 1000,
+        "cap_unit": "pt"
       },
       "scope": {
         "kind": "stores",
@@ -1390,13 +1318,14 @@
       },
       "entry": {
         "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on_wi_pym_cpn_list"
+        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on"
       },
-      "conditions": "両カード提示で単品税抜200円以上・1pt以上獲得。web除外・利用登録・メルマガ購読",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/?scid=wi_pym_cpn_list",
+      "conditions": "両会員カード提示、単品税抜200円以上・1pt獲得、期限内利用登録・購読。通販等除外。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-17",
       "status_override": null,
+      "period_evidence_quote": "2026年9月25日（金）0:00～2026年10月18日（日）23:59",
       "id": "cp-da446eed1c"
     },
     {
@@ -2889,6 +2818,43 @@
     {
       "type": "lottery",
       "brand_ids": [
+        "dpoint"
+      ],
+      "title": "小倉井筒屋90周年抽選9090ポイント",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選40名に9090ポイント",
+        "cap_per_use": null,
+        "cap_total": 9090,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "izutsuya-kokura"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
+      },
+      "conditions": "dポイントためる・つかうで合計税込3000円、利用者登録必要。金券・指定売場等除外。",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）午前0：00 ～2026年10月31日（土）午後11：59",
+      "id": "cp-474b009e95"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
         "rakuten-point"
       ],
       "title": "富士薬品グループ抽選10,000名100pt",
@@ -3627,42 +3593,6 @@
       "last_verified": "2026-10-04",
       "status_override": null,
       "id": "cp-42adf56b3d"
-    },
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "小倉井筒屋90周年 9,090ポイント抽選",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選40名に9,090ポイント",
-        "cap_per_use": null,
-        "cap_total": 9090,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "izutsuya-kokura"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-01T00:00:00+09:00",
-        "end": "2026-10-31T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=9b85bad9076361c7e4d622e2a04cbd53ba429283ea238b1210f14ddeac0e73f5"
-      },
-      "conditions": "dポイントためる/つかう・合計税込3000円以上。利用日ごと1口、最大31口。対象外売場あり",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_899310_PB7775/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-474b009e95"
     },
     {
       "type": "lottery",
@@ -4569,6 +4499,41 @@
       "id": "cp-f8cfc1dcbb"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライドライクリスタル500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-093cc82b4b"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "waon-point"
@@ -4606,6 +4571,111 @@
       "id": "cp-120349a06f"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ爽快辛口350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-482afc4b5b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ冷涼辛口350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-7d25ff9d7e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ生ジョッキ缶485ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-8acaa0da29"
+    },
+    {
       "type": "reward",
       "brand_ids": [
         "dpoint"
@@ -4640,6 +4710,41 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-a90a33100e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-b004b63461"
     },
     {
       "type": "reward",
@@ -4713,6 +4818,185 @@
       "status_override": null,
       "period_evidence_quote": "対象期間\r\n2026/6/1-2026/11/1",
       "id": "cp-c4780d892e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ冷涼辛口500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-d1a9fe5fbf"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-e264307215"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライドライクリスタル350ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-f3d24827b2"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選スーパードライ生ジョッキ缶340ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象酒1本50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-05T00:00:00+09:00",
+        "end": "2026-11-01T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "アプリ提示で10/5～25に酒購入、1日1回・購入3日後まで抽選。7iDログイン、指定品。",
+      "official_url": "https://www.sej.co.jp/cmp/app_asahi2610.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
+      "id": "cp-fe64d0ad72"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ初回利用者デビュー100pt最大1000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "使うたび100pt・最大1000pt",
+        "cap_per_use": 100,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001debutbonus?ekey=checked"
+      },
+      "conditions": "期間中初コード等払い、購読必要。ファミマ・ファミマ!!・TOMONY、通販・請求書等除外。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/debut-bonus/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "2026/10/1（木）10:00～2026/11/2（月）9:59",
+      "id": "cp-2122e37873"
     },
     {
       "type": "lottery",
@@ -4789,44 +5073,6 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-96e1f4bedb"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "rakuten-pay",
-        "rakuten-point"
-      ],
-      "title": "楽天ペイ デビューボーナス",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "1回100pt・最大1000pt",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "payment_wide",
-        "store_ids": [],
-        "prefecture_codes": [],
-        "municipality": null,
-        "excluded_store_ids": [
-          "familymart"
-        ]
-      },
-      "period": {
-        "start": "2026-10-01T10:00:00+09:00",
-        "end": "2026-11-02T09:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001debutbonus?ekey=checked-wi_pym_cpn_list"
-      },
-      "conditions": "初めてコード・QR・セルフ払い、メルマガ必須。ファミマ・請求書等除外",
-      "official_url": "https://pay.rakuten.co.jp/campaign/debut-bonus/?scid=wi_pym_cpn_list",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-2122e37873"
     },
     {
       "type": "bonus",
@@ -5876,10 +6122,10 @@
         "rakuten-pay",
         "rakuten-point"
       ],
-      "title": "楽天ペイ 5と0のつく日全額還元抽選",
+      "title": "楽天ペイ5と0のつく日抽選全額還元",
       "benefit": {
         "rate_max": null,
-        "rate_text": "抽選で全額還元",
+        "rate_text": "抽選で対象日の支払い全額還元",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -5901,11 +6147,12 @@
         "required": true,
         "url": "https://oubo.rakuten.co.jp/apply/campaign/rpay/5and0/202610?ekey=checked"
       },
-      "conditions": "毎月5・10・15・20・25・30日、合計税込100円以上。日上限1万pt。ファミマ等除外",
+      "conditions": "対象日に税込100円以上コード等払い、購読必要。日上限10000pt。ファミマ等除く、通販不可。",
       "official_url": "https://pay.rakuten.co.jp/campaign/pay-5and0day/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-17",
       "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）10:00～2026年12月1日（火）9:59",
       "id": "cp-b2a6640ea8"
     },
     {
@@ -5981,6 +6228,44 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-3910a743fc"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富山県対象店楽天ペイ最大10%還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "対象店最大10％還元",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "富山県の指定店コード・QR/セルフ払い。たばこ等除外、他の指定企画との重複は対象外の場合あり。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年12月31日（木）23:59",
+      "id": "cp-09c5608671"
     },
     {
       "type": "local",
@@ -6091,6 +6376,44 @@
       "status_override": null,
       "period_evidence_quote": "2026年9月1日（火）0:00～2026年12月31日（木）23:59",
       "id": "cp-bbb9497cc6"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "富山県楽天モバイル契約者楽天ペイ追加還元",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "契約者限定さらに最大＋10％",
+        "cap_per_use": null,
+        "cap_total": 1500,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "16"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "12/31時点で指定プラン契約、同一楽天ID、富山県指定店コード・QR払い。両特典合計上限1500pt。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-toyama/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-17",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年12月31日（木）23:59",
+      "id": "cp-d5a7985503"
     },
     {
       "type": "lottery",
