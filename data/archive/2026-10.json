@@ -737,5 +737,45 @@
     "status_override": null,
     "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
     "id": "cp-e1c45fa5a3"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "ウェルパーク10/11 dポイント5倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "dポイント5倍",
+      "cap_per_use": null,
+      "cap_total": 800,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welpark"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-11T00:00:00+09:00",
+      "end": "2026-10-11T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
+    },
+    "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+    "evidence_quote": "＜もれなく5倍＞\n・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）\n・進呈ポイント：通常ポイント1倍分＋キャンペーンポイント4倍分\n※進呈上限：期間中お一人さま800ポイント",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-06",
+    "last_verified": "2026-10-06",
+    "status_override": null,
+    "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
+    "id": "cp-de890ab9cb"
   }
 ]

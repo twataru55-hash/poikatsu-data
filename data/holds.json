@@ -196,14 +196,6 @@
       "V12 公式で確認できていない（unconfirmed）"
     ]
   },
-  "cp-2b06ec7a83": {
-    "issue": 27,
-    "created": "2026-09-28",
-    "reasons": [
-      "V05 エントリーURLが開けない: 公式外へ転送: https://login.account.rakuten.com/sso/authorize?client_id=rakuten_campaigntool_web&nonce=nEsidz1WssLKJgTUaTGA97bbwOA4xqjz&redirect_uri=https%3A%2F%2Foubo.rakuten.co.jp%2Fredirect&response_type=code&scope=openid%20profile&state=yYQjikkktLxYDRO0cpaFUWE5grZ9PEEV&ui_locales=ja-JP",
-      "V12 公式で確認できていない（unconfirmed）"
-    ]
-  },
   "cp-be1dc2df4d": {
     "issue": 28,
     "created": "2026-09-29",
@@ -7051,13 +7043,6 @@
     "created": "2026-10-17",
     "reasons": [
       "V10 還元率が大きい（20%）ため確認が必要"
-    ]
-  },
-  "cp-0951e8eae7": {
-    "issue": 964,
-    "created": "2026-10-17",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
     ]
   },
   "cp-102f10a3b8": {
