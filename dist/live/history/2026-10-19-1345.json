@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-18-0538",
-    "generated_at": "2026-10-18T05:38:40+09:00",
+    "data_version": "2026-10-19-1345",
+    "generated_at": "2026-10-19T13:45:29+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 246,
-      "live_campaigns": 213,
+      "campaigns": 242,
+      "live_campaigns": 210,
       "stores": 82,
       "recurring": 7
     }
@@ -1181,150 +1181,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "ジョーシン抽選500名1,000ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選500名に1,000ポイント",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "joshin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-25T00:00:00+09:00",
-        "end": "2026-10-18T23:59:00+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on"
-      },
-      "conditions": "楽天・ジョーシン両カード提示、単品200円税抜以上。利用登録・メルマガ購読。通販・対象外決済除外",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-04",
-      "status_override": null,
-      "id": "cp-d60360118f"
-    },
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "Joshin楽天カード提示抽選1000ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選500名に1000ポイント",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "joshin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-25T00:00:00+09:00",
-        "end": "2026-10-18T23:59:00+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/pp/joshin/20260925?ekey=mp_on"
-      },
-      "conditions": "両会員カード提示、単品税抜200円以上・1pt獲得、期限内利用登録・購読。通販等除外。",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/joshin/20260925/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "2026年9月25日（金）0:00～2026年10月18日（日）23:59",
-      "id": "cp-da446eed1c"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン スターバックスTORORI値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象TORORI30円引券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-28T00:00:00+09:00",
-        "end": "2026-10-18T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "9/28～10/11アプリ提示で対象TORORI購入。会員登録・ログイン必須。他券併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/app_sbto2609.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-72bf6d03cd"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/18 dポイント5倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント5倍",
-        "cap_per_use": null,
-        "cap_total": 800,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-18T00:00:00+09:00",
-        "end": "2026-10-18T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
-      },
-      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
-      "id": "cp-95d537e1a2"
-    },
     {
       "type": "bonus",
       "brand_ids": [
