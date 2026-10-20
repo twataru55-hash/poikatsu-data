@@ -1,11 +1,11 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-20-2320",
-    "generated_at": "2026-10-20T23:20:14+09:00",
+    "data_version": "2026-10-21-0423",
+    "generated_at": "2026-10-21T04:23:53+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 227,
+      "campaigns": 224,
       "live_campaigns": 209,
       "stores": 82,
       "recurring": 7
@@ -1181,114 +1181,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "vpoint"
-      ],
-      "title": "セブン Vポイント引換 10-07",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "コーヒー70pt・カフェラテ100pt",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-07T00:00:00+09:00",
-        "end": "2026-10-20T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Vポイントアプリ。10/7 14時～10/13交換。各商品先着2万名、1人1回",
-      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-062e26827b"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "ponta"
-      ],
-      "title": "ストア100 ハッシュドポテト",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "10Pボーナス",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "lawson-store100"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-14T00:00:00+09:00",
-        "end": "2026-10-20T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
-      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-a69248c178"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "ponta"
-      ],
-      "title": "ストア100 おいしい免疫ケア　睡眠",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "20Pボーナス",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "lawson-store100"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-07T00:00:00+09:00",
-        "end": "2026-10-20T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
-      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-df6bb0b819"
-    },
     {
       "type": "reward",
       "brand_ids": [

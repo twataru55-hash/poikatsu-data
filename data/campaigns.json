@@ -628,46 +628,6 @@
     "id": "cp-523555d3f1"
   },
   {
-    "type": "lottery",
-    "brand_ids": [
-      "rakuten-pay",
-      "rakuten-point"
-    ],
-    "title": "アカカベ 楽天ペイラッキーくじ",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "抽選 最大1,000ポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "akakabe"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-14T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "100円税込以上のコード・QR払い後、決済画面のくじへ。1人1日1回。通販除外",
-    "official_url": "https://pay.rakuten.co.jp/campaign/2026/0914-akakabe/?scid=wi_pym_cpn_list",
-    "evidence_quote": "2026年9月14日（月）0:00～2026年10月13日（火）23:59",
-    "confidence": "confirmed",
-    "source_id": "rakuten-pay-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-f4ac18cbae"
-  },
-  {
     "type": "coupon",
     "brand_ids": [],
     "title": "セブン アプリ毎日抽選クーポン",
@@ -830,45 +790,6 @@
     "brand_ids": [
       "au-pay"
     ],
-    "title": "ビックカメラ au PAY1000円引き 第2",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "1万円以上で1,000円引き",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "biccamera"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-09T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "au PAYコード支払い、事前クーポン獲得。各期指定店舗限定、通販不可。予算到達で終了",
-    "official_url": "https://aupay-cp.auone.jp/202610_biccamera?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-    "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
-    "confidence": "confirmed",
-    "source_id": "aupay-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-88f019650b"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "au-pay"
-    ],
     "title": "ビックカメラ au PAY1000円引き 第3",
     "benefit": {
       "rate_max": null,
@@ -902,117 +823,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-8ce89d01e0"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "セブン マイル交換 チョコラBB",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "420マイルで無料引換",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "seven-eleven"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-30T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
-    "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
-    "evidence_quote": "エーザイ チョコラBB",
-    "confidence": "confirmed",
-    "source_id": "seven-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-627a4fbc9c"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "セブン マイル交換 ブリトー300円以下",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "230マイルで無料引換",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "seven-eleven"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-30T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
-    "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
-    "evidence_quote": "（税抜300円以下）",
-    "confidence": "confirmed",
-    "source_id": "seven-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-003e04aae7"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [],
-    "title": "セブン マイル交換 スニッカーズミニ",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "60マイルで無料引換",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "seven-eleven"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-09-30T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "交換9/29 10時～10/5、先着数限定。7iDログインして特典に交換、翌朝8時まで配信",
-    "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
-    "evidence_quote": "マース スニッカーズ ミニ",
-    "confidence": "confirmed",
-    "source_id": "seven-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-a5f257cf87"
   },
   {
     "type": "reward",
@@ -5461,46 +5271,6 @@
     "status_override": null,
     "period_evidence_quote": "対象期間\r\n2026/10/5-2026/12/6",
     "id": "cp-5bb067de08"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "au-pay"
-    ],
-    "title": "ビックカメラau PAY1000円引券10/09",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "1万円以上で1000円割引",
-      "cap_per_use": 1000,
-      "cap_total": null,
-      "cap_unit": "円相当"
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "biccamera"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-09T00:00:00+09:00",
-      "end": "2026-10-13T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "期間②の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
-    "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
-    "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
-    "confidence": "confirmed",
-    "source_id": "aupay-campaign",
-    "first_seen": "2026-10-12",
-    "last_verified": "2026-10-12",
-    "status_override": null,
-    "period_evidence_quote": "期間②：2026年10月9日（金）\r\n～10月13日（火）",
-    "id": "cp-740fdca7d5"
   },
   {
     "type": "coupon",
