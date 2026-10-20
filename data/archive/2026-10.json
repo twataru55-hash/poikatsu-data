@@ -777,5 +777,193 @@
     "status_override": null,
     "period_evidence_quote": "・対象日：10月4日（日）、11日（日）、18日（日）、25日（日）",
     "id": "cp-de890ab9cb"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ 医食同源麻辣湯・酸辣湯値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月22日（火）～ 10月12日（月）\nいずれか1個\n50\n円引き\n医食同源\n麻辣湯\n麻辣湯 黄色のトマト味\n酸辣湯",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-37de27b356"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ チョコラBBライト・スパークリング値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "50円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-15T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "9月15日（火）～ 10月12日（月）\nいずれか1個\n50\n円引き\nチョコラＢＢ\nライト\n＜指定医薬部外品＞\nスパークリング マスカット味\nスパークリング グレープフルーツ＆ピーチ味",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-7102c37294"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "ファミマ ユンケルローヤルG値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "100円引きクーポン",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-08-11T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
+    "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+    "evidence_quote": "8月11日（火）～ 10月12日（月）\n100\n円引き\nユンケルローヤルG\n＜指定医薬部外品＞\nクーポンの使い方\nクーポン一覧画面で、利用するクーポンの使う枚数を選択します。\n1枚～5枚まで選択することができます。\n1枚のみ使う場合は、使う枚数の選択は不要です。\n「セットする」をタップします。\nホーム画面に戻り、バーコードをレジでスキャンします。\n注意事項\nクーポンご使用時は、",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-aa52974400"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン ゴンチャ値引券抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選14万名に150円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-22T10:00:00+09:00",
+      "end": "2026-10-12T23:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "応募は10/5 23:59まで公式Xフォロー・リポスト。国内居住者、当選1回、他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/fr_gn2609.html",
+    "evidence_quote": "抽選で14万名様に、対象の貢茶（ゴンチャ）いずれか1本に使える150円引きクーポンがその場で当たる！",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-2bc9ceb428"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "西友・リヴィン10/12増量日最大7倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で楽天ポイント最大7倍",
+      "cap_per_use": null,
+      "cap_total": 250,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seiyu-livin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-12T00:00:00+09:00",
+      "end": "2026-10-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+    "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-06",
+    "last_verified": "2026-10-06",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+    "id": "cp-10ff859ab9"
   }
 ]
