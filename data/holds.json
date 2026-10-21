@@ -3511,27 +3511,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-cc28e5982d": {
-    "issue": 468,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-3cfacc4a45": {
-    "issue": 469,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-9351b8dfd4": {
-    "issue": 470,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-2e7644b612": {
     "issue": 475,
     "created": "2026-10-03",
@@ -3937,13 +3916,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-c2e65aaf9c": {
-    "issue": 535,
-    "created": "2026-10-03",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-d12591ea01": {
     "issue": 536,
     "created": "2026-10-03",
@@ -4202,13 +4174,6 @@
   },
   "cp-10ff859ab9": {
     "issue": 574,
-    "created": "2026-10-04",
-    "reasons": [
-      "V07 根拠の近くに開始日・終了日が見つからない"
-    ]
-  },
-  "cp-2a7a896557": {
-    "issue": 577,
     "created": "2026-10-04",
     "reasons": [
       "V07 根拠の近くに開始日・終了日が見つからない"
