@@ -1,14 +1,14 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-22-0644",
-    "generated_at": "2026-10-22T06:44:25+09:00",
+    "data_version": "2026-10-24-0209",
+    "generated_at": "2026-10-24T02:09:40+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 222,
-      "live_campaigns": 209,
+      "campaigns": 219,
+      "live_campaigns": 210,
       "stores": 82,
-      "recurring": 7
+      "recurring": 4
     }
   },
   "brands": [
@@ -1049,7 +1049,7 @@
       },
       "benefit_text": "WAON POINTが基本の10倍",
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "last_verified": "2026-10-16"
+      "last_verified": "2026-10-23"
     },
     {
       "id": "rc-waon-thanks",
@@ -1069,73 +1069,7 @@
       },
       "benefit_text": "対象品5%OFF、一部店・商品除外",
       "official_url": "https://www.waon.net/campaign/thanks_day/",
-      "last_verified": "2026-10-16"
-    },
-    {
-      "id": "rc-aeon-oral10",
-      "title": "イオン 対象オーラルケア10倍",
-      "store_ids": [
-        "aeon"
-      ],
-      "brand_ids": [
-        "waon-point",
-        "aeon-card",
-        "aeon-pay"
-      ],
-      "rule": {
-        "type": "monthly_days",
-        "days": [
-          10
-        ]
-      },
-      "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
-      "official_url": "https://www.aeonretail.jp/campaign/pointC-oral/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-16"
-    },
-    {
-      "id": "rc-aeon-pet-days",
-      "title": "イオン 対象ペット用品20倍",
-      "store_ids": [
-        "aeon"
-      ],
-      "brand_ids": [
-        "waon-point",
-        "aeon-card"
-      ],
-      "rule": {
-        "type": "monthly_days",
-        "days": [
-          11,
-          12,
-          21,
-          22
-        ]
-      },
-      "benefit_text": "対象カード払い、本州(東北除く)四国直営限定",
-      "official_url": "https://www.aeonretail.jp/campaign/pointC-pet/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-16"
-    },
-    {
-      "id": "rc-aeon-hair-days",
-      "title": "イオン 対象シャンプー類10倍",
-      "store_ids": [
-        "aeon"
-      ],
-      "brand_ids": [
-        "waon-point",
-        "aeon-card",
-        "aeon-pay"
-      ],
-      "rule": {
-        "type": "monthly_days",
-        "days": [
-          10,
-          25
-        ]
-      },
-      "benefit_text": "対象カード・AEON Pay、本州四国直営限定",
-      "official_url": "https://www.aeonretail.jp/campaign/pointC-shampoo/?utm_source=aeon_retail&utm_medium=referral&utm_campaign=campaignbanner",
-      "last_verified": "2026-10-16"
+      "last_verified": "2026-10-23"
     },
     {
       "id": "rc-ministop-weekend",
@@ -1157,7 +1091,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-16"
+      "last_verified": "2026-10-23"
     },
     {
       "id": "rc-ministop10",
@@ -1177,121 +1111,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-16"
+      "last_verified": "2026-10-23"
     }
   ],
   "campaigns": [
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/22 dポイント3倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント3倍",
-        "cap_per_use": null,
-        "cap_total": 800,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-22T00:00:00+09:00",
-        "end": "2026-10-22T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=c35819fd3b67ff13bea3689cbf77bb9dd8ba0bfdded0d7be0ecee41f63324a87"
-      },
-      "conditions": "カード提示で1pt以上ためる。3/5倍共通月上限800pt、利用者登録。調剤・一部商品除外",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月1日（木）、8日（木）、15日（木）、22日（木）、29日（木）",
-      "id": "cp-e4797b2866"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "西友・リヴィン10/22増量日最大7倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で楽天ポイント最大7倍",
-        "cap_per_use": null,
-        "cap_total": 250,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seiyu-livin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-22T00:00:00+09:00",
-        "end": "2026-10-22T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
-      "id": "cp-fdc352ee5d"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "西友・リヴィン10/23増量日最大7倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で楽天ポイント最大7倍",
-        "cap_per_use": null,
-        "cap_total": 250,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seiyu-livin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-23T00:00:00+09:00",
-        "end": "2026-10-23T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
-      "id": "cp-3cb9d66f32"
-    },
     {
       "type": "reward",
       "brand_ids": [
