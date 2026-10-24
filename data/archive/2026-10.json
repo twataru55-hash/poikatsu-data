@@ -1435,5 +1435,85 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-224d69f37b"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "西友・リヴィン10/17増量日最大7倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で楽天ポイント最大7倍",
+      "cap_per_use": null,
+      "cap_total": 250,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seiyu-livin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-17T00:00:00+09:00",
+      "end": "2026-10-17T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+    "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-06",
+    "last_verified": "2026-10-06",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+    "id": "cp-e181b225df"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "ウェルパーク10/17 ポイント利用10％返還",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "利用dポイントの10％還元",
+      "cap_per_use": null,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "welpark"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-17T00:00:00+09:00",
+      "end": "2026-10-17T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
+    "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
+    "evidence_quote": "また、毎週土曜日にdポイントを200ポイント以上ご利用いただくと、ご利用ポイント数の10％相当分のdポイントを還元いたします。\n＜もれなく10％還元＞\n・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）\n・還元ポイント：ご利用いただいたdポイント数の10％相当分\n・進呈上限：1日あたりお一人さま1,000ポイント\n※エントリー不要",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-06",
+    "last_verified": "2026-10-06",
+    "status_override": null,
+    "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
+    "id": "cp-b14a965943"
   }
 ]

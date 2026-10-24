@@ -1,11 +1,11 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-24-2011",
-    "generated_at": "2026-10-24T20:11:43+09:00",
+    "data_version": "2026-10-25-0059",
+    "generated_at": "2026-10-25T00:59:03+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 219,
+      "campaigns": 217,
       "live_campaigns": 210,
       "stores": 82,
       "recurring": 4
@@ -1115,80 +1115,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "西友・リヴィン10/24増量日最大7倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で楽天ポイント最大7倍",
-        "cap_per_use": null,
-        "cap_total": 250,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seiyu-livin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-24T00:00:00+09:00",
-        "end": "2026-10-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
-      "id": "cp-9b52e988c4"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/24 ポイント利用10％返還",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "利用dポイントの10％還元",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-24T00:00:00+09:00",
-        "end": "2026-10-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
-      "id": "cp-c23a2831a7"
-    },
     {
       "type": "reward",
       "brand_ids": [
