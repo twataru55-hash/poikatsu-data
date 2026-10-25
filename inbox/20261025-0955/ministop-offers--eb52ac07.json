@@ -1,0 +1,78 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point",
+        "aeon-pay"
+      ],
+      "title": "ミニストップ 金土日AEON Pay10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-04-12T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "金土日AEON Payコード払い（イオンカード・チャージ）。WAONタッチ・たばこ・MINISOF等除外",
+      "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
+      "evidence_quote": "ミニストップ対象店舗にて、毎週、金・土・日曜日はAEON Payのスマホ決済ご利用でWAON POINTを基本の10倍進呈いたします",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": "※ご応募は不要です。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon-point",
+        "aeon-pay"
+      ],
+      "title": "ミニストップ モバイルオーダー金土日20倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の20倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "金土日WEB/アプリのモバイルオーダー、AEON Payイオンカード・チャージ払い。WAON POINT利用除外",
+      "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
+      "evidence_quote": "ミニストップのモバイルオーダー(WEB版・アプリ版)にて毎週、金・土・日曜日はAEON Payのスマホ決済ご利用でWAON POINTを基本の20倍進呈いたします",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": "※ご応募は不要です。",
+      "confidence": "confirmed"
+    }
+  ]
+}

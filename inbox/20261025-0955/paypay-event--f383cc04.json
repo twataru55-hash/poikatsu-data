@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "PayPayステップ 通常条件達成特典",
+      "benefit": {
+        "rate_max": 1.5,
+        "rate_text": "最大1.5％PayPayポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "本人確認済、前月200円以上30回かつ10万円。12～18歳は別条件、クレジット利用設定で最大1.5％",
+      "official_url": "https://paypay.ne.jp/event/paypaystep/",
+      "evidence_quote": "毎月の支払い状況に合わせて最大1.5％戻ってくる！※1 基本付与分※2 0.5〜1.0％＋条件達成特典0.5％ 最大1.5％",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

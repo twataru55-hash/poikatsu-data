@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "神栖市2026かみすプレミアム共通券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円で計1万4千円分・共通券1万円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "08"
+        ],
+        "municipality": "神栖市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-18T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://kamisu.or.jp/coupon2026/premium-coupon.html"
+      },
+      "conditions": "市民の申込当選者限定、共通券対象店のみ。申込5/31終了、購入12/17まで。1人1口、大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/ibaraki-kamisu-city-gift-vouchers-20260601/",
+      "evidence_quote": "2026かみすプレミアムクーポン券は、1口当たり「共通券」と「専用券」のセット販売となります。14,000円分 = 共通券10,000円分 + 専用券4,000円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月18日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "神栖市2026かみすプレミアム専用券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円で計1万4千円分・専用券4千円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "08"
+        ],
+        "municipality": "神栖市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-18T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://kamisu.or.jp/coupon2026/premium-coupon.html"
+      },
+      "conditions": "市民の申込当選者限定、小規模対象店専用。申込5/31終了、購入12/17まで。1人1口、たばこ等除外",
+      "official_url": "https://paypay.ne.jp/event/ibaraki-kamisu-city-gift-vouchers-20260601/",
+      "evidence_quote": "2026かみすプレミアムクーポン券は、1口当たり「共通券」と「専用券」のセット販売となります。14,000円分 = 共通券10,000円分 + 専用券4,000円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月18日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

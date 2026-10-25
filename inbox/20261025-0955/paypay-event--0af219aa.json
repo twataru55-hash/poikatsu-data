@@ -1,0 +1,78 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "松屋 注文サービスPayPayスクラッチくじ",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選で最大全額PayPayポイント還元",
+        "cap_per_use": 100000,
+        "cap_total": 100000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsuya-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "松弁ネット・デリバリー・モバイルオーダーでPayPay対象方法800円以上。くじは取得後30日以内に削る",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "evidence_quote": "1等：100％（決済金額の100％相当）\r\n2等：5％（決済金額の5％相当）\r\n3等：0.5％（決済金額の0.5％相当）\r\n100,000ポイント／回・期間",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "松屋 注文サービスPayPayクーポン",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10％PayPayポイント還元",
+        "cap_per_use": 200,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsuya-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "松弁ネット・デリバリー・モバイルオーダー、税込800円以上。クーポン5回まで、PayPay商品券等除外",
+      "official_url": "https://paypay.ne.jp/event/matsuya-20261001/",
+      "evidence_quote": "すべての方が対象 PayPayクーポン 付与上限：200ポイント／回 利用回数：5回 有効期間：10/1〜10/31 最低決済金額：800円。最大10％戻ってくる",
+      "period_evidence_quote": "2026/10/1（木）〜10/31（土）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

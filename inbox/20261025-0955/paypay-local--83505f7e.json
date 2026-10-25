@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "那須烏山市デジタルわくわく商品券 共通券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5千円で計6750円分・共通券4750円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "那須烏山市"
+      },
+      "period": {
+        "start": null,
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "市在住18歳以上の購入権取得者限定、本人確認。申込9/30終了、購入1/30まで。1人12口、対象店限定",
+      "official_url": "https://paypay.ne.jp/event/tochigi-nasukarasuyama-city-gift-vouchers-20260907/",
+      "evidence_quote": "那須烏山市デジタルわくわく商品券は、1口当たり「栃木県那須烏山市「共通券」」と「栃木県那須烏山市「専用券」」のセット販売となります。1セット6,750円分 = 栃木県那須烏山市「共通券」4,750円分 + 栃木県那須烏山市「専用券」2,000円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2027年1月31日（日）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "那須烏山市デジタルわくわく商品券 専用券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5千円で計6750円分・専用券2千円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "那須烏山市"
+      },
+      "period": {
+        "start": null,
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "市在住18歳以上の購入権取得者限定、本人確認。申込9/30終了、購入1/30まで。1人12口、指定店限定",
+      "official_url": "https://paypay.ne.jp/event/tochigi-nasukarasuyama-city-gift-vouchers-20260907/",
+      "evidence_quote": "那須烏山市デジタルわくわく商品券は、1口当たり「栃木県那須烏山市「共通券」」と「栃木県那須烏山市「専用券」」のセット販売となります。1セット6,750円分 = 栃木県那須烏山市「共通券」4,750円分 + 栃木県那須烏山市「専用券」2,000円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2027年1月31日（日）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

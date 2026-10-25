@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 火曜日対象日配品20円引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "火曜の対象日配品20円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "火曜限定、★付き対象ロゴ商品・牛乳。沖縄除外、牛乳1000mlは宮崎鹿児島除外、緑豆もやし対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2603_seikatsu-ouen_cp.html",
+      "evidence_quote": "毎週火曜日限定\r\n生たまご・ハム・納豆などの商品が\r\n20円引き！",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 金曜日対象冷凍食品2個50円引き",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象冷凍食品2個ごと50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "金曜限定、対象KITCHEN/PREMIUMロゴの冷凍食品を一度に2個。フラッペ・氷・冷凍飲料・アイス除外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2603_seikatsu-ouen_cp.html",
+      "evidence_quote": "毎週金曜日限定\r\n冷凍食品が2個購入ごとに50円引き!",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

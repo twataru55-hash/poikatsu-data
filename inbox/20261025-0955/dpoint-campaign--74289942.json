@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "なか卯 来店回数でdポイント最大15倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "月の来店回数で最大15倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "nakau"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-07-01T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "dポイントカード提示で税込200円・1pt以上、月末まで利用登録。1日1回・月リセット、アプリは連携必須",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/zensho_260701_7659/index.html",
+      "evidence_quote": "1か月の間に、なか卯に来店すればするほど、ポイントの倍率がアップ！1回来店 1倍 2回来店 2倍 3回来店 5倍 4回来店 10倍 5回以上来店 15倍",
+      "period_evidence_quote": "※本キャンペーンは2026年7月1日（水）午前0：00より開始し、終了時期は未定となります。",
+      "entry_evidence_quote": "※エントリーは不要です。",
+      "confidence": "unconfirmed"
+    }
+  ]
+}

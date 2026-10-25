@@ -1,0 +1,148 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 ホワイトロースハム",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品30ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ローソンストア100、Pontaカード提示。対象品180g、一部取扱いなし",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ホワイトロースハム\r\nホワイトロースハム\r\nメーカー名：プリマハム\r\n内容量：180g\r\n本体価格 318円\r\n（税込 343円）\r\n30P",
+      "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 とろり半熟トッピングたまご",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "とろり半熟トッピングたまご\r\nとろり半熟トッピングたまご\r\nメーカー名：バリューライン\r\n内容量：4個入\r\n本体価格 148円\r\n（税込 160円）\r\n10P",
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 温泉たまご",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "温泉たまご\r\n温泉たまご\r\nメーカー名：丸金\r\n内容量：4個入\r\n本体価格 148円\r\n（税込 160円）\r\n10P",
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ストア100 炭火焼鳥ぼんじり串（塩）",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品10ボーナスポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "ローソンストア100、Pontaカード提示。対象品1本、ファストフーズ取扱店限定・一部店舗除外",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "炭火焼鳥ぼんじり串（塩）\r\n炭火焼鳥ぼんじり串（塩）\r\nメーカー名：-\r\n内容量：1本\r\n本体価格 120円\r\n（税込 130円）\r\n※ファストフーズ取扱店限定\r\n※一部店舗除く\r\n10P",
+      "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

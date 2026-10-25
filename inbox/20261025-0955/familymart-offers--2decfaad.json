@@ -1,0 +1,176 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ 紅茶花伝ロイヤルミルクティー440ml無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T07:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "対象の紅茶花伝ロイヤルミルクティー440mlを10/20～26購入。ホット対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "紅茶花伝 ロイヤルミルクティー\r\n440ml\r\n※ホットは対象外です。",
+      "period_evidence_quote": "引換期間\r\n10/27\r\n火\r\nAM7:00～11/2\r\n月",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ お～いお茶ゆずグリーン600ml無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T07:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "お～いお茶ゆずグリーン600mlを10/20～26購入",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "お～いお茶 ゆずグリーン\r\n600ml",
+      "period_evidence_quote": "引換期間\r\n10/27\r\n火\r\nAM7:00～11/2\r\n月",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ワンタンしょうゆ味無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T07:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミマル6種の野菜を使用旨辛味噌激辛を10/20～26購入",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "ワンタン しょうゆ味",
+      "period_evidence_quote": "引換期間\r\n10/27\r\n火\r\nAM7:00～11/2\r\n月",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ ワンタンとんこつ無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T07:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミマル6種の野菜を使用旨辛味噌激辛を10/20～26購入",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "ワンタン とんこつ",
+      "period_evidence_quote": "引換期間\r\n10/27\r\n火\r\nAM7:00～11/2\r\n月",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミマ スープカレーワンタン無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [
+          "01"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T07:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "北海道限定、ファミマル6種の野菜を使用旨辛味噌激辛を10/20～26購入",
+      "official_url": "https://www.family.co.jp/campaign/spot/2023_1buy1-receipt_cp.html",
+      "evidence_quote": "※北海道のみ「スープカレー ワンタン」も引換対象に含みます。",
+      "period_evidence_quote": "引換期間\r\n10/27\r\n火\r\nAM7:00～11/2\r\n月",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

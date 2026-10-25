@@ -1,0 +1,115 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "aeon-pay",
+        "waon-point"
+      ],
+      "title": "ミニストップ毎月10日 AEON Payコード・WAONタッチ10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-10T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "毎月10日AEON Payコード/WAONタッチ。カード型WAON・POINT利用・POSA・MINISOF等除外",
+      "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+      "evidence_quote": "・毎月10日にミニストップ店舗にて、AEON Payのコード払い、AEON PayのWAONタッチ、モバイルWAON、Apple Pay WAONをご利用いただくとWAON POINTを基本の10倍進呈。ミニストップのモバイルオーダー(WEB版・アプリ版)のAEON Payのコード払いも対象です。",
+      "period_evidence_quote": "期間\r\n2025/7/10～",
+      "entry_evidence_quote": "・毎月10日にミニストップ店舗にて、AEON Payのコード払い、AEON PayのWAONタッチ、モバイルWAON、Apple Pay WAONをご利用いただくとWAON POINTを基本の10倍進呈。ミニストップのモバイルオーダー(WEB版・アプリ版)のAEON Payのコード払いも対象です。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "ミニストップ毎月10日 登録済みモバイルWAON等10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の10倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-10T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "毎月10日、登録済モバイルWAON/Apple Pay WAON。POINT利用・POSA・MINISOF等除外",
+      "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+      "evidence_quote": "・毎月10日にミニストップ店舗にて、AEON Payのコード払い、AEON PayのWAONタッチ、モバイルWAON、Apple Pay WAONをご利用いただくとWAON POINTを基本の10倍進呈。ミニストップのモバイルオーダー(WEB版・アプリ版)のAEON Payのコード払いも対象です。",
+      "period_evidence_quote": "期間\r\n2025/7/10～",
+      "entry_evidence_quote": "・毎月10日にミニストップ店舗にて、AEON Payのコード払い、AEON PayのWAONタッチ、モバイルWAON、Apple Pay WAONをご利用いただくとWAON POINTを基本の10倍進呈。ミニストップのモバイルオーダー(WEB版・アプリ版)のAEON Payのコード払いも対象です。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "waon",
+        "waon-point"
+      ],
+      "title": "ミニストップ毎月10日 未登録の対象WAON9倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "WAON POINT基本の9倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2025-07-10T00:00:00+09:00",
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "毎月10日、会員未登録の対象スマホWAON。カード型WAON・POINT利用・POSA・MINISOF等除外",
+      "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
+      "evidence_quote": "※会員登録をしていないWAONは基本の９倍進呈となります。",
+      "period_evidence_quote": "期間\r\n2025/7/10～",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

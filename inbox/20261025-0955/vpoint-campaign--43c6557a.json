@@ -1,0 +1,43 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "Vポイント街のお店 最大100％ポイントバック",
+      "benefit": {
+        "rate_max": 100,
+        "rate_text": "抽選で最大100％ポイントバック",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "excluded_store_ids": [
+          "familymart",
+          "welcia-group",
+          "eneos"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象の街のお店でモバイルVカード/Tカード提示。会計上限10万円。ファミマ・ウエルシア等主な提携先対象外",
+      "official_url": "https://cpn.tsite.jp/detail/en910039708007",
+      "evidence_quote": "期間中にエントリーかつ対象店舗でモバイルVカードまたはTカードを提示すると、抽選で最大100%ポイントバック！",
+      "period_evidence_quote": "2026年10月1日（木）～2026年10月31日（土）",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

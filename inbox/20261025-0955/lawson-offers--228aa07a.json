@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン 爽バニラ無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "爽バニラ1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に対象トッポ2袋3種のいずれか購入。持帰り限定。ナチュラル・ストア100・Lミニ除外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533160_3677.html",
+      "evidence_quote": "ロッテ　爽　バニラ　190ml\r\n194円",
+      "period_evidence_quote": "レシート無料券　引換期間　10/20(火)〜10/26(月)",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン 爽生チョコinバニラ無料引換券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "爽生チョコinバニラ1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19に対象トッポ2袋3種のいずれか購入。持帰り限定。ナチュラル・ストア100・Lミニ除外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533160_3677.html",
+      "evidence_quote": "ロッテ　爽　生チョコinバニラ　185ml\r\n194円",
+      "period_evidence_quote": "レシート無料券　引換期間　10/20(火)〜10/26(月)",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

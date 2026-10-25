@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン キレートレモンMUKUMI155ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "キレートレモンMUKUMI1本無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "10/13～19にキレートレモンMUKUMIゼリー165gを購入し無料券を取得済みの方。持帰り、スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533161_3677.html",
+      "evidence_quote": "●引換券対象商品\r\nレシート無料券　引換期間　10/20(火)〜10/26(月)\r\nポッカサッポロ　キレートレモン　MUKUMI　155ml",
+      "period_evidence_quote": "レシート無料券　引換期間　10/20(火)〜10/26(月)",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

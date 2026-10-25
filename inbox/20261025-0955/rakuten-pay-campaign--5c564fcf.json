@@ -1,0 +1,42 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天モバイル利用者 楽天ペイ抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大30,000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "excluded_store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pay/mobile/2610?ekey=checked"
+      },
+      "conditions": "所定の楽天モバイル契約・同一IDで税込1500円以上コード等払い。初利用10倍、メルマガ必須。ファミマ等除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/pay-mobile/",
+      "evidence_quote": "抽選で合計230名さまに楽天ポイントを総額200万ポイント進呈\r\n1等：30,000ポイント（30名さま）\r\n2等：10,000ポイント（100名さま）\r\n3等：1,000ポイント（100名さま）",
+      "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

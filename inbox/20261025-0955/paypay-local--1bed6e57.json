@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "高根沢町たんたんプレミアム商品券 共通券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5千円で計7千円分・共通券3500円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "高根沢町"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-04T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "町在住2008/4/1以前生まれ、本人確認済。1人2口、2次先着、購入12/3まで。共通券対象店限定",
+      "official_url": "https://paypay.ne.jp/event/tochigi-takanezawa-town-gift-vouchers-20260601/",
+      "evidence_quote": "高根沢町たんたんプレミアム商品券は、1口当たり「栃木県高根沢町（共通券）」と「栃木県高根沢町（専用券）」のセット販売となります。1セット7,000円分 = 栃木県高根沢町（共通券）3,500円分 + 栃木県高根沢町（専用券）3,500円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月4日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "高根沢町たんたんプレミアム商品券 専用券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5千円で計7千円分・専用券3500円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "09"
+        ],
+        "municipality": "高根沢町"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-04T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "町在住2008/4/1以前生まれ、本人確認済。1人2口、2次先着、購入12/3まで。指定店限定",
+      "official_url": "https://paypay.ne.jp/event/tochigi-takanezawa-town-gift-vouchers-20260601/",
+      "evidence_quote": "高根沢町たんたんプレミアム商品券は、1口当たり「栃木県高根沢町（共通券）」と「栃木県高根沢町（専用券）」のセット販売となります。1セット7,000円分 = 栃木県高根沢町（共通券）3,500円分 + 栃木県高根沢町（専用券）3,500円分です。",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年12月4日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

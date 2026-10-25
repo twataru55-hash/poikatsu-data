@@ -1,0 +1,43 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ ビオレ＋10％",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "対象ビオレザボディ＋10％還元",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "excluded_store_ids": [
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象品1会計千円、dポイントカード提示で1pt以上。10/31まで利用者登録。関空3店・新生堂・通販除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7796/index.html",
+      "evidence_quote": "マツモトキヨシグループおよびココカラファイングループのお店で花王商品 ビオレの対象商品をお買い上げの際にdポイントカードを掲示して1回1,000円（税込）以上購入すると＋10％dポイント（期間・用途限定）還元（進呈上限：1,000ポイント）",
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "entry_evidence_quote": "※エントリー不要です。",
+      "confidence": "confirmed"
+    }
+  ]
+}
