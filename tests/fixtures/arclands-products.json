@@ -1,0 +1,232 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICOしっかり消臭厚型ペットシーツレギュラー 96枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品300楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICOしっかり消臭厚型ペットシーツレギュラー 96枚\r\nNICOしっかり消臭\r\n厚型ペットシーツ\r\nレギュラー 96枚\r\n1,628\r\n円\r\n（税込）\r\n300\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICOしっかり消臭厚型ペットシーツワイド 48枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品300楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICOしっかり消臭厚型ペットシーツワイド 48枚\r\nNICOしっかり消臭\r\n厚型ペットシーツ\r\nワイド 48枚\r\n1,628\r\n円\r\n（税込）\r\n300\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICOしっかり消臭厚型ペットシーツスーパーワイド 24枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品300楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICOしっかり消臭厚型ペットシーツスーパーワイド 24枚\r\nNICOしっかり消臭\r\n厚型ペットシーツ\r\nスーパーワイド 24枚\r\n1,628\r\n円\r\n（税込）\r\n300\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICO大容量ペットシーツ薄型 レギュラー 280枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品100楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICO大容量ペットシーツ薄型 レギュラー 280枚\r\nNICO大容量ペットシーツ薄型\r\nレギュラー 280枚\r\n1,958\r\n円\r\n（税込）\r\n100\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICO大容量ペットシーツ薄型 ワイド 140枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品100楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICO大容量ペットシーツ薄型 ワイド 140枚\r\nNICO大容量ペットシーツ薄型\r\nワイド 140枚\r\n1,958\r\n円\r\n（税込）\r\n100\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "アークランズ NICO大容量ペットシーツ薄型 スーパーワイド 70枚",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品100楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "vivahome",
+          "musashi",
+          "nicopet"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-30T00:00:00+09:00",
+        "end": "2026-10-27T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象店で楽天ポイントカード等提示・期間中利用登録。ビバホームプロ・ムサシプロ等5店区分対象外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
+      "evidence_quote": "NICO大容量ペットシーツ薄型 スーパーワイド 70枚\r\nNICO大容量ペットシーツ薄型\r\nスーパーワイド 70枚\r\n1,958\r\n円\r\n（税込）\r\n100\r\nポイント",
+      "period_evidence_quote": "2026年9月30日（水）0:00～2026年10月27日（火）23:59",
+      "entry_evidence_quote": "エントリー不要",
+      "confidence": "confirmed"
+    }
+  ]
+}

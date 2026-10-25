@@ -48,9 +48,9 @@ def link_section(links: list) -> str:
 def detail_source(parent: dict, url: str) -> dict:
     """一覧ページ（parent）からたどった詳細ページを、取得元として扱える形にする。"""
     did = f"{parent['id']}--{hashlib.sha1(url.encode('utf-8')).hexdigest()[:8]}"
-    follow = parent.get("follow") or {}
+    from discovery import detail_render
     return {**parent, "id": did, "url": url, "name": f"{parent['name']}（詳細ページ）",
-            "render": follow.get("render", parent.get("render", "static")), "parent": parent["id"]}
+            "render": detail_render(parent, url), "parent": parent["id"]}
 
 
 def follow_details(page, config: dict, snapshots: dict, fetcher: Fetcher, force=False, audit=None,

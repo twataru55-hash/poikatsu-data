@@ -16,6 +16,7 @@ from jsonschema import Draft202012Validator
 from collect import Fetcher, fetch_text
 from common import DATA_DIR, ROOT, SCHEMA_DIR, load_config, load_json, load_sources, save_json, setup_utf8_stdout
 from holds import GitHub
+from discovery import detail_render
 from pipeline import finalize, new_stats, prepare_master, process_items
 from validate import http_url_checker
 
@@ -83,7 +84,7 @@ def run() -> dict:
             if item.get("parent"):
                 # 一覧ページからたどった詳細ページ：親の設定を使い、URL だけ差し替える
                 parent = sources.get(item["parent"])
-                src = {**parent, "url": item["url"], "render": (parent.get("follow") or {}).get("render", parent.get("render"))} if parent else None
+                src = {**parent, "url": item["url"], "render": detail_render(parent, item["url"])} if parent else None
             else:
                 src = sources.get(sid)
             stats["pages_changed"] += 1

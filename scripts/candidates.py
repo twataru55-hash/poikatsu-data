@@ -14,6 +14,8 @@ SIMILARITY = 0.75  # タイトルか根拠文がこれ以上似ていれば同�
 _PRODUCT_BONUS_URLS = {
     "https://www.family.co.jp/campaign/otoku.html",
     "https://www.family.co.jp/campaign/pointplus.html",
+    "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930",
+    "https://store100.lawson.co.jp/point/bonus/index.html",
 }
 
 _DATE_ONLY = re.compile(r"^\d{4}-\d{2}-\d{2}$")

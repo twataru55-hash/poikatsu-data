@@ -13,11 +13,19 @@ from collect import extract_links, html_to_text
 from common import WORK_DIR, domain_allowed, http_session, load_json, now_jst, save_json, canonical_detail_url
 
 
+def detail_render(parent: dict, url: str) -> str:
+    """Apply exact, official-URL render overrides consistently in every stage."""
+    follow = parent.get("follow") or {}
+    default = follow.get("render", parent.get("render", "static"))
+    overrides = follow.get("render_overrides") or {}
+    return overrides.get(canonical_detail_url(url).rstrip("/"), default)
+
+
 def source_for_detail(parent: dict, url: str) -> dict:
     follow = parent.get("follow") or {}
     return {**parent, "id": parent["id"] + "--" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:8],
             "url": url, "name": parent["name"] + "（詳細ページ）", "parent": parent["id"],
-            "render": follow.get("render", parent.get("render", "static"))}
+            "render": detail_render(parent, url)}
 
 
 def can_refresh_known(page) -> bool:

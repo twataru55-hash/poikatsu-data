@@ -109,6 +109,11 @@
               "pattern": "^https://"
             }
           },
+          "render_overrides": {
+            "type": "object",
+            "propertyNames": {"pattern": "^https://"},
+            "additionalProperties": {"enum": ["static", "js"]}
+          },
           "pagination_pattern": {
             "type": "string"
           },
