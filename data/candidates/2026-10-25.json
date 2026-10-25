@@ -1,0 +1,702 @@
+[
+  {
+    "id": "cp-27afdc1f94",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "paypay-event",
+    "title": "PayPayステップ 通常条件達成特典"
+  },
+  {
+    "id": "cp-85d26c652d",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ ビオレ＋10％"
+  },
+  {
+    "id": "cp-96e1f4bedb",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天モバイル利用者 楽天ペイ抽選"
+  },
+  {
+    "id": "cp-6a8d4d2d01",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナンプラス会員コード提示で楽天ポイント2倍"
+  },
+  {
+    "id": "cp-8c4b4710ce",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V07 同一企画の期間根拠に開始日が見つからない",
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ],
+    "source": "vpoint-campaign",
+    "title": "Vポイント祭 福福キャンペーン"
+  },
+  {
+    "id": "cp-1b2793a7f4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン ソフトバンクPayPayクーポン"
+  },
+  {
+    "id": "cp-b6113c5355",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V04 エントリーURLのドメインが公式と一致しない: https://kamisu.or.jp/coupon2026/premium-coupon.html",
+      "V05 エントリーURLが開けない: 公式外へ転送: https://kamisu.or.jp/coupon2026/premium-coupon.html"
+    ],
+    "source": "paypay-local",
+    "title": "神栖市2026かみすプレミアム共通券"
+  },
+  {
+    "id": "cp-b0093bf737",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V04 エントリーURLのドメインが公式と一致しない: https://kamisu.or.jp/coupon2026/premium-coupon.html",
+      "V05 エントリーURLが開けない: 公式外へ転送: https://kamisu.or.jp/coupon2026/premium-coupon.html"
+    ],
+    "source": "paypay-local",
+    "title": "神栖市2026かみすプレミアム専用券"
+  },
+  {
+    "id": "cp-47264fc632",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "クラフトボス世界のTEAティーオレンジ無料引換券"
+  },
+  {
+    "id": "cp-35ad74565c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ 金土日AEON Pay10倍"
+  },
+  {
+    "id": "cp-fc93d7ff63",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ モバイルオーダー金土日20倍"
+  },
+  {
+    "id": "cp-8574b7b3eb",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 ホワイトロースハム"
+  },
+  {
+    "id": "cp-6f43d16f73",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 とろり半熟トッピングたまご"
+  },
+  {
+    "id": "cp-5847d514a3",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 温泉たまご"
+  },
+  {
+    "id": "cp-9876826423",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "ponta-campaign",
+    "title": "ストア100 炭火焼鳥ぼんじり串（塩）"
+  },
+  {
+    "id": "cp-b938aa5c2f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V10 期間上限が大きい（100000）ため確認が必要"
+    ],
+    "source": "paypay-event",
+    "title": "松屋 注文サービスPayPayスクラッチくじ"
+  },
+  {
+    "id": "cp-c86b82d571",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-event",
+    "title": "松屋 注文サービスPayPayクーポン"
+  },
+  {
+    "id": "cp-b4787f7b97",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "アルカドラッグd払い抽選最大10000ポイント"
+  },
+  {
+    "id": "cp-b14a912b01",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ給与受取者 残高払い最大3％還元"
+  },
+  {
+    "id": "cp-0187a006bb",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "ベイシア抽選1,000名に1,000ポイント"
+  },
+  {
+    "id": "cp-cacbb07f14",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "vpoint-campaign",
+    "title": "Vポイント街のお店 最大100％ポイントバック"
+  },
+  {
+    "id": "cp-14cb1ce703",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 火曜日対象日配品20円引き"
+  },
+  {
+    "id": "cp-dccd393db1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 金曜日対象冷凍食品2個50円引き"
+  },
+  {
+    "id": "cp-eb85999d3a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン 四国学生限定学割クーポン"
+  },
+  {
+    "id": "cp-1d25652d06",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "paypay-local",
+    "title": "高根沢町たんたんプレミアム商品券 共通券"
+  },
+  {
+    "id": "cp-2f12440990",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "paypay-local",
+    "title": "高根沢町たんたんプレミアム商品券 専用券"
+  },
+  {
+    "id": "cp-469ef61010",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン 爽バニラ無料引換券"
+  },
+  {
+    "id": "cp-5f4071296c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン 爽生チョコinバニラ無料引換券"
+  },
+  {
+    "id": "cp-ec3564a523",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ毎月10日 AEON Payコード・WAONタッチ10倍"
+  },
+  {
+    "id": "cp-e42cb01dfd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ毎月10日 登録済みモバイルWAON等10倍"
+  },
+  {
+    "id": "cp-68b02c4f7e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-offers",
+    "title": "ミニストップ毎月10日 未登録の対象WAON9倍"
+  },
+  {
+    "id": "cp-911a906068",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "なか卯 来店回数でdポイント最大15倍"
+  },
+  {
+    "id": "cp-b3f9156f51",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ 紅茶花伝ロイヤルミルクティー440ml無料引換券"
+  },
+  {
+    "id": "cp-a60c145110",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ お～いお茶ゆずグリーン600ml無料引換券"
+  },
+  {
+    "id": "cp-ad01b33827",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ワンタンしょうゆ味無料引換券"
+  },
+  {
+    "id": "cp-02d6f19ab7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ ワンタンとんこつ無料引換券"
+  },
+  {
+    "id": "cp-b2eeeea6f9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマ スープカレーワンタン無料引換券"
+  },
+  {
+    "id": "cp-7b48c32898",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズムアイマスク無香料無料券"
+  },
+  {
+    "id": "cp-49f06f2f3b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズムアイマスク金木犀無料券"
+  },
+  {
+    "id": "cp-65f9daf927",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズムアイマスクラベンダー無料券"
+  },
+  {
+    "id": "cp-9a87b5c646",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズムアイマスク完熟ゆず無料券"
+  },
+  {
+    "id": "cp-a7becfad53",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズムアイマスクカモミール無料券"
+  },
+  {
+    "id": "cp-151f042de9",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ユンケルローヤルG錠2錠入無料券"
+  },
+  {
+    "id": "cp-9aaea12a86",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ R-1ドリンク112g無料券"
+  },
+  {
+    "id": "cp-b9d2293c3a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ R-1ドリンク低糖低カロリー無料券"
+  },
+  {
+    "id": "cp-30130360b1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ R-1ヨーグルト112g無料券"
+  },
+  {
+    "id": "cp-2926871134",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ リッチザフルーツのど飴濃いピオーネ小袋無料券"
+  },
+  {
+    "id": "cp-a75dad2906",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ まるごとしぼったりんごのど飴小袋無料券"
+  },
+  {
+    "id": "cp-b9aa1607ac",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キットカットバー1本無料券"
+  },
+  {
+    "id": "cp-730b044509",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ 綾鷹濃い緑茶650ml無料券"
+  },
+  {
+    "id": "cp-060eca1179",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ いろはす天然水1020ml無料券"
+  },
+  {
+    "id": "cp-732cba15bc",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キュキュットオレンジ本体220ml無料券"
+  },
+  {
+    "id": "cp-0b57f3e2ff",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズム蒸気でグッドナイト無香料無料券"
+  },
+  {
+    "id": "cp-7f60577071",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ めぐりズム蒸気でグッドナイトラベンダー無料券"
+  },
+  {
+    "id": "cp-f8e22b8769",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キューピーコーワαドリンク100ml無料券"
+  },
+  {
+    "id": "cp-5525187ee6",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キューピーコーワαゼロドリンク100ml無料券"
+  },
+  {
+    "id": "cp-310609c94a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キューピーコーワiドリンク100ml無料券"
+  },
+  {
+    "id": "cp-7b0c452c90",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キューピーコーワヒーリングドリンク100ml無料券"
+  },
+  {
+    "id": "cp-46907a2cef",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ 山芳ポテトチップス韓国のり味無料券"
+  },
+  {
+    "id": "cp-1b6add2b51",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ガルボチョコポケットパック無料券"
+  },
+  {
+    "id": "cp-7097b3734b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ガルボつぶ練り苺ポケットパック無料券"
+  },
+  {
+    "id": "cp-a7d9b0c35a",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ガルボブラックポケットパック無料券"
+  },
+  {
+    "id": "cp-c3b16ed8d5",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ 紅茶花伝ロイヤルミルクティー440ml無料券"
+  },
+  {
+    "id": "cp-3fca911bed",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ 紅茶花伝無糖アールグレイミルク440ml無料券"
+  },
+  {
+    "id": "cp-1030b9345e",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キリンおいしい免疫ケア100ml無料券"
+  },
+  {
+    "id": "cp-4e12c549bd",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ キリンおいしい免疫ケアカロリーオフ100ml無料券"
+  },
+  {
+    "id": "cp-20a2a1f15b",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ どん兵衛きつねうどんミニ無料券"
+  },
+  {
+    "id": "cp-fe5b93b2f1",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ どん兵衛天ぷらそばミニ無料券"
+  },
+  {
+    "id": "cp-ed3363c05c",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ブルボンひとくちルマンド無料券"
+  },
+  {
+    "id": "cp-1a3282a874",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ブルボンひとくちホワイトロリータ無料券"
+  },
+  {
+    "id": "cp-23f1939e53",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ロッテ爽バニラ無料券"
+  },
+  {
+    "id": "cp-8ddeae2892",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ 天然水きりっと果実600ml無料券"
+  },
+  {
+    "id": "cp-1da2e78665",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ジョージアアシャッチュピーチ410ml無料券"
+  },
+  {
+    "id": "cp-17ba6192d4",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "seven-offers",
+    "title": "セブン プライチ ジョージアアシャッチュマンゴー410ml無料券"
+  },
+  {
+    "id": "cp-a65a607143",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "那須烏山市デジタルわくわく商品券 共通券"
+  },
+  {
+    "id": "cp-26483795db",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "那須烏山市デジタルわくわく商品券 専用券"
+  },
+  {
+    "id": "cp-1de5feb42b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン キレートレモンMUKUMI155ml無料券"
+  }
+]
