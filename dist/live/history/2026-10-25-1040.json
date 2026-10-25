@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-24-0209",
-    "generated_at": "2026-10-24T02:09:40+09:00",
+    "data_version": "2026-10-25-1040",
+    "generated_at": "2026-10-25T10:40:58+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 219,
-      "live_campaigns": 210,
+      "campaigns": 256,
+      "live_campaigns": 235,
       "stores": 82,
       "recurring": 4
     }
@@ -1049,7 +1049,7 @@
       },
       "benefit_text": "WAON POINTが基本の10倍",
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "last_verified": "2026-10-23"
+      "last_verified": "2026-10-25"
     },
     {
       "id": "rc-waon-thanks",
@@ -1069,7 +1069,7 @@
       },
       "benefit_text": "対象品5%OFF、一部店・商品除外",
       "official_url": "https://www.waon.net/campaign/thanks_day/",
-      "last_verified": "2026-10-23"
+      "last_verified": "2026-10-25"
     },
     {
       "id": "rc-ministop-weekend",
@@ -1091,7 +1091,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-23"
+      "last_verified": "2026-10-25"
     },
     {
       "id": "rc-ministop10",
@@ -1111,84 +1111,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-23"
+      "last_verified": "2026-10-25"
     }
   ],
   "campaigns": [
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "西友・リヴィン10/24増量日最大7倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で楽天ポイント最大7倍",
-        "cap_per_use": null,
-        "cap_total": 250,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seiyu-livin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-24T00:00:00+09:00",
-        "end": "2026-10-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
-      "id": "cp-9b52e988c4"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "ウェルパーク10/24 ポイント利用10％返還",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "利用dポイントの10％還元",
-        "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "welpark"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-24T00:00:00+09:00",
-        "end": "2026-10-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "同一会計200pt以上利用。買物総額の10％ではない。d払い充当・調剤等除外、利用者登録",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898104_PB7831/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "・対象日：10月3日（土）、10日（土）、17日（土）、24日（土）、31日（土）",
-      "id": "cp-c23a2831a7"
-    },
     {
       "type": "reward",
       "brand_ids": [
@@ -1342,6 +1268,42 @@
       "id": "cp-066757bc49"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ジョージアアシャッチュマンゴー410ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/06～12にいろはす天然水540ml/ラベルレス560ml購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-17ba6192d4"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -1414,6 +1376,42 @@
       "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
       "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
       "id": "cp-1cbafc339f"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ジョージアアシャッチュピーチ410ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/06～12にいろはす天然水540ml/ラベルレス560ml購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-1da2e78665"
     },
     {
       "type": "coupon",
@@ -1920,6 +1918,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-8500c42a39"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ 天然水きりっと果実600ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/06～12に天然水きりっと果実ぶどう＆もも600ml購入。冷凍590ml除外、併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-8ddeae2892"
     },
     {
       "type": "coupon",
@@ -2487,7 +2521,7 @@
       "title": "ストア100 温泉たまご",
       "benefit": {
         "rate_max": null,
-        "rate_text": "10Pボーナス",
+        "rate_text": "対象品10ボーナスポイント",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -2508,11 +2542,13 @@
         "required": false,
         "url": null
       },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
       "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
       "id": "cp-5847d514a3"
     },
     {
@@ -2523,7 +2559,7 @@
       "title": "ストア100 とろり半熟トッピングたまご",
       "benefit": {
         "rate_max": null,
-        "rate_text": "10Pボーナス",
+        "rate_text": "対象品10ボーナスポイント",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -2544,11 +2580,13 @@
         "required": false,
         "url": null
       },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
       "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
       "id": "cp-6f43d16f73"
     },
     {
@@ -2586,6 +2624,258 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-83305a1afa"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キリンおいしい免疫ケア100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にキリンおいしい免疫ケア100ml（旧品可）購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-1030b9345e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ブルボンひとくちホワイトロリータ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にアルフォートミニチョコレート/ショコラサブレ購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-1a3282a874"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ どん兵衛きつねうどんミニ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にどん兵衛きつねうどん/天ぷらそば対象2品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-20a2a1f15b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ロッテ爽バニラ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にロッテ紗々/紗々芳醇いちご購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-23f1939e53"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キリンおいしい免疫ケアカロリーオフ100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にキリンおいしい免疫ケアカロリーオフ100ml（旧品可）購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-4e12c549bd"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ブルボンひとくちルマンド無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にアルフォートミニチョコレート/ショコラサブレ購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-ed3363c05c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ どん兵衛天ぷらそばミニ無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-15T00:00:00+09:00",
+        "end": "2026-10-28T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/08～14にどん兵衛きつねうどん/天ぷらそば対象2品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月15日（木）\r\n～10月28日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-fe5b93b2f1"
     },
     {
       "type": "reward",
@@ -2707,10 +2997,10 @@
       "brand_ids": [
         "rakuten-point"
       ],
-      "title": "コーナンプラス 楽天ポイント2倍",
+      "title": "コーナンプラス会員コード提示で楽天ポイント2倍",
       "benefit": {
         "rate_max": null,
-        "rate_text": "楽天ポイント2倍",
+        "rate_text": "楽天ポイント通常の2倍",
         "cap_per_use": null,
         "cap_total": 1000,
         "cap_unit": "pt"
@@ -2729,13 +3019,14 @@
       },
       "entry": {
         "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/kohnan/20260901?ekey=mp_on_wi_pym_cpn_list"
+        "url": "https://oubo.rakuten.co.jp/apply/kohnan/20260901?ekey=mp_on"
       },
-      "conditions": "楽天連携コーナンプラス会員コード提示、税抜200円以上。利用登録・メルマガ購読",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/?scid=wi_pym_cpn_list",
+      "conditions": "楽天ポイントカード連携済みコーナンプラス会員コード提示、税抜200円以上。終了まで利用登録・メルマガ必須",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/kohnan/20260901/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-04",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "2026年9月1日（火）0:00～2026年10月31日（土）23:59",
       "id": "cp-093a0e69b9"
     },
     {
@@ -3556,6 +3847,44 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-17f86dbf86"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "セブン ソフトバンクPayPayクーポン",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "最大10％PayPayポイント還元",
+        "cap_per_use": 100,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ソフトバンク利用者限定。事前獲得・連携済セブンアプリからPayPay支払、1回のみ。タバコ・7NOW等除外",
+      "official_url": "https://www.sej.co.jp/cmp/app_paypay2603.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "実施期間\r\n10月1日（木）～\r\n10月31日（土）",
+      "id": "cp-1b2793a7f4"
     },
     {
       "type": "bonus",
@@ -4499,6 +4828,46 @@
       "id": "cp-e48e408610"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン 四国学生限定学割クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "週替わり対象商品50円引券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [
+          "36",
+          "37",
+          "38",
+          "39"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "四国の対象校学生、4/2時点15～22歳（中学生除外）。LINE友だち登録・学生認証必須。四国店舗限定",
+      "official_url": "https://www.sej.co.jp/cmp/gakuwari2609.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "実施期間\r\n9月1日（火）～\r\n10月31日（土）",
+      "id": "cp-eb85999d3a"
+    },
+    {
       "type": "reward",
       "brand_ids": [
         "dpoint"
@@ -5140,11 +5509,12 @@
         "required": true,
         "url": "https://oubo.rakuten.co.jp/apply/pay/mobile/2610?ekey=checked"
       },
-      "conditions": "所定の楽天モバイル契約・同一IDで合計税込1500円以上。初利用10倍。ファミマ等除外",
+      "conditions": "所定の楽天モバイル契約・同一IDで税込1500円以上コード等払い。初利用10倍、メルマガ必須。ファミマ等除外",
       "official_url": "https://pay.rakuten.co.jp/campaign/pay-mobile/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
       "id": "cp-96e1f4bedb"
     },
     {
@@ -5527,6 +5897,42 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-2ec445e3cc"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ 紅茶花伝無糖アールグレイミルク440ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19に紅茶花伝贅沢しぼりのグレープティー440ml購入。ホット対象外、併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月20日（火）\r\n～11月2日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-3fca911bed"
     },
     {
       "type": "coupon",
@@ -6166,6 +6572,42 @@
       "id": "cp-bb6e415e64"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ 紅茶花伝ロイヤルミルクティー440ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/13～19に紅茶花伝贅沢しぼりのグレープティー440ml購入。ホット対象外、併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月20日（火）\r\n～11月2日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-c3b16ed8d5"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -6564,7 +7006,7 @@
       "title": "ストア100 ホワイトロースハム",
       "benefit": {
         "rate_max": null,
-        "rate_text": "30Pボーナス",
+        "rate_text": "対象品30ボーナスポイント",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -6585,11 +7027,13 @@
         "required": false,
         "url": null
       },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "conditions": "ローソンストア100、Pontaカード提示。対象品180g、一部取扱いなし",
       "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
       "id": "cp-8574b7b3eb"
     },
     {
@@ -6636,7 +7080,7 @@
       "title": "ストア100 炭火焼鳥ぼんじり串（塩）",
       "benefit": {
         "rate_max": null,
-        "rate_text": "10Pボーナス",
+        "rate_text": "対象品10ボーナスポイント",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -6657,11 +7101,13 @@
         "required": false,
         "url": null
       },
-      "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
+      "conditions": "ローソンストア100、Pontaカード提示。対象品1本、ファストフーズ取扱店限定・一部店舗除外",
       "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-25",
       "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
       "id": "cp-9876826423"
     },
     {
@@ -6699,6 +7145,402 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-a37dd561ab"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ガルボチョコポケットパック無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21に明治スティックパック対象3商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-1b6add2b51"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キューピーコーワiドリンク100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21にキューピーコーワ対象4商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-310609c94a"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ 山芳ポテトチップス韓国のり味無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21に山芳ポテトチップスわさビーフ購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-46907a2cef"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キューピーコーワαゼロドリンク100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21にキューピーコーワ対象4商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-5525187ee6"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ガルボつぶ練り苺ポケットパック無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21に明治スティックパック対象3商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-7097b3734b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キューピーコーワヒーリングドリンク100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21にキューピーコーワ対象4商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-7b0c452c90"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ガルボブラックポケットパック無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21に明治スティックパック対象3商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-a7d9b0c35a"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キューピーコーワαドリンク100ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-22T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/15～21にキューピーコーワ対象4商品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月22日（木）\r\n～11月4日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-f8e22b8769"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズム蒸気でグッドナイト無香料無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-11-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/16～22に薬用バブメディキュアクイック/極み1錠購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-0b57f3e2ff"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キュキュットオレンジ本体220ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-11-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/16～22にトイレマジックリン本体350ml（旧品可）購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-732cba15bc"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズム蒸気でグッドナイトラベンダー無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-23T00:00:00+09:00",
+        "end": "2026-11-05T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/16～22に薬用バブメディキュアクイック/極み1錠購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-7f60577071"
     },
     {
       "type": "lottery",
@@ -6772,6 +7614,42 @@
       "status_override": null,
       "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）",
       "id": "cp-0673b78dbe"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ いろはす天然水1020ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/20～26にいろはすシャインマスカット540ml購入。ホット対象外、併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月27日（火）\r\n～11月9日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-060eca1179"
     },
     {
       "type": "lottery",
@@ -7119,6 +7997,42 @@
       "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-6b1dca10fe"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ 綾鷹濃い緑茶650ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/20～26にいろはすシャインマスカット540ml購入。ホット対象外、併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月27日（火）\r\n～11月9日（月）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-730b044509"
     },
     {
       "type": "bonus",
@@ -7574,6 +8488,438 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-d7b79fa380"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ ユンケルローヤルG錠2錠入無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28にユンケルローヤルG錠2錠入購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-151f042de9"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ リッチザフルーツのど飴濃いピオーネ小袋無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28に濃いに恋する濃いのど飴芳醇ぶどう味小袋購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-2926871134"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ R-1ヨーグルト112g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28にR-1 The GREEK/The GOLD対象4品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-30130360b1"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ R-1ドリンク112g無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28にR-1 The GREEK/The GOLD対象4品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-9aaea12a86"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ まるごとしぼったりんごのど飴小袋無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28に濃いに恋する濃いのど飴芳醇ぶどう味小袋購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-a75dad2906"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ キットカットバー1本無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28にキットカットバー1本/キットカット3枚購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-b9aa1607ac"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ R-1ドリンク低糖低カロリー無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-29T00:00:00+09:00",
+        "end": "2026-11-11T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/22～28にR-1 The GREEK/The GOLD対象4品購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-b9d2293c3a"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズムアイマスク金木犀無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-49f06f2f3b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズムアイマスクラベンダー無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-65f9daf927"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズムアイマスク無香料無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-7b48c32898"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズムアイマスク完熟ゆず無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-9a87b5c646"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン プライチ めぐりズムアイマスクカモミール無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-30T00:00:00+09:00",
+        "end": "2026-11-12T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-25",
+      "status_override": null,
+      "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+      "id": "cp-a7becfad53"
     },
     {
       "type": "reward",
