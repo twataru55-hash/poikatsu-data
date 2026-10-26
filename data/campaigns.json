@@ -1941,10 +1941,10 @@
       "rakuten-pay",
       "rakuten-point"
     ],
-    "title": "楽天ペイ オートチャージ200万pt山分け",
+    "title": "楽天ペイ自動チャージ後コード払い山分け",
     "benefit": {
       "rate_max": null,
-      "rate_text": "200万ポイント山分け",
+      "rate_text": "200万pt山分け・1人上限200pt",
       "cap_per_use": null,
       "cap_total": 200,
       "cap_unit": "pt"
@@ -1960,20 +1960,21 @@
     },
     "period": {
       "start": "2026-10-01T10:00:00+09:00",
-      "end": "2026-11-02T09:59:59+09:00"
+      "end": "2026-11-02T09:59:00+09:00"
     },
     "entry": {
       "required": true,
-      "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked-wi_pym_cpn_big"
+      "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked"
     },
-    "conditions": "オートチャージと残高コード・QR払い、メルマガ必須。ファミマ・請求書払い等除外",
-    "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/?scid=wi_pym_cpn_big",
+    "conditions": "期間内オートチャージ・残高コードQR払い、メルマガ購読必須。ファミマ・ファミマ‼・TOMONY・請求書除外",
+    "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/",
     "evidence_quote": "楽天ポイント200万ポイントを山分けにて進呈",
     "confidence": "confirmed",
     "source_id": "rakuten-pay-campaign",
     "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-26",
     "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
     "id": "cp-809512b353"
   },
   {
@@ -3051,13 +3052,13 @@
     "brand_ids": [
       "dpoint"
     ],
-    "title": "マツキヨココカラ 花王購入ダブルチャンス",
+    "title": "マツキヨココカラ花王期間計3500円で100pt",
     "benefit": {
       "rate_max": null,
-      "rate_text": "100ポイント",
+      "rate_text": "対象花王期間計3500円で100pt",
       "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
+      "cap_total": 100,
+      "cap_unit": "pt"
     },
     "scope": {
       "kind": "stores",
@@ -3065,24 +3066,28 @@
         "matsukiyo-cocokara"
       ],
       "prefecture_codes": [],
-      "municipality": null
+      "municipality": null,
+      "excluded_store_ids": [
+        "shinseido-drug"
+      ]
     },
     "period": {
       "start": "2026-10-01T00:00:00+09:00",
-      "end": "2026-10-31T23:59:59+09:00"
+      "end": "2026-10-31T23:59:00+09:00"
     },
     "entry": {
       "required": true,
       "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
     },
-    "conditions": "花王対象品1会計1500円以上かつ合計税込3500円以上、カード提示。期間1回",
+    "conditions": "対象花王1回1500円以上、dポイントカード提示・登録。キュレル/ソフィーナ/カネボウ・新生堂・関空3店除外",
     "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
     "evidence_quote": "［ダブルチャンス］さらに、期間中に対象の花王商品を合計3,500円（税込）以上購入すると、もれなく100ポイント進呈します。",
     "confidence": "confirmed",
     "source_id": "dpoint-campaign",
     "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-26",
     "status_override": null,
+    "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
     "id": "cp-e48e408610"
   },
   {
@@ -11412,5 +11417,279 @@
     "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
     "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
     "id": "cp-17ba6192d4"
+  },
+  {
+    "type": "local",
+    "brand_ids": [
+      "paypay"
+    ],
+    "title": "上野原市PayPay商品券（販売終了）",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "5000円で7000円分・購入済券のみ",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "region",
+      "store_ids": [],
+      "prefecture_codes": [
+        "19"
+      ],
+      "municipality": "上野原市"
+    },
+    "period": {
+      "start": "2026-05-07T00:00:00+09:00",
+      "end": "2026-10-31T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "上野原市在住12歳以上・本人確認、購入済券のみ。対象加盟店店頭限定、タバコ・大手コンビニ等除外",
+    "official_url": "https://paypay.ne.jp/event/yamanashi-uenohara-city-gift-vouchers-20260507/",
+    "evidence_quote": "山梨県上野原市在住の12歳以上の方在住の方は、PayPayアプリから2,000円分のプレミアムが付いた7,000円分の上野原市プレミアム付デジタル商品券（PayPay商品券）を5,000円で購入可能となります。（先着順）",
+    "confidence": "confirmed",
+    "source_id": "paypay-local",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "利用期間：\r\n2026年5月7日（木）〜2026年10月31日（土）",
+    "id": "cp-b2098da734"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコクリームパン無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象商品1品無料",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-aa0335c6c0"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコクリームパン沖縄198円引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象品198円引き",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [
+        "47"
+      ],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-1aba1e8287"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコデニッシュメロンパン無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象商品1品無料",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-c27d257d49"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコデニッシュメロンパン沖縄198円引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象品198円引き",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [
+        "47"
+      ],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-0dbb293f30"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコクイニーアマン無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象商品1品無料",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-c9d15e2735"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "抽選本気のチョコクイニーアマン沖縄198円引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で対象品198円引き",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "familymart"
+      ],
+      "prefecture_codes": [
+        "47"
+      ],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-20T10:00:00+09:00",
+      "end": "2026-11-02T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+    "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+    "evidence_quote": "ファミリーマート公式Xアカウント（@famima_now）をフォローの上、対象ポストに「＃ファミマ本気のチョコがけパン」をつけて引用リポストすると、期間中に抽選で10,000名さまに「本気のチョコクリームパン」「本気のチョコデニッシュメロンパン」「本気のチョコクイニーアマン」のいずれか1品に使用できる無料クーポンが当たります。",
+    "confidence": "confirmed",
+    "source_id": "familymart-offers",
+    "first_seen": "2026-10-26",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+    "id": "cp-53e869ee14"
   }
 ]

@@ -7699,5 +7699,505 @@
     "reasons": [
       "V02 エントリー要否が不明（entry.required）"
     ]
+  },
+  "cp-83c4f9f9cb": {
+    "issue": 1133,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 終了日時が不明（period.end）",
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-6eb7d761ae": {
+    "issue": 1134,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ]
+  },
+  "cp-40291a8e9c": {
+    "issue": 1135,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ]
+  },
+  "cp-0d1269146f": {
+    "issue": 1136,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ]
+  },
+  "cp-41877f0491": {
+    "issue": 1137,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-fe8f315f2d": {
+    "issue": 1138,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-26e5a4b996": {
+    "issue": 1139,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-e26b6b9a00": {
+    "issue": 1140,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-49da8c6c37": {
+    "issue": 1141,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-415519a2ba": {
+    "issue": 1142,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-d0da5447e6": {
+    "issue": 1143,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-f1e80d4d61": {
+    "issue": 1144,
+    "created": "2026-10-26",
+    "reasons": [
+      "V07 同一企画の期間根拠に開始日が見つからない",
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ]
+  },
+  "cp-3b817786ee": {
+    "issue": 1145,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-d97b7fc282": {
+    "issue": 1146,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-ba6552d885": {
+    "issue": 1147,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-cfb88dc65d": {
+    "issue": 1148,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-9d60b781f9": {
+    "issue": 1149,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-25833766a6": {
+    "issue": 1150,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-d2456a4bce": {
+    "issue": 1151,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-b5b4d39c5e": {
+    "issue": 1152,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-fe30dccecf": {
+    "issue": 1153,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-508eab1ed4": {
+    "issue": 1154,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-f130545e76": {
+    "issue": 1155,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-af85f98e41": {
+    "issue": 1156,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-9dc1e7a161": {
+    "issue": 1157,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-560fac4e56": {
+    "issue": 1158,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-d6d6e06567": {
+    "issue": 1159,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-1f67c7c4a3": {
+    "issue": 1160,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-0f08c687b1": {
+    "issue": 1161,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-7453c561e2": {
+    "issue": 1162,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-47e3251b50": {
+    "issue": 1163,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-f9923740a1": {
+    "issue": 1164,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-a4a8201c2e": {
+    "issue": 1165,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
+  },
+  "cp-b26f7a62f7": {
+    "issue": 1166,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ]
+  },
+  "cp-3554d519dc": {
+    "issue": 1167,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ]
+  },
+  "cp-9938de1693": {
+    "issue": 1168,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ]
+  },
+  "cp-b8b1a76559": {
+    "issue": 1169,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 終了日時が不明（period.end）",
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-1cf8992538": {
+    "issue": 1170,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-2532daab2d": {
+    "issue": 1171,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-58f7748f5e": {
+    "issue": 1172,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-c6f583c719": {
+    "issue": 1173,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-aa213dafe5": {
+    "issue": 1174,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-9ab994430f": {
+    "issue": 1175,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V04 エントリーURLのドメインが公式と一致しない: https://kofu-premium.jp/",
+      "V05 エントリーURLが開けない: 公式外へ転送: https://kofu-premium.jp/"
+    ]
+  },
+  "cp-1bc4518d95": {
+    "issue": 1176,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-f5a75f27f6": {
+    "issue": 1177,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-bcf59a5db8": {
+    "issue": 1178,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-09d90fbff5": {
+    "issue": 1179,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-0472dd51b3": {
+    "issue": 1180,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-987dd98291": {
+    "issue": 1181,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-eef2522543": {
+    "issue": 1182,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-0ea0293446": {
+    "issue": 1183,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-f88201fa5f": {
+    "issue": 1184,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-a8fcc96dcd": {
+    "issue": 1185,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-95f6b981f6": {
+    "issue": 1186,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-179364aa8d": {
+    "issue": 1187,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-310b92239c": {
+    "issue": 1188,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-ba66ef938c": {
+    "issue": 1189,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-9b51c91e78": {
+    "issue": 1190,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-63836d6eed": {
+    "issue": 1191,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-e46102d0b1": {
+    "issue": 1192,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-c3cd271899": {
+    "issue": 1193,
+    "created": "2026-10-26",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ]
+  },
+  "cp-26c511dda0": {
+    "issue": 1194,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-6bfe88a310": {
+    "issue": 1195,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-c37da506da": {
+    "issue": 1196,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ]
+  },
+  "cp-760466a567": {
+    "issue": 1197,
+    "created": "2026-10-26",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ]
+  },
+  "cp-1a280b0952": {
+    "issue": 1198,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-c6faeb528f": {
+    "issue": 1199,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-5acbd30b01": {
+    "issue": 1200,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-7be133bf8e": {
+    "issue": 1201,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ]
+  },
+  "cp-0c02158963": {
+    "issue": 1202,
+    "created": "2026-10-26",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ]
   }
 }

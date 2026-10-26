@@ -1,0 +1,784 @@
+[
+  {
+    "id": "cp-83c4f9f9cb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）",
+      "V10 還元率が大きい（100%）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "paypay-event",
+    "title": "PayPay海外実店舗スクラッチくじ"
+  },
+  {
+    "id": "cp-6eb7d761ae",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラdポイント抽選1000倍 10月"
+  },
+  {
+    "id": "cp-40291a8e9c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラdポイント抽選1000倍 11月"
+  },
+  {
+    "id": "cp-0d1269146f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（50000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラdポイント抽選1000倍 12月"
+  },
+  {
+    "id": "cp-41877f0491",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICOしっかり消臭厚型ペットシーツレギュラー 96枚"
+  },
+  {
+    "id": "cp-fe8f315f2d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICOしっかり消臭厚型ペットシーツワイド 48枚"
+  },
+  {
+    "id": "cp-26e5a4b996",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICOしっかり消臭厚型ペットシーツスーパーワイド 24枚"
+  },
+  {
+    "id": "cp-e26b6b9a00",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICO大容量ペットシーツ薄型 レギュラー 280枚"
+  },
+  {
+    "id": "cp-49da8c6c37",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICO大容量ペットシーツ薄型 ワイド 140枚"
+  },
+  {
+    "id": "cp-415519a2ba",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "アークランズ NICO大容量ペットシーツ薄型 スーパーワイド 70枚"
+  },
+  {
+    "id": "cp-d0da5447e6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "aupay-campaign",
+    "title": "ドトール17時以降au PAYポイント2倍"
+  },
+  {
+    "id": "cp-f1e80d4d61",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V07 同一企画の期間根拠に開始日が見つからない",
+      "V07 同一企画の期間根拠に終了日が見つからない"
+    ],
+    "source": "vpoint-campaign",
+    "title": "ドラッグストアmac食欲の秋ポイント抽選"
+  },
+  {
+    "id": "cp-3b817786ee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第3弾 オレンジ果汁100%200ml券"
+  },
+  {
+    "id": "cp-d97b7fc282",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第3弾 アップル果汁100%200ml券"
+  },
+  {
+    "id": "cp-ba6552d885",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第3弾 レンジで焼き餃子券"
+  },
+  {
+    "id": "cp-cfb88dc65d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第3弾 セブンカフェR券"
+  },
+  {
+    "id": "cp-9d60b781f9",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第3弾 対象お茶600ml券"
+  },
+  {
+    "id": "cp-25833766a6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第4弾 焼めし券"
+  },
+  {
+    "id": "cp-d2456a4bce",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第4弾 チキンライス450g券"
+  },
+  {
+    "id": "cp-b5b4d39c5e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第4弾 セブンカフェR券"
+  },
+  {
+    "id": "cp-fe30dccecf",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第4弾 対象お茶600ml券"
+  },
+  {
+    "id": "cp-508eab1ed4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第2弾 まるで完熟マンゴー券"
+  },
+  {
+    "id": "cp-f130545e76",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第2弾 まるで完熟白桃券"
+  },
+  {
+    "id": "cp-af85f98e41",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第2弾 対象サラダチキンバー券"
+  },
+  {
+    "id": "cp-9dc1e7a161",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第2弾 セブンカフェR券"
+  },
+  {
+    "id": "cp-560fac4e56",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "seven-offers",
+    "title": "セブンマイル第2弾 対象お茶600ml券"
+  },
+  {
+    "id": "cp-d6d6e06567",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "キリン午後の紅茶レモンティー500ml無料券"
+  },
+  {
+    "id": "cp-1f67c7c4a3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "キリン午後の紅茶アイスミルクティーデモーニング500ml無料券"
+  },
+  {
+    "id": "cp-0f08c687b1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "キリン午後の紅茶ミルクティー500ml無料券"
+  },
+  {
+    "id": "cp-7453c561e2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "キリン午後の紅茶ストレートティー500ml無料券"
+  },
+  {
+    "id": "cp-47e3251b50",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "キリンイミューズヨーグルトテイスト500ml無料券"
+  },
+  {
+    "id": "cp-b2098da734",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "paypay-local",
+    "title": "上野原市PayPay商品券（販売終了）"
+  },
+  {
+    "id": "cp-f9923740a1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミマルBakery20円引ファミペイクーポン"
+  },
+  {
+    "id": "cp-aa0335c6c0",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコクリームパン無料券"
+  },
+  {
+    "id": "cp-1aba1e8287",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコクリームパン沖縄198円引券"
+  },
+  {
+    "id": "cp-c27d257d49",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコデニッシュメロンパン無料券"
+  },
+  {
+    "id": "cp-0dbb293f30",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコデニッシュメロンパン沖縄198円引券"
+  },
+  {
+    "id": "cp-c9d15e2735",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコクイニーアマン無料券"
+  },
+  {
+    "id": "cp-53e869ee14",
+    "result": "accept",
+    "match": "new",
+    "reasons": [],
+    "source": "familymart-offers",
+    "title": "抽選本気のチョコクイニーアマン沖縄198円引券"
+  },
+  {
+    "id": "cp-a4a8201c2e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-waon",
+    "title": "ミニストップ金土日AEON Pay店頭10倍"
+  },
+  {
+    "id": "cp-b26f7a62f7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "ministop-waon",
+    "title": "ミニストップ週末モバイルAEON Pay20倍"
+  },
+  {
+    "id": "cp-3554d519dc",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ対象花王dポイント＋20％"
+  },
+  {
+    "id": "cp-8f391050c4",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "マツキヨココカラ花王期間計3500円で100pt"
+  },
+  {
+    "id": "cp-9938de1693",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ異なる3店で抽選1万ポイント"
+  },
+  {
+    "id": "cp-b8b1a76559",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）",
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "玉光堂グループ新譜予約購入楽天ポイント2倍"
+  },
+  {
+    "id": "cp-1cf8992538",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "aupay-campaign",
+    "title": "鳥貴族au PAY決済額ランキング特典"
+  },
+  {
+    "id": "cp-2532daab2d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン グーコロ男爵1個50円引券"
+  },
+  {
+    "id": "cp-58f7748f5e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン グーコロ男爵2個50円引券"
+  },
+  {
+    "id": "cp-c6f583c719",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン グーコロ男爵バーガーチーズソース50円引券"
+  },
+  {
+    "id": "cp-aa213dafe5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン グーコロ男爵＆ハンバーグ弁当チーズソース50円引券"
+  },
+  {
+    "id": "cp-9ab994430f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）",
+      "V04 エントリーURLのドメインが公式と一致しない: https://kofu-premium.jp/",
+      "V05 エントリーURLが開けない: 公式外へ転送: https://kofu-premium.jp/"
+    ],
+    "source": "paypay-local",
+    "title": "がんばろう甲府PayPay商品券第4弾"
+  },
+  {
+    "id": "cp-1bc4518d95",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "明治ブルガリアヨーグルト低糖180g無料券"
+  },
+  {
+    "id": "cp-f5a75f27f6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "明治ブルガリア果実ブルーベリー180g無料券"
+  },
+  {
+    "id": "cp-bcf59a5db8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "明治ブルガリア果実苺180g無料券"
+  },
+  {
+    "id": "cp-09d90fbff5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "カゴメアーモンドミルクラテ200ml無料券"
+  },
+  {
+    "id": "cp-0472dd51b3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "不二家カントリーマアムチビまみれ54g無料券"
+  },
+  {
+    "id": "cp-987dd98291",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "不二家ホームパイチビだらけ55g無料券"
+  },
+  {
+    "id": "cp-eef2522543",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "アサヒCALPIS濃いめ490ml無料券"
+  },
+  {
+    "id": "cp-0ea0293446",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ウィルキンソンタンサンエクストラ490ml無料券"
+  },
+  {
+    "id": "cp-f88201fa5f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "雪印ガセリ菌ヨーグルトドリンク100g無料券"
+  },
+  {
+    "id": "cp-a8fcc96dcd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "雪印MBPドリンク100g無料券"
+  },
+  {
+    "id": "cp-95f6b981f6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "三ツ矢特濃ピーチスカッシュ500ml無料券"
+  },
+  {
+    "id": "cp-179364aa8d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "キレートレモンMUKUMI無料券"
+  },
+  {
+    "id": "cp-310b92239c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "キレートレモンクエン酸2700無料券"
+  },
+  {
+    "id": "cp-ba66ef938c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ロッテ爽いちご＆練乳ミルク無料券"
+  },
+  {
+    "id": "cp-9b51c91e78",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ロッテ爽生チョコinバニラ無料券"
+  },
+  {
+    "id": "cp-63836d6eed",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ウィルキンソンクラフトグレープ500ml無料券"
+  },
+  {
+    "id": "cp-e46102d0b1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "ministop-offers",
+    "title": "ウィルキンソンタンサンWグレープ無料券"
+  },
+  {
+    "id": "cp-c3cd271899",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "dpoint-campaign",
+    "title": "ENEOSはじめて・久しぶりdポイント抽選"
+  },
+  {
+    "id": "cp-9e004c45ed",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "rakuten-pay-campaign",
+    "title": "楽天ペイ自動チャージ後コード払い山分け"
+  },
+  {
+    "id": "cp-26c511dda0",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友アプリ限定楽天ポイント4倍"
+  },
+  {
+    "id": "cp-6bfe88a310",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友楽天カード/ペイ支払い楽天ポイント3倍"
+  },
+  {
+    "id": "cp-c37da506da",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "西友楽天Edy支払い楽天ポイント3倍"
+  },
+  {
+    "id": "cp-760466a567",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "seven-offers",
+    "title": "セブンリポビタンD100mL30円引き券"
+  },
+  {
+    "id": "cp-1a280b0952",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン午後の紅茶レモンティー500ml値引"
+  },
+  {
+    "id": "cp-c6faeb528f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン午後の紅茶ミルクティー500ml値引"
+  },
+  {
+    "id": "cp-5acbd30b01",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン午後の紅茶ストレートティー500ml値引"
+  },
+  {
+    "id": "cp-7be133bf8e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン午後の紅茶アイスミルクティー　デ　モーニング500ml値引"
+  },
+  {
+    "id": "cp-0c02158963",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "松川町PayPay商品券・既存当選者限定"
+  }
+]
