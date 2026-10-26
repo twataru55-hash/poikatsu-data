@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンリポビタンD100mL30円引き券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象リポビタンD税抜価格30円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-08T00:00:00+09:00",
+        "end": "2026-11-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象1本購入、発券10/8～28。次回購入用、1本1枚・併用不可・取扱なしあり。7NOW一部対象外",
+      "official_url": "https://www.sej.co.jp/cmp/lpv2610.html",
+      "evidence_quote": "対象のリポビタンDを\r\n1本買うたびに、\r\n次回使える\r\n30円引きレシートクーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月8日（木）～\r\n11月4日（水）",
+      "entry_evidence_quote": "対象のリポビタンDを\r\n1本買うたびに、\r\n次回使える\r\n30円引きレシートクーポンが\r\n1枚もらえます。"
+    }
+  ]
+}

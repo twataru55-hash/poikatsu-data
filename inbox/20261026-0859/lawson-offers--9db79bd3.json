@@ -1,0 +1,140 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン グーコロ男爵1個50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "20歳以上、10/6～19対象金麦購入で発券済券。スマホレジ除外、一部店舗取扱なし",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532999_3677.html",
+      "evidence_quote": "グーコロ男爵　1個\r\n160円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート値引券　引換期間　10/6(火)〜10/26(月)",
+      "entry_evidence_quote": "●下記対象商品を購入すると、50円引券がレシートについてきます。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン グーコロ男爵2個50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "20歳以上、10/6～19対象金麦購入で発券済券。スマホレジ除外、一部店舗取扱なし",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532999_3677.html",
+      "evidence_quote": "グーコロ男爵　2個\r\n320円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート値引券　引換期間　10/6(火)〜10/26(月)",
+      "entry_evidence_quote": "●下記対象商品を購入すると、50円引券がレシートについてきます。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン グーコロ男爵バーガーチーズソース50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "20歳以上の対象金麦購入券、10/6～19発券。10/20発売・まちかど店限定、沖縄/NL・スマホレジ除外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532999_3677.html",
+      "evidence_quote": "グーコロ男爵バーガー（チーズソース）\r\n※10/20（火）発売商品です。\r\n※まちかど導入店舗のみ。\r\n※沖縄地域のローソン、ナチュラルローソンではお取り扱いしておりません。\r\n397円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート値引券　引換期間　10/6(火)〜10/26(月)",
+      "entry_evidence_quote": "●下記対象商品を購入すると、50円引券がレシートについてきます。"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン グーコロ男爵＆ハンバーグ弁当チーズソース50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品50円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-10-26T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "20歳以上の対象金麦購入券、10/6～19発券。10/20発売・まちかど店限定、沖縄/NL・スマホレジ除外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1532999_3677.html",
+      "evidence_quote": "グーコロ男爵＆ハンバーグ弁当（チーズソース）\r\n※10/20（火）発売商品です。\r\n※まちかど導入店舗のみ。\r\n※沖縄地域のローソン、ナチュラルローソンではお取り扱いしておりません。\r\n745円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "レシート値引券　引換期間　10/6(火)〜10/26(月)",
+      "entry_evidence_quote": "●下記対象商品を購入すると、50円引券がレシートについてきます。"
+    }
+  ]
+}

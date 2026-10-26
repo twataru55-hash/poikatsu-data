@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "ドラッグストアmac食欲の秋ポイント抽選",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選mac限定最大1000pt・W抽選10pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "drugstore-mac"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T09:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "対象品400円毎応募。連携Vポイントが貯まるカード提示、mac限定。アプリ手続きで確率3倍・W抽選対象",
+      "official_url": "https://cpn.tsite.jp/detail/en910038430012",
+      "evidence_quote": "対象商品を400円(税込)以上買うと抽選でmac限定Vポイントが最大1,000ポイント当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026/10/1 09:00:00　～　2026/10/31 23:59:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

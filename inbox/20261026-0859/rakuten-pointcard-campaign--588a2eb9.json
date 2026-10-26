@@ -1,0 +1,112 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友アプリ限定楽天ポイント4倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "西友アプリ提示4倍・特典分3倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/3,5,10,12,17,19,21～26,31、税抜日2500円・西友アプリ提示登録。通販/テナント除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "【特典1：西友アプリ限定】楽天ポイント4倍\r\n西友アプリ内の楽天ポイントカードを提示してお支払い",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "entry_evidence_quote": "エントリー不要"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友楽天カード/ペイ支払い楽天ポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "決済3倍・特典分1倍、日上限250pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/3,5,10,12,17,19,21～26,31、税抜日2500円・カード提示登録/同一ID・1pt/1円以上",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "【特典2：楽天カードまたは楽天ペイ】楽天ポイント3倍\r\n楽天カードまたは楽天ペイのコード・QR払いでお支払い",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "entry_evidence_quote": "エントリー不要"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "西友楽天Edy支払い楽天ポイント3倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "決済3倍・特典分2倍、日上限250pt",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/3,5,10,12,17,19,21～26,31、税抜日2500円・カード提示登録/同一ID・1pt/1円以上",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+      "evidence_quote": "【特典3：楽天Edy】楽天ポイント3倍\r\n楽天Edyでお支払い",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "entry_evidence_quote": "エントリー不要"
+    }
+  ]
+}

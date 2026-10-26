@@ -1,0 +1,82 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ対象花王dポイント＋20％",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象花王＋20％dポイント還元",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "excluded_store_ids": [
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "対象花王1回1500円以上、dポイントカード提示・登録。キュレル/ソフィーナ/カネボウ・新生堂・関空3店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "evidence_quote": "dポイントカードをご提示で もれなく＋20％dポイント還元 （進呈上限：3,000ポイント／期間・用途限定）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ花王期間計3500円で100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象花王期間計3500円で100pt",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "excluded_store_ids": [
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "対象花王1回1500円以上、dポイントカード提示・登録。キュレル/ソフィーナ/カネボウ・新生堂・関空3店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "evidence_quote": "［ダブルチャンス］さらに、期間中に対象の花王商品を合計3,500円（税込）以上購入すると、もれなく100ポイント進呈します。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

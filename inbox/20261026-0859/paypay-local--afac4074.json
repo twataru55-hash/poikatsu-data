@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "がんばろう甲府PayPay商品券第4弾",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円で10000円分・当選者限定",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "19"
+        ],
+        "municipality": "甲府市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-11-16T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://kofu-premium.jp/"
+      },
+      "conditions": "甲府市在住・6/24まで申込済み当選者、コード要。11/16まで購入・利用、対象店頭限定・タバコ等除外",
+      "official_url": "https://paypay.ne.jp/event/yamanashi-kofu-city-gift-vouchers-20260601/",
+      "evidence_quote": "申し込みのうえ商品券コードを取得した山梨県甲府市在住の方は、PayPayアプリから5,000円分のプレミアムが付いた10,000円分のがんばろう甲府！プレミアム付き商品券第4弾（PayPay商品券）を5,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年11月16日（月）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

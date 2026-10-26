@@ -1,0 +1,115 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラdポイント抽選1000倍 10月",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000倍",
+        "cap_per_use": null,
+        "cap_total": 50000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara",
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7cafe6382840a56791440e651bf5f2c94d4a8389712c8aab3aa9fea0f9358a16"
+      },
+      "conditions": "dポイントカード提示で月1pt以上獲得、各月末まで利用者情報登録。同一dアカウント、関空3店・通販等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7818/index.html",
+      "evidence_quote": "dポイント（期間・用途限定）最大1,000倍当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "第1弾：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラdポイント抽選1000倍 11月",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000倍",
+        "cap_per_use": null,
+        "cap_total": 50000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara",
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7cafe6382840a56791440e651bf5f2c94d4a8389712c8aab3aa9fea0f9358a16"
+      },
+      "conditions": "dポイントカード提示で月1pt以上獲得、各月末まで利用者情報登録。同一dアカウント、関空3店・通販等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7818/index.html",
+      "evidence_quote": "dポイント（期間・用途限定）最大1,000倍当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "第2弾：2026年11月1日（日）午前0：00～2026年11月30日（月）午後11：59",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラdポイント抽選1000倍 12月",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で最大1,000倍",
+        "cap_per_use": null,
+        "cap_total": 50000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara",
+          "shinseido-drug"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7cafe6382840a56791440e651bf5f2c94d4a8389712c8aab3aa9fea0f9358a16"
+      },
+      "conditions": "dポイントカード提示で月1pt以上獲得、各月末まで利用者情報登録。同一dアカウント、関空3店・通販等除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7818/index.html",
+      "evidence_quote": "dポイント（期間・用途限定）最大1,000倍当たる！",
+      "confidence": "confirmed",
+      "period_evidence_quote": "第3弾：2026年12月1日（火）午前0：00～2026年12月31日（木）午後11：59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第3弾 オレンジ果汁100%200ml券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、70マイル。10/20～26交換、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "オレンジ果汁100% 200ml／\r\nアップル果汁100% 200ml\r\n各118円＊\r\n（税込127.44円）\r\nおトク\r\n70\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月21日（水）～11月3日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第3弾 アップル果汁100%200ml券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、70マイル。10/20～26交換、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "アップル果汁100% 200ml\r\n各118円＊\r\n（税込127.44円）\r\nおトク\r\n70\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月21日（水）～11月3日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第3弾 レンジで焼き餃子券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/20～26交換済券限定、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンプレミアム レンジで焼き餃子\r\n168円＊\r\n（税込181.44円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月21日（水）～11月3日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第3弾 セブンカフェR券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "R無料／税抜131円以上は130円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/20～26交換済券限定、先着25000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンカフェ R\r\n130円＊\r\n（税込140.40円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n5\r\n千枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月21日（水）～11月3日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第3弾 対象お茶600ml券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、80マイル。10/20～26交換済券限定、先着20000枚・併用不可、ホット除外",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "対象のセブンプレミアム お茶 600ml\r\n108円＊\r\n（税込116.64円）\r\nおトク\r\n80\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月21日（水）～11月3日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第4弾 焼めし券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、95マイル。10/27～11/2交換、先着33000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンプレミアム 焼めし\r\n168円＊\r\n（税込181.44円）\r\nおトク\r\n95\r\nマイル\r\nで交換\r\n先着\r\n3\r\n万\r\n3\r\n千枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月28日（水）～11月10日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第4弾 チキンライス450g券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、205マイル。10/27～11/2交換、先着15000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンプレミアム チキンライス 450g\r\n378円＊\r\n（税込408.24円）\r\nおトク\r\n205\r\nマイル\r\nで交換\r\n先着\r\n1\r\n万\r\n5\r\n千枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月28日（水）～11月10日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第4弾 セブンカフェR券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "R無料／税抜131円以上は130円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/27～11/2交換、先着25000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンカフェ R\r\n130円＊\r\n（税込140.40円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n5\r\n千枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月28日（水）～11月10日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第4弾 対象お茶600ml券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、80マイル。10/27～11/2交換、先着20000枚・併用不可、ホット除外",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "対象のセブンプレミアム お茶 600ml\r\n108円＊\r\n（税込116.64円）\r\nおトク\r\n80\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月28日（水）～11月10日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第2弾 まるで完熟マンゴー券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/13～19交換済券限定、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "まるで完熟マンゴー／\r\nまるで完熟白桃\r\n各158円＊\r\n（税込170.64円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月14日（水）～10月27日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第2弾 まるで完熟白桃券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/13～19交換済券限定、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "まるで完熟白桃\r\n各158円＊\r\n（税込170.64円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月14日（水）～10月27日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第2弾 対象サラダチキンバー券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、105マイル。10/13～19交換済券限定、先着20000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "対象のセブンプレミアム サラダチキンバー\r\n各188円＊\r\n（税込203.04円）\r\nおトク\r\n105\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月14日（水）～10月27日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第2弾 セブンカフェR券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "R無料／税抜131円以上は130円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、90マイル。10/13～19交換済券限定、先着25000枚・併用不可",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "セブンカフェ R\r\n130円＊\r\n（税込140.40円）\r\nおトク\r\n90\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n5\r\n千枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月14日（水）～10月27日（火）",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブンマイル第2弾 対象お茶600ml券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1品無料引換",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-10-27T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "同一7iDのアプリ会員、80マイル。10/13～19交換済券限定、先着20000枚・併用不可、ホット除外",
+      "official_url": "https://www.sej.co.jp/cmp/app_mlcp.html",
+      "evidence_quote": "対象のセブンプレミアム お茶 600ml\r\n108円＊\r\n（税込116.64円）\r\nおトク\r\n80\r\nマイル\r\nで交換\r\n先着\r\n2\r\n万\r\n枚",
+      "confidence": "confirmed",
+      "period_evidence_quote": "10月14日（水）～10月27日（火）",
+      "entry_evidence_quote": null
+    }
+  ]
+}

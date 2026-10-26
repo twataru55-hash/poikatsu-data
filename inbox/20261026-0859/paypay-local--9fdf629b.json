@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "松川町PayPay商品券・既存当選者限定",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円購入で6500円分・20口まで",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [
+          "20"
+        ],
+        "municipality": "松川町"
+      },
+      "period": {
+        "start": null,
+        "end": "2027-01-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "松川町在住12歳以上・本人確認済の既存当選者のみ。購入10/31迄、町内対象店限定・たばこ/大手コンビニ除外",
+      "official_url": "https://paypay.ne.jp/event/nagano-matsukawa-town-gift-vouchers-20260803/",
+      "evidence_quote": "申し込みのうえ購入権を取得した長野県松川町に在住の12歳以上の方は、PayPayアプリから1,500円分のプレミアムが付いた6,500円分の長野県松川町プレミアム商品券（PayPay商品券）を5,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2027年1月31日（日）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}
