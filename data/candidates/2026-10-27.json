@@ -1,0 +1,737 @@
+[
+  {
+    "id": "cp-a39d9a6f6c",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "龍生堂dポイントカード提示10倍"
+  },
+  {
+    "id": "cp-99846a5758",
+    "result": "hold",
+    "match": "changed",
+    "reasons": [
+      "V10 期間上限が大きい（10000）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "NEXCO中日本楽天ペイスタンプ抽選"
+  },
+  {
+    "id": "cp-3dd4616ada",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "vpoint-campaign",
+    "title": "DRUGユタカ花王Vポイント抽選"
+  },
+  {
+    "id": "cp-03a66ceb81",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "大子町PayPayプレミアム商品券"
+  },
+  {
+    "id": "cp-b72b5bb92e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイ伊右衛門特茶500ml8本券"
+  },
+  {
+    "id": "cp-262010aece",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイ伊右衛門特茶500ml14本券"
+  },
+  {
+    "id": "cp-8ad9fbb932",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイ伊右衛門特茶ジャスミン500ml8本券"
+  },
+  {
+    "id": "cp-c1ab515bbe",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイ伊右衛門特茶ジャスミン500ml14本券"
+  },
+  {
+    "id": "cp-cda4ddf8f8",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン鉄骨飲料500ml179円セール"
+  },
+  {
+    "id": "cp-74c6c65e71",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "コーナン花王楽天ポイント最大20％還元"
+  },
+  {
+    "id": "cp-33c1c3f3c7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "dbarai-campaign",
+    "title": "対象ジョイフル本田d払い毎月ポイント5倍"
+  },
+  {
+    "id": "cp-9f00bfee8a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 期間上限が大きい（30000）ため確認が必要"
+    ],
+    "source": "dpoint-campaign",
+    "title": "愛知対象5施設dポイント最大3万pt抽選"
+  },
+  {
+    "id": "cp-42f684908a",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "愛知対象5施設2施設利用dポイント10倍"
+  },
+  {
+    "id": "cp-59b540dc87",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "ブックオフ初回・久々楽天ペイ最大20％"
+  },
+  {
+    "id": "cp-654d975034",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "seven-offers",
+    "title": "セブン伊右衛門特茶500ml5本で無料券"
+  },
+  {
+    "id": "cp-bba47aedac",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "足立区商品券一次・共通3200＋小規模2000"
+  },
+  {
+    "id": "cp-24878a614a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "足立区商品券二次・共通3200＋小規模2000"
+  },
+  {
+    "id": "cp-35c5f1b6a5",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイブレンドS／アイスコーヒーS11枚回数券"
+  },
+  {
+    "id": "cp-51f3909bf3",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイブレンドM11枚回数券"
+  },
+  {
+    "id": "cp-16c794cd70",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイブレンドL11枚回数券"
+  },
+  {
+    "id": "cp-4ece7cb899",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイブレンドLL11枚回数券"
+  },
+  {
+    "id": "cp-29267bb7d7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイカフェラテM11枚回数券"
+  },
+  {
+    "id": "cp-ea5c8284c1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイカフェラテL11枚回数券"
+  },
+  {
+    "id": "cp-4e7ebed494",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイカフェラテLL11枚回数券"
+  },
+  {
+    "id": "cp-7f922afa0b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスコーヒーM11枚回数券"
+  },
+  {
+    "id": "cp-ce9168673e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスコーヒーL11枚回数券"
+  },
+  {
+    "id": "cp-18168953dd",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスコーヒーLL11枚回数券"
+  },
+  {
+    "id": "cp-6e3b616e74",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスカフェラテM11枚回数券"
+  },
+  {
+    "id": "cp-7873ae583d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスカフェラテL11枚回数券"
+  },
+  {
+    "id": "cp-8e26af643e",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスカフェラテLL11枚回数券"
+  },
+  {
+    "id": "cp-51524d107a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイモカブレンドS11枚回数券"
+  },
+  {
+    "id": "cp-1a52763e7b",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイモカブレンドM11枚回数券"
+  },
+  {
+    "id": "cp-a31ce1e220",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイモカブレンドL11枚回数券"
+  },
+  {
+    "id": "cp-e9105871a7",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイモカブレンドLL11枚回数券"
+  },
+  {
+    "id": "cp-8fef8faa32",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイプレミアムモカS11枚回数券"
+  },
+  {
+    "id": "cp-a0a5265588",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイプレミアムモカM11枚回数券"
+  },
+  {
+    "id": "cp-328cb76024",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイプレミアムモカL11枚回数券"
+  },
+  {
+    "id": "cp-dac609a4ff",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイプレミアムモカLL11枚回数券"
+  },
+  {
+    "id": "cp-ad939e6e9c",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスモカブレンドS11枚回数券"
+  },
+  {
+    "id": "cp-8c588171ad",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスモカブレンドM11枚回数券"
+  },
+  {
+    "id": "cp-61d198f824",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスモカブレンドL11枚回数券"
+  },
+  {
+    "id": "cp-30268f5944",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスモカブレンドLL11枚回数券"
+  },
+  {
+    "id": "cp-8836a750b1",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスプレミアムモカS11枚回数券"
+  },
+  {
+    "id": "cp-26ee631882",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスプレミアムモカM11枚回数券"
+  },
+  {
+    "id": "cp-00b44df661",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスプレミアムモカL11枚回数券"
+  },
+  {
+    "id": "cp-041ac97b09",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイアイスプレミアムモカLL11枚回数券"
+  },
+  {
+    "id": "cp-077b620d69",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園1日分の野菜200ml2本50円引"
+  },
+  {
+    "id": "cp-a4b0a6bde4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園1日分の野菜200ml3本100円引"
+  },
+  {
+    "id": "cp-234bffdd0d",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園栄養強化型1日分の野菜200ml2本50円引"
+  },
+  {
+    "id": "cp-9210c6c37a",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園栄養強化型1日分の野菜200ml3本100円引"
+  },
+  {
+    "id": "cp-4883cd5475",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園ビタミン野菜200ml2本50円引"
+  },
+  {
+    "id": "cp-c5105afcee",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園ビタミン野菜200ml3本100円引"
+  },
+  {
+    "id": "cp-b25c33813f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園カリウム野菜200ml2本50円引"
+  },
+  {
+    "id": "cp-d6a5cb5063",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン伊藤園カリウム野菜200ml3本100円引"
+  },
+  {
+    "id": "cp-5930d164ed",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V12 公式で確認できていない（unconfirmed）"
+    ],
+    "source": "rakuten-pointcard-campaign",
+    "title": "京急・ユニオン・ハウツ楽天ポイント山分け"
+  },
+  {
+    "id": "cp-79a0aad7e3",
+    "result": "accept",
+    "match": "changed",
+    "reasons": [],
+    "source": "dpoint-campaign",
+    "title": "サンミュージックdポイント5倍・初提示10倍"
+  },
+  {
+    "id": "cp-994b305d20",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "rakuten-pay-campaign",
+    "title": "札幌宿泊者限定楽天ペイ最大20％還元"
+  },
+  {
+    "id": "cp-cd64567105",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "seven-offers",
+    "title": "セブン特水600ml5本購入で1本無料券"
+  },
+  {
+    "id": "cp-e681b189e4",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 開始日時が不明（period.start）"
+    ],
+    "source": "paypay-local",
+    "title": "鳴門市PayPay商品券一次購入済券限定"
+  },
+  {
+    "id": "cp-8c21569245",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）"
+    ],
+    "source": "paypay-local",
+    "title": "鳴門市PayPay商品券二次購入済券限定"
+  },
+  {
+    "id": "cp-d47f4ddd13",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイヤクルトY1000110ml14枚券"
+  },
+  {
+    "id": "cp-98c95df2bb",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V02 エントリー要否が不明（entry.required）",
+      "V02 開始日時が不明（period.start）",
+      "V02 終了日時が不明（period.end）"
+    ],
+    "source": "familymart-offers",
+    "title": "ファミペイヤクルトY1000糖質オフ110ml14枚券"
+  },
+  {
+    "id": "cp-e34e808cd6",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン亀田柿の種63g2個30円引"
+  },
+  {
+    "id": "cp-d42325f242",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン亀田柿の種63g3個60円引"
+  },
+  {
+    "id": "cp-c58209c884",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン亀田柿の種わさび57g2個30円引"
+  },
+  {
+    "id": "cp-2dd20f11c2",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
+    ],
+    "source": "lawson-offers",
+    "title": "ローソン亀田柿の種わさび57g3個60円引"
+  },
+  {
+    "id": "cp-cce830518f",
+    "result": "hold",
+    "match": "new",
+    "reasons": [
+      "V10 還元率が大きい（20%）ため確認が必要",
+      "V14 明記はあるがページ内にエントリー・応募の案内があり、この候補がエントリー不要か機械で確定できない"
+    ],
+    "source": "paypay-event",
+    "title": "対象サンスター口腔品700円以上PayPay還元"
+  }
+]
