@@ -241,45 +241,6 @@
     "brand_ids": [
       "vpoint"
     ],
-    "title": "セブン Vポイント引換 10-07",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "コーヒー70pt・カフェラテ100pt",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "seven-eleven"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-07T00:00:00+09:00",
-      "end": "2026-10-20T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "Vポイントアプリ。10/7 14時～10/13交換。各商品先着2万名、1人1回",
-    "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
-    "evidence_quote": "10/7(水)14時交換スタート! 交換10/7(水)〜13(火) 利用10/7(水)〜20(火)",
-    "confidence": "confirmed",
-    "source_id": "seven-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-062e26827b"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "vpoint"
-    ],
     "title": "セブン Vポイント引換 10-14",
     "benefit": {
       "rate_max": null,
@@ -2464,45 +2425,6 @@
     "brand_ids": [
       "ponta"
     ],
-    "title": "ストア100 おいしい免疫ケア　睡眠",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "20Pボーナス",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-07T00:00:00+09:00",
-      "end": "2026-10-20T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "おいしい免疫ケア　睡眠\nおいしい免疫ケア　睡眠\nメーカー名：キリンビバレッジ\n内容量：100ml\n本体価格 132円\n（税込 143円）\n20P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-df6bb0b819"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
     "title": "ストア100 ホワイトロースハム",
     "benefit": {
       "rate_max": null,
@@ -2538,45 +2460,6 @@
     "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
     "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
     "id": "cp-8574b7b3eb"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
-    "title": "ストア100 ハッシュドポテト",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "10Pボーナス",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-14T00:00:00+09:00",
-      "end": "2026-10-20T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "対象商品購入・Pontaカード提示。自動加算。一部取扱店限定・商品取扱いなしあり",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "ハッシュドポテト\nハッシュドポテト\nメーカー名：－\n内容量：1個\n本体価格 95円\n（税込 103円）\n※ファストフーズ取扱店限定\n※一部店舗除く\n10P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-a69248c178"
   },
   {
     "type": "bonus",

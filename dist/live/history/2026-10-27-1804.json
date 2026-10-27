@@ -1,14 +1,14 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-26-0124",
-    "generated_at": "2026-10-26T01:24:18+09:00",
+    "data_version": "2026-10-27-1804",
+    "generated_at": "2026-10-27T18:04:56+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 254,
-      "live_campaigns": 234,
+      "campaigns": 227,
+      "live_campaigns": 209,
       "stores": 82,
-      "recurring": 4
+      "recurring": 2
     }
   },
   "brands": [
@@ -409,10 +409,7 @@
       "name": "イオン・イオンスタイル",
       "category": "supermarket",
       "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "accepted_brand_ids": [
-        "aeon-pay",
-        "waon"
-      ],
+      "accepted_brand_ids": [],
       "base_rewards": []
     },
     {
@@ -1032,46 +1029,6 @@
   ],
   "recurring": [
     {
-      "id": "rc-aeonpay-10",
-      "title": "AEON Pay払いの日",
-      "store_ids": [
-        "aeon"
-      ],
-      "brand_ids": [
-        "aeon-pay",
-        "waon-point"
-      ],
-      "rule": {
-        "type": "monthly_days",
-        "days": [
-          10
-        ]
-      },
-      "benefit_text": "WAON POINTが基本の10倍",
-      "official_url": "https://www.waon.net/campaign/aeonpay10/",
-      "last_verified": "2026-10-25"
-    },
-    {
-      "id": "rc-waon-thanks",
-      "title": "WAON お客さま感謝デー",
-      "store_ids": [
-        "aeon"
-      ],
-      "brand_ids": [
-        "waon"
-      ],
-      "rule": {
-        "type": "monthly_days",
-        "days": [
-          20,
-          30
-        ]
-      },
-      "benefit_text": "対象品5%OFF、一部店・商品除外",
-      "official_url": "https://www.waon.net/campaign/thanks_day/",
-      "last_verified": "2026-10-25"
-    },
-    {
       "id": "rc-ministop-weekend",
       "title": "ミニストップ 金土日AEON Pay10倍",
       "store_ids": [
@@ -1091,7 +1048,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-25"
+      "last_verified": "2026-10-27"
     },
     {
       "id": "rc-ministop10",
@@ -1111,1258 +1068,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-25"
+      "last_verified": "2026-10-27"
     }
   ],
   "campaigns": [
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "dpoint",
-        "rakuten-point",
-        "vpoint"
-      ],
-      "title": "アボカドボウル スムージー 240MLポイントプラス",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品1点につき＋50ポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "dポイントカード/楽天ポイントカード/Vポイントアプリ/各ポイント連携済ファミペイ提示。Vポイント磁気カード読取終了。",
-      "official_url": "https://www.family.co.jp/campaign/pointplus.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
-      "id": "cp-063e2a3e29"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOY　フルーツ＆ベイクドチーズ 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-066757bc49"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ ジョージアアシャッチュマンゴー410ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/06～12にいろはす天然水540ml/ラベルレス560ml購入。無人レジ・他割引併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-17ba6192d4"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "信長鬼ころしパック 1000MLアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品20円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "ファミペイアプリ提示。関東は静岡県東部のみ。三重県伊賀市・名張市除外。翌月10日以降付与。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-1bf5a6bc52"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ワンダコクのカフェオレ370g無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示で対象ライオンコーヒー480ml/ワンダ370g購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-1cbafc339f"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ ジョージアアシャッチュピーチ410ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/06～12にいろはす天然水540ml/ラベルレス560ml購入。無人レジ・他割引併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-1da2e78665"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "au-pay"
-      ],
-      "title": "ビックカメラau PAY1000円引券10/23",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "1万円以上で1000円割引",
-        "cap_per_use": 1000,
-        "cap_total": null,
-        "cap_unit": "円相当"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "biccamera"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-23T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "期間④の掲載対象店限定。アプリ事前取得・コード払い、1回税込1万円以上。金券・併用等除外。",
-      "official_url": "https://aupay-cp.auone.jp/202610_biccamera",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-12",
-      "status_override": null,
-      "period_evidence_quote": "期間④：2026年10月23日（金）\r\n～10月26日（月）",
-      "id": "cp-26d4848010"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "キシリトールガムライムミント無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-39a0bf971d"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ロングミントオリジナルミント無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-469105ce6d"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point",
-        "rakuten-point"
-      ],
-      "title": "楽天ポイント初連携ファミペイ提示100円相当",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "100円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-01T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "初楽天連携でアプリ提示購入。過去3共通ポイント連携購入者除外。10/28までに獲得ボタン。",
-      "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-rakutenpoint_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "キャンペーン期間\n2026年10月1日（木）0:00～10月26日（月）23:59",
-      "entry_evidence_quote": "期間中、楽天ポイントをはじめてファミペイに連携し、ファミリーマート店舗でファミペイを提示してお買い物すると、100円相当のファミマポイントクーポンを進呈します。付与されたクーポン券面の「獲得する」ボタンを押下すると、ファミマポイントが付与されます。",
-      "id": "cp-5f4c87109d"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ カゴメ野菜飲料値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "30円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-5fe28670ee"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ キッコーマン豆乳値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "25円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-61408c6564"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOY　アーモンド＆チョコレート 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-6455d8c154"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "コアラのマーチチョコ無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示で対象プレミアムガーナ2種いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-68de790910"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ チョコラBB対象品値引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "100円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "アプリでクーポンをセットして提示。対象の味・規格限定、1点1枚・会計5枚まで。併用不可",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-6c53645a37"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "X抽選ダブルシュー無料クーポン",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選1万名にダブルシュー無料券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T09:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Xフォロー・対象投稿へ指定コメント付き引用ポスト。抽選1万名、応募10/19まで。",
-      "official_url": "https://www.family.co.jp/campaign/spot/2610_cream_cp_VTQUfU4K.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "使用期間\n10月13日（火）9時〜10月26日（月）",
-      "id": "cp-708221ea04"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOYストロベリー 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-7b80e9f3af"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "西友・リヴィン10/26増量日最大7倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "条件達成で楽天ポイント最大7倍",
-        "cap_per_use": null,
-        "cap_total": 250,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seiyu-livin"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-26T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-06",
-      "status_override": null,
-      "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
-      "id": "cp-7c8669e2d3"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOY 黒ゴマ 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-7d68a355fa"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "ファミマ ファミチキスタンプ参加賞",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "ファミチキ20円引券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "9/29～10/19アプリ提示で対象品購入、1スタンプ交換は10/23まで。1人1回",
-      "official_url": "https://www.family.co.jp/campaign/spot/2609_famipay-stamp_famichiki_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-8500c42a39"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ 天然水きりっと果実600ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/06～12に天然水きりっと果実ぶどう＆もも600ml購入。冷凍590ml除外、併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月13日（火）\r\n～10月26日（月）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-8ddeae2892"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "コアラのマーチいちご無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示で対象プレミアムガーナ2種いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-96b33908a3"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "キシリトールガムフレッシュミント無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-aa372c79de"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOY　イチジク＆レーズン 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-ac4d45ecf0"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "アイスの実とろけるカフェオレ無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でアイスの実ぶどうマスカット購入。対象品1点に無料券1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-ae3b373503"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "白鶴まるパック 2000MLアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品15円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-b2901e0e69"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOYブルーベリー 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-bd67fab344"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "マッチ 500MLアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-07-28T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：7/28(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-be16c4fb57"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOY　抹茶＆ゆず 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-c3a5b18c7d"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "新潟県津南の天然水600ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でヘパリーゼWハイパー/胃腸ドリンク購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-c7c8ff7936"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "信長鬼ころしパック 2000MLアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品40円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-29T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "ファミペイアプリ提示。関東は静岡県東部のみ。三重県伊賀市・名張市除外。翌月10日以降付与。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：9/29(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-ccaf92b79f"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "宮崎県霧島の天然水600ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でヘパリーゼWハイパー/胃腸ドリンク購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-e5a3d5aa2b"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "キシリトールガムブラックミント無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1点無料クーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-20T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/13～19にアプリ提示でオーラテクトガム対象2味いずれか購入。1点に1枚。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "クーポン利用期間\n10月20日（火）～ 10月26日（月）",
-      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
-      "id": "cp-f2d557c0a6"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "famima-point"
-      ],
-      "title": "SOYJOYあずき＆ほうじ茶 30Gアプリ還元",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10円相当ファミマポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-13T00:00:00+09:00",
-        "end": "2026-10-26T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "対象品2個購入・レジでファミペイアプリをスキャン。翌月10日以降付与、一部店除く。",
-      "official_url": "https://www.family.co.jp/campaign/otoku.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-17",
-      "status_override": null,
-      "period_evidence_quote": "実施期間：10/13(火)～10/26(月)",
-      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
-      "id": "cp-fff8235a14"
-    },
     {
       "type": "bonus",
       "brand_ids": [
@@ -2883,10 +1592,10 @@
       "brand_ids": [
         "dpoint"
       ],
-      "title": "愛知5施設 2施設以上でdポイント10倍",
+      "title": "愛知対象5施設2施設利用dポイント10倍",
       "benefit": {
         "rate_max": null,
-        "rate_text": "dポイント10倍",
+        "rate_text": "dポイント10倍（通常1倍＋特典9倍）",
         "cap_per_use": null,
         "cap_total": 500,
         "cap_unit": "pt"
@@ -2911,11 +1620,12 @@
         "required": true,
         "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
       },
-      "conditions": "2施設以上で各1pt以上、合計10pt以上。利用者登録。一部店除外、公式一覧要確認",
+      "conditions": "2施設以上で各1pt・合計10pt以上、dポイントカード提示登録/同一ID。指定除外店・決済ポイント対象外",
       "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-27",
       "status_override": null,
+      "period_evidence_quote": "【キャンペーン期間】\r\n2026年10月3日（土）から2026年10月30日（金）",
       "id": "cp-263aebb752"
     },
     {
@@ -3252,6 +1962,43 @@
       "status_override": null,
       "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
       "id": "cp-600c6d4707"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "龍生堂dポイントカード提示10倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント10倍（通常1倍＋特典9倍）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ryuseido"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=ac10d8d1ec881b131e1e44c4e684701779f16f25e92d746c11b71379972171e0"
+      },
+      "conditions": "dポイントカード提示で1pt以上・利用者登録必須。保険調剤/決済ポイント対象外。アプリ一部利用対象外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-27",
+      "status_override": null,
+      "period_evidence_quote": "【キャンペーン期間】\r\n2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "id": "cp-60a9a7d452"
     },
     {
       "type": "bonus",
@@ -3628,6 +2375,46 @@
       "id": "cp-d5b65bfaf4"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "マツキヨココカラ花王期間計3500円で100pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象花王期間計3500円で100pt",
+        "cap_per_use": null,
+        "cap_total": 100,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null,
+        "excluded_store_ids": [
+          "shinseido-drug"
+        ]
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
+      },
+      "conditions": "対象花王1回1500円以上、dポイントカード提示・登録。キュレル/ソフィーナ/カネボウ・新生堂・関空3店除外",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）午前0：00～2026年10月31日（土）午後11：59",
+      "id": "cp-e48e408610"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "rakuten-point"
@@ -3996,42 +2783,6 @@
       "id": "cp-523555d3f1"
     },
     {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "龍生堂 dポイント10倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント10倍",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ryuseido"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-01T00:00:00+09:00",
-        "end": "2026-10-31T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=ac10d8d1ec881b131e1e44c4e684701779f16f25e92d746c11b71379972171e0"
-      },
-      "conditions": "登録済カード提示で1pt以上獲得。保険調剤・決済ポイント対象外。上限なし",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898035_PB7768/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7768",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-60a9a7d452"
-    },
-    {
       "type": "lottery",
       "brand_ids": [
         "vpoint"
@@ -4392,6 +3143,43 @@
       "id": "cp-b11ecb3316"
     },
     {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "上野原市PayPay商品券（販売終了）",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円で7000円分・購入済券のみ",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "19"
+        ],
+        "municipality": "上野原市"
+      },
+      "period": {
+        "start": "2026-05-07T00:00:00+09:00",
+        "end": "2026-10-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "上野原市在住12歳以上・本人確認、購入済券のみ。対象加盟店店頭限定、タバコ・大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/yamanashi-uenohara-city-gift-vouchers-20260507/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "利用期間：\r\n2026年5月7日（木）〜2026年10月31日（土）",
+      "id": "cp-b2098da734"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "d-barai",
@@ -4718,42 +3506,6 @@
       "id": "cp-dfea39d50d"
     },
     {
-      "type": "bonus",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "マツキヨココカラ 花王購入ダブルチャンス",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "100ポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "matsukiyo-cocokara"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-01T00:00:00+09:00",
-        "end": "2026-10-31T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=79ef0bd23d4f0e9eba742a92229649e06c6d750d07ee660815cadcf786563863"
-      },
-      "conditions": "花王対象品1会計1500円以上かつ合計税込3500円以上、カード提示。期間1回",
-      "official_url": "https://dpoint.docomo.ne.jp/cp_7/matsukiyo_261001_7795/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-e48e408610"
-    },
-    {
       "type": "coupon",
       "brand_ids": [],
       "title": "セブン 四国学生限定学割クーポン",
@@ -4835,13 +3587,13 @@
       "brand_ids": [
         "vpoint"
       ],
-      "title": "DRUGユタカ 花王エコトク抽選",
+      "title": "DRUGユタカ花王Vポイント抽選",
       "benefit": {
         "rate_max": null,
-        "rate_text": "抽選で最大1,000ポイント",
+        "rate_text": "抽選1000pt又は100pt",
         "cap_per_use": null,
-        "cap_total": 1000,
-        "cap_unit": "pt"
+        "cap_total": null,
+        "cap_unit": null
       },
       "scope": {
         "kind": "stores",
@@ -4859,11 +3611,12 @@
         "required": true,
         "url": null
       },
-      "conditions": "DRUGユタカ対象店限定。事前エントリー・カード提示。花王1会計1,000円毎",
+      "conditions": "応募後・登録Vポイントカード提示、対象花王税込1000円毎1口。アプリ必須、単独調剤/ソフィーナ等3群除外",
       "official_url": "https://cpn.tsite.jp/detail/en910038410004",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-27",
       "status_override": null,
+      "period_evidence_quote": "■キャンペーン期間\r\n2026年9月1日（火）～2026年10月31日（土）",
       "id": "cp-f8cfc1dcbb"
     },
     {
@@ -5119,10 +3872,10 @@
       "brand_ids": [
         "dpoint"
       ],
-      "title": "サンミュージック dポイント5～10倍",
+      "title": "サンミュージックdポイント5倍・初提示10倍",
       "benefit": {
         "rate_max": null,
-        "rate_text": "既存5倍・初回10倍",
+        "rate_text": "既存5倍・初提示10倍、通常1倍を含む",
         "cap_per_use": null,
         "cap_total": 2000,
         "cap_unit": "pt"
@@ -5141,13 +3894,14 @@
       },
       "entry": {
         "required": true,
-        "url": null
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=7ba2b89f8f1f36e65f9286022fcd5eb16e013e68746248f050ea85700641fa46"
       },
-      "conditions": "ページ掲載対象店でカード提示1pt以上獲得。初回のみ10倍、月追加上限2000pt",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202610_7773",
+      "conditions": "対象店限定、dポイントカード提示で1pt以上・利用者登録。過去提示あり5倍/初提示10倍、アプリ一部対象外",
+      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898738_PB7773/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-27",
       "status_override": null,
+      "period_evidence_quote": "キャンペーン期間：2026年10月1日（木）～11月1日（日）",
       "id": "cp-b4210b9a55"
     },
     {
@@ -5405,6 +4159,45 @@
       "id": "cp-6438ff1a01"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "楽天ペイ自動チャージ後コード払い山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "200万pt山分け・1人上限200pt",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null,
+        "excluded_store_ids": [
+          "familymart"
+        ]
+      },
+      "period": {
+        "start": "2026-10-01T10:00:00+09:00",
+        "end": "2026-11-02T09:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked"
+      },
+      "conditions": "期間内オートチャージ・残高コードQR払い、メルマガ購読必須。ファミマ・ファミマ‼・TOMONY・請求書除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
+      "id": "cp-809512b353"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "rakuten-pay",
@@ -5442,44 +4235,6 @@
       "status_override": null,
       "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
       "id": "cp-96e1f4bedb"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "rakuten-pay",
-        "rakuten-point"
-      ],
-      "title": "楽天ペイ オートチャージ200万pt山分け",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "200万ポイント山分け",
-        "cap_per_use": null,
-        "cap_total": 200,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "payment_wide",
-        "store_ids": [],
-        "prefecture_codes": [],
-        "municipality": null,
-        "excluded_store_ids": [
-          "familymart"
-        ]
-      },
-      "period": {
-        "start": "2026-10-01T10:00:00+09:00",
-        "end": "2026-11-02T09:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked-wi_pym_cpn_big"
-      },
-      "conditions": "オートチャージと残高コード・QR払い、メルマガ必須。ファミマ・請求書払い等除外",
-      "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/?scid=wi_pym_cpn_big",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-809512b353"
     },
     {
       "type": "bonus",
@@ -5678,6 +4433,43 @@
       "id": "cp-09fdca7a22"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選本気のチョコデニッシュメロンパン沖縄198円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象品198円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [
+          "47"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-0dbb293f30"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -5750,6 +4542,43 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-14f43639a8"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選本気のチョコクリームパン沖縄198円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象品198円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [
+          "47"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-1aba1e8287"
     },
     {
       "type": "coupon",
@@ -5969,6 +4798,43 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-4ae02704be"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選本気のチョコクイニーアマン沖縄198円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象品198円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [
+          "47"
+        ],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄限定",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-53e869ee14"
     },
     {
       "type": "bonus",
@@ -6314,6 +5180,41 @@
       "id": "cp-a4315056a5"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選本気のチョコクリームパン無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象商品1品無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-aa0335c6c0"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -6500,6 +5401,41 @@
     {
       "type": "coupon",
       "brand_ids": [],
+      "title": "抽選本気のチョコデニッシュメロンパン無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象商品1品無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-c27d257d49"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
       "title": "セブン プライチ 紅茶花伝ロイヤルミルクティー440ml無料券",
       "benefit": {
         "rate_max": null,
@@ -6572,6 +5508,41 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-c47b2af513"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "抽選本気のチョコクイニーアマン無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選で対象商品1品無料",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T10:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "X公式フォロー、#ファミマ本気のチョコがけパンで引用RP。応募10/26まで、抽選計1万名、沖縄除外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2610_chocobread_cp_T1tKX5y0.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-26",
+      "status_override": null,
+      "period_evidence_quote": "使用期間\r\n10月20日（火）10:00〜11月2日（月）",
+      "id": "cp-c9d15e2735"
     },
     {
       "type": "bonus",

@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-27-1804",
-    "generated_at": "2026-10-27T18:04:56+09:00",
+    "data_version": "2026-10-28-0028",
+    "generated_at": "2026-10-28T00:28:32+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 227,
-      "live_campaigns": 209,
+      "campaigns": 223,
+      "live_campaigns": 205,
       "stores": 82,
       "recurring": 2
     }
@@ -1072,194 +1072,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "ビバホーム等ペット対象商品最大300ポイント",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象ペット商品最大300ポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "musashi",
-          "nicopet",
-          "vivahome"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-30T00:00:00+09:00",
-        "end": "2026-10-27T23:59:00+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "楽天ポイントカード提示・利用登録。対象ペット商品単品ごとに進呈。一部店・商品除外",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-04",
-      "status_override": null,
-      "id": "cp-82b8def06a"
-    },
-    {
-      "type": "reward",
-      "brand_ids": [
-        "rakuten-point"
-      ],
-      "title": "アークランズ 対象ペット用品特典",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品 最大300ポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "musashi",
-          "nicopet",
-          "vivahome"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-30T00:00:00+09:00",
-        "end": "2026-10-27T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "登録済カード提示。NICO PET対象厚型シーツ300pt・薄型100pt。プロ店舗等除外",
-      "official_url": "https://pointcard.rakuten.co.jp/campaign/arclands-bonus/20260930/?scid=wi_pym_cpn_list",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-210be6cff0"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "ponta"
-      ],
-      "title": "ストア100 温泉たまご",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10ボーナスポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "lawson-store100"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-14T00:00:00+09:00",
-        "end": "2026-10-27T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
-      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
-      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-      "id": "cp-5847d514a3"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "ponta"
-      ],
-      "title": "ストア100 とろり半熟トッピングたまご",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象品10ボーナスポイント",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "lawson-store100"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-14T00:00:00+09:00",
-        "end": "2026-10-27T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "ローソンストア100、Pontaカード提示。対象品4個入、一部取扱いなし",
-      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "展開期間：2026年10月14日～10月27日",
-      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-      "id": "cp-6f43d16f73"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "vpoint"
-      ],
-      "title": "セブン Vポイント引換 10-14",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "コーヒー70pt・ヨーグルト80pt",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-14T00:00:00+09:00",
-        "end": "2026-10-27T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Vポイントアプリ。10/14 14時～10/20交換。各商品先着2万名、1人1回",
-      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-83305a1afa"
-    },
     {
       "type": "coupon",
       "brand_ids": [],
@@ -8957,6 +8769,42 @@
       "status_override": null,
       "period_evidence_quote": "2026年10月1日（木）10:00～2026年12月1日（火）9:59",
       "id": "cp-b2a6640ea8"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズ au PAY機種変更クーポン",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "指定スマホ機種変更3,300円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-27T00:00:00+09:00",
+        "end": "2026-12-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "発券10/30～11/23、au PAY200円以上。au/UQ指定機種限定、1au ID1回",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-5b9dfb01b4"
     },
     {
       "type": "bonus",
