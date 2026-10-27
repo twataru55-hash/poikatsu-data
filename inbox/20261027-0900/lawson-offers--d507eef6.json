@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン鉄骨飲料500ml179円セール",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "税込183円→179円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "鉄骨飲料500ml限定。ローソンストア100・Lミニマート除外、スマホレジ決済対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533003_3677.html",
+      "evidence_quote": "サントリー　鉄骨飲料　500ml\r\n183円\r\n→\r\n179円",
+      "confidence": "confirmed",
+      "period_evidence_quote": "開催期間\r\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": null
+    }
+  ]
+}

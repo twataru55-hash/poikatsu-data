@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "足立区商品券一次・共通3200＋小規模2000",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "4000円で共通3200＋小規模2000円分",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "足立区"
+      },
+      "period": {
+        "start": "2026-11-02T10:00:00+09:00",
+        "end": "2027-03-07T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "足立区在住12歳以上・本人確認、先着10口。一次販売11/2～30。指定店限定、たばこ/大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/tokyo-adachi-city-gift-vouchers-20261102/",
+      "evidence_quote": "足立区プレミアム商品券（PayPay商品券）は、1口あたり「共通券（3,200円分）」と「小規模店舗専用券（2,000円分）」のセット販売になります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n2026年11月2日（月）10:00〜2027年3月7日（日）23:59",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "足立区商品券二次・共通3200＋小規模2000",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "4000円で共通3200＋小規模2000円分",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "13"
+        ],
+        "municipality": "足立区"
+      },
+      "period": {
+        "start": "2026-12-08T10:00:00+09:00",
+        "end": "2027-03-07T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "居住地不問12歳以上・本人確認、先着10口。二次販売12/8～2/28。指定店限定、たばこ/大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/tokyo-adachi-city-gift-vouchers-20261102/",
+      "evidence_quote": "足立区プレミアム商品券（PayPay商品券）は、1口あたり「共通券（3,200円分）」と「小規模店舗専用券（2,000円分）」のセット販売になります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n2026年12月8日（火）10:00〜2027年3月7日（日）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

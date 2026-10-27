@@ -1,0 +1,41 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-point"
+      ],
+      "title": "ブックオフ初回・久々楽天ペイ最大20％",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20％（特典18.5％＋通常最大1.5％）",
+        "cap_per_use": 300,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "bookoff"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001/bookoff?ekey=checked"
+      },
+      "conditions": "対象213店限定、25/10/1～26/9/30利用なし。1回税込500円以上コードQR払い、購読必須・セルフ除外",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1001-bookoff/",
+      "evidence_quote": "楽天ポイントを期間中のお支払い金額に対して最大20％分進呈\r\n（本キャンペーン18.5％＋楽天ペイのコード・QR払いで最大1.5％還元）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月1日（木）0:00～2026年10月31日（土）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

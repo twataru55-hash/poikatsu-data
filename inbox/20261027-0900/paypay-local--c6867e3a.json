@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "鳴門市PayPay商品券一次購入済券限定",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3000円で5000円分・購入済券のみ",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "36"
+        ],
+        "municipality": "鳴門市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "鳴門市在住12歳以上・本人確認、販売終了の購入済券限定。指定店店頭のみ、たばこ/大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/tokushima-naruto-city-gift-vouchers-20260507/",
+      "evidence_quote": "申し込みのうえ購入権を取得した徳島県鳴門市在住の12歳以上の方は、PayPayアプリから2,000円分のプレミアムが付いた5,000円分の鳴門市プレミアム付デジタル商品券（PayPay商品券）を3,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n購入後〜2026年11月30日（月）23:59",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "鳴門市PayPay商品券二次購入済券限定",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "3000円で5000円分・購入済券のみ",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "36"
+        ],
+        "municipality": "鳴門市"
+      },
+      "period": {
+        "start": "2026-08-04T10:00:00+09:00",
+        "end": "2026-11-30T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "鳴門市在住12歳以上・本人確認、販売終了の購入済券限定。指定店店頭のみ、たばこ/大手コンビニ等除外",
+      "official_url": "https://paypay.ne.jp/event/tokushima-naruto-city-gift-vouchers-20260507/",
+      "evidence_quote": "申し込みのうえ購入権を取得した徳島県鳴門市在住の12歳以上の方は、PayPayアプリから2,000円分のプレミアムが付いた5,000円分の鳴門市プレミアム付デジタル商品券（PayPay商品券）を3,000円で購入可能となります。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n2026年8月4日（火） 10:00～2026年11月30日（月）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

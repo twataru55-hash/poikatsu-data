@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイヤクルトY1000110ml14枚券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14枚回数券2106円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日含む45日間。持帰り8%・店内差額精算、併用不可・一部取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/spot/2504_famipay-yakult1000_cp.html",
+      "evidence_quote": "ファミマのアプリ「ファミペイ」でヤクルトY1000／ヤクルトY1000 糖質オフ 各110ml（税込各162円）の回数券を2,106円（1本分おトク）で販売します。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む45日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイヤクルトY1000糖質オフ110ml14枚券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14枚回数券2106円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日含む45日間。持帰り8%・店内差額精算、併用不可・一部取扱なし",
+      "official_url": "https://www.family.co.jp/campaign/spot/2504_famipay-yakult1000_cp.html",
+      "evidence_quote": "ファミマのアプリ「ファミペイ」でヤクルトY1000／ヤクルトY1000 糖質オフ 各110ml（税込各162円）の回数券を2,106円（1本分おトク）で販売します。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む45日間",
+      "entry_evidence_quote": null
+    }
+  ]
+}

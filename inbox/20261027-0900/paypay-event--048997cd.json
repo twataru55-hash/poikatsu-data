@@ -1,0 +1,49 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-point"
+      ],
+      "title": "対象サンスター口腔品700円以上PayPay還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "最大20％・決済額の66.5％制限あり",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group",
+          "okay",
+          "sugi-group",
+          "tsuruha",
+          "tomods",
+          "american-pharmacy",
+          "fujiyakuhin-group",
+          "drug-yutaka",
+          "matsukiyo-cocokara"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2027-01-04T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "掲載対象店の対象JAN、医薬品除外。提示バーコード払い限定、1/5購買情報利用の同意必須・例外店あり",
+      "official_url": "https://paypay.ne.jp/event/retail-sunstar-20261016/",
+      "evidence_quote": "キャンペーン期間中、対象店舗において、1回のお会計でオーラルケア商品（※医薬品除く）を合計700円（税込）以上購入し、支払いに「PayPay」をご利用いただいた方に対して、最大20％のPayPayポイントを後日付与。付与上限は1,000ポイント／期間 。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年10月16日（金）〜2027年1月4日（月）",
+      "entry_evidence_quote": "事前のエントリーは不要です。"
+    }
+  ]
+}

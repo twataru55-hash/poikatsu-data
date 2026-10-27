@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "京急・ユニオン・ハウツ楽天ポイント山分け",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "300万pt山分け・1人上限200pt",
+        "cap_per_use": null,
+        "cap_total": 200,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-14T00:00:00+09:00",
+        "end": "2026-11-19T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "京急/ユニオン/ハウツ導入済対象店のみ。楽天ポイントカード提示登録・税抜200円。伊勢佐木町/上大岡/大船除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/keikyu-store/20261014/",
+      "evidence_quote": "楽天ポイント300万ポイントを山分けにて進呈",
+      "confidence": "unconfirmed",
+      "period_evidence_quote": "2026年10月14日（水）0:00～2026年11月19日（木）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン伊右衛門特茶500ml5本で無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "累計5本購入ごと1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-12-07T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "7iD登録・セブンアプリ会員コードを精算前提示。購入10/6～11/30、次回用。ジャスミン対象外",
+      "official_url": "https://www.sej.co.jp/cmp/app_iymn2610.html",
+      "evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\nサントリー 伊右衛門 特茶 500mlを\r\n累計5本買うたびに、\r\n次回使える\r\n1本無料クーポンが\r\n1枚もらえます。",
+      "confidence": "confirmed",
+      "period_evidence_quote": "クーポン利用期間\r\n10月6日（火）～\r\n12月7日（月）",
+      "entry_evidence_quote": "セブン‐イレブンアプリを\r\n提示して\r\nサントリー 伊右衛門 特茶 500mlを\r\n累計5本買うたびに、\r\n次回使える\r\n1本無料クーポンが\r\n1枚もらえます。"
+    }
+  ]
+}

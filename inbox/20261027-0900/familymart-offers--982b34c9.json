@@ -1,0 +1,990 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイブレンドS／アイスコーヒーS11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券1,580円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "ブレンドS／アイスコーヒーS 158円（税込）\r\n11枚\r\n1,580円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイブレンドM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,300円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "ブレンドM 230円（税込）\r\n11枚\r\n2,300円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイブレンドL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,750円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "ブレンドL 275円（税込）\r\n11枚\r\n2,750円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイブレンドLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,400円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "ブレンドLL 340円（税込）\r\n11枚\r\n3,400円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイカフェラテM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,550円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "カフェラテM 255円（税込）\r\n11枚\r\n2,550円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイカフェラテL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,050円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "カフェラテL 305円（税込）\r\n11枚\r\n3,050円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイカフェラテLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,750円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "カフェラテLL 375円（税込）\r\n11枚\r\n3,750円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスコーヒーM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,750円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスコーヒーM 275円（税込）\r\n11枚\r\n2,750円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスコーヒーL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,750円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスコーヒーL 375円（税込）\r\n11枚\r\n3,750円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスコーヒーLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,050円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスコーヒーLL 405円（税込）\r\n11枚\r\n4,050円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスカフェラテM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,900円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスカフェラテM 290円（税込）\r\n11枚\r\n2,900円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスカフェラテL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,850円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスカフェラテL 385円（税込）\r\n11枚\r\n3,850円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスカフェラテLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,300円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスカフェラテLL 430円（税込）\r\n11枚\r\n4,300円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイモカブレンドS11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券1,850円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "モカブレンドS 185円（税込）\r\n11枚\r\n1,850円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイモカブレンドM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,600円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "モカブレンドM 260円（税込）\r\n11枚\r\n2,600円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイモカブレンドL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,000円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "モカブレンドL 300円（税込）\r\n11枚\r\n3,000円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイモカブレンドLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,600円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "モカブレンドLL 360円（税込）\r\n11枚\r\n3,600円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイプレミアムモカS11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,300円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "プレミアムモカS 230円（税込）\r\n11枚\r\n2,300円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイプレミアムモカM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,000円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "プレミアムモカM 300円（税込）\r\n11枚\r\n3,000円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイプレミアムモカL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,600円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "プレミアムモカL 360円（税込）\r\n11枚\r\n3,600円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイプレミアムモカLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,200円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "プレミアムモカLL 420円（税込）\r\n11枚\r\n4,200円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスモカブレンドS11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,100円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスモカブレンドS 210円（税込）\r\n11枚\r\n2,100円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスモカブレンドM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,900円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスモカブレンドM 290円（税込）\r\n11枚\r\n2,900円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスモカブレンドL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,850円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスモカブレンドL 385円（税込）\r\n11枚\r\n3,850円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスモカブレンドLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,150円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスモカブレンドLL 415円（税込）\r\n11枚\r\n4,150円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスプレミアムモカS11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券2,400円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスプレミアムモカS 240円（税込）\r\n11枚\r\n2,400円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスプレミアムモカM11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券3,400円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスプレミアムモカM 340円（税込）\r\n11枚\r\n3,400円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスプレミアムモカL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,400円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスプレミアムモカL 440円（税込）\r\n11枚\r\n4,400円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイアイスプレミアムモカLL11枚回数券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "11杯券4,700円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリ購入/利用、購入日含む91日。沖縄仕様別・ファミマ!!一部除外、店内差額精算・併用不可",
+      "official_url": "https://www.family.co.jp/campaign/spot/2505_famipay-famimacafe_cp.html",
+      "evidence_quote": "アイスプレミアムモカLL 470円（税込）\r\n11枚\r\n4,700円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日を含む91日間",
+      "entry_evidence_quote": null
+    }
+  ]
+}

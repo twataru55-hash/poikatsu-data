@@ -1,0 +1,140 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ伊右衛門特茶500ml8本券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "8本分1358円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日から91日間。持帰り8%・店内差額精算、併用不可・一部対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+      "evidence_quote": "サントリー 伊右衛門 特茶ジャスミン／特茶 194円（税込） 8本分　1,358円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日から91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ伊右衛門特茶500ml14本券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14本分2328円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日から91日間。持帰り8%・店内差額精算、併用不可・一部対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+      "evidence_quote": "サントリー 伊右衛門 特茶ジャスミン／特茶 194円（税込） 14本分　2,328円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日から91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ伊右衛門特茶ジャスミン500ml8本券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "8本分1358円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日から91日間。持帰り8%・店内差額精算、併用不可・一部対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+      "evidence_quote": "サントリー 伊右衛門 特茶ジャスミン／特茶 194円（税込） 8本分　1,358円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日から91日間",
+      "entry_evidence_quote": null
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ伊右衛門特茶ジャスミン500ml14本券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "14本分2328円（税込）",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "ファミペイアプリで購入/利用、購入日から91日間。持帰り8%・店内差額精算、併用不可・一部対象外",
+      "official_url": "https://www.family.co.jp/campaign/spot/2510_famipay-iyemon_cp.html",
+      "evidence_quote": "サントリー 伊右衛門 特茶ジャスミン／特茶 194円（税込） 14本分　2,328円（税込）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "回数券有効期間\r\n購入日から91日間",
+      "entry_evidence_quote": null
+    }
+  ]
+}

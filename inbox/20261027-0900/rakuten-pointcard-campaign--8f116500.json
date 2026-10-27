@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "コーナン花王楽天ポイント最大20％還元",
+      "benefit": {
+        "rate_max": 20,
+        "rate_text": "対象花王購入額最大20％楽天ポイント",
+        "cap_per_use": null,
+        "cap_total": 2000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "kohnan-group"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-08T00:00:00+09:00",
+        "end": "2026-11-09T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/mtu/2026/0908/kao?ekey=mp_on"
+      },
+      "conditions": "対象花王1会計税込5000円・楽天ポイントカード提示登録/購読。カネボウ/キュレル/ペット/ヘルシア/PRO除外",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/mtu/kao-20260908/",
+      "evidence_quote": "楽天ポイントを対象商品の購入金額（税込）の最大20％分進呈",
+      "confidence": "confirmed",
+      "period_evidence_quote": "2026年9月8日（火）0:00～2026年11月9日（月）23:59",
+      "entry_evidence_quote": null
+    }
+  ]
+}

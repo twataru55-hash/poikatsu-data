@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "大子町PayPayプレミアム商品券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円で5500円分・1人20口まで",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "08"
+        ],
+        "municipality": "大子町"
+      },
+      "period": {
+        "start": "2026-10-01T00:00:00+09:00",
+        "end": "2027-01-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "15歳以上・本人確認・先着順。町内対象店の店頭限定、たばこ・大手コンビニ等除外。売切時終了",
+      "official_url": "https://paypay.ne.jp/event/ibaraki-daigo-town-gift-vouchers-20261001/",
+      "evidence_quote": "居住地に関係なく15歳以上の全ての方は、PayPayアプリから500円分のプレミアムが付いた5,500円分の大子町デジタルプレミアム商品券（PayPay商品券）を5,000円で購入可能となります。（先着順）",
+      "confidence": "confirmed",
+      "period_evidence_quote": "利用期間：\r\n2026年10月1日（木）〜2027年1月31日（日）",
+      "entry_evidence_quote": null
+    }
+  ]
+}

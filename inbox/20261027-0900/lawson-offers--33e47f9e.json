@@ -1,0 +1,140 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン亀田柿の種63g2個30円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2個同時購入で税込30円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象2種の組合せ可、同時購入限定。ローソンストア100・Lミニマート除外、スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533199_3677.html",
+      "evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)",
+      "confidence": "confirmed",
+      "period_evidence_quote": "開催期間\r\n2026.10.20 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン亀田柿の種63g3個60円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象3個同時購入で税込60円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象2種の組合せ可、同時購入限定。ローソンストア100・Lミニマート除外、スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533199_3677.html",
+      "evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)",
+      "confidence": "confirmed",
+      "period_evidence_quote": "開催期間\r\n2026.10.20 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン亀田柿の種わさび57g2個30円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象2個同時購入で税込30円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象2種の組合せ可、同時購入限定。ローソンストア100・Lミニマート除外、スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533199_3677.html",
+      "evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)",
+      "confidence": "confirmed",
+      "period_evidence_quote": "開催期間\r\n2026.10.20 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ローソン亀田柿の種わさび57g3個60円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象3個同時購入で税込60円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象2種の組合せ可、同時購入限定。ローソンストア100・Lミニマート除外、スマホレジ対象外",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533199_3677.html",
+      "evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)",
+      "confidence": "confirmed",
+      "period_evidence_quote": "開催期間\r\n2026.10.20 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、2個一緒に買うと30円引、3個一緒に買うと60円引(税込)"
+    }
+  ]
+}
