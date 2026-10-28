@@ -2383,5 +2383,82 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-a69248c178"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン 東京限定ベース麺値引券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象ベース麺100円引券",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-09-24T00:00:00+09:00",
+      "end": "2026-10-21T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": null
+    },
+    "conditions": "東京都限定。9/24～10/7アプリ提示対象麺購入。会員登録・ログイン必須。他券併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/app_tk_by2609.html",
+    "evidence_quote": "100円引きクーポンが\n1枚もらえます。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-50dfd55b71"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "rakuten-point"
+    ],
+    "title": "西友・リヴィン10/21増量日最大7倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "条件達成で楽天ポイント最大7倍",
+      "cap_per_use": null,
+      "cap_total": 250,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seiyu-livin"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-21T00:00:00+09:00",
+      "end": "2026-10-21T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "西友アプリ提示＋対象楽天決済・同一ID・利用登録。日計税抜2,500円以上・上限250pt。ネット・テナント除く",
+    "official_url": "https://pointcard.rakuten.co.jp/campaign/seiyu/pointupday/20261001/",
+    "evidence_quote": "キャンペーン参加方法\n今月の対象日に\n西友、リヴィンで\n楽天ポイントカードを提示して\n1日あたり合計2,500円\n（税抜）\n以上お支払い\n楽天ポイント最大7倍",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pointcard-campaign",
+    "first_seen": "2026-10-06",
+    "last_verified": "2026-10-06",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月3日（土）、5日（月）、10日（土）、12日（月）、17日（土）、19日（月）、21日（水）、22日（木）、23日（金）、24日（土）、25日（日）、26日（月）、31日（土）",
+    "id": "cp-2a7a896557"
   }
 ]
