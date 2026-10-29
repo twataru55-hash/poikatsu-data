@@ -5069,13 +5069,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-deba36f9ee": {
-    "issue": 762,
-    "created": "2026-10-12",
-    "reasons": [
-      "V12 公式で確認できていない（unconfirmed）"
-    ]
-  },
   "cp-28be1a7a75": {
     "issue": 763,
     "created": "2026-10-12",
