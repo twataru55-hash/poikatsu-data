@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-30-1902",
-    "generated_at": "2026-10-30T19:02:47+09:00",
+    "data_version": "2026-10-31-0302",
+    "generated_at": "2026-10-31T03:02:05+09:00",
     "channel": "staging",
     "counts": {
-      "campaigns": 214,
-      "live_campaigns": 210,
+      "campaigns": 213,
+      "live_campaigns": 211,
       "stores": 82,
       "recurring": 2
     }
@@ -1048,7 +1048,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-30"
     },
     {
       "id": "rc-ministop10",
@@ -1068,51 +1068,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-27"
+      "last_verified": "2026-10-30"
     }
   ],
   "campaigns": [
-    {
-      "type": "reward",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "愛知対象5施設2施設利用dポイント10倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "dポイント10倍（通常1倍＋特典9倍）",
-        "cap_per_use": null,
-        "cap_total": 500,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "lalaport-anjo",
-          "lalaport-nagoya",
-          "lalaport-togo",
-          "mop-okazaki",
-          "rayard-hisaya"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-03T00:00:00+09:00",
-        "end": "2026-10-30T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
-      },
-      "conditions": "2施設以上で各1pt・合計10pt以上、dポイントカード提示登録/同一ID。指定除外店・決済ポイント対象外",
-      "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-27",
-      "status_override": null,
-      "period_evidence_quote": "【キャンペーン期間】\r\n2026年10月3日（土）から2026年10月30日（金）",
-      "id": "cp-263aebb752"
-    },
     {
       "type": "reward",
       "brand_ids": [
