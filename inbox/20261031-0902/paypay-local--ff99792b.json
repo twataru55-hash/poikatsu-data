@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "飯能市購入済商品券5000円で7500円分",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "5000円で7500円分の商品券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "飯能市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-25T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "購入済券限定・申込購入終了。市内12歳以上、本人確認・対象店レジ利用。コンビニ等除外。",
+      "official_url": "https://paypay.ne.jp/event/saitama-hanno-city-gift-vouchers-20260701/",
+      "evidence_quote": "申し込みのうえ購入権を取得した埼玉県飯能市在住の12歳以上の方は、PayPayアプリから2,500円分のプレミアムが付いた7,500円分の飯能市プレミアム付デジタル商品券（PayPay商品券）を5,000円で購入可能となります。",
+      "period_evidence_quote": "購入期間：\n当選発表後〜2026年8月31日（月）23:59\n利用期間：\n購入後〜2026年12月25日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

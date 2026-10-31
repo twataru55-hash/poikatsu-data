@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "d-barai",
+        "dpoint"
+      ],
+      "title": "ひまり対象2店d払い抽選最大10000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大10000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-10T00:00:00+09:00",
+        "end": "2026-10-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=488c5f3b55ac02114aa0cc5aacf1e6ebf85fdd017b989eae5a5b80cdd4834193"
+      },
+      "conditions": "ひまり隠岐店・大庭店限定。コード決済税込1500円以上3回。たばこ・クーポン等除外。",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/yamadayacp_2610/index.html",
+      "evidence_quote": "期間中、エントリーの上、ひまりにてd払い（コード決済）で一会計1,500円（税込）以上のお支払いを3回以上されたお客さまに対して、抽選で最大10,000ポイントのdポイント（期間・用途限定）を進呈いたします。",
+      "period_evidence_quote": "キャンペーン期間・エントリー期間\n2026年10月10日（土）0：00～　2026年10月31日（土）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

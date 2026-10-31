@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "title": "はるやま限定dポイント抽選最大50倍",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大50倍・1等上限3000pt",
+        "cap_per_use": null,
+        "cap_total": 3000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "haruyama"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-14T00:00:00+09:00",
+        "end": "2026-11-08T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5a7563ad62160afbf8fd063075231bcadd8576ceddc0028f31dec05850541696"
+      },
+      "conditions": "はるやま対象店・dポイントカード提示25pt以上獲得、登録必要。モバイル一部対象外、通販除外。",
+      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/haruyamacp_2609/index.html",
+      "evidence_quote": "はるやま限定 dポイント(期間･用途限定) 1等 50倍×50名さま 2等 20倍×250名さま 3等 10万ポイント山分け さらに 合計50ポイント以上ためるお買物で〈10,000円(税込)以上〉1等･2等の当選確率2倍",
+      "period_evidence_quote": "キャンペーン・エントリー期間\n2026年9月14日（月）午前0:00～2026年11月8日（日）午後11:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

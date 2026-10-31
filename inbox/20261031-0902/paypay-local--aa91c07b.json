@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "三郷市商品券2次・1万円で13000円分",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円で13000円分の商品券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "三郷市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-25T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "市内在住12歳以上・本人確認、先着1口。2次11/2正午～12/24購入、利用は購入後。",
+      "official_url": "https://paypay.ne.jp/event/saitama-misato-city-gift-vouchers-20260701/",
+      "evidence_quote": "埼玉県三郷市に在住の12歳以上の方は、PayPayアプリから3,000円分のプレミアムが付いた13,000円分の三郷市プレミアム付デジタル商品券（PayPay商品券）を10,000円で購入可能となります。（先着順）",
+      "period_evidence_quote": "2次販売\n販売期間：\n2026年11月2日（月）12:00 〜 2026年12月24日（木）23:59\n利用期間：\n購入後 〜 2026年12月25日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "三郷市1次購入済デジタル商品券利用",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円で13000円分の商品券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "三郷市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-25T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "1次購入済券限定・購入期間終了。市内対象店レジ利用、大手コンビニ・たばこ等除外。",
+      "official_url": "https://paypay.ne.jp/event/saitama-misato-city-gift-vouchers-20260701/",
+      "evidence_quote": "埼玉県三郷市 PayPay 三郷市プレミアム付デジタル商品券1口13,000円分のPayPay商品券が10,000円で購入できます。おひとり様1口まで。申込、購入はPayPayアプリから。",
+      "period_evidence_quote": "購入期間：\n当選発表後 〜 2026年8月31日（月）23:59\n利用期間：\n購入後 〜 2026年12月25日（金）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

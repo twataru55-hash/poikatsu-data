@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "local",
+      "brand_ids": [
+        "paypay"
+      ],
+      "title": "坂戸市購入済商品券1万円で15000円分",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "1万円で15000円分の商品券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "region",
+        "store_ids": [],
+        "prefecture_codes": [
+          "11"
+        ],
+        "municipality": "坂戸市"
+      },
+      "period": {
+        "start": null,
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "購入済券限定・申込購入終了。市内18歳以上・本人確認、対象店レジ利用。大手コンビニ等除外。",
+      "official_url": "https://paypay.ne.jp/event/saitama-sakado-city-gift-vouchers-20260701/",
+      "evidence_quote": "申し込みのうえ購入権を取得した埼玉県坂戸市在住の18歳以上の方は、PayPayアプリから5,000円分のプレミアムが付いた15,000円分の市制施行50周年　坂戸市プレミアム付デジタル商品券（PayPay商品券）を10,000円で購入可能となります。",
+      "period_evidence_quote": "購入期間：\n当選発表後〜2026年8月31日（月）23:59\n利用期間：\n購入後〜2026年12月31日（木）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

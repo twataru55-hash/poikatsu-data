@@ -1,0 +1,148 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "dポイント2倍",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-sanshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2027-05-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+      "period_evidence_quote": "キャンペーン期間\n2026年6月1日（月曜）～2027年5月31日（月曜）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed",
+      "title": "スーパー三心税抜3000円以上dポイント2倍",
+      "conditions": "1会計税抜3000円以上・dポイントカード提示。月末までに利用者情報登録。",
+      "evidence_quote": "① 毎日おトク！ 3,000円以上のお買物でdポイント2倍"
+    },
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選最大10000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-sanshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2027-05-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+      "period_evidence_quote": "キャンペーン期間\n2026年6月1日（月曜）～2027年5月31日（月曜）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed",
+      "title": "スーパー三心毎月11～20日抽選最大10000pt",
+      "conditions": "毎月11～20日・dポイントカード提示、合計税抜1000円以上。月末登録・毎月当選1回。",
+      "evidence_quote": "② 毎月11日～20日 最大10,000ポイントがあたる抽選キャンペーン！\n毎月11日～20日の合計購入金額税抜1,000円を一口として、口数が多いほど当選確率がアップするキャンペーンを開催します。"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "dポイント利用分の5％還元",
+        "cap_per_use": 500,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-sanshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2027-05-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+      "period_evidence_quote": "キャンペーン期間\n2026年6月1日（月曜）～2027年5月31日（月曜）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed",
+      "title": "スーパー三心毎月1～20日dポイント利用5％",
+      "conditions": "毎月1～20日・1会計20pt以上利用、月末利用者登録。d払い決済時のポイント利用対象外。",
+      "evidence_quote": "③ 毎月1日～20日 dポイントご利用分の5％還元デー"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "dpoint"
+      ],
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "dポイント利用分の10％還元",
+        "cap_per_use": 500,
+        "cap_total": null,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "super-sanshin"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-06-01T00:00:00+09:00",
+        "end": "2027-05-31T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "official_url": "https://www.docomo.ne.jp/campaign_event/tokai/sanshin_dpoint05/",
+      "period_evidence_quote": "キャンペーン期間\n2026年6月1日（月曜）～2027年5月31日（月曜）",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed",
+      "title": "スーパー三心毎月21～月末dポイント利用10％",
+      "conditions": "毎月21日～月末・1会計10pt以上利用、月末利用者登録。d払い決済時のポイント利用除外。",
+      "evidence_quote": "④ 毎月21日～月末 dポイントご利用分の10％還元デー"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "campaigns": [
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ホワイトロースハム 180g＋30P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ホワイトロースハム\nホワイトロースハム\nメーカー名：プリマハム\n内容量：180g\n本体価格 318円\n（税込 343円）\n30P",
+      "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "炭火焼鳥ぼんじり串（塩） 1本＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。ファストフーズ取扱店限定。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "炭火焼鳥ぼんじり串（塩）\n炭火焼鳥ぼんじり串（塩）\nメーカー名：-\n内容量：1本\n本体価格 120円\n（税込 130円）\n※ファストフーズ取扱店限定\n※一部店舗除く\n10P",
+      "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "北海道　ラーメンスープ醤油 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "北海道　ラーメンスープ醤油\n北海道　ラーメンスープ醤油\nメーカー名：菊水\n内容量：1人前\n本体価格 89円\n（税込 96円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "北海道　ラーメンスープ味噌 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "北海道　ラーメンスープ味噌\n北海道　ラーメンスープ味噌\nメーカー名：菊水\n内容量：1人前\n本体価格 89円\n（税込 96円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "スープの達人　濃厚豚ラーメンスープ 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "スープの達人　濃厚豚ラーメンスープ\nスープの達人　濃厚豚ラーメンスープ\nメーカー名：日清食品\n内容量：1人前\n本体価格 118円\n（税込 127円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "煮たまご 2個入＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "煮たまご\n煮たまご\nメーカー名：ＬＡＷＳＯＮ　ＶＡＬＵＥ　ＬＩＮＥ\n内容量：2個入\n本体価格 148円\n（税込 160円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ラーメンが旨くなる　バラ叉焼 47g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ラーメンが旨くなる　バラ叉焼\nラーメンが旨くなる　バラ叉焼\nメーカー名：プリマハム\n内容量：47g\n本体価格 178円\n（税込 192円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "漬物食堂　紅生姜 80g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "漬物食堂　紅生姜\n漬物食堂　紅生姜\nメーカー名：アイティーフーズ\n内容量：80g\n本体価格 100円\n（税込 108円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "メンマ 70g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "メンマ\nメンマ\nメーカー名：石川食研\n内容量：70g\n本体価格 118円\n（税込 127円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ワシワシ系　鬼太中華麺 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "ワシワシ系　鬼太中華麺\nワシワシ系　鬼太中華麺\nメーカー名：高山麵業\n内容量：1食\n本体価格 88円\n（税込 95円）\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "マック食品 焼そば 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：関東。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "焼そば\n焼そば\nメーカー名：マック食品\n内容量：1食\n本体価格 78円\n（税込 84円）\n※販売地域：関東\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "中華麺　ちぢれ麺 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：関東。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "中華麺　ちぢれ麺\n中華麺　ちぢれ麺\nメーカー名：高山麵業\n内容量：1食\n本体価格 68円\n（税込 73円）\n※販売地域：関東\n10P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "豊味　中華そば 1食＋5P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋5ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：中部・近畿。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "豊味　中華そば\n豊味　中華そば\nメーカー名：岡井食産\n内容量：1食\n本体価格 42円\n（税込 45円）\n※販売地域：中部・近畿\n5P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "岡井食産 焼そば 1食＋5P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋5ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：中部・近畿。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "evidence_quote": "焼そば\n焼そば\nメーカー名：岡井食産\n内容量：1食\n本体価格 42円\n（税込 45円）\n※販売地域：中部・近畿\n5P",
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "confidence": "confirmed"
+    }
+  ]
+}

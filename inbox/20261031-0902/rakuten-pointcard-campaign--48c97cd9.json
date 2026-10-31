@@ -1,0 +1,84 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ウィスパー楽天カード提示店最大30％還元",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "500円以上最大10％・2000円以上30％",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seiyu-livin",
+          "fujiyakuhin-group",
+          "drug-yutaka",
+          "tsuruha",
+          "musashi",
+          "vivahome"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/mtu/pg/whisper/20261101?ekey=mp_on"
+      },
+      "conditions": "指定店ウィスパー全品。楽天ポイントカード提示1pt以上・利用登録・購読。両方法合算上限。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/mtu/pg-20261101/whisper/",
+      "evidence_quote": "キャンペーン期間中にエントリーのうえ期間中合計500円（税込）以上購入すると楽天ポイントを最大10％還元、期間中合計2,000円（税込）以上購入すると楽天ポイントを最大30％還元",
+      "period_evidence_quote": "2026年11月1日（日）0:00～2026年12月31日（木）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "rakuten-point"
+      ],
+      "title": "ウィスパー楽天ペイ指定店最大30％還元",
+      "benefit": {
+        "rate_max": 30,
+        "rate_text": "500円以上最大10％・2000円以上30％",
+        "cap_per_use": null,
+        "cap_total": 1000,
+        "cap_unit": "pt"
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "welcia-group",
+          "matsukiyo-cocokara",
+          "sugi-group",
+          "satudora"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/pp/mtu/pg/whisper/20261101?ekey=mp_on"
+      },
+      "conditions": "指定店ウィスパー全品。楽天ペイコード・QR/セルフ払い・購読必要、両方法合算上限。",
+      "official_url": "https://pointcard.rakuten.co.jp/campaign/mtu/pg-20261101/whisper/",
+      "evidence_quote": "キャンペーン期間中にエントリーのうえ期間中合計500円（税込）以上購入すると楽天ポイントを最大10％還元、期間中合計2,000円（税込）以上購入すると楽天ポイントを最大30％還元",
+      "period_evidence_quote": "2026年11月1日（日）0:00～2026年12月31日（木）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

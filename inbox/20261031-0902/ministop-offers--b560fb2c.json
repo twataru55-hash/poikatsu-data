@@ -1,0 +1,106 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "コカ・コーラ 綾鷹650ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "サントリー ギルティ炭酸NOPE600ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園 ルイボスティーホット500ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "confidence": "confirmed"
+    }
+  ]
+}

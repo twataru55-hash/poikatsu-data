@@ -1,0 +1,76 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-card",
+        "paypay-point"
+      ],
+      "title": "ペイトク2ゴールド連携買物＋10％",
+      "benefit": {
+        "rate_max": 10,
+        "rate_text": "対象買物＋10％・月4000円相当上限",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ペイトク2契約・回線とアカウント連携・カード連携翌月。ゴールド年会費11000円。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20260602/",
+      "evidence_quote": "アプリとカードを連携※1した翌月から＋10％ずーっともらえる！※2上限4,000円相当／月お支払いはPayPayカード ゴールドもOK！PayPayカード ゴールドがなくても、PayPayカード・PayPayアプリでの買い物でも＋5％※2もらえる！上限3,000円相当／月",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "reward",
+      "brand_ids": [
+        "paypay",
+        "paypay-card",
+        "paypay-point"
+      ],
+      "title": "ペイトク2ゴールドなし買物＋5％",
+      "benefit": {
+        "rate_max": 5,
+        "rate_text": "対象買物＋5％・月3000円相当上限",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ペイトク2契約・回線連携。カード決済はPayPayクレジット設定必要、医療等対象外。",
+      "official_url": "https://paypay.ne.jp/event/paytoku-20260602/",
+      "evidence_quote": "アプリとカードを連携※1した翌月から＋10％ずーっともらえる！※2上限4,000円相当／月お支払いはPayPayカード ゴールドもOK！PayPayカード ゴールドがなくても、PayPayカード・PayPayアプリでの買い物でも＋5％※2もらえる！上限3,000円相当／月",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ひるまック ザクザクジューシーマックセット",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "平日昼限定セット650円",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "mcdonalds"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": null
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "平日10:30～14:00限定。一部店舗取扱なし、特定店舗・デリバリーは価格相違/対象外。",
+      "official_url": "https://www.mcdonalds.co.jp/campaign/hirumac/",
+      "evidence_quote": "平日昼だけセットが特別価格！ひるまック®平日10:30-14:00限定\n定番セットがおトクなひるまック®に、「ザクザクジューシーマック」が仲間入り！平日お昼限定！\nひるまック ザクザクジューシーマック セット¥ 650",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

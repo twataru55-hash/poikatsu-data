@@ -1,0 +1,310 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン特多昼8個＋C1000ビタミンレモン140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン特多昼8個＋C1000コラーゲン＆ヒアルロン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン特多昼8個＋C1000クエン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン香り特多昼8個＋C1000ビタミンレモン140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン香り特多昼8個＋C1000コラーゲン＆ヒアルロン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン香り特多昼8個＋C1000クエン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン多昼10個＋C1000ビタミンレモン140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン多昼10個＋C1000コラーゲン＆ヒアルロン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "センターイン多昼10個＋C1000クエン酸140ml40円引",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "A群B群各1個同時購入40円引",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象生理用品とC1000各1個同時購入。ストア100・Lミニマート/スマホレジ除く。",
+      "official_url": "https://www.lawson.co.jp/recommend/sale/detail/1533008_3677.html",
+      "evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "period_evidence_quote": "開催期間\n2026.10.06 - 2026.11.02",
+      "entry_evidence_quote": "●下記対象商品のうち、A群とB群から1個ずつ一緒に買うと40円引(税込)",
+      "confidence": "confirmed"
+    }
+  ]
+}

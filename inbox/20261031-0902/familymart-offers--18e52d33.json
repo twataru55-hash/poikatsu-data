@@ -1,0 +1,72 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-03T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/27～11/2にファミペイアプリ提示でい・ろ・は・す540ml1個購入。1点1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "期間中、ファミマのアプリのバーコードをスキャンして、対象商品1点を購入いただくと、特典の利用期間で対象商品1点に使える無料クーポンがもらえます。",
+      "period_evidence_quote": "クーポン利用期間\n11月3日（火）～ 11月9日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed",
+      "title": "ファミペイ い・ろ・は・す540ml無料券"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-03T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/27～11/2にファミペイアプリ提示でガーナ特濃ガトーショコラ1個購入。1点1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "evidence_quote": "期間中、ファミマのアプリのバーコードをスキャンして、対象商品1点を購入いただくと、特典の利用期間で対象商品1点に使える無料クーポンがもらえます。",
+      "period_evidence_quote": "クーポン利用期間\n11月3日（火）～ 11月9日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "confidence": "confirmed",
+      "title": "ファミペイ ガーナスリムパック無料券"
+    }
+  ]
+}

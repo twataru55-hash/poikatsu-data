@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "type": "lottery",
+      "brand_ids": [
+        "rakuten-pay",
+        "rakuten-card",
+        "rakuten-point"
+      ],
+      "title": "ロフト対象店楽天決済抽選100名5000pt",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選100名に5000ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-01T00:00:00+09:00",
+        "end": "2026-12-31T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://oubo.rakuten.co.jp/apply/rpay/rcard/2026/1101/loft?ekey=checked"
+      },
+      "conditions": "ロフト対象店限定。コード・QR/楽天カードVisa等3種で合計500円・購読。セルフ対象外。",
+      "official_url": "https://pay.rakuten.co.jp/campaign/2026/1101-loft/",
+      "evidence_quote": "【ロフト】ロフトでのお買い物がおトク！楽天ペイのコード・QR払いor楽天カードで期間中に合計500円（税込）以上お買い物すると抽選で100名さまに楽天ポイント5,000ポイントが当たる！ロフトネットストアでのお買い物も対象！※",
+      "period_evidence_quote": "2026年11月1日（日）0:00～2026年12月31日（木）23:59",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

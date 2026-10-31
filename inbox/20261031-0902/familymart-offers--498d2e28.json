@@ -1,0 +1,1228 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢライト50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月27日（火）～ 11月23日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢスパークリング マスカット味50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月27日（火）～ 11月23日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢスパークリング グレープフルーツ&ピーチ味50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月27日（火）～ 11月23日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ハノイのおもてなし鶏だしフォー31g50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月27日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ハノイのおもてなしトムヤムフォー25g50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月27日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル シーフードヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル カレー ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル チリトマトヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル パクチー香るトムヤムクン ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月16日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "午後の紅茶TEA LATTEエスプレッソ500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月2日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "午後の紅茶TEA LATTEクリーム&ミルク500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月2日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月9日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.大盛50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月9日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.爆盛バーレル50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月9日（月）\nいずれか1個\n50\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンDスーパー100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月2日（月）\nいずれか1個\n100\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンDプレミアム100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月20日（火）～ 11月2日（月）\nいずれか1個\n100\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELI完熟トマトのスープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIポルチーニ香るきのこクリーム30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIたらこクリームスープパスタ豆乳仕立て30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIサーモンとほうれん草クリーム30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIクリーミーカルボナーラ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "明治チョコ&ミント40ml×5本100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。宮崎・鹿児島・沖縄除外。1品1枚・会計5枚まで、併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月30日（月）\n100\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ダノンBIO脂肪燃焼ヨーグルトドリンクアップル風味20円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月13日（火）～ 11月9日（月）\n20\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園充実野菜 理想のトマト30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園栄養強化型1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n10月6日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバー60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n60\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバーi60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n60\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー グレープフルーツ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー マスカット味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー食物繊維ピーチ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミン&Wミネラルゼリー グレープ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n40\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キレートレモンMUKUMIゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キレートレモンクエン酸2700ゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\nいずれか1個\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マカの元気ドリンク30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "evidence_quote": "クーポン利用期間\n9月29日（火）～ 11月2日（月）\n30\n円引き",
+      "period_evidence_quote": null,
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}

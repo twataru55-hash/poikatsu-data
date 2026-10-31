@@ -1,0 +1,39 @@
+{
+  "campaigns": [
+    {
+      "type": "reward",
+      "brand_ids": [
+        "au-pay",
+        "ponta"
+      ],
+      "title": "鳥貴族対象店au PAYランキング最大41000P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "上位1000名に順位別最大41000P",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "payment_wide",
+        "store_ids": [],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-16T00:00:00+09:00",
+        "end": "2026-12-14T23:59:59+09:00"
+      },
+      "entry": {
+        "required": null,
+        "url": null
+      },
+      "conditions": "鳥貴族対象店限定・コード払い累計2500円以上、上位1000名。末尾8等に追加賞あり。",
+      "official_url": "https://aupay-cp.auone.jp/202610_torikizoku",
+      "evidence_quote": "期間中、鳥貴族の対象店舗でau PAY（コード支払い）による\n累計2,500円（税込）以上のご利用が対象！\nご利用金額の合計が多い上位1,000名様にPontaポイントをプレゼント！\n1位には、100品分相当の41,000Pontaポイント！",
+      "period_evidence_quote": "キャンペーン期間\n2026年10月16日（金）\n～\n12月14日（月）",
+      "entry_evidence_quote": null,
+      "confidence": "unconfirmed"
+    }
+  ]
+}

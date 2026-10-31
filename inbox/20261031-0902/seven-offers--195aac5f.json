@@ -1,0 +1,38 @@
+{
+  "campaigns": [
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "セブン乃木坂46抽選スイーツ450円以下無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "抽選2000名に対象スイーツ無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": null,
+        "end": "2026-11-14T23:59:00+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": "https://cpn.vdpro.jp/sej.nogizaka2610/"
+      },
+      "conditions": "10/16～31税込800円等購入で1シリアル、11/7応募。しあわせ食感税抜450円以下、7P除外。",
+      "official_url": "https://www.sej.co.jp/cmp/ngz2610.html",
+      "evidence_quote": "1シリアルコース\n対象の税抜450円以下の\nオリジナルスイーツ\n無料クーポン×1枚",
+      "period_evidence_quote": "※クーポンの利用期限は11月14日（土）23:59です。",
+      "entry_evidence_quote": null,
+      "confidence": "confirmed"
+    }
+  ]
+}
