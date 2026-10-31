@@ -1,5 +1,4 @@
 {
-  "stopped": true,
-  "last_ok": "2026-10-27T12:52:28+09:00",
-  "issue_number": 1267
+  "stopped": false,
+  "last_ok": "2026-10-31T10:10:17+09:00"
 }
