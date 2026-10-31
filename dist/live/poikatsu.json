@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-10-31-0722",
-    "generated_at": "2026-10-31T07:22:37+09:00",
+    "data_version": "2026-10-31-1025",
+    "generated_at": "2026-10-31T10:25:35+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 213,
-      "live_campaigns": 211,
+      "campaigns": 291,
+      "live_campaigns": 265,
       "stores": 82,
       "recurring": 2
     }
@@ -1048,7 +1048,7 @@
       },
       "benefit_text": "コード払い限定、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-30"
+      "last_verified": "2026-10-31"
     },
     {
       "id": "rc-ministop10",
@@ -1068,7 +1068,7 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-30"
+      "last_verified": "2026-10-31"
     }
   ],
   "campaigns": [
@@ -4025,6 +4025,43 @@
       "id": "cp-1aba1e8287"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ひと口もち食感チーズ6個入20円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入。会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-2a198a79a6"
+    },
+    {
       "type": "coupon",
       "brand_ids": [],
       "title": "セブンおにぎり・寿司抽選30円引クーポン",
@@ -4096,6 +4133,108 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-2ec445e3cc"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバー60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-3325de1bab"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "アリナミンナイトリカバーi60円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "60円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-384c9f54a3"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "午後の紅茶TEA LATTEエスプレッソ500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-3cc672d8e8"
     },
     {
       "type": "coupon",
@@ -4206,6 +4345,40 @@
       "id": "cp-45e5e5b4c4"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "マカの元気ドリンク30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-47cdf51f5f"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -4281,6 +4454,40 @@
       "id": "cp-53e869ee14"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー食物繊維ピーチ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-61510fe02b"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -4317,6 +4524,40 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-61cd8cc41e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンDプレミアム100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-677394a4d8"
     },
     {
       "type": "bonus",
@@ -4361,6 +4602,108 @@
     {
       "type": "coupon",
       "brand_ids": [],
+      "title": "午後の紅茶TEA LATTEクリーム&ミルク500ml50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-7f19793a2d"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIサーモンとほうれん草クリーム30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-7fc5bd6df9"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミン&Wミネラルゼリー グレープ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-8017a6139e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
       "title": "セブンおにぎり・寿司抽選100円引クーポン",
       "benefit": {
         "rate_max": null,
@@ -4392,6 +4735,40 @@
       "status_override": null,
       "period_evidence_quote": "クーポン利用期間\r\n10月1日（木）～\r\n11月2日（月）",
       "id": "cp-83e2885a6a"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園栄養強化型1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-847819608b"
     },
     {
       "type": "bonus",
@@ -4626,6 +5003,40 @@
     {
       "type": "coupon",
       "brand_ids": [],
+      "title": "キレートレモンクエン酸2700ゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-a8f2a6eb7b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
       "title": "抽選本気のチョコクリームパン無料券",
       "benefit": {
         "rate_max": null,
@@ -4697,6 +5108,40 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-ae4b0bc1a1"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園1日分の野菜30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-b0d4cb2c5a"
     },
     {
       "type": "bonus",
@@ -4845,6 +5290,74 @@
     {
       "type": "coupon",
       "brand_ids": [],
+      "title": "スープDELIポルチーニ香るきのこクリーム30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-bfb578ca62"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園充実野菜 理想のトマト30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-c255bd7502"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
       "title": "抽選本気のチョコデニッシュメロンパン無料券",
       "benefit": {
         "rate_max": null,
@@ -4952,6 +5465,40 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-c47b2af513"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "キレートレモンMUKUMIゼリー30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-c623ac823b"
     },
     {
       "type": "coupon",
@@ -5069,6 +5616,40 @@
       "id": "cp-cd95c0616a"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー グレープフルーツ味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-d58a688c3f"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -5143,6 +5724,40 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-ec324dba57"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELI完熟トマトのスープパスタ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-eea6b8603c"
     },
     {
       "type": "bonus",
@@ -5261,6 +5876,40 @@
       "id": "cp-f762dfb5f6"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "リポビタンDスーパー100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-f8069ccaeb"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -5299,6 +5948,108 @@
       "period_evidence_quote": "実施期間：9/29(火)～11/2(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-f835468039"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIクリーミーカルボナーラ30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-faadd5572c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "スープDELIたらこクリームスープパスタ豆乳仕立て30円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "30円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-fab9548e4d"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "1日分のビタミンゼリー マスカット味40円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-09-29T00:00:00+09:00",
+        "end": "2026-11-02T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-fba5383c18"
     },
     {
       "type": "lottery",
@@ -5452,6 +6203,44 @@
       "id": "cp-9876826423"
     },
     {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "炭火焼鳥ぼんじり串（塩） 1本＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-21T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。ファストフーズ取扱店限定。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-9d86591a48"
+    },
+    {
       "type": "coupon",
       "brand_ids": [
         "au-pay"
@@ -5486,6 +6275,44 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-a37dd561ab"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ホワイトロースハム 180g＋30P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋30ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-07T00:00:00+09:00",
+        "end": "2026-11-03T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-f9f68b5664"
     },
     {
       "type": "coupon",
@@ -5993,6 +6820,40 @@
       "id": "cp-060eca1179"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-1a02218dc5"
+    },
+    {
       "type": "lottery",
       "brand_ids": [
         "famima-point"
@@ -6146,6 +7007,42 @@
       "period_evidence_quote": "実施期間：10/6(火)～11/9(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-465a9065a1"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ ガーナスリムパック無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-03T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/27～11/2にファミペイアプリ提示でガーナ特濃ガトーショコラ1個購入。1点1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "クーポン利用期間\n11月3日（火）～ 11月9日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "id": "cp-4825ec13b2"
     },
     {
       "type": "bonus",
@@ -6414,6 +7311,40 @@
       "id": "cp-77052729a8"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.爆盛バーレル50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-8913bee298"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -6647,6 +7578,79 @@
       "id": "cp-d8ccfef52f"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ファミペイ い・ろ・は・す540ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象商品1個無料クーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-03T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/27～11/2にファミペイアプリ提示でい・ろ・は・す540ml1個購入。1点1枚。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_1buy1.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "クーポン利用期間\n11月3日（火）～ 11月9日（月）",
+      "entry_evidence_quote": "決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければキャンペーンの参加対象となります。",
+      "id": "cp-dd0a2e1194"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "スターバックスブラック無糖10円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入。会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-e482b4a97a"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -6723,6 +7727,74 @@
       "id": "cp-ec7aa41b23"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ダノンBIO脂肪燃焼ヨーグルトドリンクアップル風味20円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "20円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-f05f430328"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "日清焼そばU.F.O.大盛50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-09T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-f84a88b22d"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -6765,6 +7837,80 @@
       "brand_ids": [
         "vpoint"
       ],
+      "title": "まるで完熟白桃 10-28券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "90pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換受付終了・既交換券限定。Vポイントアプリで取得した引換券を提示。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "10/28(水)14時交換スタート! 交換10/28(水)〜11/3(火) 利用10/28(水)〜11/10(火)",
+      "id": "cp-0cd2c30ad0"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ アイスコーヒーR 10-28券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "10/28(水)14時交換スタート! 交換10/28(水)〜11/3(火) 利用10/28(水)〜11/10(火)",
+      "id": "cp-1a74c2ef2e"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
       "title": "セブン Vポイント引換 10-28",
       "benefit": {
         "rate_max": null,
@@ -6795,6 +7941,80 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-204b5dcbae"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ ホットコーヒーR 10-28券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "10/28(水)14時交換スタート! 交換10/28(水)〜11/3(火) 利用10/28(水)〜11/10(火)",
+      "id": "cp-7bdb119319"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "まるで完熟マンゴー 10-28券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "90pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-28T00:00:00+09:00",
+        "end": "2026-11-10T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "交換受付終了・既交換券限定。Vポイントアプリで取得した引換券を提示。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "10/28(水)14時交換スタート! 交換10/28(水)〜11/3(火) 利用10/28(水)〜11/10(火)",
+      "id": "cp-ae1c0a7264"
     },
     {
       "type": "coupon",
@@ -7300,6 +8520,40 @@
       "id": "cp-a417802cf5"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ハノイのおもてなしトムヤムフォー25g50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-0d3d364bf9"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "dpoint",
@@ -7340,6 +8594,222 @@
       "id": "cp-102f10a3b8"
     },
     {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル シーフードヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-2011f531f9"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "つぶつぶいちごポッキー40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-2cecc8f6d0"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ポッキーチョコレート40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-3af148fd77"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "冬のくちどけポッキー40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-3cbbf5c36c"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "冬のきらめきポッキー40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-3d9508ee41"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル チリトマトヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-4742c00f5f"
+    },
+    {
       "type": "bonus",
       "brand_ids": [
         "famima-point"
@@ -7376,6 +8846,77 @@
       "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-4797f7acb7"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "プリッツ旨サラダ40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-4bb729a36b"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "ハノイのおもてなし鶏だしフォー31g50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-522a630f88"
     },
     {
       "type": "bonus",
@@ -7454,6 +8995,40 @@
       "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-5ab0a31ce7"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル パクチー香るトムヤムクン ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-692b449da6"
     },
     {
       "type": "bonus",
@@ -7572,6 +9147,77 @@
       "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
       "entry_evidence_quote": "「dポイントカード」「楽天ポイントカード」「Vポイントアプリ」のいずれか、\nまたは各ポイント連携済のファミペイのバーコードをスキャンして対象商品をご購入いただくと、キャンペーンポイントがたまります。",
       "id": "cp-8b3c0f5c6c"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ポッキー2層仕立てバニラ香るホワイト40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-96387085cc"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-966ae44d87"
     },
     {
       "type": "bonus",
@@ -7808,6 +9454,151 @@
     {
       "type": "bonus",
       "brand_ids": [
+        "famima-point"
+      ],
+      "title": "ポッキー極細40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-d8ec2869b5"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "アーモンドクラッシュポッキー40円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "40円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象のポッキー・プリッツ2個購入で会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-e0f2868d66"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
+      "title": "亜鉛×マルチビタミン7日分10円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入。会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-eed129428c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "カップヌードル カレー ビッグ50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-20T00:00:00+09:00",
+        "end": "2026-11-16T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-f33cb6653b"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
         "dpoint",
         "rakuten-point",
         "vpoint"
@@ -7882,6 +9673,783 @@
       "period_evidence_quote": "実施期間：10/13(火)～11/16(月)",
       "entry_evidence_quote": "ファミマポイント対象商品\n購入時にファミマのアプリファミペイをレジでスキャンすると\n、\nお買い物の翌月10日以降\nにファミマポイントが付与されます。",
       "id": "cp-f7974373e2"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "煮たまご 2個入＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-0fbc5bc615"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "メンマ 70g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-28ab23234c"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "豊味　中華そば 1食＋5P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋5ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：中部・近畿。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-2b186430b4"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "北海道　ラーメンスープ醤油 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-321c991b08"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "マック食品 焼そば 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：関東。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-3a4d4ce12a"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "中華麺　ちぢれ麺 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：関東。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-5fe32205c2"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ワシワシ系　鬼太中華麺 1食＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-6040adb4cb"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "漬物食堂　紅生姜 80g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-9d0f0faac6"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "スープの達人　濃厚豚ラーメンスープ 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-b10cb936db"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "岡井食産 焼そば 1食＋5P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋5ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。販売地域：中部・近畿。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-b6ed687ca5"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "北海道　ラーメンスープ味噌 1人前＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-d8887c9db1"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "ponta"
+      ],
+      "title": "ラーメンが旨くなる　バラ叉焼 47g＋10P",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象品1点につき＋10ポイント",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "lawson-store100"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-04T00:00:00+09:00",
+        "end": "2026-11-17T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
+      "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "展開期間：2026年11月4日～11月17日",
+      "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
+      "id": "cp-e058bb9113"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "サントリー ギルティ炭酸NOPE600ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "id": "cp-873fef0287"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "コカ・コーラ 綾鷹650ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "id": "cp-975a263587"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "伊藤園 ルイボスティーホット500ml無料券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "対象ドリンク1本無料券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ministop"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-06T00:00:00+09:00",
+        "end": "2026-11-19T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
+      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
+      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
+      "id": "cp-e630bccf5f"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢスパークリング グレープフルーツ&ピーチ味50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-57f645d27f"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢライト50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-999ea614e6"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "チョコラＢＢスパークリング マスカット味50円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "50円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-27T00:00:00+09:00",
+        "end": "2026-11-23T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-e2767ea99f"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ ホットコーヒーR 11-11券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-11T00:00:00+09:00",
+        "end": "2026-11-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
+      "id": "cp-e90fb99435"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "のむヨーグルトコクうまプレーン180g 11-11券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "80pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-11T00:00:00+09:00",
+        "end": "2026-11-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
+      "id": "cp-f843fabd9c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ アイスコーヒーR 11-11券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-11T00:00:00+09:00",
+        "end": "2026-11-24T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
+      "id": "cp-fcedfe49c2"
     },
     {
       "type": "reward",
@@ -8145,10 +10713,10 @@
       "brand_ids": [
         "ponta"
       ],
-      "title": "ジョーシン3スタンプで合計250Pontaポイント",
+      "title": "ジョーシン3スタンプ合計250Ponta",
       "benefit": {
         "rate_max": null,
-        "rate_text": "3スタンプ合計250pt",
+        "rate_text": "スタンプ3個で合計250Ponta",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -8169,12 +10737,12 @@
         "required": true,
         "url": null
       },
-      "conditions": "先にエントリー。実店舗で税込1100円以上、ジョーシンとPontaカード併用。3個で合計250pt。",
+      "conditions": "先に応募・ジョーシンカード/アプリとPonta併用。対象品税込1100円・5pt以上、単220円未満除外。",
       "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-31",
       "status_override": null,
-      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59",
+      "period_evidence_quote": "キャンペーン期間\n2026年9月1日(火)0:00～2026年11月30日(月)23:59",
       "id": "cp-b9f2fc5f56"
     },
     {
@@ -8182,10 +10750,10 @@
       "brand_ids": [
         "ponta"
       ],
-      "title": "ジョーシンのスタンプで抽選2000Pontaポイント",
+      "title": "ジョーシンスタンプ抽選50名2000Ponta",
       "benefit": {
         "rate_max": null,
-        "rate_text": "抽選50名2000pt",
+        "rate_text": "抽選50名2000Pontaポイント",
         "cap_per_use": null,
         "cap_total": null,
         "cap_unit": null
@@ -8206,12 +10774,12 @@
         "required": true,
         "url": null
       },
-      "conditions": "先にエントリー。実店舗で税込1100円以上、カード併用で1～10個獲得。獲得数で当選確率増。",
+      "conditions": "先に応募・ジョーシンカード/アプリとPonta併用。対象品税込1100円・5pt以上、単220円未満除外。",
       "official_url": "https://www.ponta.jp/c/campaign/joshin_2608/",
       "confidence": "confirmed",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-31",
       "status_override": null,
-      "period_evidence_quote": "2026年9月1日(火)0:00～2026年11月30日(月)23:59",
+      "period_evidence_quote": "キャンペーン期間\n2026年9月1日(火)0:00～2026年11月30日(月)23:59",
       "id": "cp-cb90237b29"
     },
     {
@@ -8249,6 +10817,77 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-e9074837e9"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ アイスコーヒーR 11-18券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-18T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/18(水)14時交換スタート! 交換11/18(水)〜11/24(火) 利用11/18(水)〜11/30(火)",
+      "id": "cp-2c65b4582a"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [],
+      "title": "明治チョコ&ミント40ml×5本100円引券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "100円引きクーポン",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-13T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "ファミペイアプリでセット・提示。宮崎・鹿児島・沖縄除外。1品1枚・会計5枚まで、併用不可。",
+      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "id": "cp-3201db62c0"
     },
     {
       "type": "bonus",
@@ -8292,6 +10931,43 @@
       "brand_ids": [
         "famima-point"
       ],
+      "title": "ファイア挽きたて微糖10円相当還元",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "10円相当ファミマポイント還元",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "familymart"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-10-06T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": false,
+        "url": null
+      },
+      "conditions": "対象商品購入。会計時ファミマアプリのバーコードをスキャン。翌月10日以降付与。",
+      "official_url": "https://www.family.co.jp/campaign/otoku.html",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
+      "id": "cp-557e72bb5c"
+    },
+    {
+      "type": "bonus",
+      "brand_ids": [
+        "famima-point"
+      ],
       "title": "ファイア　挽きたて微糖 185gアプリ還元",
       "benefit": {
         "rate_max": null,
@@ -8324,6 +11000,117 @@
       "period_evidence_quote": "実施期間：10/6(火)～11/30(月)",
       "entry_evidence_quote": "※ファミマポイント還元商品の決済方法の指定はございません。お会計時にファミマのアプリのバーコードをスキャンしていただければ対象となります。",
       "id": "cp-6bbfe58d6c"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "アップル果汁100%200ml 11-18券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-18T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/18(水)14時交換スタート! 交換11/18(水)〜11/24(火) 利用11/18(水)〜11/30(火)",
+      "id": "cp-84589c75ed"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "オレンジ果汁100%200ml 11-18券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-18T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/18(水)14時交換スタート! 交換11/18(水)〜11/24(火) 利用11/18(水)〜11/30(火)",
+      "id": "cp-916efa36ac"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "vpoint"
+      ],
+      "title": "セブンカフェ ホットコーヒーR 11-18券",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "70pt交換の商品引換券",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "seven-eleven"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-11-18T00:00:00+09:00",
+        "end": "2026-11-30T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
+      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-31",
+      "status_override": null,
+      "period_evidence_quote": "11/18(水)14時交換スタート! 交換11/18(水)〜11/24(火) 利用11/18(水)〜11/30(火)",
+      "id": "cp-95f11f54ab"
     },
     {
       "type": "bonus",

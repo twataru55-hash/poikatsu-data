@@ -197,7 +197,7 @@
   },
   "seven-offers--cdca31ff": {
     "deferred_since": "2026-10-05T09:03:29+09:00",
-    "unanswered": 2,
+    "unanswered": 3,
     "hash": "4620886a910a21a0bbc0f1dd8d0c41e0eadb0f64860d8200e20b36aee7337ac5"
   },
   "familymart-offers--01d4669f": {
@@ -214,8 +214,8 @@
   },
   "paypay-event--b1aa8b60": {
     "deferred_since": "2026-10-05T09:03:29+09:00",
-    "unanswered": 2,
-    "hash": "5fde751d3f53a63fde39bb008cf9f4853b4bffa43f0d61b8e2ffabf125ec81d5"
+    "unanswered": 1,
+    "hash": "85e641ee9a6509be2b302d31973e46002dfcab06d9c08b5c10902db0b18503fa"
   },
   "rakuten-pay-campaign--86c27481": {
     "deferred_since": "2026-10-05T09:03:29+09:00"
@@ -240,12 +240,6 @@
   },
   "seven-offers--b149c5ff": {
     "deferred_since": "2026-10-05T09:03:29+09:00"
-  },
-  "seven-offers--f31092d2": {
-    "deferred_since": "2026-10-05T09:03:29+09:00"
-  },
-  "dpoint-campaign--c05bec4f": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "waon-campaign--a5ed5a13": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
@@ -279,7 +273,7 @@
   },
   "tsuruha-offers--188a8145": {
     "deferred_since": "2026-10-12T09:07:34+09:00",
-    "unanswered": 2,
+    "unanswered": 3,
     "hash": "4295a9fd3cc978b9eb3e84c6fcd09498a76a76502a2e4266ed0a437f671ab58d"
   },
   "iaeon-campaign--b6514d62": {
@@ -297,9 +291,6 @@
   "iaeon-campaign--a943cc76": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "paypay-local--aa91c07b": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
   "dpoint-campaign--79c4d83a": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
@@ -309,9 +300,6 @@
   "iaeon-campaign--073375c9": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "paypay-local--ff99792b": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
   "dpoint-campaign--22b860d2": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
@@ -319,9 +307,6 @@
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "iaeon-campaign--708df758": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
-  "paypay-local--a492450f": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "dpoint-campaign--2689d3a3": {
@@ -346,9 +331,6 @@
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "paypay-local--d065edf4": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
-  "dpoint-campaign--9621391a": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "rakuten-pointcard-campaign--058fc5db": {
@@ -378,9 +360,6 @@
   "paypay-local--11d957c5": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "dpoint-campaign--acee7216": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
   "seven-offers--65e4362d": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
@@ -390,9 +369,6 @@
   "dpoint-campaign--f5887520": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "rakuten-pay-campaign--a6537cbb": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
   "lawson-offers--d98bd7e3": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
@@ -400,9 +376,6 @@
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "paypay-local--e3429e4b": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
-  "rakuten-pay-campaign--83e731fe": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
   "lawson-offers--763a1b53": {
@@ -444,9 +417,6 @@
   "seven-offers--2e73a794": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "lawson-offers--e80af1be": {
-    "deferred_since": "2026-10-12T09:07:34+09:00"
-  },
   "seven-offers--137acfa4": {
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
@@ -467,16 +437,7 @@
     "hash": "6f2b4fefc08181830711246497ee87de8e02dde5cec49f18efa604b8c9b422a4",
     "deferred_since": "2026-10-12T09:07:34+09:00"
   },
-  "iaeon-campaign--f9bbe6f6": {
-    "deferred_since": "2026-10-13T09:00:35+09:00"
-  },
   "paypay-local--76e983a8": {
-    "deferred_since": "2026-10-13T09:00:35+09:00"
-  },
-  "iaeon-campaign--5ecb5cac": {
-    "deferred_since": "2026-10-13T09:00:35+09:00"
-  },
-  "iaeon-campaign--afd5a7e9": {
     "deferred_since": "2026-10-13T09:00:35+09:00"
   },
   "iaeon-campaign--969cdb31": {
@@ -593,9 +554,6 @@
   "lawson-offers--d9f7aa67": {
     "deferred_since": "2026-10-13T09:00:35+09:00"
   },
-  "seven-offers--195aac5f": {
-    "deferred_since": "2026-10-13T09:00:35+09:00"
-  },
   "lawson-offers--d27f3a25": {
     "deferred_since": "2026-10-13T09:00:35+09:00"
   },
@@ -710,13 +668,7 @@
   "iaeon-campaign--9bf70840": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
-  "lawson-offers--d55b2143": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
   "iaeon-campaign--d8c8aa13": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
-  "lawson-offers--89b45a24": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "iaeon-campaign--6e04600f": {
@@ -726,9 +678,6 @@
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "iaeon-campaign--73502231": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
-  "mcdonalds-offers--577e6bb9": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "lawson-offers--bb2a1726": {
@@ -746,16 +695,10 @@
   "lawson-offers--fad4d9dc": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
-  "paypay-event--78d8497b": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
   "familymart-offers--5753b860": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "lawson-offers--2c67d9a0": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
-  "paypay-event--d2b08c4c": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "dpoint-campaign--f8f56877": {
@@ -811,9 +754,6 @@
   "dpoint-campaign--76391c68": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
-  "familymart-offers--498d2e28": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
   "seven-offers--c92cfa99": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
@@ -826,9 +766,6 @@
   "dpoint-campaign--0bbf024e": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
-  "familymart-offers--18e52d33": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
   "seven-offers--eb034e6b": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
@@ -836,9 +773,6 @@
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "lawson-offers--35daefd2": {
-    "deferred_since": "2026-10-25T09:55:06+09:00"
-  },
-  "familymart-offers--a4a82c90": {
     "deferred_since": "2026-10-25T09:55:06+09:00"
   },
   "seven-offers--72a9d5d4": {
@@ -916,7 +850,7 @@
   "vpoint-campaign--f5743913": {
     "deferred_since": "2026-10-26T08:59:22+09:00",
     "unanswered": 1,
-    "hash": "dc4fe11d8ad3de529ac82eb752da2573c4df6fe8ba4aa42bc9a14bb2b80362fd"
+    "hash": "61f898d4c2d75d39736e863db78b66765604af42d16f6d07a39e09122de189e6"
   },
   "familymart-offers--0d2abe98": {
     "deferred_since": "2026-10-26T08:59:22+09:00"
@@ -946,7 +880,7 @@
     "deferred_since": "2026-10-26T08:59:22+09:00"
   },
   "welcia-offers--9d664450": {
-    "unanswered": 2,
+    "unanswered": 3,
     "hash": "736d39792212f3539763655a00bd90c6660d3fa93a119cd95cf2c76e4ba3a598",
     "deferred_since": "2026-10-26T08:59:22+09:00"
   },
@@ -1020,5 +954,115 @@
   },
   "lawson-offers--7dc87dae": {
     "deferred_since": "2026-10-27T09:00:56+09:00"
+  },
+  "mcdonalds-offers--a87a62aa": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "rakuten-pointcard-campaign--7be1c110": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "rakuten-pay-campaign--7f034550": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "mcdonalds-offers--717c152e": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "rakuten-pointcard-campaign--fa50bb02": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "rakuten-pointcard-campaign--7ba199be": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "rakuten-pointcard-campaign--ca2d47f5": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--25a3a9bb": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--c9bce9f3": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "dpoint-campaign--78e1a7bd": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--f8e4140d": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "dpoint-campaign--7a3caf4f": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--c7c78535": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "dpoint-campaign--f0201ecb": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--83a658bf": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--048997cd": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--0af219aa": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-local--c42a7c23": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--34cbf1bf": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-local--d5ad1e87": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--844ea371": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-local--b18767e6": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "familymart-offers--0ce31d84": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-event--d1560b91": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-local--1bed6e57": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "familymart-offers--be377b14": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--e2bfe60c": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "paypay-local--83505f7e": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "familymart-offers--2449799b": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--2e6d14ef": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "familymart-offers--754872ec": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--25a365fe": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--15723f6f": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--56f01813": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "seven-offers--8a28e3f1": {
+    "deferred_since": "2026-10-31T09:02:43+09:00"
+  },
+  "welcia-offers--7dc2fcc1": {
+    "unanswered": 1,
+    "hash": "191e0c98b49eca9e6d10ba17531b6194d955aed9b8e58d379adebf2ecb9be410",
+    "deferred_since": "2026-10-31T09:02:43+09:00"
   }
 }
