@@ -1227,13 +1227,6 @@
       "V02 終了日時が不明（period.end）"
     ]
   },
-  "cp-8ab84db236": {
-    "issue": 193,
-    "created": "2026-10-02",
-    "reasons": [
-      "V12 公式で確認できていない（unconfirmed）"
-    ]
-  },
   "cp-7ecd6a9058": {
     "issue": 196,
     "created": "2026-10-02",
@@ -4595,13 +4588,6 @@
   },
   "cp-f46bb3bc16": {
     "issue": 749,
-    "created": "2026-10-05",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-53a176ea29": {
-    "issue": 750,
     "created": "2026-10-05",
     "reasons": [
       "V02 エントリー要否が不明（entry.required）"
