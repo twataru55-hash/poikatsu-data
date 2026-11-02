@@ -1,8 +1,8 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-02-0442",
-    "generated_at": "2026-11-02T04:42:58+09:00",
+    "data_version": "2026-11-02-0949",
+    "generated_at": "2026-11-02T09:49:04+09:00",
     "channel": "staging",
     "counts": {
       "campaigns": 225,
