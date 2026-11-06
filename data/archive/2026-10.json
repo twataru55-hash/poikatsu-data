@@ -4647,5 +4647,49 @@
     "status_override": null,
     "period_evidence_quote": "2026年10月16日（金）～2026年10月29日（木）",
     "id": "cp-93cbf2a0e6"
+  },
+  {
+    "type": "reward",
+    "brand_ids": [
+      "dpoint"
+    ],
+    "title": "愛知対象5施設2施設利用dポイント10倍",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "dポイント10倍（通常1倍＋特典9倍）",
+      "cap_per_use": null,
+      "cap_total": 500,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "lalaport-anjo",
+        "lalaport-nagoya",
+        "lalaport-togo",
+        "mop-okazaki",
+        "rayard-hisaya"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-03T00:00:00+09:00",
+      "end": "2026-10-30T23:59:59+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://ent.campaign.docomo.ne.jp/?campaignId=2780abea29226c6fab93eac168a0c695a5152fa2205c1308ad5b4a3d0c144654"
+    },
+    "conditions": "2施設以上で各1pt・合計10pt以上、dポイントカード提示登録/同一ID。指定除外店・決済ポイント対象外",
+    "official_url": "https://dpoint.docomo.ne.jp/cp_7/mitsui-f_261003_7853/index.html",
+    "evidence_quote": "キャンペーン期間中に、キャンペーン対象の5施設のうち2施設以上をご利用（各施設でdポイントを1ポイント以上ためる）の上、dポイントを合計10ポイント以上ためると、もれなくdポイント10倍（通常ポイント1倍分＋キャンペーンポイント9倍分）を進呈します。",
+    "confidence": "confirmed",
+    "source_id": "dpoint-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-27",
+    "status_override": null,
+    "period_evidence_quote": "【キャンペーン期間】\r\n2026年10月3日（土）から2026年10月30日（金）",
+    "id": "cp-263aebb752"
   }
 ]
