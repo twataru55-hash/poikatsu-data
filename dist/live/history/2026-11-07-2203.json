@@ -1,14 +1,14 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-05-1549",
-    "generated_at": "2026-11-05T15:49:02+09:00",
+    "data_version": "2026-11-07-2203",
+    "generated_at": "2026-11-07T22:03:19+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 142,
+      "campaigns": 139,
       "live_campaigns": 129,
       "stores": 82,
-      "recurring": 2
+      "recurring": 1
     }
   },
   "brands": [
@@ -1029,28 +1029,6 @@
   ],
   "recurring": [
     {
-      "id": "rc-ministop-weekend",
-      "title": "ミニストップ 金土日AEON Pay10倍",
-      "store_ids": [
-        "ministop"
-      ],
-      "brand_ids": [
-        "aeon-pay",
-        "waon-point"
-      ],
-      "rule": {
-        "type": "weekly",
-        "weekdays": [
-          5,
-          6,
-          0
-        ]
-      },
-      "benefit_text": "コード払い限定、対象外商品あり",
-      "official_url": "https://www.ministop.co.jp/campaign/2504aeonpay-cp.html",
-      "last_verified": "2026-10-31"
-    },
-    {
       "id": "rc-ministop10",
       "title": "ミニストップ 毎月10日ポイント10倍",
       "store_ids": [
@@ -1068,118 +1046,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-10-31"
+      "last_verified": "2026-11-07"
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ めぐりズム蒸気でグッドナイト無香料無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-23T00:00:00+09:00",
-        "end": "2026-11-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/16～22に薬用バブメディキュアクイック/極み1錠購入。無人レジ・他割引併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-0b57f3e2ff"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ キュキュットオレンジ本体220ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-23T00:00:00+09:00",
-        "end": "2026-11-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/16～22にトイレマジックリン本体350ml（旧品可）購入。無人レジ・他割引併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-732cba15bc"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "セブン プライチ めぐりズム蒸気でグッドナイトラベンダー無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象商品1個無料引換",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-23T00:00:00+09:00",
-        "end": "2026-11-05T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/16～22に薬用バブメディキュアクイック/極み1錠購入。無人レジ・他割引併用不可",
-      "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-25",
-      "status_override": null,
-      "period_evidence_quote": "引換期間\r\n10月23日（金）\r\n～11月5日（木）",
-      "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
-      "id": "cp-7f60577071"
-    },
     {
       "type": "lottery",
       "brand_ids": [
