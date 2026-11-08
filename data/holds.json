@@ -4661,13 +4661,6 @@
       "V02 終了日時が不明（period.end）"
     ]
   },
-  "cp-0e92ba38a9": {
-    "issue": 779,
-    "created": "2026-10-12",
-    "reasons": [
-      "V12 公式で確認できていない（unconfirmed）"
-    ]
-  },
   "cp-423b4b52c8": {
     "issue": 780,
     "created": "2026-10-13",
@@ -8153,13 +8146,6 @@
     "reasons": [
       "V02 エントリー要否が不明（entry.required）",
       "V02 開始日時が不明（period.start）"
-    ]
-  },
-  "cp-518e9caeba": {
-    "issue": 1304,
-    "created": "2026-10-31",
-    "reasons": [
-      "V05 エントリーURLが開けない: 接続エラー: ConnectionError"
     ]
   },
   "cp-05536929fc": {
