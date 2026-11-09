@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-07-1505",
-    "generated_at": "2026-11-07T15:05:26+09:00",
+    "data_version": "2026-11-09-1532",
+    "generated_at": "2026-11-09T15:32:20+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 139,
-      "live_campaigns": 129,
+      "campaigns": 137,
+      "live_campaigns": 127,
       "stores": 82,
       "recurring": 1
     }
@@ -1050,79 +1050,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "lottery",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "はるやま dポイント最大50倍抽選",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "抽選最大50倍／10万pt山分け",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "haruyama"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-09-14T00:00:00+09:00",
-        "end": "2026-11-08T23:59:00+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=5a7563ad62160afbf8fd063075231bcadd8576ceddc0028f31dec05850541696"
-      },
-      "conditions": "カード提示で合計25pt以上ためる。50pt以上で1・2等確率2倍。通販除外",
-      "official_url": "https://dpoint.docomo.ne.jp/cp_2/section/poincosquare/haruyamacp_2609/index.html?utm_source=dpointclub&utm_medium=owned&utm_campaign=dpc_202609_7682",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-03",
-      "status_override": null,
-      "id": "cp-7ac2a3f9fc"
-    },
-    {
-      "type": "bonus",
-      "brand_ids": [
-        "dpoint"
-      ],
-      "title": "チヨダ対象店舗dポイント30倍",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "もれなく30倍",
-        "cap_per_use": null,
-        "cap_total": 3000,
-        "cap_unit": "pt"
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "chiyoda-group"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-09T00:00:00+09:00",
-        "end": "2026-11-08T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": "https://ent.campaign.docomo.ne.jp/?campaignId=055ed2c7c81c5f4b64bf12bdf3d4f0e054a6b02d325d6419fa9045ece3896b07"
-      },
-      "conditions": "対象チェーン実店舗、税込7000円以上・35pt獲得・カード提示・利用登録。通販と一部商品除外。",
-      "official_url": "https://dpoint.docomo.ne.jp/static/cp/lp_898926_PB7792/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-12",
-      "status_override": null,
-      "period_evidence_quote": "【キャンペーン期間】\n2026年10月9日（金）～2026年11月8日（日）",
-      "id": "cp-0673b78dbe"
-    },
     {
       "type": "coupon",
       "brand_ids": [],
