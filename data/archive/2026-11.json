@@ -499,5 +499,172 @@
     "status_override": null,
     "period_evidence_quote": "クーポン\r\n利用期間\r\n10月5日（月）～\r\n11月1日（日）",
     "id": "cp-482afc4b5b"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイ自動チャージ後コード払い山分け",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "200万pt山分け・1人上限200pt",
+      "cap_per_use": null,
+      "cap_total": 200,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null,
+      "excluded_store_ids": [
+        "familymart"
+      ]
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/rpay/autocharge/202610?ekey=checked"
+    },
+    "conditions": "期間内オートチャージ・残高コードQR払い、メルマガ購読必須。ファミマ・ファミマ‼・TOMONY・請求書除外",
+    "official_url": "https://pay.rakuten.co.jp/campaign/auto-charge/",
+    "evidence_quote": "楽天ポイント200万ポイントを山分けにて進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-26",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
+    "id": "cp-809512b353"
+  },
+  {
+    "type": "bonus",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイ初回利用者デビュー100pt最大1000pt",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "使うたび100pt・最大1000pt",
+      "cap_per_use": 100,
+      "cap_total": 1000,
+      "cap_unit": "pt"
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null,
+      "excluded_store_ids": [
+        "familymart"
+      ]
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/rpay/2026/1001debutbonus?ekey=checked"
+    },
+    "conditions": "期間中初コード等払い、購読必要。ファミマ・ファミマ!!・TOMONY、通販・請求書等除外。",
+    "official_url": "https://pay.rakuten.co.jp/campaign/debut-bonus/",
+    "evidence_quote": "楽天ポイントを1回のお支払いにつき100ポイント、期間中合計最大1,000ポイント進呈",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-17",
+    "status_override": null,
+    "period_evidence_quote": "2026/10/1（木）10:00～2026/11/2（月）9:59",
+    "id": "cp-2122e37873"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天ペイ 異なる3店で抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選100名に10,000ポイント",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null,
+      "excluded_store_ids": [
+        "familymart"
+      ]
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/kaimawari/202610?ekey=checked"
+    },
+    "conditions": "9月利用者限定。3店で合計税込500円以上。ファミマ等除外。メルマガ購読必要",
+    "official_url": "https://pay.rakuten.co.jp/campaign/kaimawari/",
+    "evidence_quote": "3つ以上の異なるお店で楽天ペイのコード・QR払いでお支払いすると抽選で100名さまに楽天ポイント10,000ポイントが当たる！",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-03",
+    "status_override": null,
+    "id": "cp-6438ff1a01"
+  },
+  {
+    "type": "lottery",
+    "brand_ids": [
+      "rakuten-pay",
+      "rakuten-point"
+    ],
+    "title": "楽天モバイル利用者 楽天ペイ抽選",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "抽選で最大30,000ポイント",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "payment_wide",
+      "store_ids": [],
+      "prefecture_codes": [],
+      "municipality": null,
+      "excluded_store_ids": [
+        "familymart"
+      ]
+    },
+    "period": {
+      "start": "2026-10-01T10:00:00+09:00",
+      "end": "2026-11-02T09:59:00+09:00"
+    },
+    "entry": {
+      "required": true,
+      "url": "https://oubo.rakuten.co.jp/apply/pay/mobile/2610?ekey=checked"
+    },
+    "conditions": "所定の楽天モバイル契約・同一IDで税込1500円以上コード等払い。初利用10倍、メルマガ必須。ファミマ等除外",
+    "official_url": "https://pay.rakuten.co.jp/campaign/pay-mobile/",
+    "evidence_quote": "抽選で合計230名さまに楽天ポイントを総額200万ポイント進呈\r\n1等：30,000ポイント（30名さま）\r\n2等：10,000ポイント（100名さま）\r\n3等：1,000ポイント（100名さま）",
+    "confidence": "confirmed",
+    "source_id": "rakuten-pay-campaign",
+    "first_seen": "2026-10-03",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "2026年10月1日（木）10:00～2026年11月2日（月）9:59",
+    "id": "cp-96e1f4bedb"
   }
 ]
