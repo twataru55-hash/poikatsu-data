@@ -121,45 +121,6 @@
     "brand_ids": [
       "vpoint"
     ],
-    "title": "セブン Vポイント引換 10-21",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "コーヒー・果汁飲料70pt",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "seven-eleven"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-21T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "Vポイントアプリ。10/21 14時～10/27交換。各商品先着2万名、1人1回",
-    "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/?utm_source=al_sej&utm_medium=sej_app_banner&utm_campaign=sejvpoint202610_08806_cp",
-    "evidence_quote": "10/21(水)14時交換スタート! 交換10/21(水)〜27(火) 利用10/21(水)〜11/3(火)",
-    "confidence": "confirmed",
-    "source_id": "seven-offers",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-8f9711efb0"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "vpoint"
-    ],
     "title": "セブン Vポイント引換 10-28",
     "benefit": {
       "rate_max": null,
@@ -271,45 +232,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-d7b79fa380"
-  },
-  {
-    "type": "coupon",
-    "brand_ids": [
-      "au-pay"
-    ],
-    "title": "ケーズデンキ au PAY1000円引き 第2",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "2万円以上で1,000円引き",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "ksdenki"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-30T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": true,
-      "url": null
-    },
-    "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。",
-    "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
-    "evidence_quote": "1,000円割引クーポンをau PAY アプリにて配布中！",
-    "confidence": "confirmed",
-    "source_id": "aupay-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-03",
-    "status_override": null,
-    "id": "cp-a37dd561ab"
   },
   {
     "type": "coupon",
@@ -742,88 +664,6 @@
     "last_verified": "2026-10-03",
     "status_override": null,
     "id": "cp-3cb4365ed9"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
-    "title": "ストア100 ホワイトロースハム",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "対象品30ボーナスポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-07T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "ローソンストア100、Pontaカード提示。対象品180g、一部取扱いなし",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "ホワイトロースハム\r\nホワイトロースハム\r\nメーカー名：プリマハム\r\n内容量：180g\r\n本体価格 318円\r\n（税込 343円）\r\n30P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-25",
-    "status_override": null,
-    "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
-    "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-    "id": "cp-8574b7b3eb"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
-    "title": "ストア100 炭火焼鳥ぼんじり串（塩）",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "対象品10ボーナスポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-21T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "ローソンストア100、Pontaカード提示。対象品1本、ファストフーズ取扱店限定・一部店舗除外",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "炭火焼鳥ぼんじり串（塩）\r\n炭火焼鳥ぼんじり串（塩）\r\nメーカー名：-\r\n内容量：1本\r\n本体価格 120円\r\n（税込 130円）\r\n※ファストフーズ取扱店限定\r\n※一部店舗除く\r\n10P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-03",
-    "last_verified": "2026-10-25",
-    "status_override": null,
-    "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
-    "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-    "id": "cp-9876826423"
   },
   {
     "type": "lottery",
@@ -1545,48 +1385,6 @@
     "status_override": null,
     "period_evidence_quote": "2026年10月1日（木）0:00～2026年12月31日（木）23:59",
     "id": "cp-d5a7985503"
-  },
-  {
-    "type": "lottery",
-    "brand_ids": [
-      "famima-point",
-      "famipay"
-    ],
-    "title": "ファミペイ払い毎ゲーム抽選最大1500円相当",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "抽選最大1500円相当ファミマポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "familymart"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-06T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "店頭バーコード払い毎1回。POSA・たばこ・公共料金等除外。ゲーム11/4迄。Apple/GooglePay不可。",
-    "official_url": "https://www.family.co.jp/campaign/spot/2610_famipay-kessai-game_cp.html",
-    "evidence_quote": "ゲームに挑戦して当選すると、最大1,500円相当の期間限定ファミマポイントを即時に進呈します。",
-    "confidence": "confirmed",
-    "source_id": "familymart-offers",
-    "first_seen": "2026-10-17",
-    "last_verified": "2026-10-17",
-    "status_override": null,
-    "period_evidence_quote": "10月開催期間：2026年10月6日（火）0:00～2026年11月3日（火）23:59",
-    "entry_evidence_quote": "エントリーは不要！",
-    "id": "cp-820e9b4557"
   },
   {
     "type": "bonus",
@@ -5100,88 +4898,6 @@
     "last_verified": "2026-10-31",
     "status_override": null,
     "id": "cp-f05f430328"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
-    "title": "ホワイトロースハム 180g＋30P",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "対象品1点につき＋30ポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-07T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "ホワイトロースハム\nホワイトロースハム\nメーカー名：プリマハム\n内容量：180g\n本体価格 318円\n（税込 343円）\n30P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-31",
-    "last_verified": "2026-10-31",
-    "status_override": null,
-    "period_evidence_quote": "展開期間：2026年10月7日～11月3日",
-    "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-    "id": "cp-f9f68b5664"
-  },
-  {
-    "type": "bonus",
-    "brand_ids": [
-      "ponta"
-    ],
-    "title": "炭火焼鳥ぼんじり串（塩） 1本＋10P",
-    "benefit": {
-      "rate_max": null,
-      "rate_text": "対象品1点につき＋10ポイント",
-      "cap_per_use": null,
-      "cap_total": null,
-      "cap_unit": null
-    },
-    "scope": {
-      "kind": "stores",
-      "store_ids": [
-        "lawson-store100"
-      ],
-      "prefecture_codes": [],
-      "municipality": null
-    },
-    "period": {
-      "start": "2026-10-21T00:00:00+09:00",
-      "end": "2026-11-03T23:59:59+09:00"
-    },
-    "entry": {
-      "required": false,
-      "url": null
-    },
-    "conditions": "Pontaカード提示、対象商品購入。一部取扱なし。ファストフーズ取扱店限定。",
-    "official_url": "https://store100.lawson.co.jp/point/bonus/index.html",
-    "evidence_quote": "炭火焼鳥ぼんじり串（塩）\n炭火焼鳥ぼんじり串（塩）\nメーカー名：-\n内容量：1本\n本体価格 120円\n（税込 130円）\n※ファストフーズ取扱店限定\n※一部店舗除く\n10P",
-    "confidence": "confirmed",
-    "source_id": "ponta-campaign",
-    "first_seen": "2026-10-31",
-    "last_verified": "2026-10-31",
-    "status_override": null,
-    "period_evidence_quote": "展開期間：2026年10月21日～11月3日",
-    "entry_evidence_quote": "対象の商品を買うと、通常のお買上げポイントに加えて、ボーナスポイントがたまります。レジでご精算の際にPontaカードまたはdポイントカードをご提示ください。自動的にボーナスポイントが加算されます。",
-    "id": "cp-9d86591a48"
   },
   {
     "type": "bonus",

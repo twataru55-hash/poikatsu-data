@@ -3299,20 +3299,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-d8fa44e127": {
-    "issue": 549,
-    "created": "2026-10-04",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-5cff10e4b4": {
-    "issue": 550,
-    "created": "2026-10-04",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-71e11c3e70": {
     "issue": 551,
     "created": "2026-10-04",
@@ -6898,34 +6884,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-25833766a6": {
-    "issue": 1150,
-    "created": "2026-10-26",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-d2456a4bce": {
-    "issue": 1151,
-    "created": "2026-10-26",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-b5b4d39c5e": {
-    "issue": 1152,
-    "created": "2026-10-26",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-fe30dccecf": {
-    "issue": 1153,
-    "created": "2026-10-26",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-d6d6e06567": {
     "issue": 1159,
     "created": "2026-10-26",
@@ -6959,13 +6917,6 @@
     "created": "2026-10-26",
     "reasons": [
       "V14 根拠文が「〜すると〜がたまる／対象となる」の形で手順を言い切っていない"
-    ]
-  },
-  "cp-f9923740a1": {
-    "issue": 1164,
-    "created": "2026-10-26",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
     ]
   },
   "cp-a4a8201c2e": {
