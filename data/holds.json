@@ -7904,15 +7904,6 @@
       "V02 終了日時が不明（period.end）"
     ]
   },
-  "cp-b1e959a04f": {
-    "issue": 1302,
-    "created": "2026-10-31",
-    "reasons": [
-      "V02 開始日時が不明（period.start）",
-      "V04 エントリーURLのドメインが公式と一致しない: https://cpn.vdpro.jp/sej.nogizaka2610/",
-      "V05 エントリーURLが開けない: 公式外へ転送: https://cpn.vdpro.jp/sej.nogizaka2610/"
-    ]
-  },
   "cp-8166179515": {
     "issue": 1303,
     "created": "2026-10-31",
