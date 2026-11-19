@@ -5666,5 +5666,200 @@
     "period_evidence_quote": "引換期間\r\n10月29日（木）\r\n～11月11日（水）",
     "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
     "id": "cp-b9aa1607ac"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン プライチ めぐりズムアイマスク無香料無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象商品1個無料引換",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-30T00:00:00+09:00",
+      "end": "2026-11-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+    "evidence_quote": "「ハミングフレア サボンデサボン 詰替 350g」を1個買うと、「めぐりズムアイマスク 無香料」「めぐりズムアイマスク 金木犀」「めぐりズムアイマスク ラベンダー」「めぐりズムアイマスク 完熟ゆず」「めぐりズムアイマスク カモミール」いずれか1枚無料クーポンプレゼント10月30日（金）から使える。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+    "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+    "id": "cp-7b48c32898"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン プライチ めぐりズムアイマスク金木犀無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象商品1個無料引換",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-30T00:00:00+09:00",
+      "end": "2026-11-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+    "evidence_quote": "「ハミングフレア サボンデサボン 詰替 350g」を1個買うと、「めぐりズムアイマスク 無香料」「めぐりズムアイマスク 金木犀」「めぐりズムアイマスク ラベンダー」「めぐりズムアイマスク 完熟ゆず」「めぐりズムアイマスク カモミール」いずれか1枚無料クーポンプレゼント10月30日（金）から使える。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+    "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+    "id": "cp-49f06f2f3b"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン プライチ めぐりズムアイマスクラベンダー無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象商品1個無料引換",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-30T00:00:00+09:00",
+      "end": "2026-11-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+    "evidence_quote": "「ハミングフレア サボンデサボン 詰替 350g」を1個買うと、「めぐりズムアイマスク 無香料」「めぐりズムアイマスク 金木犀」「めぐりズムアイマスク ラベンダー」「めぐりズムアイマスク 完熟ゆず」「めぐりズムアイマスク カモミール」いずれか1枚無料クーポンプレゼント10月30日（金）から使える。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+    "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+    "id": "cp-65f9daf927"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン プライチ めぐりズムアイマスク完熟ゆず無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象商品1個無料引換",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-30T00:00:00+09:00",
+      "end": "2026-11-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+    "evidence_quote": "「ハミングフレア サボンデサボン 詰替 350g」を1個買うと、「めぐりズムアイマスク 無香料」「めぐりズムアイマスク 金木犀」「めぐりズムアイマスク ラベンダー」「めぐりズムアイマスク 完熟ゆず」「めぐりズムアイマスク カモミール」いずれか1枚無料クーポンプレゼント10月30日（金）から使える。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+    "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+    "id": "cp-9a87b5c646"
+  },
+  {
+    "type": "coupon",
+    "brand_ids": [],
+    "title": "セブン プライチ めぐりズムアイマスクカモミール無料券",
+    "benefit": {
+      "rate_max": null,
+      "rate_text": "対象商品1個無料引換",
+      "cap_per_use": null,
+      "cap_total": null,
+      "cap_unit": null
+    },
+    "scope": {
+      "kind": "stores",
+      "store_ids": [
+        "seven-eleven"
+      ],
+      "prefecture_codes": [],
+      "municipality": null
+    },
+    "period": {
+      "start": "2026-10-30T00:00:00+09:00",
+      "end": "2026-11-12T23:59:59+09:00"
+    },
+    "entry": {
+      "required": false,
+      "url": null
+    },
+    "conditions": "10/23～29にハミングフレアサボンデサボン詰替350g購入。無人レジ・他割引併用不可",
+    "official_url": "https://www.sej.co.jp/cmp/plaichi.html",
+    "evidence_quote": "「ハミングフレア サボンデサボン 詰替 350g」を1個買うと、「めぐりズムアイマスク 無香料」「めぐりズムアイマスク 金木犀」「めぐりズムアイマスク ラベンダー」「めぐりズムアイマスク 完熟ゆず」「めぐりズムアイマスク カモミール」いずれか1枚無料クーポンプレゼント10月30日（金）から使える。",
+    "confidence": "confirmed",
+    "source_id": "seven-offers",
+    "first_seen": "2026-10-25",
+    "last_verified": "2026-10-25",
+    "status_override": null,
+    "period_evidence_quote": "引換期間\r\n10月30日（金）\r\n～11月12日（木）",
+    "entry_evidence_quote": "対象商品を1つ買うと、\r\n無料クーポン\r\nがもらえます！",
+    "id": "cp-a7becfad53"
   }
 ]
