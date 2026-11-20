@@ -1,8 +1,8 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-20-2041",
-    "generated_at": "2026-11-20T20:41:34+09:00",
+    "data_version": "2026-11-21-0522",
+    "generated_at": "2026-11-21T05:22:16+09:00",
     "channel": "staging",
     "counts": {
       "campaigns": 45,
@@ -1046,7 +1046,7 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-11-14"
+      "last_verified": "2026-11-21"
     }
   ],
   "campaigns": [
