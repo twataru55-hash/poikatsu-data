@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-18-2044",
-    "generated_at": "2026-11-18T20:44:06+09:00",
+    "data_version": "2026-11-21-0522",
+    "generated_at": "2026-11-21T05:22:16+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 47,
-      "live_campaigns": 44,
+      "campaigns": 45,
+      "live_campaigns": 41,
       "stores": 82,
       "recurring": 1
     }
@@ -1046,118 +1046,10 @@
       },
       "benefit_text": "対象カード・電子マネー等、対象外商品あり",
       "official_url": "https://www.ministop.co.jp/campaign/10aeon_pay_waon_point10.html",
-      "last_verified": "2026-11-14"
+      "last_verified": "2026-11-21"
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "サントリー ギルティ炭酸NOPE600ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象ドリンク1本無料券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ministop"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-06T00:00:00+09:00",
-        "end": "2026-11-19T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
-      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
-      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
-      "id": "cp-873fef0287"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "コカ・コーラ 綾鷹650ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象ドリンク1本無料券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ministop"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-06T00:00:00+09:00",
-        "end": "2026-11-19T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
-      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
-      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
-      "id": "cp-975a263587"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "伊藤園 ルイボスティーホット500ml無料券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "対象ドリンク1本無料券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "ministop"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-06T00:00:00+09:00",
-        "end": "2026-11-19T23:59:59+09:00"
-      },
-      "entry": {
-        "required": false,
-        "url": null
-      },
-      "conditions": "10/30～11/5に指定ポテト＋おにぎり/サンド各1個購入。値下げポテト・ロール等除外。",
-      "official_url": "https://www.ministop.co.jp/campaign/1_10.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "【レシートクーポン利用期間】\n11/6(金)～11/19(木)",
-      "entry_evidence_quote": "十勝ハッシュドポテトコーンポタージュ風味と対象のおにぎりまたはサンドイッチを一緒に買うと、11/6(金)から使える対象のドリンク1本無料レシートクーポンもらえる！",
-      "id": "cp-e630bccf5f"
-    },
     {
       "type": "coupon",
       "brand_ids": [],
@@ -2254,6 +2146,42 @@
       "last_verified": "2026-10-03",
       "status_override": null,
       "id": "cp-3910a743fc"
+    },
+    {
+      "type": "coupon",
+      "brand_ids": [
+        "au-pay"
+      ],
+      "title": "ケーズデンキ au PAY1000円引き 第4",
+      "benefit": {
+        "rate_max": null,
+        "rate_text": "2万円以上で1,000円引き",
+        "cap_per_use": null,
+        "cap_total": null,
+        "cap_unit": null
+      },
+      "scope": {
+        "kind": "stores",
+        "store_ids": [
+          "ksdenki"
+        ],
+        "prefecture_codes": [],
+        "municipality": null
+      },
+      "period": {
+        "start": "2026-12-19T00:00:00+09:00",
+        "end": "2026-12-20T23:59:59+09:00"
+      },
+      "entry": {
+        "required": true,
+        "url": null
+      },
+      "conditions": "au PAYコード支払い、事前獲得。1au ID1回、金券等対象外。au/UQ担当スタッフ在籍店限定",
+      "official_url": "https://aupay-cp.auone.jp/202610_ksdenki?utm_source=aupaycode&utm_medium=web&utm_campaign=cpnlist",
+      "confidence": "confirmed",
+      "last_verified": "2026-10-03",
+      "status_override": null,
+      "id": "cp-d06945f009"
     },
     {
       "type": "local",
