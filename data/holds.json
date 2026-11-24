@@ -7734,20 +7734,6 @@
       "V02 エントリー要否が不明（entry.required）"
     ]
   },
-  "cp-01fd3c86c0": {
-    "issue": 1309,
-    "created": "2026-10-31",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
-  "cp-f8c6ca29ad": {
-    "issue": 1310,
-    "created": "2026-10-31",
-    "reasons": [
-      "V02 エントリー要否が不明（entry.required）"
-    ]
-  },
   "cp-a78cd80bb5": {
     "issue": 1320,
     "created": "2026-10-31",

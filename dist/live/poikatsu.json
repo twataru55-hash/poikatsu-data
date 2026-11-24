@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-23-2143",
-    "generated_at": "2026-11-23T21:43:57+09:00",
+    "data_version": "2026-11-24-1113",
+    "generated_at": "2026-11-24T11:13:27+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 45,
-      "live_campaigns": 41,
+      "campaigns": 42,
+      "live_campaigns": 38,
       "stores": 82,
       "recurring": 1
     }
@@ -1050,108 +1050,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "チョコラＢＢスパークリング グレープフルーツ&ピーチ味50円引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-27T00:00:00+09:00",
-        "end": "2026-11-23T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "id": "cp-57f645d27f"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "チョコラＢＢライト50円引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-27T00:00:00+09:00",
-        "end": "2026-11-23T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "id": "cp-999ea614e6"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [],
-      "title": "チョコラＢＢスパークリング マスカット味50円引券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "50円引きクーポン",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "familymart"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-10-27T00:00:00+09:00",
-        "end": "2026-11-23T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "ファミペイアプリでセット・提示。1品1枚、1会計5枚まで。併用不可・一部店舗除く。",
-      "official_url": "https://www.family.co.jp/campaign/spot/famipay_again_cp.html",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "id": "cp-e2767ea99f"
-    },
     {
       "type": "coupon",
       "brand_ids": [
