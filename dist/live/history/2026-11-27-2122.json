@@ -1,12 +1,12 @@
 {
   "meta": {
     "schema_version": 1,
-    "data_version": "2026-11-24-2244",
-    "generated_at": "2026-11-24T22:44:36+09:00",
+    "data_version": "2026-11-27-2122",
+    "generated_at": "2026-11-27T21:22:45+09:00",
     "channel": "live",
     "counts": {
-      "campaigns": 42,
-      "live_campaigns": 38,
+      "campaigns": 39,
+      "live_campaigns": 36,
       "stores": 82,
       "recurring": 1
     }
@@ -1050,117 +1050,6 @@
     }
   ],
   "campaigns": [
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "vpoint"
-      ],
-      "title": "セブンカフェ ホットコーヒーR 11-11券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "70pt交換の商品引換券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-11T00:00:00+09:00",
-        "end": "2026-11-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
-      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
-      "id": "cp-e90fb99435"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "vpoint"
-      ],
-      "title": "のむヨーグルトコクうまプレーン180g 11-11券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "80pt交換の商品引換券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-11T00:00:00+09:00",
-        "end": "2026-11-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
-      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
-      "id": "cp-f843fabd9c"
-    },
-    {
-      "type": "coupon",
-      "brand_ids": [
-        "vpoint"
-      ],
-      "title": "セブンカフェ アイスコーヒーR 11-11券",
-      "benefit": {
-        "rate_max": null,
-        "rate_text": "70pt交換の商品引換券",
-        "cap_per_use": null,
-        "cap_total": null,
-        "cap_unit": null
-      },
-      "scope": {
-        "kind": "stores",
-        "store_ids": [
-          "seven-eleven"
-        ],
-        "prefecture_codes": [],
-        "municipality": null
-      },
-      "period": {
-        "start": "2026-11-11T00:00:00+09:00",
-        "end": "2026-11-24T23:59:59+09:00"
-      },
-      "entry": {
-        "required": true,
-        "url": null
-      },
-      "conditions": "Vポイントアプリで交換申込・各週1商品1人1回、先着2万名。各週14時開始・予定数終了。",
-      "official_url": "https://web.tsite.jp/cpn/seven-eleven/otokucp/",
-      "confidence": "confirmed",
-      "last_verified": "2026-10-31",
-      "status_override": null,
-      "period_evidence_quote": "11/11(水)14時交換スタート! 交換11/11(水)〜11/17(火) 利用11/11(水)〜11/24(火)",
-      "id": "cp-fcedfe49c2"
-    },
     {
       "type": "reward",
       "brand_ids": [
